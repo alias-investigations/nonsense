@@ -1,0 +1,406 @@
+Original Article
+Intelligence Quotient (IQ) in Congenital
+Strabismus
+Abbas Bagheri, MD; Mohammad Reza Fallahi, MD; Shima Tamannaifard, BS
+Sara Vajebmonfared, BS; Saideh Zonozian, BS
+Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+*Presented at the 33rd Meeting of the European Strabismological Association (ESA), October 2009, Belgrade, Serbia
+Purpose: To evaluate intelligence quotient (IQ) in patients with congenital strabismus.
+Methods: All patients with congenital strabismus scheduled for surgery were enrolled
+consecutively over a one year period in a cross-sectional study and were evaluated for
+verbal, performance and total IQ scores, and compared to the mean normal IQ of 100±15.
+Results: During the study period, 109 patients with mean age of 18.4±10.5 (range, 4-63)
+years were included. Educational status in most patients (80%) was less than high-school.
+Most patients (80%) lived in urban areas and 46 patients (42.2%) had some degrees
+of unilateral or bilateral amblyopia. Mean verbal IQ was 87.2±19.6 (range, 45-127),
+performance IQ was 81±15.5 (range, 44-111) and total IQ was 83.5±18.3 (range, 40-120).
+Total IQ was significantly lower in comparison to the normal population (P<0.01) and
+significantly higher in urban as compared to rural residents (85.1±19.5 versus 77.3±10.8
+respectively, P=0.02). Patients with coexisting amblyopia and alternate deviation had
+lower IQ levels. Verbal IQ was insignificantly higher in myopes than emmetropes and
+hyperopes. IQ was better with vertical deviations and was higher in esotropes than
+exotropes; however, these differences were not statistically significant (P>0.05 for all
+comparisons).
+Conclusion: Patients with congenital strabismus in this study had lower mean IQ scores
+than the normal population which may be due to genetic background or acquired
+causes secondary to strabismus.
+Keywords: Horizontal Strabismus; Intelligence Quotient (IQ); Vertical Strabismus
+J Ophthalmic Vis Res 2013; 8 (2): 139-146.
+Correspondence to: Abbas Bagheri, MD. Professor of Ophthalmology, Labbafinejad Medical Center, Paidarfard St.,
+Boostan 9 St., Pasdaran, Tehran 16666, Iran; Tel: +98 21 2258 5952, Fax: +98 21 2259 0607; e-mail: abbasbagheri@yahoo.com
+Received: October 20, 2012 Accepted: December 19, 2012
+confidence, poor inter-personal relationship, less
+INTRODUCTION
+chance of employment, and poor performance
+Strabismus is a common condition which occurs in sports and at school.1-12 Intelligence is an
+in approximately 4% of the adult population.1-12 In aspect of psychological adaptation and has been
+addition to functional limitations (e.g, restriction subjectively evaluated in strabismic patients1-2
+in visual field and stereopsis), strabismic patients but objective evaluation is limited. This study was
+may suffer from significant psychosocial designed to objectively determine intelligence
+problems including lower self-esteem, lower self- quotient in strabismic patients.
+JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2 139
+
+--- PAGE BREAK ---
+
+IQ in Congenital Strabismus; Bagheri et al
+MeThODS before surgery in a separate room which was
+quiet, adequately lighted and air conditioned.
+This prospective cross-sectional case series Enough time (50-120 minutes) was allotted to
+was performed at our strabismus clinic from perform the test for each patient. Patients were
+November 2007 to November 2008. The study divided to three groups based on age. For each
+was approved by the Ethics Committee of the group, the test was specially adjusted for that
+Ophthalmic Research Center and informed age range: in preschool children (4-6 years)
+consent for employing the intelligence quotient we performed the Wechsler preschool and
+(IQ) test was obtained from all participants or primary scale of intelligence (WPPSI); in young
+their legal guardians. All patients older than 4 children (7-13 years) we performed the Wechsler
+years of age with congenital strabismus who intelligence scale for children revised (WISC-R);
+were referred to our center and scheduled for in adolescents and adults (>13 years of age) we
+surgery were included for the current study if performed the Wechsler adult intelligence scale
+they were cooperative for IQ tests. Indications for revised (WAIS-R).13-16
+surgery included horizontal deviation exceeding Intelligence tests were divided into two
+15 prism dioptres (PD) and vertical deviation groups: verbal and performance. In verbal tests,
+producing cosmetic problems or leading to the subtests included information, vocabulary,
+abnormal head posture. Exclusion criteria were similarities, arithmetic, comprehension,
+metabolic disorders such as phenylketonuria sentences and digit span. The performance
+(PKU) and Maple syrup disease (MSD), or tests included animal house differentiation,
+neurologic disorders which could affect picture completion, mazes, geometric design,
+intelligence such as convulsions, hydrocephaly block design, picture arrangement and object
+or microcephaly; psychiatric disorders such as assembly coding.
+schizophrenia and bipolar disorder; and history From these subtests each patient accrued a
+of any ocular surgery or acquired strabismus. crude number. This number was entered into
+Patient information included age, sex, special tables and three scores for each patient
+educational level of the patients and their were extracted, one grading his/her verbal
+parents (or guardians), and area of residence score, the other the performance score and the
+(urban versus rural). The outcomes of a complete last one was the total score.13-16 These figures
+eye examination by a strabismologist including were compared to the Wechsler scoring table13-16
+corrected visual acuity (VA), type and magnitude (Table 1).
+of eye deviation, and refractive errors were Data analysis was performed employing the
+documented. Presence or absence of amblyopia SPSS version 17 (IBM Corp., New York, NY,
+was also evaluated. Other routine tests included USA). Data were compared using the t-test; for
+slit lamp and fundus examinations. correlations, the Spearman and Pearson tests
+All IQ tests were performed by one of were used. P values <0.05 were considered as
+three psychologists (ST, SV, and SZ) on the day statistically significant.
+Table 1. Intelligence quotient (IQ) scores in the study population compared to a normal Iranian population
+IQ level IQ score expected frequency (%) Observed frequency (%) Difference
+Very superior >130 2.7 0 -2.7
+Superior 120-129 8.8 2 (1.8) -6.8
+Bright 110-119 18.6 6 (5.5) -12.6
+Normal 90-109 51.8 32 (29.4) -19.8
+Subaverage 80-89 16.8 30 (27.5) +13.2
+Borderline 70-79 8.3 16 (14.7) +7.7
+Retarded <70 2.5 23 (21.1) +20.5
+Total – 109.5 109 (100)
+*Sum of expected frequency is 0.5 more than the observed frequency because of rounding error (Difference=Observed frequency –
+Expected frequency).
+140 JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2
+
+--- PAGE BREAK ---
+
+IQ in Congenital Strabismus; Bagheri et al
+ReSUlTS regions.
+Total mean verbal IQ score was 87.2±19.6
+Over a one-year period, 113 patients with (range, 45-127), performance IQ score was
+congenital strabismus were scheduled for 81±15.5 (range, 44-111) and total IQ score was
+surgery. Three patients were excluded due to 83.5±18.3 (range, 40-120). The mean normal
+metabolic disorders or convulsions, and one value for these scores when the standardized test
+patient refused to do the test. All other patients is used for any population must be 100±15.16,17
+agreed to perform these tests. Comparing these IQ scores with norms in the
+One hundred and nine patients were Iranian population revealed that mean IQ level
+evaluated including 58 (53.2%) male and 51 in these patients was lower than expected in the
+(46.8%) female subjects. Fourteen patients same age group (P<0.01) (Table 1 and Fig. 1).
+(12.8%) were in the preschool group, 34 patients Educational level of the patients is tabulated
+(31.2%) in the young children group and 61 against area of residence in table 2. The mean
+patients (56%) in the adult group. Mean age of educational level of urban patients was higher
+the patients was 18.4±10.5 (range 4-63) years. than their rural counterparts (P=0.06). This also
+Eighty-seven (79.8%) of subjects lived in urban held true for fathers and mothers of patients
+areas and 22 patients (20.2%) came from rural from urban areas in comparison to rural subjects
+Figure 1. Distribution of intelligence quotient (IQ) scores in study patients compared to the normal population
+Table 2. Educational level of patients according to area of residence
+Illiterate Primary school Mid school high school University Total
+Urban 3 24 12 22 14 75
+(%4) (%32) (%16) (%29.3) (%18.7) (%100)
+Rural 2 9 4 5 - 20
+(%10) (%45) (%20) (%25) (%100)
+Total 5 33 16 27 14 95
+(%5.3) (%34.8) (%16.8) (%28.4) (%14.7) (%100)
+*14 preschool children are not included in this table
+JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2 141
+
+--- PAGE BREAK ---
+
+IQ in Congenital Strabismus; Bagheri et al
+(P=0.005 for fathers and P=0.04 for mothers). (%40.4) were hyperopic. Six patients (%5.5)
+There was a positive correlation between were emmetropic/hyperopic, 5 patients (%4.6)
+the educational level of the patients and their IQ were emmetropic/myopic, and 4 patients (%3.7)
+score (r=0.61 for total IQ, P<0.0001, Spearman were myopic/hyperopic which we collectively
+test), but no correlation was observed between labelled as the mixed group. Mean level of
+the level of parents’ education and patients’ IQ hyperopia was 1.6±1.3 (range, 0.25-4.50) D
+score (r=0.02 for total IQ score, P=0.8, Spearman and that for myopia was -2±2.5 (range, -0.25 to
+test). -10.75) D. Verbal IQ was higher in myopes than
+Mean IQ score according to the area of emmetropes and hyperopes, even though not
+residence is presented in table 3. Verbal, statistically significant (Table 5; P>0.05, for all
+performance and total IQ scores were significantly comparisons). Other IQ scores were comparable
+higher in urban residents than rural subjects. regardless of refractive error (Table 5).
+In 108 patients who were cooperative for Overall, 40 patients (%36.7) were purely
+vision, 46 patients (%42.2) had amblyopia, of exotropic (XT), 43 patients (%39.4) were purely
+whom 32 had unilateral (%29.4) and 14 had esotropic (ET), 9 patients (%8.3) had only vertical
+bilateral (%12.8) amblyopia. Mean IQ level in deviations, 10 patients (%9.2) had XT with
+relation to amblyopia is presented in table 4. Even vertical deviations and 7 patients (%6.4) had
+though amblyopic patients had lower IQ levels ET with vertical deviations which we termed
+than non-amblyopic counterparts, t-test showed the mixed type (Fig. 2). Mean XT was 35.6±17.3
+no significant difference in this regard (P>0.05). (range, 5-70) PD and mean ET was 34.5±13.6
+Lower visual acuity was not significantly (range, 8-80) PD. The severity of deviation was
+associated with less IQ scores. (r=-0.12 not correlated with IQ score (r= -0.14 for total
+for binocular vision, P=0.2, Pearson test). IQ score, P=0.1, Pearson test). IQ evaluation in
+Evaluation of refractive errors showed that these groups is presented in table 6. Although
+25 patients (%22.9) were myopic, 25 patients mean IQ score in the pure vertical deviation
+(%22.9) were emmetropic and 44 patients group was higher than patients with ET, and
+these were also higher than patients with XT,
+the differences were not statistically significant
+Table 3. Comparison of intelligence quotient (IQ) score
+according to area of residence (P>0.05, for all comparisons).
+Twenty-six (23.9%) patients had vertical
+Mean Mean Mean
+verbal IQ performance IQ total IQ deviations including 9 (8.3%) patients with
+Urban 88.7±20.9 82.5±16.2 85.1±19.5 pure vertical deviations, and 17 (15.6%) patients
+Rural 81.7±11.9 75.6±10.8 77.3±10.8 with mixed horizontal and vertical deviations
+P value (T-test) 0.05 0.07 0.02
+(Fig. 3). Mean IQ score of each of these groups
+Table 4. Relation between amblyopia and intelligence quotient (IQ) scores
+Verbal IQ Performance IQ Total IQ
+No amblyopia 89±19.8 82.8±14.8 85.5±18.2
+Unilateral amblyopia 88.7±18.2 79.3±14.6 83.5±17.5
+Bilateral amblyopia 78.6±18.9 77.7±20.4 76.4±19.6
+P value (ANOVA) 0.2 0.4 0.2
+Table 5. Mean intelligence quotient (IQ) scores according to refractive errors
+Frequency (%) Verbal IQ Performance IQ Total IQ
+Myope 25 (22.9) 92.6±21.0 81.8±16.7 87.2±19.7
+Hyperope 44 (40.4) 83.9±19.5 82.0±16.4 87.2±19.7
+Emmetrope 25 (22.9) 86.9±18.3 81.3±14.0 83.2±16.6
+Mixed* 15 (13.8) 88.6±19.3 81.7±14.5 84.5±17.0
+P value (ANOVA) – 0.4 >0.9 0.6
+*Mixed type had different refractive state in fellow eyes
+142 JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2
+
+--- PAGE BREAK ---
+
+IQ in Congenital Strabismus; Bagheri et al
+PD) and vertical deviation was significantly
+greater (7.7±9.8 versus 0 PD) as compared to the
+alternate deviation group (both P values <0.001,
+t-test) which may be the cause of higher IQ scores.
+Figure 2. Frequency of different types of deviation
+DISCUSSION
+Intelligence is the ability to deal appropriately
+with problems and to select priorities in different
+situations. It is somehow related both to genetic
+background in addition to acquired and cultural
+factors.16,17
+The Wechsler test is the most popular tool for
+Figure 3. Frequency of different types of deviation evaluating IQ and has been standardized for our
+population in a large series of people.13-15 Other
+is presented in table 7. Although mean IQ tests such as the Kaufmann assessment battery
+score in patients with pure vertical deviations for children (K-ABC) and Stanford Binet, 4th
+was higher than those with mixed and pure edition (SB-IV) can also be used; however, they
+horizontal deviations, the observed difference have not been standardized for our population.16
+did not reach statistical significance. The correlation between IQ and refractive
+Eye deviation was constant in 58 (53.2%) errors has been extensively studied and
+patients and alternate in 51 (46.8%) patients. myopic children have been reported to be more
+The correlation between IQ scores and constant intelligent than their classmates.18-26 This was
+versus alternate deviation is presented in table 8. also observed in myopic strabismic cases in our
+Absolute values for mean refractive error in the study.
+constant group was 1.2±1.2 D versus 1.5±0.2 D However, studies on mentally retarded
+in the alternate group (P=0.5). In the constant children and cases of cerebral palsy have shown
+deviation group, horizontal deviation was that ophthalmic disorders including strabismus
+significantly smaller (26±18.8 versus 38.7±14.5 are more common in these patients.27-31 The
+Table 6. Intelligence quotient (IQ) scores according to the type of deviation
+Frequency (%) Verbal IQ Performance IQ Total IQ
+Vertical 9 (8.3) 94.9±21.0 88.1±14.5 90.8±17.6
+Mixed 17 (15.6) 91.9±23.0 83.8±17.8 88.6±22.5
+Esotropia 43 (39.4) 86.2±17.3 80.9±14.4 82.8±16.2
+Exotropia 40 (36.7) 84.6±20.0 78.3±15.6 80.5±18.6
+P value (ANOVA) – 0.4 0.3 0.3
+Table 7. Intelligence quotient (IQ) scores according to the type of deviation
+Deviation Frequency (%) Verbal IQ Performance IQ Total IQ
+Pure vertical deviation 9 (8.3) 94.9±12.0 88.1±14.5 90.8±17.6
+Mixed deviation 17 (15.6) 91.9±23.0 83.8±17.8 88.6±22.5
+Pure horizontal deviation 83 (76.1) 85.4±18.6 79.7±15.0 81.6±17.3
+P value (ANOVA) – 0.2 0.2 0.2
+Table 8. Mean intelligence quotient (IQ) scores in constant and alternate strabismus
+Deviation Verbal IQ Performance IQ Total IQ
+Constant 90.1±18.6 83.0±13.9 86.4±16.9
+Alternate 84.0±20.3 78.9±16.9 80.1±19.5
+P value (t-test) 0.1 0.2 0.07
+JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2 143
+
+--- PAGE BREAK ---
+
+IQ in Congenital Strabismus; Bagheri et al
+frequency of ocular abnormalities reached 77% in lower VA. This finding suggests that visual
+mentally retarded subjects27 and 68% in cerebral defects may play a role in lower IQ scores in
+palsy cases.29,30 These findings may confirm a patients with strabismus. In addition to visual
+relationship between mental status and ocular perception, IQ is related to other sensorial
+alignment, as also suggested in our study. pathways; collectively lower IQ may be
+Contrary to some previous studies reporting secondary to certain neurological problems in
+that patients with XT were more intelligent than cases of congenital strabismus leading to slower
+patients with ET,1,3 our exotropic subjects were comprehension and judgement.33
+less intelligent than esotropic counterparts. Intelligence is highly dependent on
+We also found that strabismic patients with circumferential causes in addition to background
+vertical deviations were more intelligent than genetic factors.16,17 However, contrary to a
+patients with horizontal deviations; this is a previous study,13 we found no correlation
+previously unreported finding which may be between the parents’ education and patients’ IQ.
+due to compensatory mechanisms for vertical We did observe a positive correlation between
+deviations such as abnormal head posture. patient education and IQ scores which confirms
+Nelson et al2 reported a correlation between the effect of training.
+severity of deviation and psychological Poor cosmesis associated with strabismus
+parameters, however we did not observe such may decrease self-esteem and self-confidence
+a relationship. We found that patients with causing social phobia, and hinder social
+constant deviations were more intelligent relationships,1-12, 34-36 possibly leading to lower
+than patients with alternate deviations. This success in passing IQ tests.
+observation is consistent with the study by Drawbacks to our study include the
+Haskell and Hughes32 who believe constant small sample size and lack of a control group.
+squinters receive a more stable image of the Additionally, the current study could not exclude
+world and therefore may be more intelligent certain subclinical psychological factors such
+than alternate squinters. as anxiety and depression which are known to
+All of our patients were less intelligent affect IQ scores.16,17,33 Furthermore, we did not
+than the general population and we did not see evaluate the IQ postoperatively to determine
+any exceptional (very superior) person among the effect of surgery on IQ. The positive effect
+them; the frequency of superior, bright and even of strabismus surgery on quality of life and
+average (normal) patients were perceptibility other psychological aspects has been previously
+lower than expected. On the other hand, the reported.37-40 Treating strabismus as soon as
+frequency of dull (sub-normal), borderline and possible in addition to developing binocular
+retarded individuals was greater than expected vision41-43 and stereopsis,44 may improve social
+in the general population. Performance IQ was relationship of these patients.37-40 The patients
+more severely affected than verbal IQ in our must know that strabismus is generally
+cases, which has previously been reported for treatable and taboos regarding strabismus (poor
+refractive errors;21 this finding may be related success rate and high recurrence rate) must be
+to change in the visual field and quality of the challenged.45 We can conclude from the present
+subject’s perception. For example, a study has study that this surgery may help to improve IQ.
+shown that completion of images requires a
+combination of concentration, argumentation,
+Conflicts of Interest
+visual attention, visual memory and visual
+sensorial organization.13 This underscores the None.
+significance of the acquired component of IQ in
+relation to genetic background and also confirms
+REFERENCES
+that IQ is pleotropic.26
+Verbal IQ in our patients was higher than
+1. Olitsky SE, Sudesh S, Graziano A, Hamblen J,
+performance IQ and IQ scores decreased with Brooks SE, Shaha SH. The negative psychosocial
+144 JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2
+
+--- PAGE BREAK ---
+
+IQ in Congenital Strabismus; Bagheri et al
+impact of strabismus in adults. J AAPOS 1999;3:209- adolescent medicine. Adolesc Med Clin 2006;17:147-
+211. 164.
+2. Nelson BA, Gunton KB, Lasker JN, Nelson LB, 17. Sadock BJ, Sadock VA. Clinical neuropsychological
+Drohan LA. The psychosocial aspect of strabismus testing for intelligence and personality. In: Kaplan
+in teenagers and adults and the impact of surgical and Sadock’s synopsis of psychiatry: Behavioral
+correction. J AAPOS 2008;12:72-76. sciences/Clinical Psychiatry, 10th ed. Philadelphia,
+Lippincott, Williams & Wilkins. 2007, Chap 5: 178-
+3. Uretmen O, Egrilmez S, Kose S, Pamukcu K, Akkin
+184.
+C, Palamar M. Negative social bias against children
+with strabismus. Acta Ophthalmol Scand 2003;81:138- 18. Dolezalova V, Mottlova D. Relation between myopia
+142. and intelligence. Cesk Slov Oftamol 1995;51:235-239.
+4. Satterfield D, Keltner JL, Morrison TL. Psychosocial 19. Saw SM, Tan SB, Fung D, Chia KS, Koh D, Tan
+aspects of strabismus study. Arch Ophthalmol DT, et al. IQ and the association with myopia in
+1993;111:1100-1105. children. Invest Ophthalmol Vis Sci 2004;45:2943-2948.
+5. Beanchamp GR, Black BC, Coats DK, Enzenauer 20. Saw SM, Cheng A, Fong A, Guzzard G, Tan DT,
+RW, Hutchinson AK, Saunders RA, et al. The Morgan I. School grades and myopia. Ophthalmic
+management of strabismus in adults--III. The effect Physiol Opt 2007;27:126-129.
+on disability. J AAPOS 2005;9:455-459.
+21. Williams SM, Sanderson GF, Share DL, Silva
+6. Akay AP, Cakaloz B, Berk AT, Pasa E. Psychosocial PA. Refractive error, IQ and reading ability: a
+aspect of mothers of children with strabismus. J longitudinal study from age seven to 11. Dev Med
+AAPOS 2005;9:268-273. Child Neurol 1988;30:735-742.
+7. Hatt SR, Laske DA, Kirgis PA, Bradley EA, Holmes 22. Tay MT, Au Eong KG, Ng CY, Lim MK. Myopia
+JM. The effects of strabismus on quality of life in and educational attainment in 421116 young
+adults. Am J Ophthalmol 2007;144:643-647. Singaporean males. Ann Acad Med Singapore
+1992;21:785-791.
+8. Archer SM, Musch DC, Wren PA, Guire KE,
+Del Monte MA. Social and emotional impact of 23. Miller EM. On the correlation of myopia and
+strabismus surgery on quality of life in children. J intelligence. Genet Soc Gen Psychol Monogr
+AAPOS 2005;9:148-151. 1992;118:361-383.
+9. Coats DK, Paysse EA, Towler AJ, Dipboye RL. 24. Teasdale TW, Fuchs J, Goldschmidt E. Degree of
+Impact of large angle horizontal strabismus on myopia in relation to intelligence and educational
+ability to obtain employment. Ophthalmology level. Lancet 1988;2:1351-1354.
+2000;107:402-405.
+25. Rosner M, Belkin M. Intelligence, education and
+10. Jackson S, Harrad RA, Morris M, Rumsey N. The myopia in males. Arch Ophthalmol 1987;105:1508-
+psychosocial benefits of corrective surgery for adults 1511.
+with strabismus. Br J Ophthalmol 2006;90:883-888.
+26. Cohn SJ, Cohn CM, Jensen AR. Myopia and
+11. Bez Y, Coskun E, Erol K, Cingu AK, Eren Z, intelligence: a pleiotropic relationship? Hum Genet
+Topcuoglu V, et al. Adult strabismus and social 1988;80:53-58.
+phobia: a case-controlled study. J AAPOS
+27. Sandfeld Nielsen L, Skov L, Jensen H. Visual
+2009;13:249-252.
+dysfunctions and ocular disorders in children with
+12. Menon V, Saha J, Tandon R, Mehta M, Khokhar S. developmental delay. II. Aspects of refractive errors,
+Study of the psychosocial aspect of strabismus. J strabismus and contrast sensitivity. Acta Ophthalmol
+Pediatr Ophthalmol Strabismus 2002;39:203-208. Scand 2007;85:419-426.
+13. Razavieh A , Shahim S. Wechsler Preschool and 28. Akinci A, Oner O, Bozkurt OH, Guven A,
+Primary Scale of Intelligence(WPPSI) 4th ed: Shiraz Degerliyurt A, Munir K. Refractive errors and ocular
+University; 2008:3-41 (Iranian local journal) findings in children with intellectual disability: a
+controlled study. J AAPOS 2008;12:477-481.
+14. Shahim S. Wechsler Intelligence Scale for Children-
+Revised (WISC-R).4th ed. Shiraz: Shiraz University; 29. Lagunju IA, Oluleye IS. Ocular abnormalities in
+2006. Chap 2: 5-30 (Iranian local journal) children with cerebral palsy. Afr J Med Med Sci
+2007;36:71-75.
+15. Orangi M, Baraheni M N. Wechsler adult
+Intelligence Scale-Revised (WAIS-R).1st ed. Shiraz: 30. Govind A, Lamba PA. Visual disorders in cerebral
+Kushamehr publication. 2006:15-67. (Iranian local palsy. Indian J Ophthalmol 1988;36:88-91.
+journal)
+31. Katoch S, Devi A. Ocular defects in cerebral palsy.
+16. Palumbo D, Lynch P. Psychological testing in Indian J Ophthalmol 2007; 55:154-156.
+JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2 145
+
+--- PAGE BREAK ---
+
+IQ in Congenital Strabismus; Bagheri et al
+32. Haskell SH, Hughes VA. Some observations on the surgery in children. J Pediatr Ophthalmol Strabismus
+performance of squinters and non-squinters on the 1996;33:167-170.
+Wechsler intelligence scale for children. Percept Mot
+39. Jackson S, Harrad RA, Morris M, Rumsey N. The
+Skills 1965;21:107-112.
+psychological benefit of corrective surgery for adults
+33. Shevell M. Global developmental delay and with strabismus.Br J Ophthalmol 2006;90:883-888.
+mental retardation or intellectual disability:
+40. Burke JP, Leach CM, Davis H. Psychological
+conceptualization, evaluation and etiology. Pediatr
+implications of strabismus surgery in adults. J
+Clin North Am 2008;55:1071-1084.
+Pediatr Ophthalmol Strabismus 1997;34:159-164.
+34. Paysse EA, Steele EA, McCreery KMB, Wilhelmus
+41. Mets MB, Beauchamp C, Haldi BA. Binocularity
+KR, Coats DK. Age of the emergence of negative
+following surgical correction of strabismus in adults.
+attitudes toward strabismus. J AAPOS 2001;5:361-
+J AAPOS 2004;8:435-438.
+366.
+42. Kushner BJ, Morton GV. Postoperative binocularity
+35. Kostanski M, Gullone E. Adolescent body image
+in adults with longstanding strabismus.
+dissatisfaction: relationships with self-esteem,
+Ophthalmology 1992;99:316-319.
+anxiety and depression controlling for body mass. J
+Child Psychol Psychiatry 1998;39:255-262. 43. Kushner BJ. Binocular field expansion in adults after
+surgery for esotropia. Arch Ophthalmol 1994;112:639-
+36. Rumsey N, Harcourt D. Body image and
+643.
+disfigurement: issues and interventions. Body Image
+2004;1:83-97. 44. Fawcett SL, Stager DR, Felius J. Factors influencing
+stereoacuity outcomes in adults with acquired
+37. Lilakova D, Hejcmanova D, Novakova D. Effect of
+strabismus. Am J Ophthalmol 2004;136:931-935.
+strabismus on the quality of life in adults. Cesk Slov
+Oftalmol 2003;59:184-187. 45. Coats DK, Stager DR Sr, Beauchamp GR, Stager DR
+Jr, Mazow ML, Paysse EA, et al. Reasons for delay
+38. Mruthyunjaya P, Simon JW, Pickering JD, Lininger
+of surgical intervention in adult strabismus. Arch
+LL. Subjective and objective outcomes of strabismus
+Ophthalmol 2005;123:497-499.
+146 JOURNAL OF OPHTHALMIC AND VISION RESEARCH 2013; Vol. 8, No. 2

@@ -1,0 +1,649 @@
+www.nature.com/scientificreports
+OPEN Exploration of brain function
+changes in the visual cortex of
+astigmatic subjects based on fNIRS
+Yuling Tang1,3, Chang Wu1,3, Mengtian Bai1, Qingqing Tan1, Jing Tian1, Jia Lin1,
+Xiangyu Chen1, Mengxiong Luo1, Zongwei Chen1, Yi Shao2 & Xuan Liao1
+The primary objective of this research is to explore changes in brain activity among astigmatism
+patients, employing functional near-infrared spectroscopy (fNIRS). A prospective cross-sectional study
+comprising 57 participants (99 eyes) was conducted and segmented into three distinct sections. In
+PART I, 24 participants (48 eyes) with astigmatism (Group A) and 18 participants (36 eyes) without
+astigmatism (Group B) were assessed using fNIRS to investigate the variations across different
+brain regions and channels. PART II involved 15 participants with monocular astigmatism (15 eyes),
+who received complete spherical optical correction, followed by fNIRS assessments after visual
+stimulation using E-Prime software. The study examined the activation levels of the occipital visual
+cortex and the functional connectivity strength of the brain, comparing these metrics pre- and post-
+cylindrical correction. PART III: Following the correction of the initial refractive error in Group A, + 2.00
+diopter cylinder (DC) lenses were employed to induce astigmatism at various axes. These axes were
+categorized into three groups: oblique astigmatism group, with-the-rule astigmatism (WTR), and
+against-the-rule astigmatism (ATR). fNIRS was conducted during task performance to assess the
+strength and activation level of brain functional connectivity across different astigmatism axes of the
+same diopter. PART I: The functional connectivity strength of HbO -based occipital cortex was stronger
+2
+in group B than in group A (P < 0.001). PART II: Significant differences in the β values of the left and
+right visual cortex were detected in cases of monocular astigmatism before and after astigmatism
+correction. (P = 0.002 and P = 0.004). The functional connectivity strength in the post-cylindrical
+correction condition exceeded that in the pre-cylindrical correction condition; nevertheless, this
+variation did not attain statistical significance (P > 0.05). PART III: The functional connectivity strength
+and activation level of the HbO -based occipital visual cortex exhibited significant variations across
+2
+different astigmatism axes (P < 0.001 and P = 0.045). Specifically, the functional connectivity strength
+in the oblique astigmatism group was greater than that observed in both the WTR and ATR groups.
+Conversely, the degree of brain activation in the oblique astigmatism group was lower compared to the
+ATR group (P = 0.042). These observations imply that astigmatism may decrease both the activation of
+the occipital visual cortex and the strength of brain functional connectivity. The functional activities of
+the occipital cortex can be enhanced to a certain degree following optical correction of astigmatism.
+The strength of functional connectivity and the degree of activation in the occipital visual cortex vary
+with different axes of astigmatism.
+Trial Registration This study was registered in the China Clinical Trials Registry (registration number:
+ChiCTR2300070613, date of registration: 2023-04-18), and the study followed the ethical principles
+required by the Declaration of Helsinki, and the subjects were informed and signed the informed
+consent form, and it has been reviewed and approved by the Medical Ethics Committee of the Affiliated
+Hospital of North Sichuan Medical College (Approval No. 2022ER541-1).
+Keywords Astigmatism, fNIRS, Visual cortex, Activation, Strength, Brain functional connectivity
+1Department of Ophthalmology of Affiliated Hospital and Ophthalmology & Optometry of Medical School,
+North Sichuan Medical College, Nanchong 637000, Sichuan Province, China. 2Department of Ophthalmology of
+Shanghai General Hospital, National Clinical Research Center for Eye Disease, Shanghai Jiao Tong University School
+of Medicine, Shanghai 200080, China. 3Yuling Tang and Chang Wu have contributed equally to this work.email:
+aleexand@163.com;freebee99@163.com email: freebee99@163.com; aleexand@163.com
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 1
+www.nature.com/scientificreports/
+Astigmatic errors differ from myopic and hyperopic ones, because differential ocular surface curvature causes
+inability to focus image points as single points on the retina; this results in blurred vision at any distance1.
+Approximately 20–40% of the population have at least 1 diopter (D) of refractive astigmatism2. However, when
+lower magnitudes of astigmatism are included, the prevalence can exceed 60%3. Research indicates that the
+prevalence of astigmatism rises with age. The prevalence of astigmatism > 1.00 DC is approximately 8.30–11.60%
+in individuals aged 5–30 years, 15.70–21.00% in those aged 30–60 years, and 31.10–81.80% in those aged
+60–90 years4. Patients with astigmatism can adapt to projected minimal diffuse spots onto the retina, thereby
+enhancing unaided vision. However, sustained accommodation may lead to increased fatigue, and uncorrected
+astigmatism can adversely affect visual quality5. Despite the correction of astigmatism, visual acuity (VA) remains
+significantly diminished in certain meridian directions. Even when employing laser interferometry, which
+bypasses the optical system of the eye to project sinusoidal fringes directly onto the retina, the measured retinal
+VA continues to exhibit variability across different meridians. This phenomenon suggests that the underlying
+mechanism may involve the visual cortex6. Clinical evidence dating back to 1969 indicates that astigmatism
+can be present at birth in infants and young children, and when astigmatism exceeds 0.75 DC, it can cause
+symptoms such as blurred vision and diplopia7. In terms of animal model studies, myopic astigmatism alters
+the electrophysiological responses of the retina in chickens, particularly delaying the inner retinal responses
+in the central region. The influence of astigmatism on retinal responses exhibits region-specific characteristics
+and correlates with the axis of astigmatism8, and astigmatism is also a major risk factor for amblyopia9. One
+year following cylindrical intervention for astigmatism in school-aged children, their visual function (mainly
+spherical aberration) remains inferior to that of children without astigmatism10. Furthermore, a reduction in
+the amplitude of visual electrophysiological responses is evident in children with astigmatism11. This suggests
+that visual performance is influenced by both the ocular optical system and the response of the central visual
+nervous system12. Consequently, optical correction of astigmatism alone may not suffice to achieve optimal
+visual outcomes, potentially implicating the developmental interplay of the brain’s central visual pathways.
+Prior research has demonstrated that refractive errors significantly impact the functional activity of the
+visual cortex. Visual electrophysiological investigations have indicated that myopic defocus can result in a
+reduction of the P100 amplitude and an extension of its latency13–15. Functional magnetic resonance imaging
+(fMRI) and fNIRS provide direct evidence of alterations in hemodynamic responses, as well as changes in
+brain structure and function, in individuals with high myopia16,17. Freeman et al.18 discovered that individuals
+with astigmatism exhibited differences in resolution between the vertical and horizontal meridians, even after
+refractive correction.; Numerous subsequent studies have documented that individual with high astigmatism
+exhibit direction-specific visual deficits even following optical correction after the critical period of visual
+development10,19. During this critical period, abnormal visual input resulting from uncorrected astigmatism
+can adversely impact the development of spatial vision, potentially leading to the onset of meridian amblyopia20.
+Furthermore, neurological deficits in the V1 region of the visual cortex have been observed in both animal
+experiments and human psychophysical studies investigating meridian amblyopia induced by astigmatism21.
+Research involving animal models has shown that early abnormalities in visual input can significantly impact
+the neural tissue within the mammalian visual system, with the effects of such exposure being permanent
+and irreversible even after the restoration of normal visual input6,12. The majority of neurokines influencing
+binocular visual development are located in the V1 region, where neural connections commence formation
+shortly after birth. The maturation of visual processing and neural connections is contingent upon early visual
+experiences. Prolonged exposure to distorted visual input during critical periods of visual development may
+adversely affect normal visual processing and the development of neural connections22. Specifically, abnormal
+visual experiences resulting from astigmatism can disrupt the development of functional connectivity in
+the visual cortex, which subsequently manifests in perceptual behavior during adulthood. In comparison to
+individuals without astigmatism, adults with astigmatism exhibit a significant distortion in shape perception,
+which is only partially rectified through optical correction aimed at improving distorted visual input23. These
+discoveries suggest a connection between astigmatism and the nervous system, implicating the visual cortex
+as a key component in the underlying mechanism. However, current research on the mechanisms underlying
+astigmatism predominantly focuses on the optical system24–26, with insufficient systematic investigation into its
+effects on central visual function.
+fNIRS is a non-invasive brain imaging technique that utilizes the unique absorption properties of near-
+infrared light (600–900 nm wavelength) by hemoglobin in cerebral tissue, enabling real-time detection of blood
+oxygenation dynamics in the cerebral cortex27. Due to its non-invasive nature and capability for continuous
+monitoring, this approach provides an innovative and straightforward method for analyzing, diagnosing,
+and treating diseases in clinical practice. Studies have found that fNIRS demonstrates good sensitivity and
+repeatability in detecting cognitive load and states, suggesting that fNIRS is well-suited for exploring the full
+complement of neuroimaging research questions and can serve as a viable alternative to fMRI28,29. At present,
+it is predominantly applied in brain diseases, psychiatric problems, cognitive fields and sports rehabilitation,
+but there are few related studies in the field of ophthalmic diseases, with only a few reports on strabismus
+amblyopia30,31, diabetic retinopathy32, pathological myopia33, etc. fNIRS serves as a valuable complement to
+existing modalities such as fMRI, positron emission tomography (PET), and electroencephalography (EEG).
+The near-infrared light emitted by fNIRS can penetrate the skull and reach the cerebral cortex to a depth of
+approximately 2–3 cm. Within the cortex, the light undergoes scattering and propagation before exiting the
+skull, where it is detected by a collection device. The intensity of the collected near-infrared light varies with the
+concentration of blood oxygen in the cerebral cortex. An increase in neural activity within a specific brain region
+leads to a corresponding rise in cerebral blood flow, which is reflected by alterations in hemoglobin levels. This
+relationship between cortical activation and blood flow is referred to as neurovascular coupling34. In comparison
+to fMRI, which relies on magnetic fields, fNIRS detects alterations in hemoglobin concentration through optical
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 2
+www.nature.com/scientificreports/
+principles. It offers superior temporal resolution and is more accessible for a broader demographic due to its
+user-friendly operation and portability. When contrasted with PET, fNIRS is non-invasive, posing fewer risks
+to the human body, and allows for repeated measurements. Additionally, compared to EEG, fNIRS provides
+enhanced spatial resolution, facilitating a more precise correlation between anatomical structures and brain
+function.
+Given the limited research on alterations in brain function within the visual cortex of individuals with
+astigmatism, this investigation employed fNIRS to examine differences in the strength of brain connectivity
+between individuals with and without astigmatism. Additionally, the research aimed to identify changes in brain
+function before and after optical correction in participants with moderate and low astigmatism, and to assess
+potential differences in activation levels between the left and right visual cortex in individuals with monocular
+astigmatism. An additional aim of this investigation is to examine the variations in alterations of brain function
+associated with different axes of astigmatism, with the aim of elucidating the central mechanisms underlying
+astigmatism and generating insights for enhancing the visual quality of individuals affected by this condition.
+Patients and methods
+Patients
+A cohort of 60 healthy young individuals who underwent routine ophthalmic examinations at the outpatient
+clinic of the Affiliated Hospital of North Sichuan Medical College between May 2023 and October 2023 was
+initially selected for this study. However, one participant was unable to complete the entire experimental
+procedure, and two were excluded due to poor signal acquisition quality. Thus, the final sample consisted of 57
+participants. Among these, 39 presented with astigmatism, including 15 individuals with monocular astigmatism
+(15 eyes) and 24 individuals with binocular astigmatism (48 eyes). The remaining 18 participants had no
+astigmatism (36 eyes) and served as the control group. Astigmatism was determined using an autorefractor
+and subjective refraction made with a phoropter. Meanwhile, astigmatism correction was performed using trial
+frame spectacles. For Part Ⅲ, based on the correction of each participant’s original refractive error, + 2.00 D
+cylindrical lenses in a trial frame were used to induce astigmatism of the same diopter but with different axes.
+Inclusion criteria: (1) aged 18–30 years, with best corrected VA of 0.0 (Log MAR) in both eyes; (2) axial
+length < 26 mm; (3) spherical power > −6.00 DS; (4) cylindrical power between −0.50 DC and −2.00 DC (for the
+astigmatism groups); (5) cylindrical power less than 0.50 DC (for the non-astigmatic group).Exclusion criteria:
+(1) Eye diseases such as pathological myopia, glaucoma, and corneal disease that affect vision and visual quality;
+(2) history of any ocular surgery or trauma; (3) Those who cannot cooperate with the inspection process.
+The requisite sample size for this investigation was ascertained utilizing PASS 15.0 software, with a significance
+threshold defined at α = 0.05 and a test power (1-β) of 0.9. Based on the estimated sample rate for comparing
+the means of a t-test between two independent samples, the total sample consisted of 32 cases. According to
+the sample rate estimation of the paired sample t-test mean comparison, the total sample size was 11 cases.
+Based on the sample rate estimate of one-way analysis of variance (ANOVA) mean comparison, the total sample
+comprised 30 cases. The overall sample size for this study comprised 57 cases, thereby providing a statistically
+significant basis for analysis.
+fNIRS
+Previous studies have demonstrated that fNIRS has excellent reproducibility, reliability and validity in the
+assessment of brain function35–37. The variation in hemoglobin concentration within the visual cortex of the
+occipital lobe was continuously monitored using a near-infrared spectroscopy based functional brain imaging
+apparatus. (Danyang Huichuang Medical Equipment Co., Ltd., Jiangsu, China). The system is comprised of
+a near-infrared light source, specifically a light-emitting diode (LED), and an avalanche photodiode (APD)
+functioning as detectors. The light source probes operate at wavelengths of 760 nm and 850 nm, individually,
+with a sampling rate of 11 Hz. In the experimental setup, four light source probes and four detectors were utilized,
+resulting in eight effective channels. Channels CH01 to CH04 were designated for the right occipital lobe, while
+channels CH05 to CH08 were allocated to the left occipital lobe. The distance between the transmitter and the
+detector varies from 2.7 to 3.3 cm, with both components secured using a black head cap. HbO is the most
+2
+sensitive marker for changes in local cerebral blood flow and is therefore the most effective marker for reflecting
+changes in brain function. Consequently, this study primarily focuses on the analysis of HbO variations.
+2
+Data collection
+During the resting state data collection, the specialized examination room is maintained in a quiet environment.
+The participant is seated comfortably in a chair and fitted with a black head cap, which is arranged following the
+International 10–20 system. The central electrode is aligned with the occipital protuberance, and the remaining
+electrodes are securely attached to the scalp. The duration of the test is 8 min, during which the participant is
+instructed to refrain from speaking and to minimize head and body movements. During the task state data
+collection, the experimental conditions mirrored those of the head-mounted apparatus. Each measurement was
+performed once. The time interval between correction or induced astigmatism and experimental data collection
+was similar across all participants. Visual stimulation tasks were administered and data were recorded using
+E-Prime 3.0 software. Resting-state data acquisition was employed in Part I, whereas task-based data acquisition
+was adopted in Parts II and III. The flowchart of the methodology is shown in Fig. 1.
+Visual stimuli: In this study, the standard pattern of 1 CPD was inverted by using Photoshop mapping software
+to draw a standard pattern inversion checkerboard of visual evoked potentials recommended by the International
+Society of Clinical Electrophysiology38. A red cross was positioned at the center of the checkerboard as a fixation
+point. The inversion stimulus was administered at a temporal frequency of 2.0 Hz on a 15.6-inch monitor with
+a resolution of 1920 × 1080 pixels. As illustrated in Fig. 2, the overall duration of stimulation was 140 s. During
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 3
+www.nature.com/scientificreports/
+Fig. 1. Method flowchart.
+Fig. 2. Programming of visual stimulation test. The red cross in the center indicates the fixation point.
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 4
+www.nature.com/scientificreports/
+the 30-s preparation phase, participants were instructed to close their eyes and subsequently open them upon
+hearing auditory prompts. The viewing durations were allocated as follows: 30 s for the baseline period, 30 s for
+the visual stimulation period, and 50 s for the recovery period.
+Data processing and statistical analysis
+The initial spectral data collected were preprocessed using NirSpark software. Temporal regions not pertinent
+to the experiment were excluded, and motion artifacts and filtering were removed. Subsequently, changes in
+blood oxygen concentration were calculated in accordance with the modified Beer-Lambert law. The functional
+connectivity strength and β value for each channel were analyzed, with the β value employed to assess the
+activation degree of the visual cortex. Statistical analyses were carried out with SPSS software, version 26.0. The
+Shapiro–Wilk test utilized to evaluate the conformity of the data to a normal distribution. Data conforming
+to a normal distribution were expressed as the mean ± standard deviation (x±s), while data deviating from
+a normal distribution were represented by the median and interquartile range [M (Q1, Q3)]. Disparities in
+age, intraocular pressure, and gender across the two groups were evaluated employing independent samples
+t-tests and chi-square tests. Specifically, the independent samples t-test was utilized to evaluate differences in
+the strength of brain functional connectivity between groups A and B. In the second section of the analysis, a
+paired sample t-test was employed to evaluate the differences in brain functional connectivity strength and β
+values between groups C and D, as well as to assess the disparities in β values between the left and right occipital
+visual cortices. Subsequently, in the third section, a repeated measures ANOVA was conducted to examine
+the variations in brain functional connectivity strength and β values across different axial groups within the
+same diopter. The Bonferroni method was utilized for pairwise comparisons. A p-value below 0.05 was deemed
+indicative of statistical significance.
+Results
+Differences in brain function connectivity characteristics and connection strength in patients
+with or without astigmatism in the resting state
+The initial phase of the study comprised 42 participants (84 eyes), including 24 individuals (48 eyes) with binocular
+astigmatism and 18 individuals (36 eyes) without astigmatism. Baseline data for these subjects are presented in
+Table 1. Participants with astigmatism were categorized as Group A, while those without astigmatism were
+designated as Group B. Figure 3 illustrates the average brain functional connectivity strength of the occipital
+lobe for groups A and B, as measured by HbO levels. The data indicate that group B exhibits a greater and more
+2
+dispersed connectivity strength compared to group A, which demonstrates a smaller and more concentrated
+connectivity strength. Notably, the functional connectivity strength in group A is significantly weaker than that
+in group B, with the difference being statistically significant (P < 0.001).
+As illustrated in Figs. 4 and 5b, statistically significant differences between the two groups were observed
+between channels CH01 and CH05 (P = 0.040) and between channels CH01 and CH06 (P = 0.013). In contrast,
+the remaining channels did not exhibit statistical significance (P > 0.05). Figure 5b demonstrates a statistically
+significant difference in functional connectivity strength between the two groups within the right occipital lobe
+brain network (P = 0.004). Nevertheless, no significant disparity was observed between the groups within the left
+occipital lobe brain network (P = 0.818). A significant statistical divergence was observed in the strength of brain
+functional connectivity between the two groups. (P = 0.001).
+Comparison of brain function changes and activation degree of left and right visual cortex
+before and after correction of astigmatism in the task state
+The second part of the research included a total of 15 subjects (15 eyes) with astigmatism in the right eye,
+consisting of 7 males (7 eyes) and 8 females (8 eyes), with an average age of 22.08 ± 2.05 years. These subjects had
+spherical lens prescriptions of −3.68 ± 0.58 DS and cylindrical lens prescriptions of −1.00 ± 0.24 DC. Participants
+underwent visual stimulation of the right eye both prior to and following astigmatism correction, with the left
+eye occluded. The use of spherical lenses for myopia correction and cylindrical lenses for astigmatism correction
+categorized participants into pre- and post-cylindrical correction conditions.
+In comparison to the pre-cylindrical correction condition, the post-cylindrical correction condition exhibited
+enhanced functional connectivity within the left occipital lobe homology brain network and the bilateral
+occipital lobe heterologous brain network, alongside reduced connectivity in the right occipital lobe homology
+Binocular astigmatism subject group Group of subjects without astigmatism P-value
+Gender/n 0.7
+Male 11 10
+Female 13 8
+Eyes/cases 48 36
+Age/years 21.08 ± 2.64 23.00 ± 3.19 0.12
+Intraocular pressure/ mmHg 15.92 ± 2.23 14.83 ± 2.37 0.26
+Spherical degree/ DS −3.59 ± 1.16 −3.45 ± 1.36 0.64
+Cylindrical degree/ DC −1.29 ± 0.43 −0.17 ± 0.24 < 0.001
+Table 1. Comparison of baseline data.
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 5
+www.nature.com/scientificreports/
+Fig. 3. Based on the characteristic distribution of average brain functional connectivity intensity within the
+occipital visual cortex of the HbO brain, participants were categorized into two groups: Group A, comprising
+2
+individuals with binocular astigmatism, and Group B, consisting of individuals without astigmatism. The
+small dots on the left illustrate the numerical distribution of brain functional connectivity intensity across each
+connecting channel, while the middle dot denotes the mean value, and the black vertical line represents the
+mean ± 1 standard deviation (SD).
+Fig. 4. The probe and channel configuration (A) and the channels statistically significant (B): The channels
+demonstrating statistically significant differences between individuals with binocular astigmatism and those
+without astigmatism were identified as CH01-CH05 and CH01-CH06(P < 0.05).
+brain network. However, the aggregate disparity in the strength of brain functional connectivity across the two
+cohorts did not attain statistical significance (P = 0.929). During the visual stimulation task involving the right
+eye, a comparative analysis of the β values for each channel of the occipital lobe of the HbO brain in pre- and
+2
+post-cylindrical correction conditions is presented in Fig. 6. Notably, significant differences were observed in the
+β values for channels CH02 (P = 0.036), CH06 (P = 0.014), and CH08 (P = 0.024) in post-cylindrical correction
+condition, whereas no significant differences were detected in the β values of the other channels. Table 2
+illustrates statistically significant differences in the β values of the left and right visual cortex within the occipital
+lobe during the task state HbO between pre- and post-cylindrical correction conditions (P = 0.002, P = 0.003).
+2
+Changes in brain function with different axial astigmatism defocus in the task state
+In the third section of the study, 24 participants (48 eyes) underwent induced astigmatism at various axes
+using + 2.00 diopter cylindrical lenses, following the correction of their original refractive errors. Based
+on the axial orientation, the participants were categorized into three groups: the WTR group, comprising 8
+individuals with 16 eyes (+ 2.00DC × 90); the oblique astigmatism group, consisting of 8 individuals with 16 eyes
+(+ 2.00DC × 45); and the ATR group, also with 8 individuals and 16 eyes (+ 2.00DC × 180). The baseline features
+of these groups are detailed in Table 3. All participants underwent testing in both eyes, beginning with the right
+eye followed by the left.
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 6
+www.nature.com/scientificreports/
+Fig. 5. The study conducted a comparative analysis of brain functional connectivity strength, focusing on
+individual channels (a) and specific brain regions (b) within the visual cortex of the occipital lobe, in relation
+to HbO levels during the resting state. Group A comprised individuals with binocular astigmatism, while
+2
+Group B consisted of individuals without astigmatism. *P < 0.05.
+Fig. 6. The β values for each channel of the occipital lobe under the task state HbO were compared, with pre-
+2
+cylindrical correction condition representing participants prior to astigmatism correction and post-cylindrical
+correction condition representing participants following astigmatism correction, *P < 0.05.
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 7
+www.nature.com/scientificreports/
+Pre-cylindrical correction condition Post-cylindrical correction condition t-value P-value
+Right 0.13 ± 0.70 0.38 ± 0.78 −2.03 0.047
+Left 0.64 ± 0.96 0.77 ± 0.98 −0.79 0.435
+t-value −3.27 −2.96
+P-value 0.002 0.004
+Table 2. The β values of the visual cortex on the left and right sides of the occipital lobe of the brain based on
+HbO .
+2
+WTR group Oblique astigmatism group ATR group P-value
+Gender 0.68
+Male 5 3 3
+Female 3 5 5
+Number of eyes/cases 16 16 16
+Age/years 20.50 ± 0.87 21.75 ± 0.65 20.75 ± 0.75 0.63
+intraocular pressure
+16.38 ± 0.42 15.75 ± 0.62 16.25 ± 0.82 0.85
+/mmHg
+Spherical power /DS −3.63 ± 0.92 −3.88 ± 1.38 −3.28 ± 1.11 0.35
+Cylindrical degree /DC −1.16 ± 0.41 −1.36 ± 0.47 −1.36 ± 0.40 0.30
+Table 3. Comparison of baseline data.
+As illustrated in Fig. 7, a statistically significant variation was detected in the strength of brain functional
+connectivity associated with the HbO occipital visual cortex across different astigmatism axes (P < 0.001). The
+2
+Bonferroni method was employed for post-hoc comparisons between the groups. The results indicated that the
+oblique astigmatism group exhibited higher brain functional connectivity than both the WTR group (P = 0.001)
+and the ATR group (P < 0.001). Furthermore, the intensity of cerebral functional connectivity was markedly
+higher in the oblique astigmatism group compared to the ATR group (P = 0.019). Figure 8 and 9 illustrates
+the strength of three axial brain functional connections across each channel and brain region. As depicted
+in Fig. 8 and 9a, statistically significant differences among the three groups were observed in the following
+connections: CH01-CH05 (P = 0.012), CH02-CH05 (P = 0.042), CH05-CH06 (P = 0.049), and CH07-CH08
+(P = 0.003). Additionally, a statistically significant disparity in the CH01-CH05 connection was detected between
+the WTR group and the oblique astigmatism group (P = 0.047). Significant statistical variations were discerned
+between the ATR group and the oblique astigmatism group in the comparisons CH01-CH05 (P = 0.031), CH02-
+CH05 (P = 0.048), and CH07-CH08 (P = 0.002). Conversely, no notable variations were detected between the
+ATR group and the WTR group. As illustrated in Fig. 9b, a notable statistical discrepancy was present in the
+strength of functional connectivity among the three groups within the right occipital lobe (P = 0.012) and the left
+occipital lobe (P = 0.046) across homologous brain networks. The Bonferroni method was employed to conduct
+intergroup comparisons of brain function, revealing that the functional connectivity strength within the right
+occipital homologous brain network was markedly higher in the oblique astigmatism group relative to the ATR
+group, with the difference reaching statistical significance (P = 0.049). In the homology brain network of the left
+occipital lobe, the intensity of functional connectivity was significantly higher in the oblique astigmatism group
+compared to that in the ATR group (P < 0.001) and the WTR group (P = 0.001), with the differences between
+these groups being statistically significant (P < 0.001). A statistically significant difference in brain functional
+connectivity strength was present among the three groups (P < 0.001). The Bonferroni method was employed
+for pairwise comparisons, revealing that the oblique astigmatism group exhibited higher functional connectivity
+than the ATR group, with this difference also reaching statistical significance (P = 0.011).
+Figure 10 illustrates that there were statistically significant differences in occipital visual cortex activation,
+as measured by HbO , across different astigmatism axes (P = 0.045). The Bonferroni method was employed
+2
+to compare brain activation between the two groups, revealing that the ATR group exhibited a higher degree
+of brain activation compared to the oblique astigmatism group. This difference was statistically significant
+(P = 0.042). The variation in β among the three groups was statistically significant in channel CH02 (P = 0.022),
+with the β value of the ATR astigmatism group exceeding that of the oblique astigmatism group (P = 0.019).
+Discussion
+This study represents the inaugural application of fNIRS technology to assess the strength of brain functional
+connectivity associated with astigmatism. It compares alterations in visual cortex brain function before and
+after astigmatism correction, as well as between the left and right hemispheres in subjects with monocular
+astigmatism. Additionally, it examines the changes in visual cortex brain function induced by lenses with
+varying astigmatism axes oriented downward. Gao et al.39 investigated the impact of astigmatism on visual
+quality in children using the OPD-SCAN III aberrometer. Their results showed that as the degree of astigmatism
+increased, the root mean square values of total higher-order aberrations, total coma, total spherical aberration,
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 8
+www.nature.com/scientificreports/
+Fig. 7. Comparison of brain functional connectivity strength in each axial group of occipital visual cortex
+based on HbO in the task state. The small square indicates the mean; the line indicates the median, *P < 0.05.
+2
+Fig. 8. Channels with significant group differences. (A) CH01-CH05, CH02-CH05, CH05-CH06, and CH07-
+CH08 showed differences among the three groups (P < 0.05). (B) CH01-CH05 showed difference between the
+WTR and oblique astigmatism groups (P < 0.05). (C) CH01-CH05, CH02-CH05, and CH07-CH08 showed
+difference between the ATR and oblique astigmatism groups (P < 0.05). The red line represents P < 0.05.
+and total trefoil all increased, while the modulation transfer function (MTF) and point spread function (PSF)
+decreased. The findings of the present study demonstrate that MTF cut off, strehl ratio (SR), VA100%, VA20%,
+and VA9% all decrease with increasing astigmatic power. Under the same degree of astigmatism, there were no
+statistically significant differences in these parameters across different axial orientations.
+The findings indicated that during the initial phase of the resting-state HbO occipital visual cortex functional
+2
+connectivity assessment, individuals with astigmatism exhibited reduced functional connectivity strength in the
+occipital visual cortex compared to those without astigmatism. This suggests that prolonged abnormal visual
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 9
+www.nature.com/scientificreports/
+Fig. 9. Comparison of brain functional connectivity strength of each channel (a) and each brain region (b) of
+the occipital visual cortex of the brain based on three sets of axial task states. In Fig. 9a, *(red) represents the
+channel with statistically significant differences among the three groups (P < 0.05), *(red)represents the channel
+exhibiting a statistically significant difference between the two groups with a WTR group and an oblique
+astigmatism group, and *(blue) represents a channel exhibiting a statistically significant difference between the
+ATR group and the oblique astigmatism group. In Fig. 9b, * P < 0.05.
+stimulation associated with astigmatism may result in diminished functional connectivity between the occipital
+visual cortices.
+Consistent with the animal literature highlighting the vulnerability of the visual cortex to abnormal early
+visual input6,12, the present study provides neuroimaging evidence in humans that astigmatism is associated
+with cortical functional changes. While previous research has primarily focused on the optical components of
+astigmatism39, our fNIRS findings suggest that the neural impact extends to the visual cortex, particularly in
+adults with a history of prolonged distorted visual input during development. The persistent shape perception
+biases observed behaviorally in adults with astigmatism, even after optical correction23, imply a neural rather
+than purely optical origin. Our results offer a potential neural correlate for this phenomenon: the aberrant
+cortical activation patterns detected by fNIRS may reflect the long-term adaptation of the visual system to
+chronic asymmetric or degraded input. It is plausible that these cortical changes represent the neural substrate
+underlying the incomplete recovery of perceptual function following correction. Although the current study
+did not directly measure behavioral performance, the observed cortical changes in adults with astigmatism may
+provide insight into the neural basis of these persistent perceptual deficits. Future investigations integrating
+fNIRS with concurrent behavioral assessments (e.g., contrast sensitivity, orientation discrimination, or shape
+perception tasks) are warranted to establish direct correlations between neural activation patterns and visual
+performance, thereby elucidating the precise relationship between cortical function and perceptual behavior in
+astigmatism.
+Furthermore, our research team investigated the impact of astigmatism correction on alterations in brain
+function. We discovered that correcting astigmatism results in a clearer retinal image, enhances the retinal signal
+transmission to the visual cortex, and ultimately leads to increased neural activity and alterations in blood oxygen
+levels within the visual cortex. In the task-based HbO occipital visual cortex brain functional connectivity
+2
+assessment, No significant statistical difference was detected in the strength of brain functional connectivity pre-
+and post-astigmatism correction. However, a general trend of increased connectivity strength post-correction
+was noted. In the brain function activation assessment utilizing task-state HbO measurements in the occipital
+2
+visual cortex, the β value post-astigmatism correction was significantly elevated compared to pre-correction
+levels. Notably, this difference was statistically significant in channels CH02, CH06, and CH08, suggesting that
+astigmatism correction enhances the functional activity of the occipital visual cortex to a certain extent.
+Conversely, to investigate potential differences in the degree of activation within the bilateral occipital
+visual cortex among individuals with astigmatism, the second segment of this study employed monocular
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 10
+www.nature.com/scientificreports/
+Fig. 10. Comparison of brain activation degree based on HbO occipital visual cortex in the three groups of
+2
+axial task states. The small square indicates the mean; the line indicates the median, * P < 0.05
+visual stimulation in participants with monocular astigmatism. The findings indicated that the β value of the
+ipsilateral visual cortex corresponding to the stimulated eye was lower than that of the contralateral visual cortex
+in subjects with astigmatism, both prior to and following astigmatism correction. The transmission of visual
+information from the retina to the visual cortex exhibits asymmetry. Specifically, 47% of the information from
+the temporal retina is conveyed to the ipsilateral visual cortex, while 53% of the information from the nasal
+retina is transmitted to the contralateral visual cortex40. Variations in the activation levels of the occipital visual
+cortex have been observed in individuals with monocular astigmatism. These variations may be attributed to
+prolonged differential visual stimulation of the bilateral retina, leading to asymmetrical alterations in brain
+function between the bilateral visual cortices.
+Astigmatism, being a vector quantity, influences visual quality not solely based on its magnitude but also in
+relation to its axis orientation. Mimouni et al. 41conducted an evaluation of the impact of axial astigmatism on
+VA in patients exhibiting residual astigmatism following refractive surgery. Their findings indicated that the
+influence of ondated astigmatism was less pronounced compared to that of retrograde astigmatism and oblique
+axial astigmatism. The influence of the astigmatism axis seems to be associated with the "tilt effect," wherein
+visual stimuli exhibit greater resolving power along the horizontal and vertical axes compared to the oblique
+axis42. This phenomenon has been corroborated by studies employing adaptive optics12 and fMRI43, which
+suggest a connection to neural mechanisms within the visual cortex. Furthermore, it is hypothesized that this
+effect may be linked to the directional sensitivity of retinal ganglion cells8. Astigmatism exhibits a neuroadaptive
+phenomenon whereby the human visual system, when subjected to persistent astigmatism and defocus, can
+adapt to the resultant blurring. This adaptation leads to enhancements in both VA and visual quality2. Clinically,
+this phenomenon has been observed to exhibit selectivity concerning the axis of astigmatism, with oblique axis
+astigmatism proving more challenging to adapt to compared to compliant and retrograde astigmatism. Therefore,
+the impact of the axial direction of astigmatism was further examined across different groups in our study. In
+examining the strength of brain functional connectivity associated with the occipital visual cortex of the occipital
+lobe during task-state HbO brain activity, statistically significant differences were observed among patients
+2
+with compliant, oblique axis, and inverse astigmatism. Notably, the strength of brain functional connectivity
+in the oblique astigmatism group was greater than that observed in both the oblique astigmatism group and
+the antigrade astigmatism group., The findings suggest that the strength of functional brain connectivity varies
+with different astigmatic axial stimulations. This variation may be attributed to the blurring effects induced by
+lens-induced oblique axis astigmatism, which poses greater adaptive challenges compared to the other two axes.
+Oblique axis astigmatism demands heightened attention and visual processing, necessitating the recruitment of
+a broader array of brain regions to effectively integrate visual feedback. Abnormal visual experiences resulting
+from astigmatism can disrupt brain development, leaving “traces” in the adult visual cortex. This phenomenon
+may be associated with the diminished collinear facilitation effect observed in oblique axis astigmatism, which
+arises from interactions among optic neurons and can be regarded as an intermediate stage in the processing of
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 11
+www.nature.com/scientificreports/
+visual information22. Elliott et al.44 proposed that the increased difficulty in adapting to oblique axis astigmatism
+may be associated with vertical visual perception, which is believed to be mediated by the occipital cortical
+network. In assessments of vertical visual perception using a computer-based subjective visual vertical task,
+the subjective visual vertical error in individuals with oblique axis astigmatism was found to be greater than
+that observed in individuals with regular or anti-regular astigmatism. However, emerging evidence indicates
+that afferent and efferent neural pathways between the brain and the eye do not contribute to the induction
+of astigmatism, whereas the degeneration of retinal cells has been shown to disrupt the development of this
+refractive error1.
+In this investigation, we completed a comparative analysis of the β values representing brain activation in the
+occipital visual cortex, as measured by HbO , across different task states. The findings of our research exhibited a
+2
+statistically significant variation in the degree of brain activation among patients with oblique axis astigmatism,
+oblique axis astigmatism, and retrograde astigmatism. Specifically, the group with oblique axis astigmatism
+exhibited a lower degree of brain activation compared to the ATR group. These results suggest that the activation
+level of the visual cortex varies according to the axis of astigmatism. Neurodeficits in the V1 region of the
+visual cortex have been documented in both animal experiments and human psychophysical studies concerning
+astigmatism-induced meridian amblyopia21. The primary visual cortex cells exhibit orientation selectivity, with
+neurons in the V1 region demonstrating a predisposition towards horizontal and vertical orientations over
+inclined ones45. For example, Gu et al.20 employed a combination of psychophysical and electroencephalogram
+methodologies to investigate contrast sensitivity and visual evoked potentials along the two principal meridians
+in children without astigmatism and those with meridian amblyopia. Their study confirmed the horizontal and
+vertical asymmetry associated with human astigmatism in spatial vision and identified direction-specific visual
+developmental deficits in the primary visual cortex. Additionally, Shiba et al.46 conducted a study involving
+refractive correction on two subjects, followed by the administration of + 6.00 diopters of compliant and
+retrograde astigmatism defocus. fMRI was utilized to assess the activation levels of the visual cortex during
+visual stimulation. The findings indicated that astigmatism potentially influences the human visual cortex, with
+variations in activation levels observed across different axes.
+However, this study has some limitations. Primarily, the investigation was confined to the occipital visual
+cortex, leaving the involvement of functional changes in other brain regions undetermined. The exclusive use of
+fNIRS, while providing valuable hemodynamic data, limits our ability to fully characterize neural mechanisms.
+The absence of complementary techniques like EEG (for temporal resolution) or fMRI (for spatial precision)
+means we cannot determine whether observed hemodynamic changes reflect altered neural timing or specific
+subcortical contributions. Although we included measures of VA (Log MAR) and contrast sensitivity (Pelli-
+Robson), our study lacked behavioral assessments related to visual function, such as tests of visual perception,
+dynamic acuity, or real-world functional vision. Additionally, the study’s broader development was constrained
+by the operational complexity of the testing equipment and the high level of participant cooperation required.
+While we reported functional connectivity differences between astigmatism subgroups, the absence of repeated
+fNIRS measurements in the same subjects prevented us from performing additional validation analyses such as
+test–retest reliability assessment. And the relatively small sample size in certain subgroups, which could reduce
+the robustness of signal quality comparisons. Furthermore, this study included individuals with monocular
+astigmatism and those with binocular astigmatism. However, a direct comparison between these groups was
+not feasible due to the experimental design. The monocular astigmatism group was assessed using a within-
+subject design (comparing cortical activation before and after correction under monocular viewing), whereas
+the binocular astigmatism group was assessed using a between-subject design (comparing with healthy controls
+under binocular viewing). Directly comparing these two groups would confound the effects of astigmatism type
+with differences in viewing conditions. Future studies employing a unified protocol are needed to systematically
+compare these two refractive conditions. This remains a limitation of the present work. In addition, the sample
+selection was relatively limited, as participants with a broader range of spherical refractive errors combined with
+astigmatism were not included for further analysis.
+Future research should pursue three key directions to advance understanding of astigmatism-related
+cerebral functional changes. First, expanded sample sizes with balanced representation across astigmatism
+subtypes are needed to clarify their differential neural effects. Second, multimodal integration of fNIRS with
+fMRI technology will enable simultaneous, validated assessment of visual pathway activation patterns with
+complementary spatial and temporal resolution. Finally, establishing standardized protocols specifically for
+astigmatic populations—including rigorous test–retest reliability assessments, refractive-error-adapted signal
+quality metrics, and individualized optode placement strategies—will be critical for enhancing methodological
+rigor. These coordinated advances will substantially improve both the reproducibility and clinical applicability
+of neuroimaging findings in visual impairment research, ultimately facilitating more precise characterization
+of how different astigmatism subtypes influence brain function. This approach will facilitate the acquisition of
+more comprehensive and reliable data, thereby providing a deeper understanding of the changes and patterns in
+brain function among patients with clinical astigmatism.
+Conclusion
+The present findings suggest that uncorrected astigmatism may lead to reduced activation in the occipital
+visual cortex and weakened brain functional connectivity. Notably, optical correction of astigmatism appears to
+enhance the functional activity of the occipital cortex, at least partially, highlighting the potential neuroplastic
+effects of vision restoration. Furthermore, the degree of cortical activation and the strength of functional
+connectivity vary depending on the axis of astigmatism, implying that the neural impact of astigmatism may be
+orientation-dependent. However, these connectivity differences were derived from fNIRS measurements, and
+further research is needed to validate the sensitivity and reliability of this neuroimaging modality in populations
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 12
+www.nature.com/scientificreports/
+with astigmatism. Future studies should explore the long-term neural adaptations to astigmatism correction and
+investigate the underlying mechanisms linking optical aberrations to functional brain reorganization.
+Data availability
+All data generated or analyzed during this study are included in this published article.
+Received: 18 November 2025; Accepted: 1 April 2026
+References
+1. Popa, A. V., Kee, C. S. & Stell, W. K. Retinal control of lens-induced astigmatism in chicks. Exp. Eye Res. 194, 108000 (2020).
+2. Leung, T. W., Li, R. W. & Kee, C. S. Brief adaptation to astigmatism reduces meridional anisotropy in contrast sensitivity. Invest.
+Ophthalmol. Vis. Sci. 64(12), 4 (2023).
+3. Wang, M. et al. Prevalence of and risk factors for refractive error: A cross-sectional study in Han and Mongolian adults aged 40–80
+years in Inner Mongolia, China. Eye 33(11), 1722–1732 (2019).
+4. Sanfilippo, P. G. et al. Distribution of astigmatism as a function of age in an Australian population. Acta Ophthalmol. 93(5), e377–
+e385 (2015).
+5. Son, S., Shim, W. M., Kang, H. & Lee, J. Automatic compensation enhances the orientation perception in chronic astigmatism. Sci.
+Rep. 12(1), 3710 (2022).
+6. Mitchell, D. E., Freeman, R. D., Millodot, M. & Haegerstrom, G. Meridional amblyopia: Evidence for modification of the human
+visual system by early visual experience. Vision Res. 13(3), 535–558 (1973).
+7. Aykut, V., Kirgiz, A., Gül Ay, B. & Celik, U. Comparison of pre-incision and single-stepped clear corneal incision in
+phacoemulsification surgery. Eur. Rev. Med. Pharmacol. Sci. 18(12), 1698–1703 (2014).
+8. Vyas, S. A., Lakshmanan, Y., Chan, H. H., Leung, T. W. & Kee, C. S. Experimentally induced myopia and myopic astigmatism alter
+retinal electrophysiology in chickens. Sci. Rep. 12(1), 21180 (2022).
+9. Kulp, M. T. et al. Vision screening, vision disorders, and impacts of hyperopia in young children: outcomes of the vision in
+preschoolers (VIP) and vision in pre-schoolers—hyperopia in preschoolers (VIP-HIP) studies. Asia Pac. J. Ophthalmol. 11(1),
+52–58 (2022).
+10. Vinas, M., Sawides, L., de Gracia, P. & Marcos, S. Perceptual adaptation to the correction of natural astigmatism. PLoS ONE 7(9),
+e46361 (2012).
+11. Yap, T. P., Luu, C. D., Suttle, C. M., Chia, A. & Boon, M. Y. Electrophysiological and psychophysical studies of meridional
+anisotropies in children with and without astigmatism. Invest. Ophthalmol. Vis. Sci. 60(6), 1906–1913 (2019).
+12. Zheleznyak, L., Barbot, A., Ghosh, A. & Yoon, G. Optical and neural anisotropy in peripheral vision. J. Vis. 16(5), 1 (2016).
+13. Agrawal, A. et al. Alteration in pattern reversal visual evoked potential in pediatric population with amblyopia and spherical
+refractive errors. Indian J. Ophthalmol. 70(5), 1727–1731 (2022).
+14. Tang, W. Y. et al. Application of the virtual reality-pattern visual evoked potential in forensic visual acuity evaluation. Fa Yi Xue Za
+Zhi 36(6), 762–766 (2020).
+15. Suzuki, M. et al. Effects of refractive errors on visual evoked magnetic fields. BMC Ophthalmol. 15, 162 (2015).
+16. Cheng, Y. et al. Abnormal functional connectivity between cerebral hemispheres in patients with high myopia: A resting FMRI
+study based on voxel-mirrored homotopic connectivity. Front. Hum. Neurosci. 16, 910846 (2022).
+17. Ji, Y. et al. Exploration of static functional connectivity and dynamic functional connectivity alterations in the primary visual
+cortex among patients with high myopia via seed-based functional connectivity analysis. Front. Neurosci. 17, 1126262 (2023).
+18. Freeman, R. D., Mitchell, D. E. & Millodot, M. A neural effect of partial visual deprivation in humans. Science 175(4028), 1384–
+1386 (1972).
+19. Harvey, E. M., Dobson, V., Miller, J. M. & Clifford-Donaldson, C. E. Changes in visual function following optical treatment of
+astigmatism-related amblyopia. Vision Res. 48(6), 773–787 (2008).
+20. Gu, L. et al. Meridian-specific and post-optical deficits of spatial vision in human astigmatism: Evidences from psycho-physical
+and EEG scalings. Front. Psychol. 12, 595536 (2021).
+21. Yap, T. P., Luu, C. D., Suttle, C., Chia, A. & Boon, M. Y. Effect of stimulus orientation on visual function in children with refractive
+amblyopia. Invest. Ophthalmol. Vis. Sci. 61(5), 5 (2020).
+22. Serero, G., Lev, M. & Polat, U. Meridional binocular rivalry reveals a trace of uncorrected oblique input during development in the
+adult brain. Sci. Rep. 13(1), 9920 (2023).
+23. Serero, G., Lev, M., Sagi, D. & Polat, U. Traces of early developmental bias in the adult brain. Sci. Rep. 13(1), 12014 (2023).
+24. Vincent, M., Marin, G. & Legras, R. Effect of simulated and real spherical and astigmatism defocus on visual acuity and image
+quality score. Optom. Vis. Sci. 97(1), 36–44 (2020).
+25. Liang, D., Leung, T. W. & Kee, C. S. Measuring retinal thickness and visual acuity in eyes with different types of astigmatism in a
+cohort of Hong Kong Chinese adults. Invest. Ophthalmol. Vis. Sci. 64(1), 2 (2023).
+26. Tan, Q. Q. et al. Optical quality in low astigmatic eyes with or without cylindrical correction. Graefes Arch. Clin. Exp. Ophthalmol.
+258(2), 451–458 (2020).
+27. Pinti, P. et al. The present and future use of functional near-infrared spectroscopy (fNIRS) for cognitive neuroscience. Ann. N. Y.
+Acad. Sci. 1464(1), 5–29 (2020).
+28. Fishburn, F. A., Norr, M. E., Medvedev, A. V. & Vaidya, C. J. Sensitivity of fNIRS to cognitive state and load. Front. Hum. Neurosci.
+8, 76 (2014).
+29. Dong, Y. et al. Frontal and parietal cortices activation during walking is repeatable in older adults based on fNIRS. Heliyon 10(9),
+e30197 (2024).
+30. Yin, X. et al. Altered brain structure and spontaneous functional activity in children with concomitant strabismus. Front. Hum.
+Neurosci. 15, 777762 (2021).
+31. Wang, Y., Wu, Y., Luo, L. & Li, F. Structural and functional alterations in the brains of patients with anisometropic and strabismic
+amblyopia: A systematic review of magnetic resonance imaging studies. Neural Regen. Res. 18(11), 2348–2356 (2023).
+32. Aitchison, R. T. et al. Measuring visual cortical oxygenation in diabetes using functional near-infrared spectroscopy. Acta Diabetol.
+55(11), 1181–1189 (2018).
+33. Zhang, Y. et al. Changes in visual cortical function in moderately myopic patients: A functional near-infrared spectroscopy study.
+Ophthalmic Physiol. Opt. 42(1), 36–47 (2022).
+34. Baller, E. B. et al. Developmental coupling of cerebral blood flow and fMRI fluctuations in youth. Cell Rep. 38(13), 110576 (2022).
+35. Wagner, J. C. et al. Reproducibility of fNIRS within subject for visual and motor tasks. Neuroimage. 321(1),121492. (2025).
+36. Gao, C., Xiu, J., Huang, C., Ma, K. & Li, T. Reliability evaluation for continuous-wave functional near-infrared spectroscopy
+systems: Comprehensive testing from bench characterization to human test. Sensors.24(7),(2024).
+37. Dubois, J. et al. Reliability of brain metrics derived from a time-domain functional near-infrared spectroscopy system. Sci. Rep.
+14(1), 17500 (2024).
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 13
+www.nature.com/scientificreports/
+38. Odom, J. V. et al. ISCEV standard for clinical visual evoked potentials: (2016 update). Doc. Ophthalmol. 133(1), 1–9 (2016).
+39. Gao, J. et al. The effect of the degree of astigmatism on optical quality in children. J. Ophthalmol. 2017, 5786265 (2017).
+40. Prasad, S. & Galetta, S. L. Anatomy and physiology of the afferent visual system. Handb. Clin. Neurol. 102, 3–19 (2011).
+41. Mimouni, M. et al. The effect of astigmatism axis on visual acuity. Eur. J. Ophthalmol. 27(3), 308–311 (2017).
+42. Li, B., Peterson, M. R. & Freeman, R. D. Oblique effect: A neural basis in the visual cortex. J. Neurophysiol. 90(1), 204–217 (2003).
+43. Furmanski, C. S. & Engel, S. A. An oblique effect in human primary visual cortex. Nat. Neurosci. 3(6), 535–536 (2000).
+44. Elliott, D. B., Black, A. A. & Wood, J. M. Subjective verticality is disrupted by astigmatic visual distortion in older people. Invest.
+Ophthalmol. Vis. Sci. 61(4), 12 (2020).
+45. Fang, C., Cai, X. & Lu, H. D. Orientation anisotropies in macaque visual areas. Proc. Natl. Acad. Sci. U. S. A. 119(15), e2113407119
+(2022).
+46. Shiba, T., Tsuneoka, H. & Jiang, Z. Influence of regular astigmatism on the human visual cortex. A functional magnetic resonance
+imaging study. J. Ophthalmic Sci. 1(1), 28–38 (2015).
+Author contributions
+YLT and CW conceived the study, organized the data collection, and designed the data analysis process. CW,
+MTB, QQT, JT, JL, XYC, MXL and ZWC performed the data collection. YLT and CW performed the data
+analysis. TYL and WC wrote the manuscript. YS and XL supervised the project. All authors contributed to the
+scientific discussion and manuscript revisions.
+Funding
+Natural Science Foundation Project of Sichuan Provincial Department of Science and Technology 2023NS-
+FSC0595, Key Project of Scientific Research Development Plan of the Affiliated Hospital of North Sichuan Med-
+ical College 2023ZD010.
+Declarations
+Competing interests
+The authors declare that they have no competing interests.
+Additional information
+Correspondence and requests for materials should be addressed to Y.S. or X.L.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in
+any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide
+a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have
+permission under this licence to share adapted material derived from this article or parts of it. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence
+and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to
+obtain permission directly from the copyright holder. To view a copy of this licence, visit h t t p :/ / c r e a t i v ec o m m o
+n s . o rg / l i c e n s e s/ b y - n c - n d / 4 . 0 / .
+© The Author(s) 2026
+Scientific Reports | (2026) 16:16604 | https://doi.org/10.1038/s41598-026-47594-4 14

@@ -1,0 +1,912 @@
+BehavioralEcologyandSociobiology(2019)73:13
+https://doi.org/10.1007/s00265-018-2601-8
+REVIEW
+A framework for studying social complexity
+PeterM.Kappeler1,2
+Received:1February2018/Revised:1June2018/Accepted:12November2018/Publishedonline:19January2019
+#TheAuthor(s)2019
+Abstract
+Socialcomplexityhasbeenoneoftherecentemergingtopicsinthestudyofanimalandhumansocieties,buttheconceptremains
+bothpoorlydefinedandunderstood.Inthispaper,Icriticallyreviewdefinitionsandstudiesofsocialcomplexityininvertebrate
+andvertebratesocieties,arguingthattheconceptisbeingusedinconsistentlyinstudiesofvertebratesociality.Groupsizeand
+cohesion define one cornerstone of social complexity, but the nature and patterning of social interactions contribute more to
+interspecificvariationinsocialcomplexityinspecieswithindividualrecognitionandrepeatedinteractions.Humansprovidethe
+onlyexamplewheremanyotheruniquecriteriaareused,andtheyaretheonlyspeciesforwhichintraspecificvariationinsocial
+complexityhasbeenstudiedindetail.Whilethereisagreementthatcomplexpatternsemergeatthegrouplevelasaresultof
+simpleinteractionsandasaresultofcognitiveabilities,thereisconsensusneitherontheirrelativeimportancenorontheroleof
+specificcognitiveabilitiesindifferentlineages.Moreover,aspectsofreproductionandparentalcarehavealsobeeninvokedto
+characterizelevelsofsocialcomplexity,sothatnosinglecomprehensivemeasureisreadilyavailable.Becauseevenfundamental
+components of social complexity are difficult to compare across studies and species because of inconsistent definitions and
+operationalization of key social traits, I define and characterize social organization, social structure, mating system, and care
+systemasdistinctcomponentsofasocialsystem.Basedonthisframework,Ioutlinehowdifferentaspectsoftheevolutionof
+socialcomplexityarebeingstudiedandsuggestquestionsforfutureresearch.
+Significancestatement
+Animalandhumansocietiesdifferinsocialcomplexity,i.e.,thenumberandassociationpatternsofgroupmembersaswellasthe
+nature and patterning of their social relationships, but the dimensions of social complexity, the processes that generate it, the
+selectiveforcesthatengenderdifferentlevelsofsocialcomplexity,andtheevolutionaryconsequencesofthisvariationremainto
+be comprehensively understood. Here, I offer a conceptual framework for the systematic and comparative studies of social
+complexitybydefiningitsmaincomponentsaswellastheirproximateandultimaterelationships.
+Keywords Socialcomplexity.Animalsocieties .Socialorganization .Socialstructure .Behavior.Evolution
+Introduction
+Thesystematiccomparativestudyofanimalsocietiesoverthe
+last century (Espinas 1878; Deegener 1918; Allee 1927;
+CommunicatedbyD.Lukas
+Wheeler1928;Scott1956;Crook1970;Wilson1971,1975;
+ThisarticleisacontributiontotheTopicalCollectionSocialcomplexity: Smuts et al. 1987; Lee 1994; Clutton-Brock 2016; see also
+patterns, processes, and evolution - Guest Editors: Peter Kappeler,
+RubensteinandAbbot2017a)hasrevealedstunninginterspe-
+SusanneShultz,TimClutton-Brock,andDieterLukas
+cificdiversityinthesize,composition,andcohesionofsocial
+units,aswellasinthepatterningofreproductiveskew,coop-
+* PeterM.Kappeler
+pkappel@gwdg.de eration,andcompetitionamongtheirmembers.Thisdiversity
+hashistoricallybeenperceivedasreflectinganaturalgradient
+1 BehavioralEcology&SociobiologyUnit,GermanPrimateCenter, that has been expressed as either categorical or continuous
+Gottingen,Germany variation in social complexity (see below and Dew et al.
+2 WissenschaftskollegzuBerlin,Berlin,Germany 2016; Rubenstein et al. 2016). Even though understanding
+
+--- PAGE BREAK ---
+
+13 Page2of14 BehavEcolSociobiol(2019)73:13
+thecausesandconsequencesofvariationinsocialcomplexity forms.Thisterminologycontinuestobewidelyusedbystu-
+iscentraltounderstandingthediversityandevolutionofani- dentsofinvertebratesocieties,andithasrecentlybeenrefined
+malsocieties,socialcomplexityremainsbothpoorlycharac- by recognizing the existence of casteless species, i.e., those
+terized and incompletely understood, however, and it has without lifetime commitment to queen-like or worker-like
+therefore been recently identified as one of the remaining roles despite the existence of skew in reproduction or
+frontiers in the study of animal behavior (Bradbury and alloparentalcare(Dewetal.2016).
+Vehrencamp2014). Among vertebrates, some obligate cooperative breeders,
+In this paper, I argue that inconsistent definitions of the whichsharethethreedefiningtraitswitheusocialinvertebrates
+features of social systems contributing to social complexity, (Sherman et al. 1995), have also been depicted as“highly so-
+alackofrelevantoperationaldefinitionsapplicabletoawide cial”(e.g.,Batemanetal.2012)orasrepresenting“thehighest
+rangeofspecies,variationinconceptualandmethodological level of social complexity” (e.g., Fischer et al. 2017a), but it
+approaches used in the study of social insect and vertebrate remainsunclearwhetherthepresenceorabsenceofcooperative
+societies,andlackofageneralconsensusonitskeydetermi- breedingrepresentstheonlyoronlyoneimportantcriterionfor
+nants and consequences have hampered progress towards a thisassessment.Asaresult,thedistinctionamongcooperative
+better understanding of social complexity. Therefore, I offer breeding, eusociality, and social complexity has always been
+a conceptual framework for the systematic and comparative somewhatblurred.Whileonecanseewhysomeauthorsstudy-
+studyofsocialcomplexitybydefiningitsmaincomponentsas ing vertebrates also emphasize cooperative breeding as a key
+wellastheirproximateandultimaterelationships. criterionforassessingthedegreeofsocialcomplexitytohigh-
+light similarities with social insects, different non-cooperative
+breeders have also been characterized as “highly social” (e.g.,
+Patterns of social complexity and their KellyandGoodson2015;Markhametal.2015;Reisingeretal.
+underlying processes 2017),oftenwithoutanexplanationforthisclassification.Only
+“communal breeding,” as originally defined for invertebrates
+Anyonestaringatabusyantcolony,witnessingtheversatile (Michener 1969),has been consistently used to classify verte-
+flightmaneuversofaflockofstarlingsorobservingtheman- brate societies (with respect to the number of co-breeding fe-
+ifold interactions among the members of a primate group, males:Brown1978;Doodyetal.2009;Clutton-Brock2016).
+mustbeimpressedbythelevelofbehavioralcomplexityex- Lastbutnot least, vertebrate socialcomplexity hasoften been
+hibitedbytheseandmanyotheranimalspecies.Itistherefore operationalized as variation in group size (e.g., Dunbar and
+notsurprisingthatthecurrentliteratureonthestudyofanimal Shultz2007;Freebergetal.2012),whereasgroupsizevariation
+societies has increasingly included reference to their social has played a smaller role in studying insect social complexity
+complexity.However,researchersstudyingdifferenttaxahave (but see, e.g., Bourke 1999; Ferguson-Gow et al. 2014;
+been using different criteria and technical terms to define FeinermanandTraniello2016).
+levels of social complexity (Rubenstein and Abbot 2017b), Wethereforelackbothageneralconceptofwhichfeatures
+with a pronounced divide between studies of invertebrate ofasocialsystemcontributetosocialcomplexity,whetherand
+andvertebratesocieties(RubensteinandAbbot2017a). howtheycanberankedinanymeaningfulway,andwhethera
+Presumably,goingbacktothenotionofanaturalprogres- single framework can accommodate studies of both inverte-
+sionofsocietiesfromsimpletomorecomplexonesfirstpro- bratesandvertebrates.Additionalinterestingquestionsinthis
+posedbySpencer(1895),classificationofthesocialsystems context address the processes, correlates, consequences, and
+ofsocialinsectshasalwaysinvokedagradientofincreasing evolution of social complexity. I will address each of these
+social complexity (Wheeler 1910, 1928) based on the aspects below after outlining a general concept of social
+presence/absenceofthreekeyfeatures.Specieswithoverlap- complexity.
+ping generations, cooperative brood care, and reproductive
+division oflabor, which not onlyare widespread among hy- Definingsocialcomplexity
+menoptera and termites but also found in beetles, aphids,
+thrips, and shrimp, have been defined as “eusocial” (Batra Very generally speaking, complexity is the opposite of sim-
+1966)andarewidelyconsideredtorepresentthehighestlevel plicity.Asystemissaidtobecomplexifitspartsareneither
+of sociality or social complexity. Species exhibiting various arranged completely randomly nor completely ordered.
+combinations of permutations of only one or two of these Accordingtoaverygeneraldefinition,whichalsoappliesto
+traits have been classified as solitary, subsocial, communal, phenomena in physics or molecular biology, for example,
+quasi-, or semisocial, respectively (Michener 1969; Wilson “complexsystemsaremadeupofmultiplepartsthatinteract
+1971; Crespi and Yanega 1995; reviewed in Dew et al. inmultipleways,generatingnon-linearemergenteffectsthat
+2016; see also Costa and Fitzgerald 2005) and therefore as are greater than the sum of its parts” (wikipedia.org). These
+representing less socially complex or somehow less social aspects are also evident in a recent definition of social
+
+--- PAGE BREAK ---
+
+BehavEcolSociobiol(2019)73:13 Page3of14 13
+complexity: “Complex social systems are those in which complexity that is independent of the emergent properties
+individuals frequently interact in many different contexts due to variation in group size alone (Dunbar and Shultz
+with many different individuals, and often repeatedly 2010). However, the complexity of social interactions is not
+interact with many of the same individuals over time” completelyindependentofgroupsizebecausethenumberof
+(Freeberg et al. 2012). Thus, the number of individuals and individualsananimalcaninteractwithincreaseslinearlywith
+their interactions represent two key components of social group size and because the number of all potential dyads
+complexity,sothatapair-livingspecieswithvirtuallynoso- among group members increases exponentially with group
+cial interactions represents a baseline of social complexity size.Whenthesameindividualsinteractrepeatedly,theemer-
+(DröscherandKappeler2013). gentpropertiesoftheserepeatedinteractionscanbedescribed
+Because species in which adult individuals lead solitary associalrelationships(Hinde1976),which,inturn,candiffer
+lives are typically not in the focus of studies of social com- inatleastsevendimensions(frequency,diversity,symmetry,
+plexity, the “number of individuals aspect” usually refers to tenor, tension, predictability, and stability; Silk et al. 2013).
+thesizeofgroupsorothersocialunits.Variationingroupsize Social complexity is also enhanced by interactions that in-
+isakeydeterminantofsocialcomplexitybecauseitcanaffect volve more than two individuals simultaneously, creating,
+group cohesion, group composition (especially the adult sex for example,opportunities for audience effects (Zuberbühler
+ratio), association patterns, and reproductive skew, all of 2008), eavesdropping (Valone 2007) and coalitionary inter-
+which arguablycontributetosocialcomplexity. Specifically, vention(HarcourtanddeWaal1992).
+with increasing group size, there is more potential for a de- Socialinteractionsandrelationshipscontributetomoresocial
+crease in spatio-temporal cohesion, and thus an increasing complexitywheninteractionstakemultipleformsandoccurin
+potential for fission-fusion dynamics (Aureli et al. 2008; differentcontexts,whenindividualsrecognizeeachother,mem-
+Couzin and Laidre 2009), because more individuals have orizepastinteractions,havemanyopportunitiestointeractwith
+more options for distributing themselves in space and time. thesameindividualsagaininthefuture,andiftheymodifytheir
+Moreover, larger groups also have a greater potential for behavior in response to previous interactions (de Waal and
+multi-levelstructuring,i.e.,thepresenceofmultiplefunctional Tyack 2003). Variation in these aspects of social interactions
+subunits (Grueter et al. 2012) and patterns of spatial assort- depends foremost on the type of group, i.e., whether they are
+ment (Farine et al. 2017), whereas the potential for larger transient aggregations or permanent societies, as well as on
+changesintheadultsexratiodecreaseswithincreasinggroup lineage-specific life history traits, especially longevity. These
+size(Kappeler2017).Furthermore,largergroupsineusocial factorsbroadlyexplain,forexample,whydolphinsandravens
+speciesarecharacterizedbyareductioninworkers’reproduc- havericherandmorediversesocialinteractionsthanherringor
+tive potential, the degree of caste determination, and the in- termites.Importantly,thepatterningandnature ofsocialinter-
+tensityofreproductiveconflict(Bourke1999). actionsarefunctionallyrelevantbecausefitnessofindividualsin
+In terms of processes contributing to social complexity, group-living species depends in part on the outcome of their
+there is much interspecific variation in whether individuals interactions with other group members (Silk 2012), which is
+form groups or not, in the optimal size of groups, in how highlyunpredictablebecauseconspecificsdifferinmultiplein-
+stable and permanent groups are in space and time, in ternalandexternalstatesaswellasintheirsocialcompetence
+whether social units contain members of different (TaborskyandOliveira2012).Thus,variationnotonlyingroup
+generations, in whether males and females are permanently sizebutalsoinbehavioraltraitscontributingtosocialcomplex-
+associated, and in the adult sex ratio of group members. ityhasfitnessconsequences.
+Intraspecific variation in these traits has remained Whereasthereisabroadconsensusaboutthecontribution
+understudied even though Lott (1991) highlighted its preva- of social interactions and relationships to social complexity,
+lenceandsignificancedecadesago.Thevariousultimatecosts there is some controversy about the relative importance of
+andbenefitsmodulatingcorrespondingvariationamongspe- processesofself-organizationinthiscontext.Thisdiscussion
+cieshavebeenrelativelywellstudiedbybehavioralecologists has two components. One is concerned with the question
+(Pulliam and Caraco 1984; van Schaik and Kappeler 1997; whetherandtowhatextentprocessesofself-organizationcon-
+ConradtandRoper2000;KrauseandRuxton2002;Székely tributetoobservedpatternsofcomplexityinsocialstructure.
+et al. 2014), however, and the proximate behavioral mecha- Self-organizationisnowrecognizedasanimportantdetermi-
+nisms generating this variation are largely studied as demo- nantofhighlystructuredcollectivebehaviornotonlyinsocial
+graphicandlifehistoryvariables,suchasbirths,deaths,mat- insects(Bonabeauetal.1997;Fewell2015)butalsoinverte-
+uration,anddispersalevents(Greenwood1980;Geffenetal. brates on the move (Couzin and Krause 2003; Farine et al.
+1996;Anconaetal.2017). 2017),foragingbehavior(Farineetal.2014;Heetal.2019),
+Eventhoughquantitycanhaveaqualityallitsown,ithas dominance hierarchies, and other differentiated relationships
+longbeenrecognizedthatthenatureandpatterningofsocial (Hemelrijketal.2008,2017;Franzetal.2015).Thus,simple
+interactions contributes a qualitative component to social
+
+--- PAGE BREAK ---
+
+13 Page4of14 BehavEcolSociobiol(2019)73:13
+behaviors at the individual or dyadic level can give rise to based on a given number of individuals and a given type of
+complexpatternsatthegrouplevel. behavioralvariable(Krauseetal.2007;FarineandWhitehead
+Themorecontroversialcomponenthastodowiththepu- 2015; Kurvers et al. 2014; Weiss et al. 2019), but in most
+tativerequiredcognitiveunderpinnings.Therichdiversityof studies, only one behavioral variable has been included at a
+complexsocialrelationships,particularlyinprimatesandoth- time and, more importantly, the resulting network metrics
+ermammals,hasbeenattributedto,oratleastassociatedwith, cannoteasilybecomparedbetween groupsofthe samespe-
+enhancedbrainsizeandspecialcognitiveabilities,suchasthe cies, let alone across species. Dynamic (Farine 2018) and
+attribution of mental states to others (Seyfarth and Cheney multi-layersocialnetworks(Boccalettietal.2014)maypro-
+2015), according to some authors (e.g., de Waal and Tyack vide a promising future option for generating more compre-
+2003;Sewall2015;Plattetal.2016),whereasothersempha- hensive objective measures of social complexity, however.
+size the fact that complex patterns can be reproduced with Thus,atthemoment,thereisnosinglecomprehensivemea-
+relativelysimplemodelsand,hence,withoutanyspecialcog- sureorindexofanimalsocialcomplexitythatcanbeusedfor
+nitiveabilities(e.g.,Barrettetal.2007;Hemelrijketal.2017; meaningfulinterspecificcomparisonsorrankings.
+KershenbaumandBlumstein2017).Thisapparentcontrover- Humans provide an interesting exception in this context,
+symightberesolvedbymoredetailedandcarefulanalysisof however,becausetheyexhibitmassiveintraspecificvariation
+which specific behavior patterns require which specific cog- in social complexity that has additionally also changed over
+nitiveabilities. time. In the past, scholars in history, archeology, sociology,
+anthropology, and other related disciplines have used very
+Quantifyingsocialcomplexity different and mostly single measures of social complexity
+(population size: Marquet et al. 2012; Vaesen et al. 2016;
+If it is interesting or meaningful for a specific question to group size: Derex et al. 2013; warfare: Turchin et al. 2013;
+comparelevelsofsocialcomplexityacrossspecies,werequire connectednessofpopulations:Muthukrishnaetal.2013;age
+ascalethatideallyintegratesmeasuresofbothgroupsizeand structure:Lienard2016).Arecentmulti-disciplinarycollabo-
+relationshipdiversity.Mostpreviousstudieshavefocusedon rativeprojectthatalsoincludedevolutionarybiologistsuseda
+either one of these measures, however. Blumstein and listof51variablesthatreflectthesizeandhierarchicalcom-
+Armitage(1998)proposedanindexofsocialcomplexitythat plexity of social units along with some human-specific fea-
+integratedinformationoninterspecificvariationintherepre- tures,suchastheinformationandmonetarysystem(Turchin
+sentationofdifferentageandsexclasses.Thisindextherefore et al. 2018). Surprisingly, a single principal component cap-
+includedmoreinformationthangroupsizealone,butitdidnot tured 77% of the variance among more than 400 societies
+account for social interactions. Avilés and Harwood (2012) from 30regions around the world, indicating not onlyinter-
+proposedacontinuousindexofsocialitybaseduponmeasures estingfunctionalrelationshipsamongthesevariables,butalso
+ofphilopatry,groupingtendencies,andthetendencyofindi- thatitshouldbepossibletodevelopreliablemeasuresofso-
+viduals to contribute to reproductive altruism. This index, cialcomplexityforanimalsocietieswithsimilarproceduresas
+however, is only applicable to cooperative breeders because well.
+ofitsthirdcomponent,whichrequiresintraspecificvariation
+insociality(proportionofnestorcoloniesconsistingofsoli-
+Acenturyof“social’ism”
+tary and multiple adult individuals). This sort of variation is
+rareorpoorlydocumentedinmostanimallineages,and this Given these practical difficulties with developing a compre-
+index ignores sex differences in philopatry, which are hensivequantitativeindexofoverallsocialcomplexity,asys-
+commonamongvertebrates. tematic qualitative inventory of social and life history vari-
+Othermeasuresofsocialcomplexityfocusedonsocialre- ables may provide a basis for a meaningful ranking and for
+lationships.BergmanandBeehner(2015)recommendedthat identifying key factors in different taxa. Most such existing
+socialcomplexity should be measured asthe number of dif- comparisons focused on particular lineages (e.g., Wilson
+ferentiatedrelationshipsthatindividualshave,where“differ- 1971; Smuts et al. 1987; Connor et al. 1998; de Waal and
+entiatedrelationshipsarethosethatcanbedistinguishedbyan Tyack2003;WolffandSherman2007),whichhastheadvan-
+observer.” This proposal does not acknowledge variation in tage of controlling for variation in fundamental life history
+groupsize,however,anditmaygeneratedatathataredifficult traits.Thus,comparisonsoflevelsorcategoriesofsocialcom-
+tocompareacrosstaxabecauseoftheunspecificnatureofthe plexityamongmammalsoramongcarnivoresmightbeboth
+operationalrecommendation,however.Fischeretal.(2017b) easierandmoremeaningfulthancomparisonsacrossallver-
+proposeda morespecificprocedure toquantifythe diversity tebratesoranimals.Onlyonerecentresearchprogramoffered
+of differentiated relationships among group members, but it abroadcomparativeperspectivecoveringallmainsociallin-
+didnotincorporateinformationongroupsizeeither.Finally, eages(RubensteinandAbbot2017c).Apartfrommanynew
+social network analyses can generate a number of metrics insights about social evolution (Rubenstein and Abbot
+
+--- PAGE BREAK ---
+
+BehavEcolSociobiol(2019)73:13 Page5of14 13
+2017b),thisbroadcomparisonalsohighlightedakeyproblem kintiesandreproduction.Espinasnotonlyhadasurprisingly
+of comparative studies: inconsistent definitions and profoundmodernunderstandingofanimalsocietiesgiventhe
+operationalization of key social traits across studies hamper available information at the time, but he also distinguished
+bothgeneralandquantitativecomparisons. betweentemporaryandpermanentgroups,and,indiscussing
+The arbitrary use of“social” in combination withvarious interspecific variation in their size and composition, consis-
+nounsliesattheheartofthisproblem.Socialbehavior,social tentlyusedtheterm“organization”(e.g.,onp.491).Healso
+structure, socialorganization, social system, socialroles, so- noted variation among societies in their “complexité
+cialstrategies,andseveralothersimilartermshavebeenand organique” and considered the social organization of mam-
+are being used to refer to both the same and very different mals to be “a little bit higher.” Paul Deegener (1918) also
+aspectsofsocialityindifferentstudies.Inparticular,thetwo emphasized the difference between “accidental” and “essen-
+maincomponentsofsocialcomplexity—groupsizeandcom- tial” societies, but his complete classification scheme pro-
+positionaswellaspatternsofsocialrelationships—haveboth posed 92 categories of social organization (he only used the
+been referred to as social organization and social structure, term“Gesellschaften,”i.e.,“societies”)expressedinunwieldy
+making it impossible to infer from the title of a study alone Greekterminology.
+whichaspectwasexamined.Sometimes,thesetermsareeven Inthetwentiethcentury,Wheeler(1910)providedthefirst
+usedsynonymouslyinthesamepaper(see,e.g.,Nandinietal. comprehensive description of the “social habit” of ants and
+2017forarecentexample)ortodefineeachother(see,e.g., other insects, a term adopted by Allee (1927), who also
+McFarland 2014). This rampant “social’ism” creates at least discussed the evolutionary origins of “more advanced forms
+threefundamentalproblems. of social life.” Allee was mainly concerned with group size
+First,incontrastto say physicists, neurobiologists,orim- and composition and compared levels of complexity (“the
+munologists, which study clearly defined nuclear particles, highest type of social organization, such as occurs in ants
+brainregions,ormolecularprocesses,respectively,asstudents andtermites,….”),buthealsoused“socialstructure”torefer
+of social behavior, we jeopardize our scientific reputation in tothesametraits,inbothcaseswithoutdefiningeitherterm.In
+boththescientificcommunityandthepublicatlargebecause a later paper, Allee (1942) discussed data on dominance in
+we can apparently not agree on even the most fundamental birds and mice and used “group organization,” “social orga-
+definitionsofourstudyobjects.Second,thelackofagener- nization,”andsocialstructuretorefertotheobservedhierar-
+ally agreed upon vocabulary also hampers conceptual prog- chies. Similarly, Scott (1956) referred to the description of
+resswithinourowndiscipline,wherevariousformalandver- basic patterns of social behavior and their organization into
+balmodels(e.g.,NonacsandHager2011;Clutton-Brockand social relationships as the study of social organization.
+Janson2012)haveplayedimportantrolesinguidingresearch, Influential early papers in behavioral ecology (e.g., Crook
+butdifferentscholarsusedifferenttermsforthesamemodel 1970) also used social structure and social organization to
+components.Finally,alackofconsensusonhowtolabeland refer to group size and composition as well as to
+definedifferentfeaturesofasocialsystemcomeswiththerisk interindividualrelations.ItwasnotuntilPeterJarman(1974)
+that variables with the same label (e.g., “monogamy”) may consistentlyreferredtogroupsizeandcompositionassocial
+contain different measures (in this example pair-living, pair- organization,andRobertHinde(1976)providedacleardefi-
+bonding,geneticmonogamyandsolitarybreeding;Kappeler nitionofsocialstructure,whichheusedconsistentlytoreferto
+2014;Tecotetal.2016),leadingtoanenhancedriskforcom- the emergent patterning of dyadic social relationships, that
+parative studies to reach different conclusions even though socialterminologywasusedmorecarefully,however.
+theyare based onthe sameprimarystudies(see, e.g., Lukas
+and Clutton-Brock2013; Opie etal. 2013).I thereforethink Thecomponentsofsocialsystems
+that there is an urgent need to agree upon commonly used
+definitions in the study of animal sociality. As in taxonomy, Based on the historical precedency of key terms discussed
+wheredifferentnameswereoftenproposedforthesamespe- above, I advocate the consistent use of the following terms to
+ciesbydifferentauthors,theprincipleofpriorityshouldalso describe and study the components of the Social system of a
+provideobjectiveguidanceontheproperuseofexistingsyn- species(seeFig.1andalsoKappelerandSchaik2002).Social
+onymsinthestudyofanimalsociality. organizationreferstothesizeandcompositionofasocialunit.
+So,whointroducedanddefinedthekeytermscharacteriz- These are two demographic features that can simply be deter-
+ing a social system? The first comparative discussion and mined(assumingdifferentage/sexclassesareeasilydistinguish-
+classification of animal societies were conducted by Alfred able) without knowing or assuming anything about how these
+Espinas(1878),whodistinguishedbetween“accidental”and individuals interact with each other. In describing patterns of
+“normal”societies,ofwhichherecognizedtwotypes(primi- social organization, it is necessary to identify these species-
+tiveandadvanced),andcontrastedbothofthesewithgroups specificsocialunits,suchassolitaryindividuals,pairs,aggrega-
+(“peuplades”),whichare,accordingtohim,heldtogetherby tions, colonies, groups, or societies. A fundamental distinction
+
+--- PAGE BREAK ---
+
+13 Page6of14 BehavEcolSociobiol(2019)73:13
+Social system
+Social organiza(cid:2)on Social structure Ma(cid:2)ng system Care system
+Group size
+Social interac(cid:2)ons Who mates?
+Group composi(cid:2)on Who cares?
+Communica(cid:2)on Who reproduces?
+Kinship pa(cid:3)ern
+Solitary
+Social rela(cid:2)onships Ma(cid:2)ng pa(cid:3)ern Parental care
+Pair living
+Social bonding Reproduc(cid:2)ve skew Allo-parental care
+Group living
+Singular vs. plural breeding
+Spa(cid:2)al varia(cid:2)on Dominance hierarchy
+Alterna(cid:2)ve reproduc(cid:2)ve Coopera(cid:2)ve breeding
+Temporal varia(cid:2)on Communica(cid:2)ve
+tac(cid:2)cs Helper dynamics
+Sexual segrega(cid:2)on complexity
+Reproduc(cid:2)ve division of Caste polymorphism
+Adult sex ra(cid:2)o Between-group rela(cid:2)ons
+labor
+Fig. 1 A framework for the study of social systems and social thatprovideageneralcharacterizationofagivenspecies.Thebottomrow
+complexity.Thefirstrowindicatesthefourcorecomponentsofasocial lists more specific aspects that contribute to social complexity. The
+system.Thesecondrowliststhemainvariablesorquestionsaddressedby differentiationbetweenrows2and3issomewhatarbitrary,whereasthe
+eachcomponent.Thethirdrowcontainskeyfeaturesofasocialsystem separationintodifferentcolumnsisnot.Seetextfordetailedexplanation
+existsbetweensolitaryindividualsandthosethatspendthema- coalitionsorredirectedaggression,andagonisticinteractionscan
+jorityoftheiractivityperiodinassociationwithatleastoneother befollowedbypost-conflictinteractions,suchasreconciliation
+adultconspecific.Non-solitarysocialunitscanbeoperationally or consolation, that enhance social complexity (Aureli et al.
+definedas“asetofanimalsthatinteractregularlyandmoreso 2012).Becauseactsofintraspecificcommunicationalsorepre-
+with each other than with members of other such groups” sentformsofsocialinteraction,Iconsidercommunicativecom-
+(Struhsaker1969),whereinteractioninthiscontextshouldrefer plexity to constitute a core aspect of social structure (see also
+toassociation.Variationinspatialcohesionortemporalpersis- Wilson1971),ratherthanaseparateentitybeingdrivenbysocial
+tencemaymakethistaskoperationallychallenginginsometaxa, complexity (see below). An often neglected aspect of social
+however(e.g.,Whitehead2008;SchneiderandKappeler2016). structure concerns relationships between neighboring social
+Thesmallestgroupsizeequals2;thelargestanimalgroupscan units, which can vary massively in mutual tolerance (Willems
+include millions of individuals (Parrish and Edelstein-Keshet andvanSchaik2015).Matingsandothersexualinteractionsare
+1999). Group composition will typically refer to the sex and excluded from the set of social interactions as they define a
+age of group members, which are also often strong predictors distinct functional component of the social system. Social net-
+ofkinrelations.Additionalaspectsofthegeneticstructureofa work analyses and other methods provide modern quantitative
+socialunitcanbeinferredfrombehavioraldata(whodisperses? measures of different dimensions of social structure, including
+Whichsexisphilopatric?),whereasmorefine-graineddescrip- their temporal dynamics (Krause et al. 2007; Neumann et al.
+tionofkinshippatternsrequiresgeneticanalyses. 2011; Farine 2018) and the relative importance of direct and
+Socialstructureisdefinedbythecontent,quality,andpattern- indirectsocialrelationships(Brent2015).
+ing of social relationships emerging from repeated interactions Because mating interactions have direct fitness conse-
+betweenpairsofindividualsbelongingtothesamesocialunit.In quences,and because there isno1:1 relation between social
+species where individuals interact little, often in very similar organizationandmatingpatterns(KappelerandSchaik2002;
+forms and in the same contexts, it is not possible to identify RubensteinandAbbot2017a),theMatingsystemrepresentsa
+differentiated relationships because these species also typically distinctcomponentofeverysocialsystem.Studiesofmating
+lack individual recognition. Social bonds represent a subset of systems can yield information on the identity and average
+differentiated relationships with particular characteristics (high numberofmatesofmalesandfemales.Thesedatabasedon
+affiliation and low agonism) and often have functional impor- behavioral observations can be complemented with genetic
+tance(Silk2012;Silketal.2013;SeyfarthandCheney2015). data to reveal who actually reproduced (i.e., who fertilized
+Dominancerelationshipsdevelopasaresultofrepeatedagonis- the eggs).The resulting emergentpatternsatthelevel ofthe
+ticinteractionsandrepresentafunctionallyimportantaspectof social unit allow classification of species as monogamous,
+social structure because they regulate access to resources and polygynous,polyandrous,orpolygynandrous(i.e.,promiscu-
+matesinmanyspecies.Insomespecies,dominancerelationships ous), adjectives that should not be used to refer to types of
+maybeestablishedorstabilizedbypolyadicinteractions,suchas social organization to acknowledge their conceptual
+
+--- PAGE BREAK ---
+
+BehavEcolSociobiol(2019)73:13 Page7of14 13
+separation. For most species, it will be easy to determine criterion,e.g.,>50,67,or75%,seemsindicatedtocharacter-
+whether a single or multiple females breed and/or whether ize the modal social organization, mating, or care system.
+there isa reproductive division oflabor. However, interindi- Species in which otherwise solitary individuals occur only
+vidualvariationinmatingandreproductivesuccessoftenre- temporarily in association (Psorakis et al. 2015), individuals
+quiremoredetailedstudiestodeterminepatternsofmaleand associateduringtheirperiodofinactivityandaresolitarydur-
+femalereproductiveskew,Batemangradientsortheexistence ing their period of activity or vice versa (Kappeler 2012),
+ofalternativereproductivetactics. social organization changes seasonally (breeding pairs vs.
+Finally,becausethecategoriesofsocialsystemsdefinedby winterflocksin some songbirds, Aplin etal. 2015),or were
+specialists studying different taxa regularly also include as- malesandfemalesaresegregatedintodifferenttypesofsocial
+pects of parental care (Rubenstein and Abbot 2017b), I pro- organization for most of the year (Ruckstuhl and Neuhaus
+pose the Care system as the fourth component of a social 2002;WearmouthandSims2008)poseadditionalchallenges
+system. By detailing who cares for dependent young, infor- forsocialtaxonomythatstillrequireageneralconsensus.The
+mationoneithertheabsenceofparentalcareoronmaternal, frameworkoutlinedabovemaybeusefulforidentifyingand
+paternal, bi-parental, or allo-parental care can be provided. defininggenerallyagreeduponcriteria.
+Thiscomponentwillalsospecifythepresenceofcooperative
+breedingaswellascastepolymorphisminspecieswherethey
+play a role. Together, these four components define the cor- The evolution of social complexity
+nerstones ofa socialsystemand providea basis for the sys-
+tematicstudyofsocialcomplexity. Evolutionary questions about social complexity can be
+Afinalcommentonpracticaldifficultieswithstudyingany groupedintoatleastfourcategories.Theselectivefactorsthat
+orallcomponentsofasocialsystemisindicated.Thesediffi- giverisetovariationintraitsthatcontributetosocialcomplex-
+cultiesarise fromthe factthatany empirical study including ity have always been in the focus of behavioral ecologists.
+several social units is bound to find variation among them. More recently, a new line of research has begun to explore
+Thus, a key problem for making general statements about the genetic and other proximate mechanisms facilitating or
+“thesocialsystemofspeciesx”aswellasforextractingdata accompanying evolutionary changes in social complexity.
+from primary studies for quantitative comparative studies is Anotherdistinctsetofquestionsdealswithevolutionarytran-
+howtodealwithintraspecificvariation(see,e.g.,Lukasand sitionsintraitscharacterizingsocialcomplexityandtheirco-
+Clutton-Brock 2017; Schradin 2017). This variation exists evolution. Finally, a large body of literature has examined
+amongneighboringsocialunits,withinsocialunitsovertime, consequencesandcorrelatesofvariationinsocialcomplexity
+and sometimes among different populations of a given spe- forothertraits,especiallybrainsize.
+cies.Incaseswheresuchvariationismeasuredonacontinu-
+ousscale,suchasgroupsizeorgroomingrates,theappropri- Variationinsocialsystems
+ate descriptive statistic suchasthe medianorthe(weighted)
+meancanbereportedand used, respectively.Repeatedmea- First,theselectivefactorsandevolutionarymechanismsgiv-
+suresofthesamesocialunitsovertime,whichareincreasing- ingrisetovariationinthecorecomponentsofsocialsystems
+lyavailablefromlong-termstudies,requireajustifiedcriteri- haveconstitutedareasofintensiveresearchinbehavioralecol-
+onfornon-independencesothatdataongroupsize,adultsex ogy from the beginning (Winn 1958; Klopfer 1962; Crook
+ratio,orthenumberofhelpers,forexample,canbeusedfor 1964;KrebsandDavies1981).Apartfromgeneralprinciples,
+determiningtheappropriatecentraltendencies.Itwilllargely this line of research also revealed and emphasized taxon-
+depend on the species’ life history whether such repeated specific factors that influence the balance of the factors that
+measureswillbestatisticallyindependentafteraweek,month, impactvariationinthesize,compositionandspatio-temporal
+year,orevenlongerperiods. stability of social units. The list of factors that determine
+Incaseswhereintraspecificvariationoccursonacategor- whetherindividualsofagivenspeciesliveingroupsorpairs,
+icalscale,classificationcanbemorechallenging.Inclassify- ornot,istodaybasictextbookknowledgeinbehavioralecol-
+ingaspeciesaseithergrouporpairliving,forexample,spe- ogyanddoesnotrequirerepetitionhere(KrauseandRuxton
+cies that switch between these two states from year to year 2002;Daviesetal.2012).Moreover,interspecificvariationin
+(e.g.,stripedmice:Schradin2013),haveadjacentgroupswith socialstructurehasbeenmainlystudiedinprimatesandother
+eithersocialorganization(callitrichids:Garberetal.2016),or mammals, where the nature of food competition as well as
+exhibitotherpatternsofintraspecificvariation(Lott1991)are phylogenetic similarity have been identified as the most im-
+difficulttoclassify.Asimilarproblemisoftenencounteredin portant ultimate determinants of variation in social structure
+nominally pair-living species where a certain proportion of (Stercketal.1997;Clutton-BrockandJanson2012).
+socialunitsincludesanadditionaladultmaleorfemale(e.g., Furthermore,theevolutionofmatingsystemshasalsobeen
+Kappeler and Fichtel 2016). In those cases, a majority a classic topic for behavioral ecologists, who identified the
+
+--- PAGE BREAK ---
+
+13 Page8of14 BehavEcolSociobiol(2019)73:13
+distributionofreceptivefemalesinspaceandtimeasfunda- beginningtobeaddressedinbothvertebratesandwithrespect
+mental determinants of interspecific variation in mating sys- to physiological mechanisms as well (Rubenstein and
+tems (Emlen and Oring 1977; Greenwood 1980; Thornhill Hofmann2015;TaborskyandTaborsky2015).
+and Alcock 1983; Clutton-Brock 1989; Shuker and
+Simmons2014).Whichsex,ifany,providesparentalcareis Evolutionarytransitions
+broadly predicted byparticular lifehistory constraints defin-
+ing higher taxa, such as internal vs. external fertilization, Third,howsocialcomplexityhasbeenmodifiedacrosstime
+oviparyvs.vivipary,litterorclutchsize,orlactation,buteco- and taxa can be studied by various comparative approaches
+logical factors, adult sex ratios, and kinship play additional andmethods.Afundamentalquestioninallcomparativeanal-
+roles (Clutton-Brock 1991; Reynolds et al. 2002; Hughes ysesconcernsthedegreetowhichasocialtraitiscorrelatedto
+et al. 2008; Kokko and Jennions 2008; Gilbert and Manica phylogeny.Traitswithrelativelyweakphylogeneticsignalare
+2015).Finally,whetherallo-parentscontributecarefordepen- freetovarymoreinresponsetoecologicalandsocialfactors,
+dentyounghasalsobeenexplainedbyacombinationoflife whereasstronglyphylogeneticallyconstrainedtraitsmightbe
+history traits and ecological traits (Rubenstein and Lovette lessflexibleand therefore lesslikelytoincreasesocialcom-
+2007; Hatchwell2009; Wong and Balshine 2011; plexity (Kappeler et al. 2013). Compared to morphological
+Cornwallisetal.2010;LukasandClutton-Brock2012;Shen and physiological traits, behavioral and social traits tend to
+etal.2017).Anymoderntextbookonanimalbehaviorattest exhibit relatively weak phylogenetic signal, however
+totheenormousprogressmadetowardsadetailedunderstand- (Blomberg et al. 2003; Kamilar and Cooper 2013; Strier
+ing of the many causes of variation in social systems and, et al. 2014). Moreover, reconstructing the presence/absence
+hence,socialcomplexityacrossspecies. ofanaspectofsocialcomplexityonthephylogenyofagiven
+lineagecanrevealthedirectionalityofevolutionarytransitions
+Proximateunderpinnings and therefore disclose whether social complexity increased
+(more easily) through certain stepping stones or whether
+Second,becausesocialcomplexityevolvesinthesensethatit changesinanydirectionarepossibleateveryspeciationevent.
+variessystematicallyamongspeciesandhighertaxa,itscon- Suchrecentanalysesrevealed,forexample,thattheevolution
+stituentcomponentsmusthaveageneticbasis.Afairlyrecent of family-living in birds was a pivotal precondition for the
+lineofresearchhasthereforebeguntoilluminatethegenomics subsequentevolutionofcooperativebreeding(underparticu-
+of social evolution by examining the molecular changes ac- larecologicalconditions)(Griesseretal.2017)andthateuso-
+companyingevolutionarytransitionsamongdifferenttypesof cialandcommunallybreedingsnappingshrimpevolvedinde-
+social organizations (Robinson et al. 2005; Kapheim 2016, pendentlyfrompair-livingancestors(Chaketal.2017).
+2019).Becauseanincreasingamountofgenomicinformation It is also possible to reconstruct the co-evolution of an
+hasbecomeavailableforhymenopteraandtermites,thegeno- aspect of social complexity and a life history or ecological
+micsourcesofphenotypicsocialnoveltyhaveprimarilybeen trait to identify preconditions for major shifts insocial com-
+studied by comparing closely related solitary and eusocial plexity,andtheoreticalmodelscanpredictcertaincontingen-
+insect species (Korb et al. 2015; Kapheim 2016). The key ciesinsocialevolution(e.g.,QuiñonesandPen2017)thatcan
+question in this context is whether the evolution of social betestedwithsuchcomparativestudies.Forexample,insqua-
+complexity(ornewtypesofsocialbehavior)reliesongenes mate reptiles, vivipary has been a crucial precursor in the
+with new functions, changes in gene regulation, or both evolution of permanent groups containing both adults and
+(RobinsonandBen-Shahar2002).Comparativestudiesacross juveniles (Halliwelletal. 2017),and instingless bees, a dif-
+severalsolitaryandeusocialinsectspeciesindicatedthatkey ferentiated soldier caste evolved in association with the ap-
+changesingeneregulationmayhaveevolvedindependently pearanceofparasiticrobberbees(Grüteretal. 2017).Inhy-
+in ants and (honey) bees, whereas changes in gene function menopterainhabitinganecologicalgradientofhabitats,eco-
+may have allowed for subsequent taxon-specific social and logicalconstraintsanddevelopmentalrateswerefoundtopre-
+ecological adaptations (Simola et al. 2013), but across bees, dictpredominanttypesofsocialsystematdifferentelevations
+for example, there is no single road map to eusociality, i.e., (Kocheretal.2014),indicatingthatdifferentfactorspromote
+independentevolutionarytransitionsinsocialorganizationare the emergence of different aspects of social complexity in
+basedondifferentgeneticmechanisms(Kapheimetal.2015). independentlineagesandthatwearenowhereneartohaving
+Interestingly, in bee species with greater social complexity, acompletelistofrelevantfactors.
+many important genes show evidence of neutral evolution, Abetterunderstandingoftheevolutionofsocialcomplex-
+indicating relaxed selection. Integration of proposed mecha- itycanalsobeachievedbystudyingtheco-evolutionofdif-
+nismsatthegenetic,developmental,andbehaviorallevelthat ferent components of social systems (Elgar 2015).
+accompanychangesinsocialorganizationisnowanexciting Correlations between group size and the size of a species’
+taskforfutureresearch(RehanandToth2015)andonethatis vocal repertoire or other communication signals represent
+
+--- PAGE BREAK ---
+
+BehavEcolSociobiol(2019)73:13 Page9of14 13
+themostcommonlystudiedresearchquestioninthiscontext. indicates the existence ofmultiplemutualcontingencies that
+For example, comparative analyses revealed that among deserveadditionalstudyinthefuture.
+halictid bees, eusocial species have more elaborate sensorial
+machinery linked to chemical communication than solitary
+species(Wittweretal.2017).Thereisalsoevidencesuggest- Sowhat?
+ing thatodorprofiles and other aspects ofsignalcomplexity
+may alsobemoreelaborate ineusocialcomparedtosolitary Finally,whereassocialcomplexityposesmanyquestionsthat
+species (Leonhardt et al. 2016; Wenseleers and Zweden makeitsstudyinterestinginitsownright,thequestionabout
+2017).Similarpositiverelationshipsbetweenmeasuresofso- its consequences addresses an important conceptual point,
+cial and communicative complexity have been reported for namely“Dospeciesdifferencesinsocialcomplexityactually
+birds (Krams et al.2012; Leighton 2017) and mammals matter?”Doesthefactthatwecanrankspeciesaccordingto
+(PollardandBlumstein2012;Bouchetetal.2013)andhave different levels of social complexity explain or predict any-
+recently been reviewed elsewhere (Pollard and Blumstein thinginteresting,ordoesitsimplyreflectahumantendencyto
+2012; Peckre et al. 2019, topical collection on Social classify, group and rank natural entities? A more cynical in-
+complexity;seealsoPika2017). terpretationholdsthatreferringprominentlytohigherlevelsof
+socialityorsocialcomplexitymaysimplybepartofastrategy
+topublishinhigh-profilejournals.
+Co-evolutionofsocialsystems Two interesting consequences of social complexity have
+been proposed. First, relatively little attention has been given
+Otherrelationshipsbetweendifferentcomponentsofasocial to the notion that “the relationships that result from complex
+systemareexpected,suggestingtheyalsoco-evolvetogether socialgroupsarethoughttomakepossiblepro-socialbehavior
+(seealsoRubenstein2012).Forexample,agivensocialorga- like cooperation and reciprocity” (Freeberg and Krams 2015).
+nization will predict the mating system to some extent—a This hypothesis assumes that communicative complexity in-
+baboonspecieslivinginbisexualgroupsof50individualsis creaseswithsocialcomplexityaswellascognitiveprocessing
+unlikelytobemonogamous,forexample—andthereproduc- ability in the social domain, including contexts that require or
+tive consequences of living in single-male or multi-male facilitatecooperation.Thespecificexamplespresentedinfavor
+groups (Davies 2000) or in colonies of single or multiple ofthishypothesissofar(Kramsetal.2012)refertosituationsin
+queens (Keller 1995) have been studied in detail. However, which the recipient of a particular call can benefit from this
+because matings outside the social unit are widespread signalemittedbyagrouporflockmember.Moreformalcom-
+(WestneatandStewart2003;CohasandAllainé2009),intra- parativetestsofthishypothesismightrevealwhetherthespec-
+specificvariationineitherorbothcomponentsiscommonin ified links are robust in other taxa and modalities, potentially
+some lineages (Schradin 2013), and, because some species providinganotherexampleofhowdifferentcomponentsofso-
+change their social organization during the breeding season cialsystems,inthiscasetwocomponentsofsocialstructureas
+(WearmouthandSims2008),thetwocomponentsshouldbe definedandarguedabove,co-evolve.
+conceptuallyandterminologicallyseparated.Furthermore,the Second, the most-studied correlate of social complexity to
+socialorganizationmayalsopredictthecaresysteminsome date is brain size. There are at least five hypotheses that link
+cases—pair-living species are more likely to exhibit bi- brain size with some aspect of sociality (Dunbar and Shultz
+parental care—and the mating system, especially the degree 2017), and all of them assume that the cognitive demands for
+ofreproductiveskew,mayevenpredicatethetypeofparental managingandmonitoringsocialrelationshipshaveselectedfor
+care, particularly the presence of paternal care (Kokko and anincreaseinthesizeofthebrainoraparticularpartthereof.
+Jennions2008),butthereisnofixed1:1relationshipbetween Whilemostempiricalstudiestestingthesehypotheseshavebeen
+thesetwocomponentsofasocialsystem(e.g.,paternalcareis conducted with birds or mammals (Dunbar and Shultz 2007;
+absentinsomepair-livingspeciesandpresentinsomegroup- IslerandvanSchaik2009;Foxetal.2017),similarrelationships
+living species;e.g., Tecotetal. 2016).Moreover, interesting havenowalsobeenstudiedinsomeinvertebrates,whereresults
+relationshipsbetweensocialstructureandcomponentsofthe havebeeninconsistent(FeinermanandTraniello2016;Kamhi
+matingandcaresystemshavebeenidentifiedthatcorrespond etal.2016).Thesetypesofcomparativestudieshavebeencrit-
+tovariation inaverage levelsofkinship among group mem- icized on a number of grounds, however (Healy and Rowe
+bers(LukasandClutton-Brock2018).Finally,differentcom- 2007),andbrainsizevariationhasrecentlyalsobeenlinkedto
+ponentsofonecomponentofsocialsystems,suchasthedis- manyotherfactors,includingenergy(Weisbeckeretal.2015),
+persalregimeandgroupingpatterns,mayalsonotvaryinde- environmental change (Holekamp and Benson-Amram 2017),
+pendently (e.g., Strier et al. 2014), but such contingencies anddiet(DeCasienetal.2017).Becausemanyofthesestudies
+remainpoorlystudied.Thus,thefactthatthecomponentsof usedgroupsizeasthemainoronlymeasureofsocialcomplex-
+a social system do not vary arbitrarily at different levels ity, future studies using more specific measures of behavioral
+
+--- PAGE BREAK ---
+
+13 Page10of14 BehavEcolSociobiol(2019)73:13
+complexityandcognitivedemandsmayeventuallyresolvethis
+Evolution,”whichtookplaceinGöttingeninDecember2017,Claudia
+FichtelformanydiscussionsandLouisePeckre,FerencJordán,Dieter
+question.
+Lukas,PhyllisLee,andDanBlumsteinforexcellentcomments.Iwasa
+Thus, variation in social complexity matters for at least
+fellowattheWissenschaftskollegwhilethisreviewwasconceived.
+threereasons.First,itprovidesaframeworkforthecompre-
+hensiveandcomparativestudyofsociality.Theemergenceof Compliancewithethicalstandards
+sociality represents one of the major transitions in evolution
+(Maynard Smith and Szathmary 1995), so that studying the Conflict of interest The author declares that he has no conflict of
+evolutionofsocialcomplexityallowsidentificationofevolu- interest.
+tionary principles and patterns, and by exploring the proxi-
+OpenAccess ThisarticleisdistributedunderthetermsoftheCreative
+mateunderpinningsofsocialcomplexity,wecanlearnsome- Commons Attribution 4.0 International License (http://
+thingaboutcontrolandregulationofcomplextraits.Second, creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+understandingvariationinbrainsizeandtheattendantcogni- distribution,andreproductioninanymedium,providedyougiveappro-
+priatecredittotheoriginalauthor(s)andthesource,providealinktothe
+tive abilities are major questions in biology that cannot be
+CreativeCommonslicense,andindicateifchangesweremade.
+answeredbyneuroscientistsunfamiliarwiththesocialcontext
+inwhichthesetraitsfunctionandevolve.Finally,specieswith
+greatersocialcomplexityarealsoecologicallymoresuccess- Publisher’snote SpringerNatureremainsneutralwithregardtojuris-
+ful,asevidencedbytermites,hymenoptera,andourownspe- dictionalclaimsinpublishedmapsandinstitutionalaffiliations.
+cies, lending support to the notion thatecologicaland social
+adaptations are closely linked (see also Brooks et al. 2017;
+References
+Cornwallisetal.2017).
+AlleeWC(1927)Animalaggregations.QRevBiol2:367–398
+Allee WC (1942) Group organization among vertebrates. Science 95:
+Conclusions 289–293
+Ancona S, Dénes FV, Krüger O, Székely T, Beissinger SR (2017)
+Estimating adult sex ratios in nature. Phil Trans R Soc B 372:
+Socialcomplexityisakeyconceptinthestudyofanimaland
+20160313
+human sociality, but different disciplines and researchers
+Aplin LM, Farine DR, Morand-Ferron J, Cockburn A, Thornton A,
+workingoninvertebratesandvertebrateshaveuseddifferent Sheldon BC (2015) Experimentally induced innovations lead to
+definitions,concepts,andapproachesinthepasttostudyvar- persistentcultureviaconformityinwildbirds.Nature518:538–541
+iation in sociality. Humans provide the prime example for AureliF,SchaffnerCM,BoeschCetal(2008)Fission-fusiondynamics:
+newresearchframeworks.CurrAnthropol49:627–654
+intraspecific variation in social complexity, both in space
+AureliF,FraserON,SchaffnerCM,SchinoG(2012)Theregulationof
+andovertime,thathasremainedvirtuallyneglectedinanimal
+socialrelationships.In:MitaniJC,CallJ,KappelerPM,PalombitR,
+studies. Studies of invertebrate societies have always been Silk JB (eds) The evolution of primate societies. University of
+guidedbythenotionofdifferentwell-definedgrades,culmi- ChicagoPress,Chicago,pp531–551
+nating in eusociality, whereas comparative studies of verte- Avilés L,Harwood G (2012)A quantitative index of sociality and its
+application to group-living spiders and other social organisms.
+bratesocialcomplexityhavereliedonvariouscriteriaforclas-
+Ethology118:1219–1229
+sifyingandrankingspecies.
+BarrettL,HenziP,RendallD(2007)Socialbrains,simpleminds:does
+It is now generally recognized that social complexity is socialcomplexityreallyrequirecognitivecomplexity?PhilTransR
+influenced by both the number of individuals constituting a
+SocB362:561–575
+BatemanAW,OzgulA,CoulsonT,Clutton-BrockTH(2012)Density
+socialunitandtheirinteractionswitheachother.Buildingon
+dependence in group dynamics of a highly social mongoose,
+thisinsightandacknowledgingthevariousfunctionalcompo- Suricatasuricatta.JAnimEcol81:628–639
+nentsofsocialitythathavebeenusedforclassifyingspecies,I Batra S (1966) Nests and social behavior of halictine bees of India
+argue that social complexity can be more fully described by (Hymenoptera:Halictidae).IndJEntomol28:375–393
+referencetosocialorganization,socialstructure,matingsys- Bergman TJ, Beehner JC (2015) Measuring social complexity. Anim
+Behav103:203–209
+tem, and care system. These components of a social system
+BlombergSP,GarlandT,IvesAR,CrespiB(2003)Testingforphyloge-
+are conceptually and operationally distinct and offer the op-
+neticsignalincomparativedata:behavioraltraitsaremorelabile.
+portunitytoadvancecomparativestudiesatalllevelsbypro- Evolution57:717–745
+vidingawidelyapplicablesocialtaxonomythatisalsoame- BlumsteinDT,ArmitageKB(1998)Lifehistoryconsequencesofsocial
+nabletosystematicstudyoftheunderlyingmechanisms,the complexity: a comparative study of ground-dwelling sciurids.
+BehavEcol9:8–19
+adaptive value of key social traits, as well as evolutionary
+BoccalettiS,BianconiG,CriadoR,delGenioCI,Gómez-GardeñesJ,
+transitionsamongdifferentlevelsofsocialcomplexity.
+RomanceM,Sendiña-NadalI,WangZ,ZaninM(2014)Thestruc-
+tureanddynamicsofmultilayernetworks.PhysRep544:1–122
+Acknowledgments IthanktheGermanResearchFoundation(DFG)for BonabeauE,TheraulazG,DeneubourgJ-L,AronS,CamazineS(1997)
+supportingtheconferenceon“Socialcomplexity:Patterns,Processesand Self-organizationinsocialinsects.TrendsEcolEvol12:188–193
+
+--- PAGE BREAK ---
+
+BehavEcolSociobiol(2019)73:13 Page11of14 13
+BouchetH,Blois-HeulinC,LemassonA(2013)Socialcomplexitypar- deWaalFBM,TyackPL(2003)Animalsocialcomplexity:intelligence,
+allelsvocalcomplexity:acomparisonofthreenon-humanprimate culture, and individualized societies. Harvard University Press,
+species.FrontPsychol4:390 Cambridge
+Bourke(1999)Colonysize,socialcomplexityandreproductiveconflict DoodyJS,FreedbergS,KeoghJS(2009)Communalegg-layinginrep-
+insocialinsects.JEvolBiol12:245–257 tilesandamphibians:evolutionarypatternsandhypotheses.QRev
+BradburyJW,VehrencampSL(2014)Complexityandbehavioralecolo- Biol84:229–252
+gy.BehavEcol25:435–442 DröscherI,KappelerPM(2013)Definingthelowendofprimatesocial
+BrentLJN(2015)Friendsoffriends:areindirectconnectionsinsocial complexity: the social organizationof the nocturnal white-footed
+networksimportanttoanimalbehaviour?AnimBehav103:211–222 sportivelemur(Lepilemurleucopus).IntJPrimatol34:1225–1243
+BrooksKC, Maia R,DuffyJE, Hultgren KM,Rubenstein DR(2017) DunbarRIM,ShultzS(2007)Evolutioninthesocialbrain.Science317:
+Ecologicalgeneralismfacilitatestheevolutionofsocialityinsnap-
+1344–1347
+pingshrimps.EcolLett20:1516–1525 DunbarRIM,ShultzS(2010)Bondednessandsociality.Behaviour147:
+BrownJL(1978)Aviancommunalbreedingsystems.AnnRevEcolSyst
+775–803
+9:123–155 DunbarRIM,ShultzS(2017)Whyaretheresomanyexplanationsfor
+ChakSTC,DuffyJE,HultgrenKM,RubensteinDR(2017)Evolutionary primatebrainevolution?PhilTransRSocB372:20160244
+transitionstowardseusocialityinsnappingshrimps.NatEcolEvol ElgarMA(2015)Integratinginsightsacrossdiversetaxa:challengesfor
+1:0096 understandingsocialevolution.FrontEcolEvol3:124
+Clutton-BrockTH(1989)Mammalianmatingsystems.ProcRSocLond EmlenST,OringLW(1977)Ecology,sexualselection,andtheevolution
+B236:339–372 ofmatingsystems.Science197:215–223
+Clutton-Brock TH (1991) The evolution of parental care. Princeton Espinas A (1878) Des sociétés animales, 2nd edn. Librairie Germer
+UniversityPress,Princeton BaillièreetCie,Paris
+Farine DR (2018) When to choose dynamic vs. static social network
+Clutton-Brock TH (2016) Mammal societies. John Wiley & Sons,
+analysis.JAnimEcol87:128–138
+Chichester
+Farine DR, Aplin LM, Garroway CJ, Mann RP, Sheldon BC (2014)
+Clutton-BrockTH,JansonCH(2012)Primatesocioecologyatthecross-
+roads:past,present,andfuture.EvolAnthropol21:136–150 Collectivedecision making and social interactionrulesin mixed-
+speciesflocksofsongbirds.AnimBehav95:173–182
+CohasA,AllainéD(2009)Socialstructureinfluencesextra-pairpaternity
+insociallymonogamousmammals.BiolLett5:313–316 FarineDR,Strandburg-PeshkinA,CouzinID,Berger-WolfTY,Crofoot
+MC(2017)Individualvariationinlocalinteractionrulescanexplain
+ConnorRC,MannJ,TyackPL,WhiteheadH(1998)Socialevolutionin
+toothedwhales.TrendsEcolEvol13:228–232 emergentpatternsofspatialorganizationinwildbaboons.ProcR
+SocB284:20162243
+ConradtL,RoperTJ(2000)Activitysynchronyandsocialcohesion:a
+fission-fusionmodel.ProcRSocLondB267:2213–2218 Farine DR, Whitehead H (2015) Constructing, conducting and
+interpretinganimalsocialnetworkanalysis.JAnimEcol84:1144–
+Cornwallis CK, Botero CA, Rubenstein DR, Downing PA, West SA,
+1163
+GriffinAS(2017)Cooperationfacilitatesthecolonizationofharsh
+Feinerman O, Traniello JFA (2016) Social complexity, diet, and brain
+environments.NatEcolEvol1:0057
+evolution:modelingtheeffectsofcolonysize,workersize,brain
+CornwallisCK,WestSA,DavisKE,GriffinAS(2010)Promiscuityand
+size,andforagingbehavioroncolonyfitnessinants.BehavEcol
+theevolutionarytransitiontocomplexsocieties.Nature466:969–
+Sociobiol70:1063–1074
+972
+Ferguson-GowH,SumnerS,BourkeAFG,JonesKE(2014)Colonysize
+CostaJT,FitzgeraldTD(2005)Socialterminologyrevisited:whereare
+predicts division of labour in attine ants. Proc R Soc B 281:
+wetenyearslater?AnnZoolFenn42:559–564
+20141411
+CouzinID,KrauseJ(2003)Self-organizationandcollectivebehaviorin
+FewellJH(2015)Socialbiomimicry:whatdoantsandbeestellusabout
+vertebrates.AdvStudBehav32:1–75
+organizationinthenaturalworld?JBioecon17:207–216
+CouzinID,LaidreME(2009)Fission–fusionpopulations.CurrBiol19:
+Fischer J, Farnworth MS, Sennhenn-Reulen H, Hammerschmidt K
+R633–R635
+(2017b)Quantifyingsocialcomplexity.AnimBehav130:57–66
+CrespiBJ,YanegaD(1995)Thedefinitionofeusociality.BehavEcol6: Fischer S, Bohn L, Oberhummer E, Nyman C, Taborsky B (2017a)
+109–115
+Divergenceofdevelopmentaltrajectoriesistriggeredinteractively
+CrookJ(1964)Theevolutionofsocialorganisationandvisualcommu- byearlysocialandecologicalexperienceinacooperativebreeder.P
+nicationintheweaverbirds(Ploceinae).Behaviour10:1–178 NatlAcadSciUSA114:E9300–E9307
+CrookJH(1970)Socialbehaviorinbirdsandmammals.AcademicPress, FoxKCR,MuthukrishnaM,ShultzS(2017)Thesocialandculturalroots
+London ofwhaleanddolphinbrains.NatEcolEvol1:1699–1705
+DaviesNB(2000)Multi-malebreedinggroupsinbirds:ecologicalcauses Franz M, McLean E, Tung J, Altmann J, Alberts SC (2015) Self-
+andsocialconflict.In:KappelerPM(ed)Primatemales:causesand organizing dominance hierarchies in a wild primate population.
+consequences of variation in group composition. Cambridge ProcRSocB282:20151512
+UniversityPress,Cambridge,pp11–20
+FreebergTM,DunbarRIM,OrdTJ(2012)Socialcomplexityasaprox-
+DaviesNB,KrebsJR,WestSA(2012)Anintroductiontobehavioural imateandultimatefactorincommunicativecomplexity.PhilTrans
+ecology.Wiley-Blackwell,Chichester RSocB367:1785–1801
+DeCasien AR, Williams SA,Higham JP (2017) Primate brain size is FreebergTM,KramsI(2015)Doessocialcomplexitylinkvocalcom-
+predictedbydietbutnotsociality.NatEcolEvol1:0112 plexityandcooperation?JOrnithol156:125–132
+DeegenerP(1918)DieFormenderVergesellschaftungimTierreiche.von GarberPA,PorterLM,SprossJ,DiFioreA(2016)Tamarins:insights
+Veit&Comp.,Leipzig intomonogamousandnon-monogamoussinglefemalesocialand
+Derex M, Beugin M-P, Godelle B, Raymond M (2013) Experimental breedingsystems.AmJPrimatol78:298–314
+evidence for the influence of group size on cultural complexity. GeffenE,GompperME,GittlemanJL,LuhHK,MacdonaldDW,Wayne
+Nature503:389–391 RK (1996) Size,life-historytraits, and social organization in the
+Dew RM, Tierney SM, Schwarz MP (2016) Social evolution and Canidae:areevaluation.AmNat147:140–160
+castelesssocieties:needsfornewterminologyandanewevolution- GilbertJDJ,ManicaA(2015)Theevolutionofparentalcareininsects:a
+aryfocus.InsectSoc63:5–14 testofcurrenthypotheses.Evolution69:1255–1270
+
+--- PAGE BREAK ---
+
+13 Page12of14 BehavEcolSociobiol(2019)73:13
+GreenwoodPJ(1980)Matingsystems,philopatryanddispersalinbirds Keller L (1995) Social life: the paradox of multiple-queen colonies.
+andmammals.AnimBehav28:1140–1162 TrendsEcolEvol10:355–360
+GriesserM,DrobniakSM,NakagawaS,BoteroCA(2017)Familyliving KellyAM,GoodsonJL(2015)Functionalinteractionsofdopaminecell
+setsthestageforcooperativebreedingandecologicalresiliencein groupsreflectpersonality,sex,andsocialcontextinhighlysocial
+birds.PLoSBiol15:e2000483 finches.BehavBrainRes280:101–112
+GrueterCC,ChapaisB,ZinnerD(2012)Evolutionofmultilevelsocial KershenbaumA,BlumsteinDT(2017)Introductiontothespecialcol-
+systemsinnonhumanprimatesandhumans.IntJPrimatol33:1002– umn:communication,cooperation,andcognitioninpredators.Curr
+1037 Zool63:295–299
+GrüterC,SegersFHID,MenezesC,Vollet-NetoA,FalcónT,vonZuben Klopfer PH (1962) Behavioral aspects of ecology. Prentice Hall,
+L,BitondiMMG,NascimentoFS,AlmeidaEAB(2017)Repeated EnglewoodCliffs,NJ
+evolution of soldier sub-castes suggests parasitism drives social KocherSD,PellissierL,VellerC,PurcellJ,NowakMA,ChapuisatM,
+complexityinstinglessbees.NatCommun8:4 PierceNE(2014)Transitionsinsocialcomplexityalongelevational
+HalliwellB,UllerT,HollandBR,WhileGM(2017)Livebearingpro- gradientsrevealacombinedimpactofseasonlengthanddevelop-
+motestheevolutionofsocialityinreptiles.NatCommun8:2030 menttimeonsocialevolution.ProcRSocB281:20140627
+HarcourtAH,deWaalFBM(1992)Coalitionsandalliancesinhumans KokkoH,JennionsMD(2008)Parentalinvestment,sexualselectionand
+andotheranimals.OxfordUniversityPress,Oxford sexratios.JEvolBiol21:919–948
+HatchwellBJ(2009)Theevolutionofcooperativebreedinginbirds:kin- KorbJ,PoulsenM,HuH,LiC,BoomsmaJJ,ZhangG,LiebigJ(2015)A
+ship,dispersalandlifehistory.PhilTransRSocB364:3217–3227
+genomiccomparisonoftwotermiteswithdifferentsocialcomplex-
+HeP,Malonado-ChaparroA,FarineDR(2019)Theroleofhabitatcon- ity.FrontGenet6:9
+figuration in shaping social structure: a gap in studies of animal KramsI,KramaT,FreebergTM,KullbergC,LucasJR(2012)Linking
+social complexity. Behav Ecol Sociobiol, https://doi.org/10.1007/ socialcomplexityandvocalcomplexity:aparidperspective.Phil
+s00265-018-2602-7(thisissue) TransRSocB367:1879–1891
+HealySD,RoweC(2007)Acritiqueofcomparativestudiesofbrainsize.
+KrauseJ,CroftDP,JamesR(2007)Socialnetworktheoryinthebehavioural
+ProcRSocLondB274:453–464
+sciences:potentialapplications.BehavEcolSociobiol62:15–27
+Hemelrijk CK, Kappeler PM, Puga-Gonzalez I (2017) The self-
+KrauseJ,RuxtonGD(2002)Livingingroups.OxfordUniversityPress,
+organizationofsocialcomplexityingroup-livinganimals:lessons
+Oxford
+fromtheDomWorldmodel.AdvStudBehav49:361–405
+KrebsJR,DaviesNB(1981)Behaviouralecology.Sinauer,Sunderland
+HemelrijkCK,WantiaJ,IslerK(2008)Femaledominanceovermalesin
+KurversRHJM,KrauseJ,CroftDP,WilsonADM,WolfM(2014)The
+primates:self-organisationandsexualdimorphism.PLoSOne3:e2678
+evolutionary and ecological consequences of animal social net-
+HindeRA(1976)Interactions,relationshipsandsocialstructure.Man11: works:emergingissues.TrendsEcolEvol29:326–335
+1–17
+LeePC(1994)Socialstructureandevolution.In:SlaterPJB,HallidayTR
+HolekampKE,Benson-AmramS(2017)Theevolutionofintelligencein
+(eds) Behaviour and evolution. Cambridge University Press,
+mammaliancarnivores.InterfaceFocus7:20160108 Cambridge,pp266–303
+Hughes WOH, Oldroyd BP, Beekman M, Ratnieks FLW (2008)
+LeightonGM(2017)Cooperativebreedinginfluencesthenumberand
+Ancestralmonogamyshows kin selection is key tothe evolution
+ofeusociality.Science320:1213–1216 typeofvocalizationsinavianlineages.PRoySocBBiolSci284:
+20171508
+IslerK,vanSchaikCP(2009)Whyaretheresofewsmartmammals(but
+somanysmartbirds)?BiolLett5:125–129 Leonhardt SD, Menzel F, Nehring V, Schmitt T (2016) Ecology and
+evolutionofcommunicationinsocialinsects.Cell164:1277–1287
+JarmanPJ(1974)Thesocialorganisationofantelopeinrelationtotheir
+ecology.Behaviour48:215–267 LienardP(2016)Agegroupingandsocialcomplexity.CurrAnthropol
+57:S105–S117
+Kamhi JF, Gronenberg W, Robson SKA, Traniello JFA (2016) Social
+LottDF(1991)Intraspecificvariationinthesocialsystemsofwildver-
+complexityinfluencesbraininvestmentandneuraloperationcosts
+tebrates.CambridgeUniversityPress,Cambridge
+inants.ProcRSocB283:20161949
+LukasD,Clutton-BrockTH(2012)Cooperativebreedingandmonoga-
+KamilarJM,CooperN(2013)Phylogeneticsignalinprimatebehaviour,
+myinmammaliansocieties.ProcRSocLondB279:2151–2156
+ecologyandlifehistory.PhilTransRSocB368:20120341
+KapheimKM(2016)Genomicsourcesofphenotypicnoveltyintheevo- LukasD,Clutton-BrockTH(2013)Theevolutionofsocialmonogamyin
+lutionofeusocialityininsects.CurrOpinInsectSci13:24–32 mammals.Science341:526–530
+Kapheim KM (2019) Synthesis of Tinbergen's four questions and the LukasD,Clutton-BrockTH(2017)Comparativestudiesneedtorelyboth
+futureofsociogenomics.BehavEcolSociobiol,https://doi.org/10. onsoundnaturalhistorydataandonexcellentstatisticalanalysis.
+1007/s00265-018-2606-3(thisissue) RoySocOpSci4:171211
+KappelerPM(2012)Thebehavioralecology ofstrepsirrhines and tar- Lukas D, Clutton-Brock TH (2018) Social complexityand kinship in
+siers.In:MitaniJC,CallJ,KappelerPM,PalombitR,SilkJB(eds) animal societies. Ecol Lett 21:1129–1134, https://doi.org/10.
+The evolution of primate societies. University of Chicago Press, 17863/CAM.23014
+Chicago,pp17–42 Markham AC,Gesquiere LR, Alberts SC, Altmann J (2015) Optimal
+KappelerPM(2014)Lemurbehaviour informstheevolutionofsocial groupsizeinahighlysocialmammal.PNatlAcadSciUSA112:
+monogamy.TrendsEcolEvol29:591–593 14882–14887
+KappelerPM(2017)Sexrolesandadultsexratios:insightsfrommam- Marquet PA, Santoro CM, Latorre C, Standen VG, Abades SR,
+malianbiologyandconsequencesforprimatebehavior.PhilTransR RivadeneiraMM,ArriazaB,HochbergME(2012)Emergenceof
+SocB372:20160321 social complexity amongcoastal hunter-gatherersinthe Atacama
+Kappeler PM, Barrett L, Blumstein DT, Clutton-Brock TH (2013)
+DesertofnorthernChile.PNatlAcadSciUSA109:14754–14760
+Constraintsandflexibilityinmammaliansocialbehaviour:introduc- MaynardSmithJ,SzathmaryE(1995)Themajortransitionsinevolution.
+tionandsynthesis.PhilTransRSocB368:0120337 OxfordUniversityPress,Oxford
+KappelerPM,FichtelC(2016)TheevolutionofEulemursocialorgani- McFarland D (2014) A dictionary of animal behaviour. Oxford
+zation.IntJPrimatol37:10–28 UniversityPress,Oxford
+KappelerPM,vanSchaikCP(2002)Evolutionofprimatesocialsystems. MichenerCD(1969)Comparativesocialbehaviorofbees. AnnuRev
+IntJPrimnatol23:707–740 Entomol14:299–342
+
+--- PAGE BREAK ---
+
+BehavEcolSociobiol(2019)73:13 Page13of14 13
+MuthukrishnaM,ShulmanBW,VasilescuV,HenrichJ(2013)Sociality Rubenstein DR, HofmannHA(2015) Proximate pathwaysunderlying
+influencesculturalcomplexity.ProcRSocB281:20132511 socialbehavior.CurrOpinBehavSci6:154–159
+NandiniS,KeerthipriyaP,VidyaTNC(2017)Groupsizedifferencesmay Rubenstein DR, Lovette IJ (2007) Temporal environmental variability
+mask underlying similarities in social structure: a comparison of drivestheevolutionofcooperativebreedinginbirds.CurrBiol17:
+female elephant societies. Behav Ecol (published online), https:// 1414–1419
+doi.org/10.1093/beheco/arx135 Ruckstuhl KE, Neuhaus P (2002) Sexual segregation in ungulates: a
+Neumann C, Duboscq J, Dubuc C, Ginting A, Irwan AM, Agil M, comparativetestofthreehypotheses.BiolRev77:77–96
+WiddigA,EngelhardtA(2011)Assessingdominancehierarchies: SchneiderTC,KappelerPM(2016)Gregarioussexualsegregation:the
+validationandadvantagesofprogressiveevaluationwithElo-rating. unusual social organizationofthe Malagasy narrow-striped mon-
+AnimBehav82:911–921 goose(Mungotictisdecemlineata).BehavEcolSociobiol70:913–
+NonacsP,HagerR(2011)Thepast,presentandfutureofreproductive 926
+skewtheoryandexperiments.BiolRev86:271–298
+SchradinC(2013)Intraspecificvariationinsocialorganizationbygenetic
+OpieC,AtkinsonQD,DunbarRIM,ShultzS(2013)Maleinfanticide variation,developmentalplasticity,socialflexibilityorentirelyex-
+leadstosocialmonogamyinprimates.PNatlAcadSciUSA110: trinsicfactors.PhilTransRSocB368:20120346
+13328–13332
+SchradinC(2017)Comparativestudiesneedtorelybothonsoundnat-
+ParrishJK,Edelstein-KeshetL(1999)Complexity,pattern,andevolu- uralhistorydataandonexcellentstatisticalanalysis.RoySocOpSci
+tionarytrade-offsinanimalaggregation.Science284:99–101
+4:170346
+PeckreL,KappelerPM,FichtelC(2019)Expandingthesocialcomplex- ScottJP(1956)Theanalysisofsocialorganizationinanimals.Ecology
+ityhypothesisforcommunicativecomplexity:anapproachtostudy 37:213–221
+proximate andultimatesocialfactorsimpactingmultimodalcom-
+SewallKB(2015)Socialcomplexityasadriverofcommunicationand
+munication.BehavEcolSociobiol,https://doi.org/10.1007/s00265- cognition.IntegrCompBiol55:384–395
+018-2605-4(thisissue)
+Seyfarth RM,Cheney DL (2015) Social cognition. Anim Behav 103:
+PikaS(2017)Unpeelingthelayersofcommunicativecomplexity.Anim 191–202
+Behav134:223–227
+ShenS-F,EmlenST,KoenigWD,RubensteinDR(2017)Theecologyof
+PlattML,SeyfarthRM,CheneyDL(2016)Adaptationsforsocialcog- cooperativebreedingbehaviour.EcolLett20:708–720
+nitionintheprimatebrain.PhilTransRSocB371:20150096
+Sherman PW, Lacey EA, Reeve HK, Keller L (1995) The eusociality
+PollardKA,BlumsteinDT(2012)Evolvingcommunicativecomplexity: continuum.BehavEcol6:102–108
+insightsfromrodentsandbeyond.PhilTransRSocB367:1869–
+ShukerDM,SimmonsLW(2014)Theevolutionofinsectmatingsys-
+1878
+tems.OxfordUniversityPress,Oxford
+PsorakisI,VoelklB,GarrowayCJ,RadersmaR,AplinLM,CratesRA,
+Silk JB (2012) The adaptive value of sociality. In:Mitani JC, Call J,
+CulinaA,FarineDR,FirthJA,HindeCA,KiddLR,MilliganND,
+KappelerPM,PalombitR,SilkJB(eds)Theevolutionofprimate
+RobertsSJ,VerhelstB,SheldonBC(2015)Inferringsocialstructure
+fromtemporaldata.BehavEcolSociobiol69:857–866
+societies.UniversityofChicagoPress,Chicago,pp552–564
+SilkJB,CheneyDL,SeyfarthRM(2013)Apracticalguidetothestudyof
+PulliamHR,CaracoT(1984)Livingingroups:isthereanoptimalgroup
+socialrelationships.EvolAnthropol22:213–225
+size?In:KrebsJR,DaviesNB(eds)Behaviouralecology:anevo-
+lutionaryapproach.Blackwell,Oxford,pp122–147 Simola DF, Wissler L, Donahue G, Waterhouse RM, Helmkampf M,
+RouxJ,NygaardS,GlastadKM,HagenDE,ViljakainenL,Reese
+QuiñonesAE,PenI(2017)AunifiedmodelofHymenopteranpreadap-
+JT,HuntBG,GraurD,ElhaikE,KriventsevaEV,WenJ,ParkerBJ,
+tations that trigger the evolutionary transition to eusociality. Nat
+CashE,PrivmanE,ChildersCP,Munoz-TorresMC,BoomsmaJJ,
+Commun8:15920
+Bornberg-Bauer E, Currie CR, Elsik CG, Suen G, Goodisman
+RehanSM,TothAL(2015)Climbingthesocialladder:themolecular
+evolutionofsociality.TrendsEcolEvol30:426–433 MAD,KellerL,LiebigJ,RawlsA,ReinbergD,SmithCD,Smith
+CR,TsutsuiN,WurmY,ZdobnovEM,BergerSL,GadauJ(2013)
+ReisingerRR,BeukesC,HoelzelAR,deBruynPJN(2017)Kinshipand
+Socialinsectgenomesexhibitdramaticevolutioningenecomposi-
+associationinahighlysocialapexpredatorpopulation,killerwhales
+atMarionIsland.BehavEcol28:750–759 tionandregulationwhile preserving regulatory features linked to
+sociality.GenomeRes23:1235–1247
+ReynoldsJD,GoodwinNB,FreckletonRP(2002)Evolutionarytransi-
+Smuts BB, Cheney DL, SeyfarthRM, Wrangham RW, StruhsakerTT
+tionsinparentalcareandlivebearinginvertebrates.PhilTransR
+SocB357:269–281 (1987)Primatesocieties.ChicagoUniversityPress,Chicago
+SterckEHM,WattsDP,vanSchaikCP(1997)Theevolutionoffemale
+RobinsonGE,Ben-Shahar Y (2002) Social behaviorand comparative
+social relationshipsinnonhumanprimates. Behav Ecol Sociobiol
+genomics:newgenesornewgeneregulation?GenesBrainBehav
+1:197–203 41:291–309
+Robinson GE, Grozinger CM, Whitfield CW (2005) Sociogenomics: StrierKB,LeePC,IvesAR(2014)Behavioralflexibilityandtheevolu-
+sociallifeinmolecularterms.NatRevGenet6:257–270 tionofprimatesocialstates.PLoSOne9:e114099
+RubensteinDR(2012)Familyfeuds:socialcompetitionandsexualcon- Struhsaker TT (1969) Correlates of ecology and social organization
+flictincomplexsocieties.PhilTransRSocB367:2304–2313 amongAfricancercopithecines.FoliaPrimatol11:80–118
+RubensteinDR,AbbotP(2017a)Theevolutionofsocialevolution.In: Székely T, Weissing FJ, Komdeur J (2014) Adult sex ratio variation:
+Rubenstein DR, Abbot P (eds) Comparative social evolution.
+implicationsforbreedingsystemevolution.JEvolBiol27:1500–
+CambridgeUniversityPress,Cambridge,pp1–18 1512
+RubensteinDR,AbbotP(2017b)Socialsynthesis:opportunitiesforcom- TaborskyB,OliveiraRF(2012)Socialcompetence:anevolutionaryap-
+parative social evolution. In: Rubenstein DR, Abbot P (eds)
+proach.TrendsEcolEvol27:679–688
+Comparative social evolution. Cambridge University Press, TaborskyM,TaborskyB(2015)Evolutionofgeneticandphysiological
+Cambridge,pp427–452 mechanismsofcooperativebehaviour.CurrOpinBehavSci6:132–
+Rubenstein DR, Abbot P (2017c) Comparative social evolution. 138
+CambridgeUniversityPress,Cambridge TecotSR,SingletaryB,EadieE(2016)Why“monogamy”isn’tgood
+RubensteinDR,BoteroCA,LaceyEA(2016)Discretebutvariablestruc- enough.AmJPrimatol78:340–354
+ture of animal societies leads to the false perception of a social ThornhillR,Alcock J(1983)Theevolution of insectmatingsystems.
+continuum.RoySocOpSci3:160147 HarvardUniversityPress,Cambridge
+
+--- PAGE BREAK ---
+
+13 Page14of14 BehavEcolSociobiol(2019)73:13
+TurchinP,CurrieTE,TurnerEAL,GavriletsS(2013)War,space,andthe WenseleersT,vanZwedenJS(2017)Sensoryandcognitiveadaptations
+evolutionofOldWorldcomplexsocieties.PNatlAcadSciUSA tosociallivingininsectsocieties.PNatlAcadSciUSA114:6424–
+110:16384–16389 6426,https://doi.org/10.1073/pnas.1707141114
+TurchinP,CurrieTE,WhitehouseH,FrançoisP,FeeneyK,MullinsD, WheelerWM(1910)Theants:theirstructure,developmentandbehavior.
+HoyerD,CollinsC,GrohmannS,SavageP,Mendel-GleasonG, ColumbiaUniversityPress,NewYork
+Turner E, Dupeyron A, Cioni E, ReddishJ, Levine J, Jordan G, WheelerWM(1928)Thesocialinsects:theiroriginandevolution.Kegan
+Brandl E, Williams A, Cesaretti R, Krueger M, Ceccarelli A, Paul&Co.,London
+Figliulo-RosswurmJ,TuanPJ,PeregrineP,MarciniakA,Preiser- Whitehead H (2008) Analyzing animal societies. Chicago University
+Kapeller J, Kradin N, Korotayev A, Palmisano A, Baker D, Press,Chicago
+Bidmead J, Bol P, Christian D, Cook C, Covey A, Feinman G,
+WillemsEP,vanSchaikCP(2015)Collectiveactionandtheintensityof
+Júlíusson ÁD, Kristinsson A, Miksic J, Mostern R, Petrie C,
+between-groupcompetitioninnonhumanprimates.BehavEcol26:
+Rudiak-GouldP,terHaarB,WallaceV,MairV,XieL,BainesJ, 625–631
+BridgesE,ManningJ,LockhartB,BogaardA,SpencerC(2018)
+WilsonEO(1971)Insectsocieties.BelknapPressofHarvardUniversity,
+Quantitativehistoricalanalysisuncoversasingledimensionofcom-
+Cambridge
+plexitythatstructuresglobalvariationinhumansocialorganization.
+PNatlAcadSciUSA115:E144–E151 WilsonEO(1975)Sociobiology.BelknapPressofHarvardUniversity,
+Cambridge
+VaesenK,CollardM,CosgroveR,RoebroeksW(2016)Populationsize
+Winn H (1958) Comparative reproductive behavior and ecology
+doesnotexplainpastchangesinculturalcomplexity.PNatlAcad
+SciUSA113:E2241–E2247 of fourteen species of darters (Pisces-Percidae). Ecol Monogr
+28:155–191
+ValoneTJ(2007)Fromeavesdroppingonperformancetocopyingthe
+behaviorofothers:areviewofpublicinformationuse.BehavEcol WittwerB, Hefetz A, Simon T, MurphyLEK,Elgar MA, Pierce NE,
+Sociobiol62:1–14 KocherSD(2017)Solitarybeesreduceinvestmentincommunica-
+vanSchaikCP,KappelerPM(1997)Infanticideriskandtheevolutionofmale- tioncomparedwiththeirsocialrelatives.PNatlAcadSciUSA114:
+femaleassociationinprimates.ProcRSocLondB264:1687–1694 6569–6574
+Wearmouth VJ, Sims DW (2008) Sexual segregation in marine fish, WolffJO,ShermanPW(2007)Rodentsocieties:anecologicalandevo-
+reptiles,birdsandmammals:behaviourpatterns,mechanismsand lutionaryperspective.UniversityofChicagoPress,Chicago
+conservationimplications.AdvMarBiol54:107–170 Wong M, Balshine S (2011) The evolution of cooperative breed-
+WeisbeckerV,BlombergS,GoldizenAW,BrownM,FisherD(2015) ing in the African cichlid fish, Neolamprologus pulcher. Biol
+Theevolution ofrelative brain sizeinmarsupials is energetically Rev 86:511–530
+constrainedbutnotdrivenbybehavioralcomplexity.BrainBehav ZuberbühlerK(2008)Audienceeffects.CurrBiol18:R189–R190
+Evol85:125–135
+WeissM,FranksDW,CroftDP,WhiteheadH(2019)Measuringsocial
+complexityfromassociationdatausingmixturemodels.BehavEcol
+Sociobiol,https://doi.org/10.1007/s00265-018-2603-6(thisissue)

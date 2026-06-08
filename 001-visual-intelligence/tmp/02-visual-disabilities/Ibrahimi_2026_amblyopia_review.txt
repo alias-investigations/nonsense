@@ -1,0 +1,1710 @@
+Review
+Amblyopia in 2026: A State-of-the-Art Review of
+Multidimensional Phenotyping, Response Heterogeneity,
+and Clinical Considerations
+DanjelaIbrahimi1,2,* andJoséR.García-Martínez3,*
+1 FacultaddeMedicina,UniversidadAutónomadeQuerétaro,SantiagodeQuerétaro76010,Mexico
+2 BrainVision&LearningCenter,MisióndeCapistrano117,Juriquilla,SantiagodeQuerétaro76226,Mexico
+3 FacultaddeIngenieríaMecánicayEléctrica,UniversidadVeracruzana,PozaRica93390,Mexico
+* Correspondence:danjela.ibrahimi@uaq.mx(D.I.);romangarcia@uv.mx(J.R.G.-M.)
+Abstract
+Amblyopiaisincreasinglyconceptualizedasaneurodevelopmentalvisualdisorderthat
+oftenarisesfromdiscordantbinocularvisualexperienceduringearlylifeandisassociated
+withabnormalbinocularinteractions,interocularsuppression,orientation-dependentdevel-
+opmentalabnormalitiesinselectedrefractivephenotypes,andexperience-dependentplas-
+ticity,consistentwithadistributed-networkperspectiveratherthanapurelymonocularacu-
+itydeficit. Weperformedastructuredstate-of-the-artnarrativesynthesisofpeer-reviewed
+reviews, randomized controlled trials, and key mechanistic human studies indexed in
+PubMed/MEDLINE,WebofScience,andScopus(1January2016–28February2026;last
+search28February2026),prioritizingrecentevidencefrom2021–2026. Literaturesupports
+considerationofclinicallytrackableconstructsbeyondbest-correctedvisualacuity(BCVA),
+includingquantifiedsuppression/imbalance,binocularfunction,andfunctionallymean-
+ingfuloutcomessuchasreading-relatedlimitationandbroaderfunctionalimpact. Across
+establishedandemerginginterventionclasses,treatmenteffectsareheterogeneousacross
+agesandetiologies. Evidenceisstrongestforconventionalpenalizationandselectedactive
+training-basedapproaches,whereasnewerprotocol-standardizedapproachesremainin-
+vestigationalandrequireprospectiveevaluationwithtransparentexposure/dosereporting.
+Basedonthesefindings,weoutlineaclinicallyoriented,coreoutcomesetforamblyopia
+andstrabismus(COSAMS)-alignedframeworkthatcombinesquantifiedbinocularimbal-
+ancewithmultidimensionalphenotypingandahypothesis-driven,prospectivelytestable
+therapeuticmodelintendedtostructure(notreplace)clinicaldecision-making.Prioritiesfor
+precision-orientedamblyopiacareincludestandardizationofsuppressionmetrics,adoption
+ofcoreoutcomesets,transparentreportingof‘notmeasurable’outcomesandmissingness,
+andprospectivevalidationofphenotype-driven,prediction-readyframeworks.
+Keywords: amblyopia;interocularsuppression;binocularfunction;clinicalphenotyping;
+AcademicEditor:AngélicaZepeda COSAMS;functionaloutcomes;gradedopticalpenalization;digitaltherapeutics;vision
+therapy;orthoptics
+Received:18March2026
+Revised:23April2026
+Accepted:25April2026
+Published:27April2026
+Copyright:©2026bytheauthors. 1. Introduction
+LicenseeMDPI,Basel,Switzerland.
+Amblyopiaisadevelopmentalvisualdisordercharacterizedbyreducedbest-corrected
+Thisarticleisanopenaccessarticle
+visualacuity(BCVA)affectingoneorbotheyesthatisnotfullyexplainedbyidentifiable
+distributedunderthetermsand
+structural ocular abnormalities [1,2]. It arises from abnormal visual experience during
+conditionsoftheCreativeCommons
+Attribution(CCBY)license. early development caused by discordant binocular input and/or chronic retinal blur,
+BrainSci.2026,16,467 https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 2of32
+mostcommonlyassociatedwithrefractivecauses(includinganisometropia,bilateralhigh
+refractiveerror(isoametropia),andclinicallysignificantastigmatism),strabismus,orvisual
+deprivation [1–3]. If not effectively addressed during sensitive developmental periods,
+theseconditionsmayleadtopersistentvisualimpairmentbeyondchildhood[1,4]. Froma
+publichealthperspective,asystematicreviewandmeta-analysisestimatedapproximately
+99.2 million people with amblyopia worldwide in 2019, with projections increasing to
+221.9millionby2040,underscoringtheimportanceofeffectivescreeningandtreatment
+strategiesacrossregionsandagegroups[5].
+Although BCVA is a central clinical endpoint, contemporary syntheses increas-
+ingly frame amblyopia as more than an isolated monocular acuity deficit, emphasiz-
+ing its neurodevelopmental basis and the role of binocular dysfunction in the clinical
+phenotype[1,4,6]. Abnormal binocular interactions—including interocular suppression
+and binocular imbalance—are, therefore, treated as mechanistically relevant constructs
+forphenotypingandforbinocularlyorientedrehabilitationapproaches[1,6]. Importantly,
+suppression is not only a qualitative clinical descriptor; quantitative paradigms have
+beendevelopedtomeasureinterocularsuppressioninchildren,supportingitsuseasa
+measurabledimensioninclinicalresearchandpotentiallyinmonitoringframeworks[7].
+Beyondacuity,functionallimitationsareincreasinglyrecognized. Clinicalevidence
+linksamblyopiawithslowerreadingperformance,supportingtheinclusionoffunctionally
+meaningfulendpointsalongsideBCVAwhenevaluatingtherapeuticbenefit[8]. Random-
+izedevidencealsoindicatesthatstructuredactiveparadigms—testedaspatchingalone
+versuspatchingcombinedwithprotocolizedvisiontherapy,andversusmonocularper-
+ceptuallearning—canimprovevisualoutcomesunderdefinedprotocols[9]. Higher-order
+visualprocessingdifferenceshavealsobeenquantified,includingalteredvisualattention
+and visual search performance in children with amblyopia [10], and impaired fine mo-
+torskills,slowerreadingspeed,andreducedself-reportedqualityoflifeinadultswith
+amblyopiaand/orstrabismus[11].
+Fromatreatmentstandpoint,conventionalpenalization(patchingand/orpharmaco-
+logic penalization) remains foundational. A Cochrane systematic review concludes that
+bothconventionalocclusionandatropinepenalizationimproveamblyopic-eyevisualacuity,
+withatropineappearingaseffectiveasocclusionoverall(withvariabilityacrosstrials)[12].
+Acrossocclusionregimens,ameta-analysiscomparingpart-timeandfull-timeocclu-
+sionfoundnostatisticallysignificantdifferenceoverall, supportingtheeffectivenessof
+part-timeocclusionregimenswithintherangesevaluatedacrosstrials[13]. Overthelast
+decade,randomizedtrialshaveexpandedtheevidencebasebeyondpenalizationtobinoc-
+ular/dichopticanddigitalapproaches,includingbinoculariPadgameparadigms[14,15],
+and more recent home-based platforms delivering dichoptic content evaluated against
+patching and/or control comparators (including optical-only in selected trials) under
+protocol-defined dosing and endpoints [16–20]. Additional pediatric randomized trial
+evidenceinyoungercohorts(4–6years)reportedgreateramblyopic-eyevisualacuity(VA)
+improvementat4weekswithbinocularDigRushcomparedwithspectaclesalone,whereas
+between-groupdifferenceswerelessclearby8weeks[21]. Moreover,randomizedevidence
+fromdichopticvirtualrealityparadigmshasbeenreportedunderstructuredprotocols,
+supportingfurtherevaluationwithcarefulattentiontodosingandendpointselection[22].
+High-level syntheses comparing binocular/dichoptic interventions with standard
+occlusion/penalizationormonoculartrainingreportsmallandinconsistentbetween-group
+differencesinamblyopic-eyeBCVAandbinocularoutcomes,withsubstantialheterogeneity
+influencedbytrialselection,treatmentdesign,adherence,andoutcomedefinitions[23–27].
+Table1isaddedtoillustrateselected(non-exhaustive)randomizedandsynthesis-level
+evidenceforbinoculartreatment.
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 3of32
+Table1.Representativeevidenceforbinocular/dichopticanddigitalamblyopiatherapies(selected
+randomizedcontrolledtrials(RCT)+synthesis-levelevidence;pediatricunlessnoted).
+Outcomes
+WhatItContributes
+Study/Evidence Population InterventionClass Comparator Emphasized(Per
+toSection1
+Study)
+BCVA(primaryat EarlycrossoverRCT
+2weeks,crossover forbinoculariPad
+Binocular design)+stereoacu- paradigms;illustrates
+Kellyetal.,2016
+Children iPadgame Patching ity/suppression short-termBCVA
+(RCT)[14]
+(dichopticgame) outcomes changeandthe
+(secondary);adher- importanceofadher-
+ence/engagement ence/engagement
+Landmarkmulticenter
+BCVA(primary)+
+Holmesetal./ BinoculariPad head-to-headRCTvs.
+binocularoutcomes;
+PEDIG,2016 game(falling- patching;highlights
+Part-time adherence;
+(multicenter Children5–12y blocks-type adherenceand
+patching trialdesign
+noninferiority dichopticgame; endpoint/design
+(head-to-head
+RCT)[15] notDigRush) dependencein
+RCTdesign)
+interpretation
+Addsyounger-cohort
+RCTwithoptical-only
+comparator;illustrates
+BCVA(primaryat time-point
+Spectaclesalone
+BinocularDig 4weeks;follow-up dependencein
+Mannyetal., (continued
+Children4–6y Rushgame+ at8weeks)+ interpretation(greater
+2022(RCT)[21] optical
+spectacles binocular/stereo improvementat
+correction)
+outcomes;adherence 4weeks;
+between-group
+differenceslessclear
+by8weeks)
+Phase3“home-based
+Xiaoetal.,2022 Dichopticdigital BCVA(primaryat
+Glasses-only digitaltherapeutic”
+(Phase3 Children4–7y therapeutic(home) 12weeks)+
+(perprotocol) RCTwithoptical-only
+RCT)[20] +spectacles safety/adherence
+controlarm
+Keyhome-based
+Wygnanski-
+platformRCTvs.
+Jaffeetal.,2023 Eye-tracking- BCVA(primary);+
+patching;emphasizes
+(multicenterRCT; Children baseddichoptic Patching stereo/binocular
+trialdesignand
+CureSight hometreatment outcomes;adherence
+adherenceas
+pivotal)[16]
+interpretationdrivers
+Adds
+Wygnanski- Eye-tracking- BCVA+adherence adherence-focused
+Jaffeetal.,2025 baseddichoptic comparison; evidencewithinthe
+(RCT; Children hometreatment Patching binocular/stereo sameplatformclass;
+high-adherence (high-adherence outcomes supportsadherenceas
+CureSight)[17] conditions) (asreported) amoderatorof
+observedeffect.
+Home-streaming
+BCVA(primaryat
+Jostetal.,2022 approach;illustrates
+Streaming 2weeks)+feasibil-
+(RCT;streaming feasibilityandprimary
+Children3–7y dichopticmovies Patching ity/adherence;
+dichoptic time-window
+(home) binocularoutcomes
+movies)[19] dependencein
+(asreported)
+interpretation.
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 4of32
+Table1.Cont.
+Outcomes
+WhatItContributes
+Study/Evidence Population InterventionClass Comparator Emphasized(Per
+toSection1
+Study)
+Extendsevidenceto
+BCVA+feasibility; veryyoungchildren;
+Jostetal.,2024 Contrast-
+binocu- pilotdesignand
+(PilotRCT; rebalanced
+Children3–5y Patching lar/suppression inclusionofbinocu-
+streaming dichopticcartoons
+measures lar/suppression
+cartoons)[18] (home;pilot)
+(asreported) measures
+wherereported.
+BCVA RCTexample
+(post-treatmentand includingmixed-age
+Meqdadetal., VR-based
+Ages6–37 follow-up)+ participants;
+2024(RCT; dichoptic Patching
+(includesadults) binocular/stereo interpretationdepends
+mixedages)[22] stimulation
+outcomes onprotocol,endpoints,
+(asreported) andagecomposition.
+High-authority
+SummaryofRCT
+synthesissupporting
+AAOReport Binocular Conventional evidence;limitations
+Children/teens “mixedevidence+
+(evidence treatments therapies (incl.adher-
+(evidencebase) heterogeneity;
+synthesis)[23] (class-level) acrossstudies ence/outcome
+superioritynot
+heterogeneity)
+established”framing.
+Pooledestimateacross
+BCVA+ RCTs;supports
+Meta-analysisof Binocular stereo/binocular “small/inconsistent
+Patching/
+RCTs(binocular PediatricRCTs therapies endpoints; between-group
+controls
+vs.patching)[24] (class-level) between-study differences”and
+heterogeneity heterogeneity
+emphasis.
+Reinforcesthat
+conclusionsdependon
+Meta-analysisof Binocular BCVAoutcomes;
+trialselectionand
+RCTs(binocular PediatricRCTs therapies Patching between-study
+heterogeneity;nota
+vs.patching)[25] (class-level) heterogeneity
+uniformadvantage
+overpatching.
+Broadevidencemap
+Systematic
+Vision-based BCVA+binocular consistentwith“end-
+review+ Conventional
+treatments outcomes; point/adherence/
+meta-analysis Children/teens controlsacross
+(includesbinocular heterogeneity heterogeneity-driven
+(children/ trials
+approaches) drivers interpretation”
+teens)[26]
+narrative.
+Note:Selectedtrials;dosingandtimepointsareprotocol-specific;outcomeslistedreflectendpointsreportedin
+eachpublication;tableisillustrative(non-exhaustive).
+2. Methods
+Weconductedastructuredstate-of-the-artnarrativereviewfocusedonneurodevelop-
+mentalandneurobiologicalmechanismsofamblyopia,emphasizingbinocularimbalance,
+interocularsuppression,distributednetworkalterations,andexperience-dependentplas-
+ticity,withtranslationallinkstoclinicalphenotypingandresponseheterogeneity.
+Allreferenceswererestrictedtopeer-reviewedsources,andDOIsarereportedinthe
+referencelistwhenverifiablefrompublisherrecordsand/orindexedbibliographicdatabases.
+Thisapproachwasselectedtointegrateheterogeneousevidencestreams(mechanisticneuro-
+science,psychophysics,neuroimaging,andrandomizedclinicaltrials)forwhichquantitative
+poolingisfrequentlyconstrainedbymethodologicalandoutcomeheterogeneity.
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 5of32
+WesearchedPubMed/MEDLINE,WebofScienceCoreCollection, andScopusfor
+eligibleliteraturepublishedfrom1January2016to28February2026(dateoflastsearch).
+During screening and synthesis, we prioritized more recent evidence from 2021–2026,
+particularlyonbinocular/dichopticanddigitalinterventions,suppressionquantification,
+COSAMS/coreoutcomestandardization,andfunctionaloutcomesbeyondBCVA.Search
+strings were constructed around four concept blocks: (i) amblyopia, (ii) neurodevelop-
+ment/plasticity/networkmechanisms,(iii)binocularsuppression/imbalanceanditsquan-
+tification,and(iv)treatmentmodalitiesandoutcomes. AnexamplePubMedquerywas:
+(amblyopiaOR“lazyeye”)AND(neurodevelopment*ORplasticityOR“criticalperiod”
+OR“sensitiveperiod”ORcortexORcorticalOR“visualnetwork*”ORneuroimagingOR
+fMRIOREEGORVEP)AND(binocularORsuppressionOR“interocularsuppression”
+ORdichopticOR“contrastbalance”ORstereoacuityORreadingORcrowdingOR“qual-
+ity of life”) AND (treat* OR therapy OR patching OR atropine OR “virtual reality” OR
+“perceptuallearning”ORdigital). FilterswereappliedforHumansandEnglishlanguage.
+EquivalentquerieswereadaptedtoWebofScienceandScopussyntax,andreferencelistsof
+includedreviewsandkeytrialswerehand-searchedtoidentifyadditionaleligiblestudies.
+Weincludedpeer-reviewedreviews(narrative,state-of-the-art,systematicreviews,
+andmeta-analyses),randomizedcontrolledtrialsandcontrolledclinicalstudiesofambly-
+opiainterventions,andkeymechanistichumanstudiesprovidingdirectevidencerelevant
+tosuppression,sensitive-periodplasticity,network-levelalterations,andfunctionalpheno-
+types(e.g.,reading-relatedlimitations). Weexcludedcasereportsandsmalluncontrolled
+seriesunlessuniquelyinformativeforphenotypedefinition,studiesinwhichamblyopia
+wasnotaprimaryobjectofanalysis,andnon-peer-reviewedsources. Paperswerescreened
+toidentifyrecentreviews/meta-analysessummarizingareasofagreementandongoing
+debate, and primary studies that quantified core constructs and/or reported clinically
+relevantoutcomes. Whenmultiplesourcesaddressedthesamepoint,prioritywasgiven
+to higher-quality designs, clearer outcome definitions, and convergent evidence across
+independentmethods. Fromeachincludedsourceweextractedstudytype,population
+characteristics(ageandetiologywhenavailable),mechanisticfocus,phenotypemetrics
+(BCVA/logarithmoftheminimumangleofresolution(logMAR),stereoacuitywhenre-
+ported,suppressionquantificationmethod,reading-relatedorotherfunctionaloutcomes,
+andpatient-centeredmeasures),interventioncharacteristics,andconclusionsrelevantto
+mechanistic framing, phenotyping, and predictors/moderators of response. Given the
+state-of-the-artnarrativescope, wedidnotconductapreferredreportingitemsforsys-
+tematicreviewsandmeta-analyses(PRISMA)-guidedsystematicreviewworkflowora
+formalrisk-of-biasassessmentacrossallincludedstudies. Comparativestatementsabout
+treatmenteffectswere,therefore,anchoredtorecentsystematicreviews/meta-analysesand
+majorevidencesyntheses,andweexplicitlynotedkeydesignconstraints(e.g.,outcome
+heterogeneityandadherencelimitations)wheninterpretingindividualtrials.
+Despitesubstantialprogress,heterogeneityinamblyopiaphenotypingandoutcomese-
+lection—particularlyforbinocularandfunctionalendpoints—continuestolimitcross-study
+comparabilityandcomplicatetranslationintostandardizedclinicalframeworks[4,28–30].
+Accordingly,thisstate-of-the-artreviewaimstosynthesizeevidencefrom2016–2026and,
+onthatbasis,outlineapragmatic,hypothesis-generatingframeworkformultidimensional
+phenotypingandmechanism-alignedinterpretationofresponsevariabilityusingclinically
+trackablevariablesgroundedinthereviewedliterature[1,4,6,7,28,29,31].
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 6of32
+3. HistoricalEvolutionandParadigmShifts: FromMonocularDeficitto
+DistributedNetworkDisorder
+Amblyopia has historically been treated and reported predominantly as a monoc-
+ularBCVAdeficit[2]. Contemporarysynthesesincreasinglyemphasizethatamblyopia
+reflectsatypicalbinocularexperienceandexperience-dependentplasticity[4,6],andthat
+clinicallyrelevantfunctionalconsequencesmaynotbefullycapturedbyBCVAalone[1,6].
+This conceptual evolution is clinically relevant because it motivates multidimensional
+phenotyping beyond BCVA and outcome selection that is informed by the intended
+mechanism targeted by the intervention (e.g., monocular penalization versus binocu-
+lar/dichopticapproaches)[1,6].Table2summarizesselectedmilestonesintheconceptual
+evolutionofamblyopia(monoculardeficit→sensitive-periodplasticitydisorder→binocu-
+larimbalance→broadermulti-domainframing). Thetableisintentionallyillustrative(not
+exhaustive): entrieswerechosentorepresentreview/synthesisanchorswithinthepresent
+referencelistandtoclarifyhowdifferentframingsemphasizedifferentendpointsandmech-
+anisms,andhowbroaderneurodevelopmentalperspectivesanddevelopmentalconstraints
+canmotivateoutcomeselectionbeyondacuityintrialsandclinicalcohorts[1,2,4,6,32,33].
+Table2.Selectedmilestonesintheconceptualevolutionofamblyopia(illustrative).
+PrimaryClinical
+Era/Milestone Endpoint(s) MechanisticEmphasis KeySupporting
+DominantFraming
+Framing Commonly (Audit-SafeSummary) Source(s)
+Emphasized
+Modernreviewsdescribethe
+historicalclinicalapproachas
+Baselineclinical largelycenteredonmonocular
+Predominantly
+framing(as acuitylossandpenalizationof
+monocular BCVA [1,2]
+summarizedin thefelloweye,withBCVA
+functionaldeficit
+modernreviews) commonlytreatedasthe
+dominantendpointin
+clinicalreporting.
+Critical/sensitive-period
+conceptsemphasize
+Sensitive/critical- developmentalconstraintson
+Plasticityframing
+periodplasticity BCVA+age/timing recoveryandmotivate [4,34]
+(developmental)
+disorder age/timingasclinicallyrelevant
+modifiersofexpected
+treatmentresponse.
+Abnormalbinocularinteractions
+(includinginterocular
+suppression)canbe
+Binocularreframing Binocularimbal- Binocularmeasures
+operationalizedandquantified
+(modernclinical+ ance/suppression (e.g.,suppression) [1,7,23–25,35]
+usingdichopticparadigms,
+trials) construct alongsideBCVA
+supportingbinocularendpoints
+alongsideacuityinmodern
+trials/syntheses.
+Contemporaryevidence
+emphasizesfunctionalimpact
+beyondacuity(e.g.,
+Broader reading-relatedlimitation;
+Multi-metricoutcomes
+multi-domain Multi-domain broaderdaily-life
+(BCVA+binocular+ [8,31,36,37]
+framing(functional phenotype functioning/HRQoL),
+functionalimpact)
+phenotypeemphasis) andstandardizationefforts
+supportadoptingcoreoutcome
+setstoimprovecomparability
+acrossstudies.
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 7of32
+3.1. SensitivePeriodsandExperience-DependentPlasticity
+Amblyopiaisunderstoodasadevelopmentaldisorderarisingfromabnormalvisual
+experienceduringearlylife,whenexperience-dependentchangesinvisualprocessingare
+particularlypronounced[1,2,4]. Experimentalandclinicalsynthesesindicatethatplasticity
+isregulatedacrossdevelopmentandthatsensitive/critical-periodconstraintscontribute
+toreducedresponsivenessandgreaterconstraintsonrecoverybeyondearlyperiods[4].
+Mechanisticaccountsfurtherdescriberegulatoryprocessesgoverningtheonsetandclosure
+ofcritical-periodplasticityinprimaryvisualcortex(V1)[34]. Developmentalanalysesalso
+notethatinfantvisualbehaviorcanremainimmaturedespiterelativelymatureaspects
+ofearlyneuralorganization,implyingthatbehavioraldevelopmentmaybeconstrained
+byfactorsbeyondearlyreceptive-fieldpropertiesalone[32]. Collectively,theseaccounts
+supportaregulatedandgradedviewofplasticityacrossdevelopmentratherthanastrictly
+binary‘on/off’window[32,34].
+3.2. InterocularSuppressionandBinocularImbalance
+Contemporarysynthesesemphasizeabnormalbinocularinteractionsinamblyopia,
+includinginterocularsuppressionandbinocularimbalance,withimplicationsforpheno-
+typingandrehabilitation[6,23]. Suppressioncanbequantifiedusingdichopticparadigms;
+forexample,dichopticeye-chartapproachesestimatesuppressionusingcontrast-balance
+requirements,supportingtheuseofsuppressionstrengthasagradedphenotypingmea-
+sureratherthanapurelycategoricallabel[7]. Indeprivationamblyopiaduetochildhood
+cataract, interocular suppression can also be quantified; contrast balancing can reduce
+suppressioninmanycasesatleastintermittently,althoughstrongsuppressioncanpersist,
+especiallyinsomedelayed-treatmentormoreseverecases[35]. Together,thesefindings
+supportconsideringsuppressionstrength/binocularimbalanceasmeasurabledimensions
+wheninterpretingoutcomes,especiallyforbinocular/dichopticinterventions[6,7,23,35].
+3.3. DistributedCorticalInvolvementandStream-WeightedVulnerabilities
+Developmentalsynthesesindicatethatvisualbehaviorcanreflectmultiplelimiting
+factorsbeyondearly-stagereceptive-fieldmaturity, supportingabroadersystems-level
+perspectivewheninterpretingfunctionalconsequencesinthecontextofamblyopia[32].
+Withinthisperspective,dorsal-streamvulnerabilitydiscussionssupportconsideringtar-
+getedmeasurementofmotion-andvisuomotor-weightedfunctionsinrelevantcohorts,
+withoutimplyingauniversalorexclusivedorsaldeficitacrossallpatients[33]. Functional
+limitationsrelevanttoreadingaresupportedbyclinicalsynthesisindicatingslowerreading
+inamblyopiaandtheimportanceofconsideringthevisualandeye-movementdemands
+of reading [8]. Together, these considerations support multidimensional phenotyping
+beyondBCVA,combiningbinocularmeasures(e.g.,suppression)andfunctionallymean-
+ingfuloutcomes(e.g.,readingperformance),withoutforcingasingle-streamlabelontoall
+patients[6–8,32,33].
+3.4. AdultPlasticity: ResidualCapacityandDefiningResponseAcrossAges
+Critical-periodframeworksemphasizedevelopmentalconstraintsonrecoverybeyond
+earlywindowswhilealsorecognizingthatplasticityisregulatedandcanbemodulated
+underspecificconditions[34]. Evidencesynthesesindicatethatadultswithamblyopia
+canexhibitmeasurableimprovementswithperceptuallearningorvideogame-basedtrain-
+ing,whileemphasizingheterogeneityacrossinterventions,protocols,andoutcomes[28].
+High-levelreviewsintegratingmoderntreatmentapproacheslikewisesupportcontinued
+investigationofadultrehabilitationwhileacknowledgingvariabilityinresponsivenessand
+theneedforappropriateendpointselection[29]. Accordingly,inadults,“response”can
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 8of32
+beoperationalizedusingBCVA/logMARchangetogetherwithfunctionallymeaningful
+outcomes,and—whenbinocularmechanismsaretargeted—abinocularconstructsuchas
+suppression/binocularbalancewhenfeasible[7,28,29]. Outcomeheterogeneityisamajor
+barriertocross-trialcomparisonandevidencesynthesis,particularlywhenconventional
+therapiesarecomparedwithemergingbinocular,dichopticanddigitalapproaches[27,29].
+COSAMSaimedtoreducethisbydevelopingstakeholder-informedcoreoutcomesetsin-
+tendedforuseinclinicaltrialsandroutinepractice[31]. Foramblyopia,COSAMSreached
+consensusontencoreoutcomes: bestcorrectedvisualacuity;nearvisualacuity;spherical
+andcylindricalrefraction;compliance;treatment-relatedimpact;functionality/long-term
+impact; ocular alignment; vision-related quality of life; adverse events; and cost [31].
+AlignedwithCOSAMS,weproposeapragmaticmultidimensionalphenotypingframe-
+work designed to remain feasible in clinic-based cohorts while improving mechanistic
+interpretabilityandcomparabilityacrossstudies[29,31]. TheintentisnottoreplaceBCVA,
+buttoreportBCVAwithinaminimumdatasetthatalsocapturesbinocularfunction,func-
+tionalperformance,andpatient-centredimpact—dimensionsexplicitlyrepresentedwithin
+COSAMSdomainsforamblyopia[31].
+4. MultidimensionalClinicalPhenotypingandaProposedCoreOutcome
+Set(ChildrenandAdults)
+Amajorbarriertotranslationinamblyopiaresearchandclinicalcareisinconsistentout-
+comeselectionandreportingacrossstudies[29,31]. ConsensusinitiativessuchasCOSAMS
+weredevelopedtoharmonizeoutcomereportingandimprovecomparabilityacrosstrials
+and routine clinical practice, which becomes especially salient when interpreting evi-
+dence across conventional therapies (optical correction, patching, atropine) and newer
+binocular/digitalinterventionsthatmayengagedifferenttherapeuticmechanisms[29,31].
+In practice, BCVA remains central, yet COSAMS explicitly incorporates domains be-
+yond acuity—such as compliance and treatment-related and functionality/long-term
+impacts—supportingamultidomainapproachtooutcomeassessmentandreportingin
+amblyopia[31]. Inparallel,contemporaryclinicalandtranslationalworkindicatesthat
+clinicallymeaningfulimpairmentcanextendbeyondacuityalone,includingquantifiable
+binocularfactors(e.g., interocularsuppression)andfunctionallimitationssuchasslow
+readingandbroaderfunctionalandhealth-relatedquality-of-lifeimpact[8,36–38]. Accord-
+ingly,amblyopiashouldbeoperationalizedwithinamultidomainphenotyping/outcome
+frameworkratherthanreducedtoasingleacuitymetric, toenablemechanism-aligned
+interpretationandmoreinformativecomparisonsacrossinterventions[29,31]. Thissection
+outlinesaclinicallyfeasiblephenotypingframeworkandaCOSAMS-alignedoperational
+minimumdataset/coreoutcometemplateintendedtosupportstructuredinterpretation
+andhypothesis-drivenmodellinginpediatricandadultsettings.
+Tofacilitatenavigationofthemultidimensionalframeworkdevelopedinthissection,
+Figure1providesasimplifiedreader-orientedsummaryoftheprincipalassessmentand
+interpretationdomainsdiscussedbelow.
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 9of32
+BeyondBCVAAlone
+Amblyopia is a heterogeneous neurodevelopmental disorder with visual,
+binocular, and functional consequences that may not be captured by acuity
+alone.
+CoreReporting
+BCVA, refraction, age, etiology, adherence, burden
+PhenotypeExpansion
+Severity, suppression/binocular imbalance, stereoacuity/binocular status,
+ocular alignment
+FunctionBeyondAcuity
+Reading, visuomotor/visual search, daily-life function, patient-reported
+impact
+InterpretationandFollow-up
+Mechanism-aligned treatment choice, COSAMS-aligned outcomes,
+and prospective validation Treatment outcomes may inform future phe-
+notype refinement.
+Figure1.Reader-orientedsummaryofthemultidimensionalamblyopiaframework,highlighting
+thecentrallogicofthereview: amblyopiashouldbecharacterizedbeyondBCVAalonethrough
+corereporting,phenotypeexpansion,andfunction-orientedassessment,followedbymechanism-
+alignedinterpretationandstandardizedoutcomeevaluation.Thisconceptualframeworkisintended
+to support structured clinical reasoning and future validation rather than serve as a validated
+predictivetool.
+4.1. Domain1: VisualAcuityIsNecessarybutInsufficient
+BCVA(distanceandnear)isacoreendpointforamblyopiatrialsandclinicalmon-
+itoring and is explicitly included in the COSAMS core outcome set for amblyopia [31].
+COSAMSalsospecifiesoutcomesbeyondacuity—includingcomplianceandtreatment-
+relatedandfunctionality/long-termimpacts—supportingamultidomainapproachrather
+thanrelianceonBCVAalone[31]. Therefore,BCVAshouldbetreatedasnecessarybutnot
+sufficientwithinaCOSAMS-alignedmultidomainoutcomeframework[29,31].Operational
+recommendation: reportbest-correctedmonoculardistanceandnearvisualacuityforboth
+eyesinlinewithCOSAMS;describetheacuitytestingapproachsufficientlytosupport
+interpretabilityandcross-studycomparison[31].
+4.2. Domain2: OpticalTreatmentResponseasaPhenotypeMarker
+RefractivecorrectionalonecanproducemeasurableimprovementsinBCVAduring
+aninitialrefractive-adaptation(“opticaltreatment”)phaseintreatment-naïvechildrenwith
+amblyopia,andthedurationofthisphaseisakeydesignelementtoreportbeforeintroduc-
+ingadditionaltherapy[39].Becauserefractive-adaptationdurationcaninfluencethechild’s
+visualstatusatthetimepenalizationbegins,inconsistentoptical-phasedefinitionscanma-
+teriallyaffectinterpretationofsubsequenttreatmenteffects,particularlyincomparativeor
+sequential-treatmentdesigns[39].Accordingly,opticaltreatmentstatus(treatment-naïvevs.
+post-adaptation)andthemagnitudeofBCVAresponseduringrefractiveadaptationshould
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 10of32
+beexplicitlydocumentedand,whenrelevant,usedasaclinicallymeaningfulstratifica-
+tion/modifiervariableinanalysesandreporting[39]. Recentrandomizedevidencefurther
+supportstheclinicalrelevanceofaninitialoptical-treatmentphase,astheEuPatchtrial
+showedthatameaningfulsubsetofchildrenmayachieveclinicallymeaningfuloutcomes
+withrefractivecorrectionalonebeforeescalationtopatchingoratropinestrategies[39].
+Thesefindingsreinforcerefractiveadaptationasbothatherapeuticphaseandaclinically
+informativephenotypemarker. Operationalrecommendation(opticalphase): explicitly
+defineandreporttherefractive-adaptationphase(durationofrefractivecorrectionpriorto
+anypenalization)andtheobservedBCVAchangeoverthisphasebeforeinitiatingaddi-
+tionaltherapy[39]. Recentrandomizedevidencefurthersupportstheclinicalrelevanceof
+aninitialoptical-treatmentphase,astheEuPatchtrialshowedthatameaningfulsubset
+ofchildrenmayachieveclinicallymeaningfuloutcomeswithrefractivecorrectionalone
+beforeescalationtopatchingoratropinestrategies[39]. Thesefindingsreinforcerefractive
+adaptationasbothatherapeuticphaseandaclinicallyinformativephenotypemarker.
+GradedOpticalPenalizationasanIntervention-ClassModifier(BangerterFoils)
+Beyondpatchingandatropine,gradedopticalpenalizationusingBangerterfoilsisused
+clinicallyasanalternativefellow-eyeimage-degradationstrategy.Optical/psychophysical
+studiesindicatethatBangerterfoilscanincreaseforwardlightscatterandproducespatial-
+frequency-dependentdegradationofvisualperformance,withmeasurableeffectsonacuity
+and contrast sensitivity that vary by foil density, supporting their characterization as a
+controllableimage-degradationtoolratherthanauniform“occluder”[40,41].Retrospective
+clinicaldatainanisometropicamblyopiafurtherreportdifferencesinnonamblyopic-eye
+oculargrowthandrefractivetrajectoriesbetweenBangerter-foilpenalizationandpatch-
+inggroups,underscoringtheimportanceofclearlyspecifyingthepenalizationmodality
+andexposurewhencomparingtreatmentpathways[42]. Operationalrecommendation
+(penalization modality): when penalization is introduced, report the modality (patch-
+ing/atropine/Bangerter),intended“dose”(e.g.,hours/dayorfoildensity),andtheverifi-
+cation/adherenceapproachtoimprovecross-studyinterpretabilityandcomparability.
+4.3. Domain3: BinocularFunctionandQuantifiedSuppressionasCorePhenotypeAxes
+COSAMS defines amblyopia outcomes beyond monocular acuity, including oc-
+ular alignment, vision-related quality of life, treatment-related impact, and future
+functionality/long-term impact, supporting a multidomain characterization of ambly-
+opia burden and treatment effects that is not limited to BCVA alone [31]. Interocular
+suppressioncanbeoperationalizedasagraded,quantitativebinocularvariableinchildren
+usingdichopticparadigms[38]. Inapediatricluminance-balanceapproach,suppression
+magnitude(interocularluminancedifferencerequiredforbinocularbalance)wassignif-
+icantlycorrelatedwithinterocularvisualacuitydifference,amblyopic-eyevisualacuity,
+Worth-4-Dotfindings,andstereoacuityatbothnearandfardistances,supportingconstruct
+validityandpositioningsuppressionstrengthasaclinicallyinterpretablebinocularpheno-
+typingmetricratherthanapurelyqualitativedescriptor[38]. However,currentevidence
+forsuppressionasanindependentpredictoroftreatmentresponseislimitedandislargely
+correlational;prospectivevalidationinstructuredcohortsisneededtoestablishprognostic
+utility[29,31]. Operationalrecommendation: recordbinocularfunction(stereoacuitywhen
+measurable, and measurability/status when not). When feasible, include a quantified
+suppressionmetric(methodspecified)andreportitalongsideCOSAMScoreoutcomesto
+supportstructuredphenotypingandcross-studyinterpretability[31,38].
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 11of32
+4.4. Domain4: FunctionalPerformanceBeyondAcuity
+COSAMSincludesfunctionality/long-termimpactswithintheamblyopiacoreset,support-
+ingamultidomainapproachinwhichoutcomesarenotlimitedtomonocularacuityalone[31].
+Evidencesynthesesfurtheremphasizefunctionalconsequencessuchasreading-relatedineffi-
+ciency/slowreadingandbroaderquality-of-lifeimpact,supportingtheinclusionoffunctional
+endpointswhenthestudyquestionconcernsdailyperformanceorsustainedvisualtasks[8,36,37].
+Consequently,atleastonefunctionalendpointbeyondBCVAisrecommendedwhentheclinical
+questionconcernsperformanceineverydayorsustainedtasks,andparticularlywhencomparing
+modalitiesthatmaydifferentiallyaffectfunctiondespitesimilaracuitygains[31]. Operational
+recommendation:includeatleastoneclearlydefinedfunctionalendpointbeyondBCVAinstruc-
+turedcohorts/trialswhenrelevanttothestudyobjective,consistentwithCOSAMS’emphasison
+functionality/long-termimpacts[31].
+4.5. Domain5: TreatmentBurdenandPatient-CentredOutcomes
+COSAMSincludescomplianceandtreatment-relatedimpactswithintheamblyopia
+coreoutcomeset,supportingthecaptureofadherence-relatedandreal-worldtreatment-
+burden dimensions in trials and clinical reporting [31]. Given that treatment burden
+andpsychosocialeffectscaninfluenceadherenceandpatient/familyexperience,patient-
+reportedoutcomemeasures(PROMs)shouldbeconsideredascomplementaryendpoints
+alongsidevisualacuityandbinocularmeasures. AsystematicreviewcataloguedPROMs
+usedinamblyopiaandstrabismusandappraisedtheircontentcoverageandmeasurement
+properties,supportinginstrumentselectionalignedwithstudyaimsandpopulation[43].
+Reviewsalsosynthesizefunctionalandquality-of-lifeconsequencesthatextendbeyond
+acuity (e.g., reading and health-related quality of life), underscoring the need to quan-
+tifypatient-centredimpactinclinicalstudieswhenrelevanttothestudyquestion[36,37].
+Inaddition,afocusedreviewevaluatedpsychologicaldistressassociatedwithamblyopia
+treatment,supportinginclusionofpatient-andfamily-centredoutcomeswhencomparing
+interventionsthatdifferinburdenoradherencedemands[44]. Operationalrecommenda-
+tion: whenfeasible,incorporateavalidatedPROM(instrumentspecified)chosenusinga
+systematic,psychometricrationale(population,age,language,domains,andmeasurement
+properties)ratherthandefaultingtolegacyinstruments. Forpaediatricstudies,prioritize
+instrumentsthatcapturetreatmentburdenandfamilyimpact;foradultorlong-termimpact
+analyses,selectvision-specificquality-of-lifemeasuresalignedwiththestudyquestionand
+validatedforthetargetpopulation(e.g.,AmbQoL)[36,43–45].
+4.6. APragmaticMinimumDatasetAlignedwithCOSAMS
+Toreduceoutcomefragmentationandstrengthencomparability,werecommenda
+pragmatic feasibility-focused operational subset aligned with COSAMS for amblyopia:
+(i)best-correcteddistanceandnearvisualacuity,(ii)sphericalandcylindricalrefraction,
+(iii)compliance,and(iv)treatment-relatedandfunctionality/long-termimpacts,withre-
+portingofadverseevents(aCOSAMScoreoutcome)andothersharedcoreoutcomeswhere
+relevant[31]. Whenfeasible,addingaquantifiedsuppressionmetric(methodspecified)
+canfurthersupportbinocularphenotypingandmechanisticinterpretation[38]. Additional
+binocularfunctionmeasures(reportedwiththeinstrument/metricspecified)mayfurther
+aidstratificationinstudieswherebinocularmechanismsarecentraltotheresearchquestion,
+while maintaining COSAMS core outcomes for cross-study comparability [31,38]. This
+minimumdatasetisintendedtobeimplementableinclinicalsettingswhilesupporting
+standardized,stakeholder-relevantoutcomereportingandcomparisonacrossstudies[31].
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 12of32
+4.7. ClinicalPhenotypesinAmblyopia: AnIntegratedEtiology-BasedandFunction-Based
+Framework(ChildrenandAdults)
+We propose that clinical phenotyping in amblyopia can serve two parallel goals:
+(i)describe impairment in operational, mechanism-relevant terms (e.g., binocular inter-
+action measures where feasible and functionally relevant limitations), and (ii) inform
+treatment selection and outcome expectations. BCVA remains the primary outcome
+measure in conventional amblyopia management, but newer binocular/dichoptic and
+training-basedapproachesareexplicitlydesignedtoprovidedifferentstimulationtothe
+amblyopicandfelloweyes;accordingly,interpretationacrossmodalitiesmaybenefitfrom
+phenotypingthatisnotrestrictedtoacuityaloneandthatcaninformmechanism-aligned
+comparisons[29].StandardizationinitiativessuchasCOSAMSreinforcemultidomainout-
+comereportingbeyondmonocularacuity—includingcomplianceandtreatment-related
+andfunctionality/long-termimpacts—toenablecomparisonofresultsacrossstudiesand
+routineclinicalpractice[31].
+4.7.1. Etiology-BasedPhenotypes(Input-DiscordanceClass)
+Amblyopiaiscommonlyclassifiedaccordingtothepredominantsourceofabnormal
+visual input, including strabismic, refractive, mixed, and deprivation-related forms [1].
+Refractive amblyopia includes anisometropic and bilateral ametropic forms. Clinically
+significantuncorrectedastigmatismisalsoanimportantcauseofabnormalvisualdevelop-
+mentandmaybeassociatedwithdeficitsinvisualacuity,contrastsensitivity,stereoacuity,
+and orientation-dependent visual performance, consistent with meridional amblyopia
+ormeridionalanisotropiesinselectedphenotypes[3,46,47]. Mixedamblyopiarefersto
+combinedrefractiveandocularalignmentmechanismsoperatinginthesamepatient[1].
+Werecommendrecordingetiologyexplicitlyinallstructuredcohortsandtrialsasafounda-
+tionalphenotypedescriptor[1]. Etiologyisclinicallyusefulfordescriptivepurposes,andit
+providesanoperationallabelforthetypeofearlydiscordantvisualexperience;accordingly,
+itmayhelpinterpretdifferencesinfunctionalprofilesacrossetiologicgroups[1].
+Minimaloperationalvariablestorecord:
+• Primary etiology: strabismic/refractive (anisometropic, isoametropic, astigmatic
+(meridional))/mixed/deprivation-related; specify combined mechanisms when
+present[1,3].
+• Baselinebest-correcteddistanceandnearvisualacuityforbotheyes(reportthescale
+used,e.g.,logMAR)[31].
+• Baseline interocular acuity difference (IOD), when used as an eligibility or suc-
+cess criterion and/or to support comparability with trials reporting IOD-based
+endpoints[31,39].
+• Historyofopticalcorrection,includingexplicitdocumentationofanyopticaltreatment
+phase(durationandcriteria),becauserefractivecorrectionalonecanproducemea-
+surableimprovementandcanshiftvisualstatusbeforepatchingintreatment-naïve
+childhoodamblyopia[39].
+Clinicalimplication: Inadultinterventionsynthesesofbehavioraltherapies,included
+studiesspandifferenttrainingapproaches(includingmonocularanddichopticprotocols)
+andtypicallyreportvisualacuityoutcomes;therefore,clearetiologicreportingsupports
+transparentsamplecharacterizationandstratifiedinterpretationwhenfeasible[1,28].
+4.7.2. Function-BasedPhenotypes(ExpressionoftheDisorder)
+Etiologyalonedoesnotfullycaptureexpresseddisability;therefore,weproposethata
+clinicallyusefulphenotypecanincludefunction-baseddimensionsthataremechanistically
+grounded, measurable, and aligned with the mechanism targeted by the intervention
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 13of32
+(e.g.,monocularpenalizationversusbinocular/dichopticapproaches)[29,31]. Wepropose
+fourfunction-basedaxesthatarefeasibleacrosschildrenandadults:
+Axis A: Acuity phenotype (BCVA severity; interocular acuity difference when re-
+ported/used). BCVA remains a core endpoint and is included as a core outcome in
+COSAMS [31]. Conventional penalization (occlusion and/or pharmacologic penaliza-
+tion)improvesBCVAinchildren;evidencesynthesesindicatethatatropinepenalizationis
+aseffectiveasocclusioninimprovingvisualacuity,andmeta-analyticcomparisonssuggest
+nostatisticallysignificantdifferencebetweenpart-timeandfull-timeocclusioninvisual
+acuityimprovement[12,13]. Accordingly,BCVAremainsessentialfortherapycomparisons
+andlongitudinalmonitoring[12,13,31].
+Axis B: Binocular phenotype (stereoacuity measurable vs. non-measurable; value
+when measurable). Because binocular/dichoptic approaches explicitly target binocu-
+lar interactions, documenting binocular status (with the metric specified) can support
+mechanism-alignedinterpretationwhenfeasible[29]. Whenstereoacuitycannotbemea-
+suredreliably(e.g.,duetoageorprofoundbinoculardysfunction),werecommendrecord-
+ingmeasurability/statusexplicitlyasaphenotypefeatureratherthantreatingitasmissing
+data[31].
+Axis C: Suppression phenotype (quantified suppression strength when feasible).
+Suppression can be operationalized as a graded variable in children using dichoptic
+paradigms[38]. Apracticalpediatricsuppressionquantificationapproachshowedsignifi-
+cantcorrelationsbetweensuppressionstrengthandmultipleclinicalmeasures(including
+interocular acuity difference and stereoacuity), supporting quantified suppression as a
+clinicallyinterpretablephenotypingmetricandacandidatestratificationvariablewhen
+feasible[38].
+AxisD:Functionalbottleneckphenotype(reading-limited/task-limitedvs. not;quan-
+tifiedwhenfeasible). Functionallimitationmayincludereading-relatedinefficiency/slow
+reading and broader everyday impacts not captured by BCVA alone. Disease-impact
+reviews emphasize effects of amblyopia that extend beyond visual acuity and include
+impactsoneverydayfunctioning,reading,andhealth-relatedqualityoflife,supportingin-
+clusionofatleastonefunctionalendpointbeyondBCVAwhenthestudyobjectiveconcerns
+performanceinsustainedtasks,inbothpediatricandadultcontexts[8,36,37].
+4.7.3. APragmaticPhenotypeMatrixforReportingandHypothesis-DrivenPrediction
+Combiningetiology-basedandfunction-basedphenotypingyieldsapragmaticma-
+trixusableforclinicaldocumentation,trialreporting,andhypothesis-drivenmodelling
+(descriptive,hypothesis-driven;notapredictivealgorithm). Exampleprofiles:
+• Anisometropic(ormixedwithadominantrefractivecomponent),opticalresponder:
+thisprofilehighlightstheopticaltreatmentphaseasamajorbaselinemodifierbecause
+refractivecorrectionalonecanproducemeasurableimprovementandchangevisual
+statusbeforepatching[39]. Instudieswheredailyperformanceisthefocus,addingat
+leastonefunctionalendpointbeyondBCVAcanhelpcaptureimpactsthatmayextend
+beyondacuityalone[36,37].
+• Reduced/absent stereoacuity (including non-measurability) with strong interocu-
+lar suppression: this profile supports reporting a quantified suppression metric
+(method specified) alongside acuity measures to support binocular phenotyping
+andinterpretation, particularlywhentheinterventiontargetsbinocular/dichoptic
+mechanisms[29,38]. Whereclinicallyindicated,conventionalocclusiontherapycan
+stillimproveBCVA,supportingcontinueduseofacuityasaresponsiveendpointin
+longitudinalmonitoringandcomparisons[12,13]
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 14of32
+• Adult amblyopia (any etiology), variable suppression and functional complaints:
+adultinterventionsynthesesreportheterogeneity/inconsistencyacrossstudiesand
+protocols,supportingstratifiedreportingandcautiouscross-studyinterpretation[28].
+Whenthestudyquestionconcernsreal-worldperformance,outcomeselectioncan
+be expanded beyond BCVA to include at least one functional endpoint [36] and,
+where binocular/dichoptic mechanisms are central, a binocular construct (metric
+specified)[29].
+4.7.4. Patient-CentredPhenotypeModifiers: BurdenandAdherence
+Twopatient-centredmodifiersareparticularlyrelevantforclinicaltranslationinpe-
+diatric cohorts: treatment burden and adherence. COSAMS includes compliance and
+treatment-related impact within the amblyopia core outcome set, reinforcing the value
+ofmeasuringadherenceandtreatmentburden/impactalongsideclinicaloutcomes[31].
+Accordingly,validatedpatient-reportedoutcomemeasures(PROMs;instrumentspecified)
+canbeconsideredascomplementaryphenotypemodifiers. Asystematicreviewcatalogued
+PROMsusedinamblyopiaandstrabismusandappraisedtheircontentcoverageandmea-
+surementproperties,providinganevidence-basedbasisforinstrumentselectionaligned
+withstudyaimsandpopulation[43]. Reviewsfurthersynthesizefunctionalconsequences
+andhealth-relatedquality-of-lifeimpactbeyondvisualacuity,andafocusedsystematic
+review evaluates psychological distress related to amblyopia treatment; together, these
+supportinclusionofpatient-andfamily-centredoutcomeswhencomparingmodalities
+thatdifferinburdenoradherencedemands[36,37,44].
+4.8. StandardizedReportingTemplateforAmblyopia: APragmaticCoreDataset(2026Proposal)
+Heterogeneity in outcome reporting remains a major limitation in amblyopia re-
+searchandreducescross-studycomparability[31]. COSAMSwasdevelopedtoreduce
+thislimitationthroughconsensus-basedstandardizationofwhatshouldbemeasuredand
+reportedinamblyopia,includingbest-correcteddistanceandnearvisualacuity,spherical
+andcylindricalrefraction,compliance,andtreatment-relatedandfunctionality/long-term
+impacts[31]. Standardizedoutcomeadoptionisintendedtoenhancecross-studycompara-
+bilityandevidencesynthesisacrossinterventions[31]. Basedontheevidencesummarized
+inSections2and3,weproposeapragmaticstandardizedreportingtemplateforclinical
+trials and structured clinical cohorts in pediatric and adult populations. This template
+usesCOSAMSasaminimumreportingfoundationand,whenfeasible,addsmechanism-
+orientedvariables—suchasquantifiedinterocularsuppression(methodspecified)andat
+leastonefunctionalendpointbeyondBCVA—toimproveinterpretability,particularlywhen
+interventionstargetbinocular/dichopticmechanisms[29,31,38]. Functionalendpointsare
+justifiedbecauseclinicallyrelevantperformancelimitationsandbroaderimpactsmaynot
+becapturedbyBCVAalone[8,36,37].
+CoreReportingMatrix(MinimumDataset):
+COSAMS defines core outcome domains for amblyopia. Table 3 operationalizes a
+feasibility-focusedreportingmatrixalignedtoCOSAMS,includingbest-correcteddistance
+andnearvisualacuity,sphericalandcylindricalrefraction,adherence/compliance,adverse
+events(whenapplicable),andpatient-relevanttreatmentimpact/functionaloutcomes[31].
+Wherebinocular/dichopticmechanismsaretargeted,suppression/imbalanceshouldbe
+quantifiedusingaclearlyspecifiedmethodandreportedwithtransparenthandlingof“not
+measurable”values[38]. FunctionaloutcomesbeyondBCVAaresupportedbyevidenceof
+reading-relatedinefficiencyandbroaderfunctional/health-relatedquality-of-lifeimpact,
+motivatinginclusionofatleastoneclearlydefinedfunctionalendpointwhenclinically
+relevant[8,36,37]. Patient-centredburden/impactshouldbeassessedusingavalidated
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 15of32
+PROM(instrumentspecified)informedbyPROMevidencesynthesesand,whenrelevant,
+amblyopia-specificQoLinstruments(e.g.,AmbQoL)[36,43–45].Toimproveinterpretability
+across heterogeneous intervention pathways, studies should explicitly report the inter-
+ventionclassanddelivereddose/exposure. Thisappliestoestablishedmodalities(e.g.,
+opticalcorrection,patching,atropine,andbinocular/digitalapproaches),togradedop-
+ticalpenalizationapproachessuchasBangerterfoilswhenused[40–42],andtoselected
+protocolizedorthoptic/vision-therapyprogramsinphenotype-specificcontexts[48,49]. Ex-
+perimentalspectral/filter-basedneuromodulationprotocols,ifstudied,shouldbereported
+separatelyasresearch-contextinterventionswithexplicitexposurespecificationandsafety
+reporting[50–52].
+Table 3. COSAMS -aligned core reporting matrix for amblyopia studies (children and adults),
+withadditionalmechanism-relevantvariablesrecommendedwhenfeasible.
+Rationale
+Domain Variable RecommendedMetric Core/Recommended
+(Evidence-Anchored)
+Developmental/sensitive-
+periodframeworksmotivate
+Demographics Age Years(continuous) Core age-stratifiedreportingand
+interpretationofresponse
+variability[4,34].
+Primaryetiology(as Foundationalphenotype
+definedbystudy)ani- descriptorforstratified
+Etiology sometropic/strabismic/ Categorical Core reportingandinterpretation
+combined;deprivation acrosscohortsandtreatment
+(ifapplicable) approaches[1,29].
+Minimumrefractivereporting
+D(sphere/cyl;specify
+Sphericalequivalentand elementalignedwith
+Refraction cycloplegiastatus Core
+cylinder(botheyes) COSAMSamblyopiacore
+andmethod)
+outcomes[31].
+Corevisualendpointin
+BCVAamblyopiceye logMAR(specifycharts,
+Acuity Core COSAMSamblyopiareporting
+(distanceandnear) distance,scoring)
+framework[31].
+Providesfellow-eyebaseline
+BCVAfelloweye contextandenablesderivation
+Acuity logMAR Core
+(distanceandnear) ofinterocularacuitydifference
+(IOD)[31].
+Binocularstatusisrelevantfor
+Arcsec(report deepphenotypingand
+Binocularfunction(e.g., test/method; Recommended(if interpretation,particularly
+Binocular
+stereoacuity) log-transformif measurable) wheninterventionstarget
+analyzed) binocular/dichoptic
+mechanisms[29,31].
+Pediatricmethodsenable
+Recommended; quantifiedsuppressionindices;
+Continuousvalue
+particularlyfor interpretationis
+Quantifiedsuppression (reportscale/units);
+Suppression binocu- method-dependentandshould
+index(methodspecified) report“not
+lar/dichoptic includetransparentreporting
+measurable”explicitly
+interventions ofmissingness/not
+measurablevalues[29,38].
+Functionallimitationbeyond
+Reading-related
+BCVAissupportedby
+metric/sustained-task Continuous(define
+Functional Recommended reading-relatedandbroader
+functionalendpoint endpointandprotocol)
+functional/QoLimpact
+(whenrelevant)
+evidence[8,36,37].
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 16of32
+Table3.Cont.
+Rationale
+Domain Variable RecommendedMetric Core/Recommended
+(Evidence-Anchored)
+Documentsabaselinemodifier
+whenanopticaltreatment
+Weeks/months;specify
+Treatment Opticalphase(ifused): phaseisincludedbefore
+stabilization/decision Core(ifapplicable)
+descriptor durationandcriteria additionaltherapy,supporting
+criteria
+attributionofsubsequent
+gains[39].
+Opticalcorrection
+only/patching/atropine
+/gradedoptical
+Ensuresinterpretabilityacross
+penalization(e.g.,
+heterogeneousmodalitiesin
+Bangerter)/binocular
+contemporarysynthesesand
+Treatment –dichoptic–digital/VR/
+Interventionclass Core supportsmechanism-aligned
+descriptor perceptual
+interpretationacross
+learning/vision
+intervention
+therapy–orthoptics/cone-
+classes[29,31,40–42,48–52].
+biasedspectral
+neuromodulation
+(researchcontextonly)
+COSAMSincludes
+Hours/day+
+adherence/compliance
+Prescribeddoseand weeks/months;
+reportingasacoreelement;
+duration; adherencemetric
+dose/adherencereporting
+Dose/adherence/ adherence/compliance specified;for
+Core supportscomparability,
+exposure (andexposure spectral/lightprotocols
+andexposurespecificationis
+parameterswhen reportexposure
+requiredforreproducible
+relevant) duration/timingand
+protocolreportingin
+verificationparameters
+light/filterparadigms[31].
+COSAMSincludesadverse
+Pre-specifiedAElist+ Core(when
+Safety Adverseevents eventsasasharedcore
+counts applicable)
+outcome[31].
+PROMsynthesessupport
+ValidatedPROM;
+Treatment instrumentselection;
+Patient-centred instrumentspecified
+burden/treatment Recommended psychologicalimpactevidence
+outcomes (name/version/
+impact(pediatric) supportsmeasuring
+language/domains)
+burden/impact[43,44].
+Amblyopia-specificQoL
+AmbQoLtotal+
+instrumentsupports
+Patient-centred Long-termimpact/QoL domains(orvalidated
+Recommended measurementof
+outcomes (adult/long-term) alternative;instrument
+patient-perceivedlong-term
+specified)
+impact[45].
+Note: Core=recommendedforallCOSAMS-alignedstudiestoenablecross-studycomparability.Recommended
+itemsshouldbeincludedwhenfeasible/measurableandareparticularlyrelevantwheninterventionstarget
+binocular/dichopticortraining-basedmechanisms.
+Linkingthetemplatetohypothesis-drivenmodelling(brief):
+“Tosupporthypothesis-testingcohorts,forexample,apre-specifiedresponsevariable
+canbedefinedasthechangeinamblyopic-eyebest-correctedvisualacuity(logMAR)over
+a defined treatment interval. Within COSAMS-aligned datasets, clinically measurable
+candidatemoderatorscanthenbeevaluatedaspre-specifiedhypothesesforexplaining
+variabilityinvisualacuitychange,includingdevelopmentalstage(age),baselinesever-
+ity,delivereddose/adherence(whenmeasured),andquantifiedinterocularsuppression
+(methodspecified)whenavailable[29,31,34,38,53]. Thesehypothesescanbetestedusing
+prospectively defined statistical models (e.g., regression or mixed-effects frameworks),
+withtransparentpre-specificationofcovariatedefinitionsandclinicallyplausibleinterac-
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 17of32
+tions(e.g.,suppression-by-interventionclass)wherejustifiedbytheinterventionmecha-
+nism. Importantly,thissectiondoesnotproposeavalidatedpredictiveequation;itoutlines
+astandardized,testableexplanatorymodellingstrategyfacilitatedbyharmonizedpheno-
+typingandoutcomereporting. Translationalimpact: Adoptionofthispragmatictemplate
+maystrengthencross-studycomparabilityandevidencesynthesisbyharmonizingcore
+domainswithoutforcingidenticalstudydesigns[31]. Itmayalsohelpreduceoutcome
+fragmentationbyencouragingpre-specificationofessentialdomainsandimproveclinical
+interpretabilitybyaligningoutcomeswithinterventionmechanismandpatient-centred
+impactusingvalidatedPROMs(instrumentspecified)[29,31,36,43,44]”.
+5. ConceptualPredictiveTherapeuticFrameworkinAmblyopia
+5.1. RationaleforaPredictiveFramework
+Despitedecadesoftherapeuticresearch,amblyopiamanagementinroutinepractice
+canremainlargelydrivenbybaselinevisualacuityandageratherthanphenotype-informed.
+TreatmentselectioniscommonlyreportedaroundageandbaselineBCVA,yetcontempo-
+rarysyntheseshighlightsubstantialbetween-patientvariabilityinresponseandheterogene-
+ityacrossinterventionsandendpointsinbothpediatricandadultpopulations[28–30,37].
+Randomizedevidenceinchildrenshowsthatpatchingimprovesamblyopic-eyeacuityon
+average,withtreatment“dose”beingakeydesignvariable,whileatropinepenalization
+can be as effective as occlusion in improving visual acuity in the evidence synthesized
+todate[12,13]. Binocular/digitalinterventionshavealsoshownmeasurableshort-term
+amblyopic-eyeacuityimprovementinsomepediatricrandomizedcohorts[21]. However,
+residualdeficitsandvariableresponseprofilesindicatethatbaselineacuityandchronologi-
+calagealonedonotfullyaccountforobservedvariability,motivatingdeepphenotyping
+andmechanism-alignedoutcomeselection[29,37]. Inadults,training-basedinterventions
+(perceptuallearningandvideogame-basedprograms)canyieldmeasurableimprovements
+in pooled analyses, but effects and outcomes vary across studies, and mechanistically
+relevantmoderatorsareinconsistentlyreported[28,29]. Thesepatternsmotivateamech-
+anistically grounded framework that integrates multidimensional phenotype variables
+ratherthanrelyingonsingleendpoints[4,29,37].
+5.2. CoreConceptualModel
+Weproposethattreatmentresponseinamblyopiaismodulatedbyfiveinteractingdo-
+mains.Thestructureisinformedbyevidencediscussedinpriorliteratureandbythesynthe-
+sisinthisreview,butrequiresformalprospectivevalidationbeforeclinicalimplementation.
+5.2.1. DevelopmentalPlasticityGradient
+“Agefunctionsasaprobabilisticmodifierofneuralresponsiveness,reflectingresid-
+ualexperience-dependentplasticityratherthanabinarysensitive-periodthreshold[4,34].
+Plasticpotentialis,therefore,bestconceptualizedasacontinuum: higherexpectedrespon-
+sivenessinchildren,withreducedbutnon-zeroresidualcapacityinadults,consistentwith
+adultrehabilitationevidencesummarizedinrecentsyntheses[28,29]”.
+5.2.2. BaselineSeverityAxis
+BaselineBCVAandinterocularacuitydifference(IOD)definethestartingimpairment
+load. Pediatricevidenceindicatesthatmeaningfulgainscanoccurunderpatching-based
+conventionaltherapy,withdoseconsiderationsinfluencingoutcomes[12,13]. Binocular
+digital interventions have also shown short-term amblyopic-eye acuity improvement
+in some pediatric randomized cohorts [21]. However, achievable magnitude may be
+constrained by baseline severity and measurement ceiling effects, and severity should
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 18of32
+beinterpretedalongsidebinocularandfunctionaldimensionstoavoidover-relianceon
+acuity-onlyendpoints[29,36,37].
+5.2.3. BinocularImbalanceandSuppressionStrength
+Interocular suppression is a mechanistically central construct in amblyopia and
+can be operationalized as a graded variable in children using quantitative dichoptic
+paradigms[7,38]. Apracticalpediatricsuppressionmetricdemonstratedcorrelationswith
+interocularacuitydifference,amblyopic-eyeacuity,Worth-4-Dotfindings,andstereoacu-
+ity,supportingsuppressionstrengthasacandidatestratificationvariableforstructured
+cohortsandtrials[38]. Clinically,greatersuppressionmagnitudeisconsistentwithdeeper
+binocularimbalanceandcouldconstrainresponsetobinocularlyorientedinterventions;
+however,thismoderatingrolehasnotyetbeenprospectivelyvalidatedacrossstandard-
+izedcohortsandshouldbeinterpretedasatestablehypothesisratherthananestablished
+predictor[29,38]. Conversely,lowersuppressionmaybecompatiblewithmorefavorable
+baselineconditionsfordichopticapproachesthattargetbinocularinteractions[29]. Sup-
+pressionremainsinconsistentlyquantifiedacrosstrials,limitingexplanatorymodelling
+andcross-studycomparability[29,31].
+5.2.4. FunctionalBottleneckDimension
+Functionallimitationinamblyopiaisnotfullycapturedbyacuityalone. Evidence
+synthesesemphasizereading-relatedinefficiencyandbroadereverydayfunctionaland
+health-relatedquality-of-lifeimpact,supportinginclusionofatleastonefunctionalend-
+pointbeyondBCVAwhenalignedwiththeclinicalquestion[8,36,37]. Consequently, it
+ispossibletoobservesignificantBCVAimprovementwithlimitedchangeinfunctional
+performanceifthedominantbottleneckisnotaddressedbytheinterventionmechanism.
+Outcome interpretation should, therefore, consider whether the phenotype is predomi-
+nantlyacuity-limitedorfunction-limited(sustained-task/reading-related)andincludeat
+leastonefunctionalendpointwhenalignedwithCOSAMSfunctionality/long-termimpact
+domains[31].
+5.2.5. TreatmentDoseandMechanismTarget
+Treatmentmodalityinteractswithphenotype. Conventionalpenalization(patching)
+improvesacuityoutcomesinchildren,withtreatmentdosebeingakeydesignvariable[13].
+Binocular/dichopticapproachesaredesignedtoengagebinocularinteractionsandoften
+aimtoreduceinterocularimbalance(includingsuppression)[7,29],whileperceptuallearn-
+ingandvideogame-basedapproachesinadultshaveshownpooledacuityimprovements
+acrossheterogeneousprotocols[28,29]. Acrossmodalities,consistentwithCOSAMS,ad-
+herence/complianceandtreatment-relatedandfunctionality/long-termimpactsshould
+bemeasuredandreported;whenfeasible,patient-centredimpactcanbecapturedusinga
+validatedPROM(instrumentspecified)selectedusingapsychometricrationalealigned
+withpopulationanddomainsofinterest[31,36,43,44].
+5.3. ConceptualInteractionModel(NarrativeForm)
+Treatmentresponsecanbeconceptualizedastheintersectionof: plasticitygradient
+× baseline severity × suppression magnitude × functional bottleneck type × treatment
+mechanismmatch×dose/adherence. Ratherthanadeterministicequation,themodelis
+probabilisticandphenotype-sensitive,anditisintendedtobetestablewithinstandard-
+izedoutcomestructures(COSAMS,includingcompliancereporting)andcontemporary
+treatmentframeworks[29,31].
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 19of32
+5.4. ClinicalTranslation
+Thisframeworkimpliesthat: (i)twochildrenwithsimilarBCVAmaydifferinbinoc-
+ularphenotype(e.g., quantifiedsuppression), supportingmechanism-alignedoutcome
+selectionandhypothesis-drivenstratifiedanalysesratherthanassumingidenticalresponse
+profiles [38]; (ii) two adults of similar age may differ in response depending on base-
+linebinocularbalanceandthematchbetweenphenotypedimensionsandintervention
+class,consistentwithheterogeneousadulttrainingoutcomesreportedinsyntheses[28,29];
+(iii)afunction-limitedphenotypemayrequirefunction-targetedoutcomeselectioneven
+afteracuityimproves[36,37];and(iv)agealoneshouldnotbeusedtodenytherapeuticat-
+tempts,becauseresponsecanbeheterogeneousandresidualplasticitymayremainclinically
+relevantbeyondearlychildhoodincontemporarysyntheses[4,29]. Theframeworkiscon-
+ceptualanddoesnotreplaceclinicaljudgment;itorganizesitaroundmeasurableconstructs
+andmechanism-alignedendpoints,alignedwithstandardizedoutcomedomains[29,31].
+Itisinformedbyevidencediscussedinpriorliteraturebutrequiresformalprospective
+validationbeforeclinicalimplementation.
+5.5. WhyThisIsNecessaryin2026
+Across contemporary amblyopia research, BCVA remains a dominant endpoint,
+while quantified suppression, binocular measures, and functional outcomes are less
+consistently integrated, limiting cross-trial comparability and constraining explanatory
+modelling [28,29,31]. Without phenotype-integrated reporting aligned to standardized
+outcome domains (COSAMS), precision-oriented care is difficult to implement and to
+evaluate consistently across cohorts. This conceptual framework aims to provide a
+structuredbridgebetweenneurodevelopmentalmechanismsandtranslationaldecision-
+makinganddefinestestablephenotypedimensionsforprospectivevalidationinclinical
+cohorts [29,31,37]. Figure2 operationalizes this rationale as a pragmatic phenotype-to-
+treatmentroutegroundedinCOSAMS-alignedminimumreporting[31],withbinocular
+(quantifiedsuppressionwhenfeasible)andfunctional/patient-centredmeasuresincorpo-
+ratedwhenalignedwiththeclinicalquestion,tosupportstandardized,hypothesis-driven
+evaluationinprospectivecohorts[28,29,31]ratherthanavalidatedpredictivealgorithm.
+STEP 1—COSAMS-ALIGNED MINIMUM REPORTING
+• BCVA: distance + near (report both eyes)
+• Refraction: spherical + cylindrical (both eyes)
+• Compliance/adherence
+• Treatment burden/impact + patient-centred function (PROM; instrument
+specified when feasible)
+STEP 2—MULTIDIMENSIONAL PHENOTYPING
+• Developmental plasticity gradient: age (continuum)
+• Baseline severity axis: baseline BCVA + IOD (derived)
+• Binocular imbalance: quantified suppression (method stated) when feasible
+• Ocular alignment/strabismus phenotype when present (type; angle/control)
+and accommodative/vergence status when relevant
+Figure2.Cont.
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 20of32
+STEP 3—FUNCTION BEYOND ACUITY (ONLY WHEN ALIGNED)
+• Include ≥ 1 functional end point beyond BCVA when aligned with
+the clinical question/COSAMS functionality domains (e.g.,
+reading/visual search/visuomotor performance when clinically
+indicated)
+• Patient-centred impact: validated PROM; instrument specified
+when feasible
+STEP 4—MECHANISM-ALIGNED INTERPRETATION (INTERVENTION
+CLASS)
+• Match intervention class to dominant limiting dimension(s): acuity-limited
+vs. suppression/binocular-imbalance-limited vs. function-limited vs.
+strabismus-control-limited
+• Conventional penalization: patching/atropine
+• Graded optical penalization: Bangerter foils (fellow-eye image degradation;
+foil density and verification stated)
+• Active training-based programs: binocular/dichoptic/digital therapy,
+perceptual learning, and selected protocolized vision therapy/orthoptics
+when phenotype-relevant (e.g., vergence/anti-suppression approaches in
+intermittent exotropia)
+• Experimental neuromodulation protocols (research context only):
+cone-biased filter/light stimulation with explicit exposure parameters and
+safety reporting (spectrum/α-opic metrics, timing, and verification)
+• In selected strabismus phenotypes with documented sensorimotor deficits,
+functional postural/balance assessment may be considered as an adjunctive
+measure; any rehabilitation in this domain should be interpreted as
+supportive rather than as primary visual treatment
+• Interpret outcomes relative to delivered dose/exposure and adherence
+within COSAMS-aligned domains
+STEP 5—OUTCOMES + TESTABLE (HYPOTHESIS-DRIVEN) ANALYSES
+• Report outcomes in standardized domains (COSAMS)
+• Use phenotype dimensions (and intervention class/dose) for
+hypothesis-driven stratified analyses and explanatory modelling (prospective
+validation)
+Figure2.Phenotype-to-treatmentroutealignedwithaconceptualtherapeuticframeworkinambly-
+opia(notavalidatedpredictivealgorithm).
+This schematic maps the Section 4 framework into a pragmatic route: COSAMS-
+alignedminimumreporting,multidimensionalphenotyping(developmentalstage,baseline
+severity,quantifiedsuppressionwhenfeasible),additionofatleastonefunctionalendpoint
+beyondBCVAwhenalignedwiththeclinicalquestion,andmechanism-alignedinterpreta-
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 21of32
+tionacrossinterventionclasses[31]. Conventionalpenalizationimprovesamblyopic-eye
+acuityonaverageinchildren,withpatchingdoseasakeydesignvariable,andatropine
+penalization can be as effective as occlusion in synthesized evidence [12,13]. Binocu-
+lar/dichoptic approaches are designed to engage binocular interactions, and baseline
+suppression/imbalancemaybearelevantstratificationdimensionwhensuppressionis
+quantified[7,29,38]. Inadults, training-basedapproachesshowpooledacuityimprove-
+mentsacrossheterogeneousprotocolsandoutcomes[28,29]. Inadditiontoconventional
+penalizationandbinocular/dichopticorothertraining-basedapproaches,thebroadertreat-
+mentlandscapemayincludegradedopticalpenalization(e.g.,Bangerterfoils)[40–42]and
+selectedprotocolizedorthoptic/vision-therapyprogramsinphenotype-specificcontexts
+suchasintermittentexotropia[48,49]. Experimentalcone-biasedspectralneuromodulation
+shouldbeinterpretedseparatelyasaresearch-directionframeworkrequiringprospective
+evaluation,explicitexposurespecification,andsafetyreportingbeforeanybroaderclinical
+positioning[50–52]. Theframeworkisconceptual,intendedforhypothesis-driventesting
+withinstandardizedoutcomes(COSAMS),andrequiresprospectivevalidation[29,31].
+Note: Conceptualframework. Notavalidatedpredictivealgorithm. Requiresprospec-
+tivevalidation.
+6. NeurofunctionalandMultisensoryConsequencesof
+Amblyopia/Strabismus—WhyBCVA-OnlyEndpointsAreInsufficient
+Evidencefrom2016–2026supportsthatamblyopiaandstrabismuscanbeassociated
+withfunctionalimpactsbeyondmonocularacuity,extendingtofinevisuomotorcontrol,
+visuospatial/perceptualprocessing,oculomotor–attentioncoupling,and—inselectedstra-
+bismusphenotypes—cross-modalattentionalfindings. Thesebroaderconsequencesalign
+withsynthesesemphasizingimpactsbeyondacuityandcanremainclinicallyrelevanteven
+whenacuityimproves,motivatingmechanism-andquestion-alignedoutcomeselection
+beyondBCVAwhenfunctionalparticipationisimpacted[37,54–56].
+6.1. VisuomotorPerformanceandMotorCompetence
+A systematic review and meta-analysis focusing on fine visuomotor performance
+reportedpoorerfinevisuomotorskillperformanceinamblyopiacomparedwithtypical-
+vision peers, while also emphasizing substantial heterogeneity in tasks and outcome
+definitions that constrains synthesis and clinical translation [54]. Complementary evi-
+dencefrompopulation-baseddataindicatesanassociationbetweenamblyopiastatusand
+reducedmotorcompetenceinschool-agechildren,supportingpotentialdownstreamim-
+pactsondailyactivitiesandparticipation[55]. Experimentaltaskparadigmsfurthershow
+alteredeye-handcoordinationduringvisuallyguidedreachinginchildrenwithmonocular-
+deprivationamblyopia,consistentwithsensorimotorintegrationconstraintsbeyondletter
+recognition[57]. Inadults,functionalimpactsspanningfinemotorskills,readingspeed,
+andself-reportedqualityoflifehavealsobeenreportedinamblyopiaand/orstrabismus
+cohorts,reinforcingthatfunctionalconsequencesmaypersistacrossthelifespan[11].
+6.2. VisuoperceptualandVisuomotorIntegrationProfilesinClinicalInstruments
+Clinicalprofilingusingstandardizedinstrumentsprovidesapragmaticroutetoquan-
+tifyvisuoperceptualandvisuomotorintegrationdifferencesrelevanttolearninganddaily
+functioning[58,59]. Inaprospectivepediatriccohortwithstrabismus(withandwithout
+amblyopia),TVPS-3andBeeryVMI-6performancevariedinrelationtostrabismuscharac-
+teristics/binocularitystate/visualacuity(asanalyzedinthatcohort),supportingmultidi-
+mensionalphenotypingbeyond“acuity-only”definitions[59].Incontrast,amulticenterret-
+rospectivestudyreportednosystematicTVPSdifferencesbetweenstrabismus/amblyopia,
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 22of32
+binocular/accommodativedysfunction,andcontrolgroups,butobservedhighDEMvari-
+abilityandsuggestedassociationsbetweenhorizontalDEMtimeandexotropiamagnitude,
+underscoringthatoculomotorandperceptualoutcomescanshowclinicallymeaningful
+dispersionevenwhengroupmeansaresimilar[58]. “Complementinginstrument-based
+clinicalprofiling, recentevidencesuggeststhatchildrenwithanisometropicamblyopia
+mayalsoshowalterationsinvisualcognitivefunctions,supportingtheviewthatfunctional
+consequencescanextendbeyondvisualacuitylossalone[60]”.
+Together,thesemixedfindingssupportreportingbothcentraltendencyanddispersion
+(e.g.,variance/percentiles)and,wherefeasible,phenotype-stratifiedanalysesratherthan
+solerelianceongroupaverages[58,59].
+6.3. Attention,VisualSearch,andSustained-TaskConstraints
+Beyondpaper-and-pencilmeasures,experimentalparadigmshavereportedmeasur-
+abledifferencesinvisualattentionandvisualsearchinchildrenwithamblyopia,implicat-
+ingattentionalselectionandscanningefficiencyaspotentialfunctionalbottlenecksfortasks
+requiring sustained, efficient exploration (e.g., classroom scanning and reading-related
+behaviors) [10]. Complementary evidence indicates that children with amblyopia may
+makemoresaccadicfixationsduringvisualsearchtasks,supportingameasurablealter-
+ationinvisualsearchbehaviorattheoculomotorlevel[61]. Arecentsystematicreview
+andmeta-analysisfurthersupportsincreasedsaccadiclatencyinamblyopia(largestunder
+amblyopic-eyeviewing,withsmallerbutsignificanteffectsunderbinocularviewing),rein-
+forcingtheclinicalrelevanceofoculomotor-attentionefficiencybeyondacuityalone[62].
+In adults, psychophysical work has reported face-perception deficits implicating both
+bottom-upandtop-downconstraints,supportingpersistenceofhigher-orderfunctional
+limitationsbeyondacuityinsomecohorts[63].
+6.4. MultisensoryandCross-ModalConsiderationsinStrabismusPhenotypes
+Asanadjacent,phenotype-specificextensionbeyondcoreamblyopiaoutcomes,multi-
+sensoryconsiderationsmayberelevantinselectedstrabismusphenotypes.Inchildrenwith
+intermittentexotropia,objectivetestinghasidentifiedcombinedvisualandauditoryatten-
+tiondeficits,suggestingthatattentionalnetworkalterationsmayextendbeyondpurely
+visual processing domains in this phenotype [56]. These findings support considering
+broaderattentionaldomainswhenclinicallyindicated,whilerecognizingthatmultisen-
+soryeffectsarephenotype-andtask-dependent. Consistentwithmultisensoryintegration
+demands,a2021systematicreviewandmeta-analysisreportedthatchildrenwithstrabis-
+musexhibitpoorerposturalcontrolthanage-matchedcontrols,withsignificantlyaltered
+center-of-pressuremeasuresunderstablestandingconditions. Thefindingsareconsistent
+withtheconceptthatabnormalvisualinputinstrabismusmaydisturbmultisensoryinte-
+grationforbalance,potentiallyincreasingrelianceonvestibularandsomatosensorycues.
+Althoughstudyheterogeneitywashighandthereviewdoesnottestrehabilitationefficacy
+directly,itsupportsconsiderationofposturalandmultisensoryassessmentwithinbroader
+functionalevaluationofpediatricstrabismusand,whereclearlyindicatedbydocumented
+deficits,mayjustifyexploratoryadjunctivebalance-orientedrehabilitationasasupportive
+ratherthanprimaryvisual-treatmentcomponent[64].
+6.5. NeuroimagingCorrelates: Distributed-NetworkPerspectivewithCurrentLimits
+Converging neuroimaging studies in pediatric strabismus with amblyopia report
+alteredinterhemispherichomotopicconnectivityanddisruptedfunctionalconnectivity
+withinvisualandattention-relatednetworksrelativetocontrols[65,66]. Task-basedfMRI
+evidencealsosuggestsalteredmotion-salienceattentionprocessingaccompaniedbyre-
+ducedfunctionalconnectivitybetweenfrontaleyefieldsandvisualcortexinstrabismic
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 23of32
+amblyopia,consistentwithadistributed-networkaccountbeyondapurelyacuity-based
+framing[67]. Inadultswithintermittentexotropia,resting-stateconnectivityalterations
+acrossvisual,dorsalattention,executive-control,andauditory-relatednetworkshavebeen
+reported,withassociationstoclinicalcharacteristics[68]. However,acrosstheseimaging
+literatures, the evidence base remains predominantly cross-sectional and correlational;
+longitudinalreplicationandprospectivelinkagetotreatmentoutcomesarerequiredbe-
+fore proposing these measures as treatment-response biomarkers or predictive clinical
+tools[65–69].
+ClinicalImplication
+Collectively,thesestrandssupportexpandingoutcomesbeyondBCVAalonewhen
+the clinical question warrants it. A pragmatic, tiered reporting approach is to include:
+(i)corevisionendpoints(BCVA,stereoacuity, andsuppressionquantificationwhenfea-
+sible);(ii)oculomotorfunctionandreading/visual-searchmeasureswhenlearningcom-
+plaintsorsustained-taskdifficultiesarepresent;and(iii)visuomotorandattentionmeasures
+whenfunctionalparticipationisimpacted(e.g.,handwriting,sports,balance,andclass-
+room scanning). This tiered approach is consistent with COSAMS-aligned, patient-
+relevant outcome selection and contemporary syntheses emphasizing impact beyond
+acuity[10,31,36,37,44,54,61]. Theseclinicalconsiderationsalsohighlightkeylimitationsof
+thecurrentevidencebase,summarizedinthenextsection.
+7. LimitationsoftheCurrentEvidenceBase(AndImplicationsfor
+Interpretation)
+Becausefunctionaloutcomesandbinocularmeasuresareincreasinglyclinicallyrel-
+evant, limitations in outcome selection, method-dependent suppression quantification,
+andlong-termfollow-up(includingpatient-centeredoutcomes)constraincross-studycom-
+parabilityandtranslationtoclinicaldecision-making.
+7.1. HeterogeneityofOutcomeMeasures
+A persistent limitation in amblyopia research is heterogeneity of outcome defini-
+tionsandreportingacrossconventionalpenalization,binocular/dichoptic,andtraining-
+based approaches, which constrains synthesis and mechanistic interpretation [4,28,29].
+AlthoughCOSAMSwasdevelopedtoreducethisfragmentation,multidomainoutcomes
+beyondBCVAarestillnotreportedconsistentlyacrossstudies[31]. EventhoughBCVA
+iscommonlyreported,binocularmetrics(e.g.,stereoacuity)andquantifiedsuppression,
+as well as functional outcomes beyond acuity (e.g., reading-limited performance), are
+notcapturedorreporteduniformlyacrossstudies,reducingmechanisticinterpretability
+and complicating cross-study comparison [4,8,29,31]. In pediatric randomized trials of
+conventionaltherapy,primaryendpointsareoftenacuity-based(BCVAchange),establish-
+ingefficacyonaveragebutlimitingphenotype-driveninterpretationwhenbinocularor
+functionalmodifiersarenotconcurrentlycaptured[13,21,29]. Inadultevidencesyntheses
+ofperceptuallearningandvideogame-basedprograms,pooledeffectsaremeasurablebut
+heterogeneityacrossprotocols,dose,andoutcomesremainssubstantial,andmoderator
+reportingisinconsistent—againlimitinginferenceacrosscohorts[28,29].
+Clinicalimplication: withoutstandardizedmultidimensionalreportingalignedtocore
+outcomedomains,apparentvariabilityineffectsizesmaybeinfluenced,atleastinpart,
+bybetween-cohortdifferences(phenotypecomposition)andendpointselection,inaddition
+toanytruedifferencesintreatmentefficacyacrossmechanisms[4,28,29,31].
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 24of32
+7.2. IncompleteSuppressionReportingandMethodDependence
+Suppression and binocular imbalance are widely treated as core mechanistic con-
+structsinamblyopia,withdirectimplicationsforphenotypedefinition,endpointselection,
+and the interpretation of binocularly oriented therapies [4,6,29]. Importantly, suppres-
+sionisnotonlyaqualitativedescriptor: itcanbequantifiedusingdichopticparadigms,
+supportingits useasa gradedphenotypingvariable [7]. Inpediatricpopulations, sup-
+pressionmetricshavedemonstratedclinicallyrelevantcorrelationswithinterocularacu-
+itydifference,amblyopic-eyeacuity,Worth-4-Dotfindings,andstereoacuity,supporting
+suppressionstrengthasacandidatestratificationdimensionforstructuredcohortsand
+trials[38]. Despitethismechanisticrelevanceandavailablequantitativemethods,suppres-
+sionisnotquantifiedorreporteduniformlyacrosstrials. Moreover, whensuppression
+is assessed, method variability can limit cross-study comparability, thereby hindering
+phenotype-drivenexplanatorymodellingandmechanisticsynthesis[29,31]. Clinicalim-
+plication: incompletesuppressionreportingunderminestheabilityto(i)stratifypatients
+mechanistically,(ii)interpretbinocular-targetinginterventionsusingmechanism-aligned
+endpoints,and(iii)comparetreatmenteffectsacrosscohortswhenbaselinebinocularim-
+balancediffers[6,7,29,31,38].Importantly,manyneuroimagingfindingsinamblyopiaand
+strabismusremaincross-sectionalandcohort-dependent;replicationacrossindependent
+samplesandprospectivelinkagetotreatmentoutcomesarerequiredbeforetranslationinto
+predictiveclinicaltools[69].
+7.3. LimitedLong-TermFunctionalFollow-UpandPatient-CentredOutcomes
+Comparedwiththeshort-termBCVA-focusedtrialliterature,long-termreportingthat
+linksacuitygainstosustainedfunctionalandpatient-perceivedbenefitislessfrequently
+available,limitingconfidenceaboutreal-worlddurabilityandimpact[31,36,37,43,44]. Re-
+centintegrativereviewshighlightthatamblyopiacanhavelastingconsequencesbeyond
+acuity, affecting reading, visuomotor skills, participation, and health-related quality of
+life—motivatingsystematiccaptureoffunctionalandpatient-centredoutcomesinboth
+pediatricandadultcohorts[36,37]. COSAMSexplicitlyincludesdomainsbeyondmonocu-
+laracuity,includingfunctionality/long-termimpactsandcompliance/treatment-related
+impacts,reinforcingthatclinicallymeaningfulbenefitmayextendbeyondBCVAchange
+alone[31]. PROMselectionshouldfollowasystematic,psychometricrationale(population,
+domains,andmeasurementproperties),assummarizedinaPROM-focusedsystematic
+reviewforamblyopiaandstrabismus[43].Inaddition,treatmentburdenandpsychological
+distressmayinfluencedelivereddoseandcontinuation,furthersupportingpatient-and
+family-centredoutcomesintrialsandclinicalaudits[44]. Translationalimplication: when
+studiesemphasizeBCVAaloneandomitfunctionalandpatient-centreddomains,agap
+remainsbetweenshort-termvisualimprovementmeasuredinclinicandreal-worldbenefit
+asexperiencedovertime[31,36,37,43,44].
+7.4. Pediatric–AdultComparabilityConstraints
+Althoughevidencesynthesessupportmeasurableimprovementsinadultsunderstruc-
+turedtrainingparadigms[28,29],directcomparabilitybetweenpediatricRCTsandadult
+interventionevidenceislimitedbecauseofdifferencesinbaselinephenotypecomposition
+andstudydesign. Adultcohortscandifferfrompediatrictrialsamplesintreatmenthistory,
+baselineseveritydistribution,andendpointselection,andadultevidenceshowssubstantial
+heterogeneity across protocols and outcomes [28,29]. In parallel, pediatric randomized
+trials of conventional therapy establish average acuity gains in defined age ranges but
+maynotroutinelycapturethesameconstellationofmechanisticandfunctionalmodifiers
+emphasizedinadulttrainingandbinocularinterventionliterature[13,21,29]. Interpretive
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 25of32
+implication: thecomparisonbetweenpediatrictrialoutcomesandadultinterventionout-
+comesshouldbeinterpretedwithcautionunlessphenotypevariables(etiology,baseline
+severity,binocularimbalance/suppression,andfunctionalbottlenecks)areexplicitlyac-
+countedforandendpointsarealignedwithinstandardizedoutcomestructures[4,28,29,31].
+7.5. LackofPredictiveStratificationandProspectiveValidation
+Despite major progress in available therapies, amblyopia management and many
+trial designs do not consistently incorporate explicit phenotype-based stratification
+based on quantified suppression or treatment-mechanism matching, even though con-
+temporary syntheses emphasize these constructs as central to understanding response
+variability[4,28,29].COSAMSprovidesapragmaticfoundationforstandardizationand
+comparability,butprospectivevalidationstudiesintegratingmultidimensionalphenotype
+data—including binocular/suppression quantification and functional endpoints when
+clinicallyrelevant—arenotyetwidelyavailable,constrainingthedevelopmentofrobust
+prognosticandexplanatorymodels[29,31]. Researchimplication: thislimitationisalsoan
+opportunity. Hypothesis-testingcohortsthatimplementCOSAMScoreoutcomesalong-
+sidemechanism-relevantphenotypeaxes(suppression/binocularmeasuresandfunctional
+endpoints)arepositionedtotestmoderatorsofresponseandadvanceprecision-oriented
+amblyopiacare[29,31,38].
+8. ResearchAgenda2026–2030
+8.1. StandardizationofCoreOutcomes
+Given the persistent heterogeneity outlined above, future trials and structured co-
+hortsshouldprioritizeaminimalsharedreportingsetalignedwithCOSAMStoimprove
+comparabilityandmechanisticinterpretabilityacrossinterventionclasses[4,28,29,31]. Ac-
+cordingly,futuretrialsandstructuredcohortsshouldadoptaminimalstandardizedset
+thatsupportsphenotype-awareinterpretation,including:
+• MonocularBCVA(distanceand,whenrelevant,near),preferablyreportedinlogMAR
+tosupportcomparabilityandenableinteroculardifference(IOD)computation[31].
+• Stereoacuity,reportedquantitativelywhenmeasurable,with‘notmeasurable’explic-
+itlyrecordedwhenapplicable[31].
+• Aclearlyspecified,quantifiedsuppressionmetric(method,units,andtestingcondi-
+tionsstated), giventheavailabilityofquantitativeparadigmsandtherelevanceof
+suppressionasagradedphenotypingvariable[7,38].
+• Atleastonefunctionalendpointbeyondacuitywhenalignedwiththeclinicalquestion
+(e.g.,reading-relatedlimitation),consistentwithevidencethatamblyopiacanimpact
+reading-relatedperformanceandwithCOSAMSinclusionoffunctionality/long-term
+impacts[8,31].
+• Treatment adherence/compliance reporting (and, when feasible, delivered dose),
+alignedwithCOSAMSemphasisoncomplianceandtreatment-relatedimpacts[31].
+• Apatient-centredburden/impactmeasuretointerpretreal-worldeffectivenessand
+persistence of impact, selected based on PROM synthesis and evidence on func-
+tional/QoLconsequencesandpsychologicalimpact(instrumentspecified)[36,43,44].
+8.2. Phenotype-StratifiedTrialDesign
+“Contemporarysynthesesconsistentlyemphasizesubstantialbetween-patientvari-
+abilityinamblyopiatreatmentresponseandhighlightbinocularimbalanceandfunctional
+limitationsasmechanisticallyrelevantdimensionsthatarenotfullycapturedbyBCVA
+alone[4,29].” Toimproveinterpretability,futurestudiesshouldincorporatephenotype-
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 26of32
+awaredesignfeatures,eitherthroughstratifiedenrollmentorprespecifiedsubgroupanaly-
+ses,basedonmeasurablebaselineconstructs.
+Wherefeasible,studiesshouldprespecifystratification(orsubgroupanalyses)by:
+• Etiology(anisometropic,isoametropic,astigmatic(meridional),strabismic,depriva-
+tion,mixed),becauseetiologyisclinicallymeaningfulandmayinfluencephenotype
+compositionandinterpretation[1,3,29].
+• Baselinesuppressionmagnitude,quantifiedwithastatedmethod,becausesuppres-
+sion can be operationalized in children and has demonstrated clinically relevant
+associationswithstandardbinocularandclinicalfindings[7,38].
+• Functionalphenotypewhenrelevant(e.g.,acuity-dominantvs. reading-relatedlimi-
+tation;and/oroculomotor/visual-search-attentionconstraints),consistentwithevi-
+dencethatamblyopiacanbeassociatedwithslowerreadingandalteredvisualsearch
+behavior[8,61].
+• Ageasacontinuousmoderatorratherthanabinarycut-off,consistentwithcontem-
+porarysynthesesemphasizingheterogeneousresponseacrossageranges[4,28,29].
+Thisapproachstructuresheterogeneityratherthanignoringit,facilitatingmechanism-
+alignedinterpretationwithinstandardizedoutcomereporting[29,31].
+8.3. ProspectiveValidationofPhenotype-DrivenFrameworks
+Theconceptualphenotype-drivenframeworkproposedinSection4shouldbeevalu-
+atedprospectivelyusingstandardizedbaselinephenotypingandprespecifiedendpoints,
+becauseheterogeneityinprotocolsandoutcomeslimitsposthocinferenceandcross-study
+comparability[28,29,31]. Keydesignfeaturesinclude:
+• Multicenterstructureddatasetswithsharedmeasurementdefinitionsandreporting
+templatesalignedtoCOSAMSdomains[31].
+• Baseline phenotyping that includes severity (BCVA/IOD), etiology, and binocular
+status(e.g.,stereoacuitywhereapplicableandquantifiedsuppressionwithmethod
+andunitsstated),plusatleastonefunctionalendpointbeyondacuitywhenalignedto
+theresearchquestion(e.g.,reading-relatedlimitation)[7,8,29,31,38].
+• Prespecifiedresponderdefinitionsusingclinicallyinterpretablethresholdsand,when
+appropriate,parallelresponderdefinitionsformonocular,binocular,andfunctional
+outcomestomatchtheintendedmechanismoftheintervention[29,31].
+• Inclusionofbothpediatricandadultcohorts,treatingageasacontinuousmoderator
+andmaintainingmechanism-alignedendpointselectioninthepresenceofheterogene-
+ityinadulttrainingoutcomes[4,28,29].
+8.4. BiologicalMeasuresasaFutureDirection(FeasibilityFirst)
+Contemporaryreviewsincreasinglyframeamblyopiaasaneurodevelopmentaldis-
+order involving binocular interactions and distributed visual processing rather than a
+purely monocular acuity deficit [4,6,29]. On this basis, biological measures may be ex-
+ploredtorefinemechanisticphenotypingandtohelpcontextualizeresponsevariability,
+but for clinical scalability, any added measures should be evaluated against feasibility,
+reproducibility, and incremental value beyond standardized clinical phenotyping and
+coreoutcomereporting[29,31]. Biologicalmeasuresshould,therefore,bepositionedas
+adjunctive and hypothesis-driven rather than as replacements for clinically accessible
+phenotypeaxes[29,31]. Inparallel,neuroimagingfindingsinstrabismus-amblyopiaand
+relatedphenotypessupportadistributed-networkperspective(i.e.,network-leveldiffer-
+encesbeyondacuity),butthecurrentevidencebaseremainslargelycross-sectionaland
+correlational;therefore,thesemeasuresshouldbeinterpretedascandidateneuralcorrelates
+requiringlongitudinalreplicationandprospectivelinkagetotreatmentoutcomesbeforeany
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 27of32
+treatment-responsepredictiveclinicalroleisclaimed[65–68]. Apragmaticfeasibility-first
+roadmapcanbestructuredasamixedA–B–Caxisapproach,inwhichadditionalmeasures
+arejudgedbyreproducibility,scalability,andincrementalvaluebeyondCOSAMS-aligned
+clinicalphenotypingandcoreoutcomereporting[29,31].
+8.4.1. AxisA(Structure): Feasibility-AnchoredStructuralMarkers
+StructuralMRI-derivedmarkersmaysupporthypothesis-drivenmappingofstruc-
+turaldifferencesacrossvisualandrelatedsystems. RecentMRIliteratureinanisometropic
+and strabismic amblyopia includes structural and microstructural approaches (includ-
+ing diffusion-based techniques) that report brain-level differences across cohorts, sup-
+porting the rationale for Axis A as a mechanistic layer rather than a routine clinical
+requirement[69,70]. Within a feasibility-first framework, Axis A should be considered
+onlywhenacquisition,preprocessing,andreportingareclearlystandardizedforthese-
+lectedmarkerandcohort,andwhenitisexpectedtoaddvaluebeyondCOSAMS-aligned
+clinicalphenotypingandcoreoutcomereporting[29,31].
+8.4.2. AxisB(FunctionalConnectivity/NetworkOrganization): Distributed-Network
+Correlatesfromrs-fMRIandTask-fMRI
+Resting-statefMRIstudiesinpediatricstrabismus-amblyopiacohortsreportalteredin-
+terhemisphericfunctionalconnectivityandresting-stateconnectivityorganizationmeasures
+consistentwithnetwork-leveldifferencesinvisualandattention-relatedsystems[65,66].
+Intask-basedfMRI,strabismicamblyopiahasbeenassociatedwithimpairedactivation
+ofmotion-salienceattentionprocessingaccompaniedbyreducedfunctionalconnectivity
+betweenfrontaleyefieldsandvisualcortex,supportingadistributed-networkphenotype
+beyondapurelyacuity-basedcharacterization[67].Findingsinadultintermittentexotropia
+alsoindicatealteredresting-statenetworkconnectivitywithreportedassociationswith
+clinicalcharacteristics,reinforcingtherelevanceofnetwork-levelcharacterizationacross
+strabismus phenotypes [68]. Collectively, these results are informative for mechanistic
+framing,butdonotyetconstitutevalidatedbiomarkersfortreatment-responseprediction;
+therefore,AxisBmeasuresshouldbeinterpretedascandidateneuralcorrelatesrequiring
+longitudinalreplicationandprospectivelinkagetotreatmentoutcomes[65–68].
+8.4.3. AxisC(QuantitativeBrainActivity): ScalableElectrophysiologyasa
+TranslationalRoute
+Scalableelectrophysiologicalmeasurescanprovidequantitativeindicesofbinocular
+interactionandvisual-corticalprocessing. Corticalelectrophysiologyparadigmshavebeen
+usedtoestimateinterocularinteractioncomponentsconsistentwithexcitatoryandsuppres-
+sivecontributionsinstrabismicamblyopia,supportinganinterpretablemechanisticreadout
+atthecorticallevel[71].Systems-levelrecordings(e.g.,MEG)furtherreportreducedevoked
+activityandalteredcorticaloscillationsinanisometropicamblyopia,withassociationsto
+visualacuityimpairment,reinforcingtherelevanceofquantitativebrain-activityendpoints
+formechanisticcharacterization[72]. Clinicallyorientedpattern-VEPstudiesalsoreport
+amplitude/latencydifferencesandassociationswithfovealsensitivityinamblyopia,often
+with overlap between groups—supporting use as an adjunctive mechanistic endpoint
+ratherthanastand-alonediscriminator[73]. Inadditiontoconventionalclinicalvisual
+evokedpotential(VEP)protocols,specializedelectrophysiologicalparadigmsmayprovide
+enhancedsensitivityforselectedamblyopiaphenotypes. Forexample,orientation-specific
+pattern-onsetVEPrecordingshavedemonstratedabnormalneuralresponsesinchildren
+withbilateralrefractiveamblyopiacomparedwithnon-amblyopiccontrols,supporting
+thevalueofphenotype-targetedelectrophysiologicalassessmentbeyondstandardclinical
+protocols [74]. Within a feasibility-first framework, Axis C should be introduced only
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 28of32
+with prespecified protocols and endpoints, and after demonstrating incremental value
+beyondcoreclinicalphenotypevariablesandCOSAMS-alignedoutcomereporting[29,31].
+Accordingly,quantitativebrainactivitymeasuresshouldbepositionedasadjunctiveand
+hypothesis-driven layers rather than replacements for clinically accessible phenotype
+axes[29,31].
+Overall,afeasibility-firstA–B–Cframeworksupportshypothesis-drivenmechanis-
+tic layering, while underscoring that current biological evidence is not yet sufficient to
+justify routine clinical use as treatment-response predictive tools [29,31]. To maximize
+comparability, protocols should prespecify measurement methods and reporting tem-
+platesandensuretransparentreportingofmissingnessand‘notmeasurable’valueswithin
+COSAMS-aligned domains [31]. Across axes, the priority remains rigorous COSAMS-
+aligned clinical phenotyping and core outcome reporting; biological measures should
+be added only when they demonstrably improve interpretability beyond this baseline
+andcanbeimplementedreproduciblyatscale[29,31]. Alignedwiththisfeasibility-first
+logic,twoadditionaltranslationaldirections—protocol-standardizedspectral(cone-biased)
+neuromodulationandprotocolizedvision-therapy/orthopticsprogramsinselectedpheno-
+types—canbepositionedasresearch-readyinterventionpathwaysforprospectiveeval-
+uation, provided exposure/dose parameters are explicitly specified and outcomes are
+assessedwithinCOSAMS-aligneddomains.
+8.5. Cone-SpecificFilter-BasedNeuromodulation: ProtocolStandardizationasaTrial-Ready
+ResearchDirection
+Anemergingmethodologicaldirectionisthestandardizationofprotocolreporting
+forspectrallyselective(cone-biased)light/filterstimulationstudiedasanexperimental
+neuromodulationframeworkinamblyopiaandstrabismus. ArecentClinPractframework
+consolidatescone-biasedfilterclassesandintegratesα-opicmetrologywithphotobiological
+andtemporal-modulationsafetystandardstodefinereproduciblereportingparameters,
+explicitlypositioningthesespecificationsasmethodologicalanchorsforprospectiveevalua-
+tionratherthanasevidenceofclinicalefficacy[50].Earlierstudiesinstrabismus/amblyopia
+cohortsreportedmeasurableelectrophysiologicalchangesandconcurrentchangesinvisual-
+performance measures across a structured cycle of light-based stimulation, supporting
+feasibilityandmotivatingprospective,controlledtrialsdesignedtoquantifyclinicalben-
+efit using COSAMS-aligned outcomes (BCVA, binocular measures, and function when
+relevant),withtransparentexposurespecificationandsafetyreporting[51,52].
+8.6. ProtocolizedVisualTherapyProgramsforBinocularDysfunctioninSelectedPhenotypes
+Evidenceforprotocolizedvisiontherapy(VT)ororthopticprogramsisemergingin
+selectedpediatricbinocular-disorderphenotypes,buteffectsappearphenotype-,protocol-,
+and endpoint-dependent and should not be generalized across amblyopia or strabis-
+mus populations. In amblyopia, a randomized trial comparing patching alone versus
+patching combined with a structured VT protocol reported greater visual acuity gains
+with the combined regimen under the tested protocol [9]. In strabismus, randomized
+evidenceinchildrenwithsmall-to-moderateangleintermittentexotropiaindicatesthat
+office-basedvergenceandanti-suppressiontherapy(withhome reinforcement) canim-
+proveexotropiacontrolandbinocularoutcomesversusobservationovertheshortterm,
+supportingVT/orthopticsasanon-surgicaloptioninselectedintermittentexotropiaphe-
+notypes under protocolized delivery and measured adherence [48,49]. Taken together,
+theseapproachesarebestviewedasphenotype-sensitiveinvestigationaldirectionsthatre-
+quireprospectiveevaluationwithexplicitdose/exposurespecification,adherencetracking,
+andCOSAMS-alignedoutcomereportingbeforeanybroaderclinicalpositioning.
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 29of32
+9. Conclusions
+By 2026, amblyopia is increasingly understood as a multidimensional neurodevel-
+opmental disorder of vision in which binocular imbalance, atypical visual processing,
+andclinicallyrelevantfunctionallimitationsarenotfullycapturedbyBCVAalone[4,6,29].
+Althoughestablishedtherapiescanproduceclinicallymeaningfulimprovements,treat-
+ment response remains heterogeneous across ages, etiologies, protocols, and outcome
+definitionsinbothpediatricandadultpopulations[13,28,29,36,37]. Recentevidence,in-
+cluding the EuPatch trial, further highlights the importance of explicitly documenting
+the optical-treatment phase, since refractive adaptation may itself produce meaningful
+gains and influence interpretation of subsequent treatment effects [39]. Taken together,
+currentevidencesupportsmovingbeyondage-andacuity-onlydecision-makingtoward
+multidimensionalphenotypingthatincorporatesetiologicstratification,binocularimbal-
+anceandsuppressionwhenfeasible,andfunctionallyrelevantconstraintswhenclinically
+indicated [7,8,29,31,38]. Key priorities for the next phase of the field include COSAMS-
+alignedstandardizedreporting,transparentdocumentationofadherenceandtreatment
+burden,andprospectivevalidationofphenotype-drivenframeworksacrossintervention
+classes. Emergingandphenotype-specificapproachesshouldbeevaluatedinprospective
+studies with transparent reporting and standardized outcomes before broader clinical
+implementation[29,31,36,40–45,48–52].
+AuthorContributions:Conceptualization,D.I.andJ.R.G.-M.;methodology,D.I.;software,J.R.G.-M.;
+validation,D.I.andJ.R.G.-M.;formalanalysis,D.I.;investigation,D.I.;resources,D.I.andJ.R.G.-M.;
+data curation, J.R.G.-M.; writing—original draft preparation, D.I.; writing—review and editing,
+J.R.G.-M.;visualization,J.R.G.-M.;supervision,J.R.G.-M.;projectadministration,J.R.G.-M.andD.I.;
+fundingacquisition,D.I.andJ.R.G.-M.Allauthorshavereadandagreedtothepublishedversionof
+themanuscript.
+Funding:Thisresearchreceivednoexternalfunding.
+DataAvailabilityStatement:Dataiscontainedwithinthearticle.
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+Abbreviations
+AAO AmericanAcademyofOphthalmology
+BCVA best-correctedvisualacuity
+COSAMS CoreOutcomeSetforAmblyopiaandStrabismus
+DEM DevelopmentalEyeMovement(test)
+EEG electroencephalography
+fMRI functionalmagneticresonanceimaging
+IOD interocularacuitydifference
+logMAR logarithmoftheminimumangleofresolution
+MEDLINE MedicalLiteratureAnalysisandRetrievalSystemOnline
+MEG magnetoencephalography
+MRI magneticresonanceimaging
+PEDIG PediatricEyeDiseaseInvestigatorGroup
+PRISMA PreferredReportingItemsforSystematicReviewsandMeta-Analyses
+PROM patient-reportedoutcomemeasure
+QoL qualityoflife
+RCT randomizedcontrolledtrial
+rs-fMRI resting-statefunctionalmagneticresonanceimaging
+TVPS-3 TestofVisual-PerceptualSkills,ThirdEdition
+V1 primaryvisualcortex
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 30of32
+VA visualacuity
+VEP visualevokedpotential
+VMI-6 Beery–BuktenicaDevelopmentalTestofVisual-MotorIntegration,SixthEdition
+References
+1. Levi,D.M. Rethinkingamblyopia. Vis.Res.2020,176,118–129.[CrossRef][PubMed]
+2. Astle,A.T.;McGraw,P.V. Amblyopia:Past,presentandfuture. OphthalmicPhysiol.Opt.2016,36,611–614.[CrossRef][PubMed]
+3. Çakır,B.;ÖzkanAksoy,N.;Özmen,S.;Bursalı,Ö. Theeffectofamblyopiaonclinicaloutcomesofchildrenwithastigmatism.
+Ther.Adv.Ophthalmol.2021,13,25158414211040898.[CrossRef][PubMed]
+4. Holmes,J.M.;Levi,D.M. Treatmentofamblyopiaasafunctionofage. Vis.Neurosci.2018,35,E015.[CrossRef]
+5. Fu,Z.;Hong,H.;Su,Z.;Lou,B.;Pan,C.W.;Liu,H. Globalprevalenceofamblyopiaanddiseaseburdenprojectionsthrough2040:
+Asystematicreviewandmeta-analysis. Br.J.Ophthalmol.2020,104,1164–1170.[CrossRef]
+6. Thompson, B.; Morrone, M.C.; Bex, P.; Lozama, A.; Sabel, B.A. Harnessingbrainplasticitytoimprovebinocularvisionin
+amblyopia:Anevidence-basedupdate. Eur.J.Ophthalmol.2024,34,901–912.[CrossRef]
+7. Birch,E.E.;Morale,S.E.;Jost,R.M.;DeLaCruz,A.;Kelly,K.R.;Wang,Y.Z.;Bex,P.J. Assessingsuppressioninamblyopicchildren
+withadichopticeyechart. Investig.Ophthalmol.Vis.Sci.2016,57,5649–5654.[CrossRef]
+8. Birch,E.E.;Kelly,K.R. Pediatricophthalmologyandchildhoodreadingdifficulties: Amblyopiaandslowreading. J.AAPOS
+2017,21,442–444.[CrossRef]
+9. Hernández-Andrés,R.;Serrano,M.Á.;Alacreu-Crespo,A.;Luque,M.J. Randomisedtrialofthreetreatmentsforamblyopia:
+Visiontherapyandpatching,perceptuallearningandpatchingalone. OphthalmicPhysiol.Opt.2025,45,31–42.[CrossRef]
+10. Black,A.A.;Wood,J.M.;Hoang,S.;Thomas,E.;Webber,A.L. ImpactofAmblyopiaonVisualAttentionandVisualSearchin
+Children. Investig.Ophthalmol.Vis.Sci.2021,62,15.[CrossRef]
+11. Rakshit,A.;Majhi,D.;Schmid,K.L.;Warkad,V.;Atchison,D.A.;Webber,A.L.FineMotorSkills,ReadingSpeed,andSelf-Reported
+QualityofLifeinAdultsWithAmblyopiaand/orStrabismus. Investig.Ophthalmol.Vis.Sci.2024,65,48.[CrossRef][PubMed]
+12. Li,T.;Qureshi,R.;Taylor,K. Conventionalocclusionversuspharmacologicpenalizationforamblyopia. CochraneDatabaseSyst.
+Rev.2019,8,CD006460.[CrossRef][PubMed]
+13. Yazdani,N.; Sadeghi,R.; Momeni-Moghaddam,H.; Zarifmahmoudi,L.; Ehsaei,A.; Barrett,B.T. Part-timeversusfull-time
+occlusiontherapyfortreatmentofamblyopia:Ameta-analysis. J.Curr.Ophthalmol.2017,29,76–84.[CrossRef][PubMed]
+14. Kelly,K.R.;Jost,R.M.;Dao,L.;Beauchamp,C.L.;Leffler,J.N.;Birch,E.E. BinoculariPadgamevs. patchingfortreatmentof
+amblyopiainchildren:Arandomizedclinicaltrial. JAMAOphthalmol.2016,134,1402–1408.[CrossRef]
+15. Holmes,J.M.;Manh,V.M.;Lazar,E.L.;Beck,R.W.;Birch,E.E.;Kraker,R.T.;Crouch,E.R.;Erzurum,S.A.;Khuddus,N.;Summers,
+A.I.;etal. EffectofabinoculariPadgamevs.part-timepatchinginchildrenaged5to12yearswithamblyopia:Arandomized
+clinicaltrial. JAMAOphthalmol.2016,134,1391–1400.[CrossRef]
+16. Wygnanski-Jaffe,T.;Kushner,B.J.;Moshkovitz,A.;Belkin,M.;Yehezkel,O. Aneye-tracking-baseddichoptichometreatmentfor
+amblyopia:Amulticenterrandomizedclinicaltrial. Ophthalmology2023,130,274–285.[CrossRef]
+17. Wygnanski-Jaffe,T.;Kushner,B.J.;Moshkovitz,A.;Belkin,M.;Yehezkel,O. High-adherencedichoptictreatmentversuspatchingin
+anisometropicandsmallanglestrabismusamblyopia:Arandomizedcontrolledtrial. Am.J.Ophthalmol.2025,269,293–302.[CrossRef]
+18. Jost,R.M.;Birch,E.E.;Wang,Y.Z.;Dao,L.M.;Stager,D.;Luu,B.;Beauchamp,C.L.;Giridhar,P.;Brin,T.A.;Baldwin,A.S.;etal.
+Patch-freestreamingcontrast-rebalanceddichopticcartoonsversuspatchingfortreatmentofamblyopiainchildrenaged3to5
+years:Apilotrandomizedclinicaltrial. J.AAPOS2024,28,103991.[CrossRef]
+19. Jost,R.M.;Hudgins,L.A.;Dao,L.M.;Stager,D.R.;Luu,B.;Beauchamp,C.L.;Hunter,J.S.;Giridhar,P.;Wang,Y.Z.;Birch,E.E.
+Randomizedclinicaltrialofstreamingdichopticmoviesversuspatchingfortreatmentofamblyopiainchildrenaged3to7years.
+Sci.Rep.2022,12,4157.[CrossRef]
+20. Xiao,S.; Angjeli,E.; Wu,H.C.; Gaier,E.D.; Gomez,S.; Travers,D.A.; Binenbaum,G.; Langer,R.; Hunter,D.G.; Repka,M.X.
+Randomizedcontrolledtrialofadichopticdigitaltherapeuticforamblyopia. Ophthalmology2022,129,77–85.[CrossRef]
+21. Manny,R.E.;Holmes,J.M.;Kraker,R.T.;Li,Z.;Waters,A.L.;Kelly,K.R.;Kong,L.;Crouch,E.R.;Lorenzana,I.J.;Alkharashi,M.S.;
+etal. ArandomizedtrialofbinocularDigRushgametreatmentforamblyopiainchildrenaged4to6years. Optom. Vis. Sci.
+2022,99,213–227.[CrossRef][PubMed]
+22. Meqdad,Y.; El-Basty,M.; Awadein,A.; Gouda,J.; Hassanein,D. Randomizedcontrolledtrialofpatchingversusdichoptic
+stimulationusingvirtualrealityforamblyopiatherapy. Curr.EyeRes.2024,49,214–223.[CrossRef][PubMed]
+23. Pineles,S.L.;Aakalu,V.K.;Hutchinson,A.K.;Galvin,J.A.;Heidary,G.;Binenbaum,G.;VanderVeen,D.K.;Lambert,S.R.Binoculartreatment
+ofamblyopia:AreportbytheAmericanAcademyofOphthalmology. Ophthalmology2020,127,261–272.[CrossRef][PubMed]
+24. Roda,M.;Pellegrini,M.;DiGeronimo,N.;Vagge,A.;Fresina,M.;Schiavi,C. Binoculartreatmentforamblyopia:Ameta-analysis
+ofrandomizedclinicaltrials. PLoSONE2021,16,e0257999.[CrossRef]
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 31of32
+25. Chen,C.W.;Zhu,Q.;Duan,Y.B.;Yao,J.Y. Comparisonbetweenbinoculartherapyandpatchingfortreatmentofamblyopia:
+Ameta-analysisofrandomisedcontrolledtrials. BMJOpenOphthalmol.2021,6,e000625.[CrossRef]
+26. Brin,T.A.;Chow,A.;Carter,C.;Oremus,M.;Bobier,W.;Thompson,B. Efficacyofvision-basedtreatmentsforchildrenandteenswith
+amblyopia:Asystematicreviewandmeta-analysisofrandomisedcontrolledtrials. BMJOpenOphthalmol.2021,6,e000657.[CrossRef]
+27. Tang,A.C.;Wang,X.;Yang,W.J.;Guo,J.L.;Li,Y.L.;Yang,T.Y.;An,Z.;Reynaud,A.;Liu,L.Q. Comparisonbetweendichopticand
+monoculartrainingprotocolsinthetreatmentofunilateralamblyopia:Anindividualparticipantdatameta-analysis. Ophthalmic
+Epidemiol.2025,32,769–783.[CrossRef]
+28. Ming,X.;Huang,G.;Chen,X.;Liao,M.;Liu,L. Asystematicreviewandmeta-analysisofperceptuallearningandvideogame
+trainingforadultswithmonocularamblyopia. Ophthalmol.Ther.2025,14,857–881.[CrossRef]
+29. Meier,K.;Tarczy-Hornoch,K. Recenttreatmentadvancesinamblyopia. Annu.Rev.Vis.Sci.2022,8,323–343.[CrossRef]
+30. Martínez-Pérez, C.; Oliveira, A.P. Systematic review and meta-analysis of RCTs on efficacy of conventional vs. emerging
+treatmentsforamblyopia. Life2026,16,222.[CrossRef]
+31. Al-Jabri,S.;Rowe,F.J.;Kirkham,J.J.Coreoutcomesetforthreeophthalmicconditions:Ahealthcareprofessionalandpatientconsensus
+oncoreoutcomesetsforamblyopia,ocularmotilityandstrabismus(COSAMSStudy). BMJOpen2021,11,e042403.[CrossRef]
+32. Kiorpes,L. Thepuzzleofvisualdevelopment:Behaviorandneurallimits. J.Neurosci.2016,36,11384–11393.[CrossRef][PubMed]
+33. Atkinson,J. TheDavidaTellerAwardLecture,2016:Visualbraindevelopment:Areviewofdorsalstreamvulnerabilityandits
+clinicalimplications. J.Vis.2017,17,26.[CrossRef][PubMed]
+34. Hensch,T.K.;Quinlan,E.M. Criticalperiodsinamblyopia. Vis.Neurosci.2018,35,E014.[CrossRef][PubMed]
+35. Hamm,L.M.;Chen,Z.;Li,J.;Black,J.;Dai,S.;Yuan,J.;Yu,M.;Thompson,B. Interocularsuppressioninchildrenwithdeprivation
+amblyopia. Vis.Res.2017,133,112–120.[CrossRef]
+36. Kelly, K.R.; Pang, Y.; Thompson, B.; Niechwiej-Szwedo, E.; Drews-Botsch, C.D.; Webber, A.L. Functionalconsequencesof
+amblyopiaanditsimpactonhealth-relatedqualityoflife. Vis.Res.2025,231,108612.[CrossRef]
+37. Birch,E.E.;Kelly,K.R. Amblyopiaandthewholechild. Prog.Retin.EyeRes.2023,93,101168.[CrossRef]
+38. Chen,H.;He,Z.;Xu,J.;Mao,Y.;Liang,Y.;Lin,D.;Xu,M.;Dai,Z.;Chen,X.;Zhou,J.;etal. Aconvenientandrobusttestto
+quantifyinterocularsuppressionforchildrenwithamblyopia. i-Perception2019,10,2041669519864971.[CrossRef]
+39. Proudlock,F.A.;Hisaund,M.;Maconachie,G.;Papageorgiou,E.;Manouchehrinia,A.;Dahlmann-Noor,A.;Khandelwal,P.;Self,
+J.;Beisse,C.;Gottlob,I. Extendedopticaltreatmentversusearlypatchingwithanintensivepatchingregimeninchildrenwith
+amblyopiainEurope(EuPatch):Amulticentre,randomisedcontrolledtrial. Lancet2024,403,1766–1778.[CrossRef]
+40. Castro-Torres,J.J.;Martino,F.;Casares-López,M.;Ortiz-Peregrina,S.;Ortiz,C. Visualperformanceafterthedeteriorationofretinal
+imagequality:InducedforwardscatteringusingBangerterfoilsandfogfilters. Biomed.Opt.Express2021,12,2902–2918.[CrossRef]
+41. Zhang,P.;Wang,H.L.;Ren,W.C.;Guo,H.;Yang,J.;Tao,J.;Yang,Z.;Li,Y.;Chen,L.;Zhang,Y.;etal. TheeffectofBangerterfilters
+onvisualacuityandcontrastsensitivitywithexternalnoise. Front.Neurosci.2022,16,804576.[CrossRef]
+42. Jiang,J.; Zhao,T.; Yin,Y.; Han,M.; Wu,X.; Chen,Y. Bangerterfilter’sroleinregulatingocularaxiallength(anisometropic
+amblyopiatreatment). BMCOphthalmol.2025,30,631.[CrossRef]
+43. Kumaran,S.E.;Khadka,J.;Baker,R.;Pesudovs,K.Patient-reportedoutcomemeasuresinamblyopiaandstrabismus:Asystematic
+review. Clin.Exp.Optom.2018,101,460–484.[CrossRef][PubMed]
+44. Haine,L.;Taylor,I.;Vaughan,M.Thepsychologicalimpactofamblyopiatreatment:Asystematicliteraturereview. Br.Ir.Orthopt.
+J.2025,21,1–14.[CrossRef]
+45. Webber, A.L.; Wood, J. Amblyopia: Prevalence, natural history, functional effects and treatment. Clin. Exp. Optom.
+2005,88,365–375.[CrossRef][PubMed]
+46. Gu,L.;Wang,Y.;Feng,L.;Li,S.;Zhang,M.;Ye,Q.;Zhuang,Y.;Lu,Z.L.;Li,J.;Yuan,J. Meridian-SpecificandPost-OpticalDeficits
+ofSpatialVisioninHumanAstigmatism:EvidencesFromPsycho-PhysicalandEEGScalings. Front.Psychol.2021,12,595536.
+[CrossRef][PubMed]
+47. Yap,T.P.;Luu,C.D.;Suttle,C.M.;Chia,A.;Boon,M.Y. Thedevelopmentofmeridionalanisotropiesinneurotypicalchildrenwith
+andwithoutastigmatism:Electrophysiologicalandpsychophysicalfindings. Vis.Res.2024,222,108439.[CrossRef]
+48. Ma,M.M.L.; Kang,Y.; Scheiman,M.; Chen,Q.; Ye,X.; Pan,L.; Deng,J.; Su,G.; Zhang,G.; Chen,X. Office-basedvergence
+andanti-suppressiontherapyforthetreatmentofsmall-to-moderateangleintermittentexotropia:Arandomisedclinicaltrial.
+OphthalmicPhysiol.Opt.2024,44,356–377.[CrossRef]
+49. Ma,M.M.L.;Kang,Y.;Scheiman,M.;Chen,Q.;Ye,X.;Pan,L.;Deng,J.;Su,G.;Zhang,G.;Chen,X. Effectofoffice-basedvergence
+and anti-suppression therapy on binocular vision and accommodation in small-to-moderate angle intermittent exotropia:
+Arandomisedclinicaltrial. OphthalmicPhysiol.Opt.2025,45,50–66.[CrossRef]
+50. Ibrahimi,D.;García-Martínez,J.R. Cone-SpecificFilter-BasedNeuromodulation:AProposedClinicalFrameworkforAmblyopia,
+Strabismus,andADHD. Clin.Pract.2025,16,3.[CrossRef]
+51. Ibrahimi,D.;Mendiola-Santibañez,J.D.;Cruz-Martínez,E.;Rodríguez-Reséndiz,J.;Pacheco,I.T. Corticalactivityatbaselineand
+duringlightstimulationinpatientswithstrabismusandamblyopia. IEEEAccess2021,9,22430–22446.[CrossRef]
+https://doi.org/10.3390/brainsci16050467
+BrainSci.2026,16,467 32of32
+52. Ibrahimi,D.;Mendiola-Santibañez,J.D.;Cruz-Martínez,E.;Gómez-Espinosa,A.;Torres-Pacheco,I. Changesinbrainactivityand
+visualperformanceafteracompletecycleoflighttherapy. BrainSci.2021,11,657.[CrossRef][PubMed]
+53. Mitchell,D.E.;Maurer,D. Criticalperiodsinvisionrevisited. Annu.Rev.Vis.Sci.2022,8,291–321.[CrossRef][PubMed]
+54. Rakshit, A.; Schmid, K.L.; Webber, A.L. Fine visuomotor skills in amblyopia: A systematic review and meta-analysis.
+Br.J.Ophthalmol.2024,108,633–645.[CrossRef]
+55. Sá,C.D.S.C.;Luz,C.;Pombo,A.;Rodrigues,L.P.;Cordovil,R. MotorCompetenceinChildrenWithandWithoutAmblyopia.
+Percept.Mot.Skills2021,128,746–765.[CrossRef]
+56. Wei,C.;Yang,D.P.;Yang,Y.;Yang,W.H.;Lu,Y.M.;Yu,X.P.;Chang,S. Visualandauditoryattentiondefectsinchildrenwith
+intermittentexotropia. Ital.J.Pediatr.2024,50,17.[CrossRef]
+57. Kelly,K.R.;Nouradanesh,M.;Jost,R.M.;Cheng-Patel,C.S.;Birch,E.E.;Wang,S.X.;Tung,J.Y.;Niechwiej-Szwedo,E.Eye-handcoordination
+duringvisually-guidedreachinginchildrenwithmonoculardeprivationamblyopia. Vis.Res.2025,237,108708.[CrossRef]
+58. Argilés,M.;Gispets,J.;Lupón,N.;Sunyer-Grau,B.;Rovira-Gay,C.;Pérez-Ternero,M.;Berta-Cabañas,M. Impactofstrabismus
+andbinoculardysfunctionsinthedevelopmentaleyemovementtestandtestofvisualperceptionskills: Amulticentricand
+retrospectivestudy. J.Optom.2023,16,277–283.[CrossRef]
+59. Ibrahimi,D.;Mendiola-Santibañez,J.D.;Gkaros,A.P. Analysisofthepotentialimpactofstrabismuswithandwithoutamblyopia
+onvisual-perceptualandvisual-motorskillsevaluatedusingTVPS-3andVMI-6tests. J.Optom.2021,14,166–175.[CrossRef]
+60. Mao,D.;Liu,C.;Yin,Z.;Cui,Z.;Zhang,J.;Li,X.;Huang,Y.;Chen,H.;Bao,J. Effectsofanisometropicamblyopiaonvisual
+cognitivefunctionsinchildren. Clin.Exp.Ophthalmol.2025,53,344–355.[CrossRef]
+61. Nagarajan,K.;Luo,G.;Narasimhan,M.;Satgunam,P. ChildrenWithAmblyopiaMakeMoreSaccadicFixationsWhenDoingthe
+VisualSearchTask. Investig.Ophthalmol.Vis.Sci.2022,63,27.[CrossRef][PubMed]
+62. Atiya,A.;Mani,R.;Webber,A.;Narayanan,A.;Khuu,S.K. Saccadiceyemovementsinamblyopia: Asystematicreviewand
+meta-analysis. Clin.Exp.Optom.2026,1–13.[CrossRef][PubMed]
+63. Ming,X.;Huang,G.;Liao,M.;Jiang,P.;Liu,L. Psychophysicalassessmentoffaceperceptiondeficitsinadultswithamblyopia
+throughtop-downandbottom-upvisualprocessingpathways. Front.Neurosci.2025,19,1548243.[CrossRef][PubMed]
+64. Jayakaran,P.;Aman,W.;Fernando,U.;Hackfath,K.;McPherson,A.;Williams,M.;Mitchell,L. Sensoryorganizationforpostural
+controlinchildrenwithstrabismus—Asystematicreviewandmeta-analysis. GaitPosture2021,88,94–104.[CrossRef]
+65. Peng,J.;Yao,F.;Li,Q.;Ge,Q.;Shi,W.;Su,T.;Tang,L.;Pan,Y.;Liang,R.;Zhang,L.;etal. Alternationsofinterhemisphericfunctional
+connectivityinchildrenwithstrabismusandamblyopia:Aresting-statefMRIstudy. Sci.Rep.2021,11,15059.[CrossRef]
+66. Shi, Y.D.; Ge, Q.M.; Lin, Q.; Liang, R.B.; Li, Q.Y.; Shi, W.Q.; Li, B.; Shao, Y. Functional connectivity density alterations in
+childrenwithstrabismusandamblyopiabasedonresting-statefunctionalmagneticresonanceimaging(fMRI). BMCOphthalmol.
+2022,22,49.[CrossRef]
+67. Wang,H.;Crewther,S.;Liang,M.;Laycock,R.;Yu,T.;Alexander,B.;Crewther,D.;Wang,J.;Yin,Z. Impairedactivationofvisual
+attentionnetworkformotionsalienceisaccompaniedbyreducedfunctionalconnectivitybetweenfrontaleyefieldsandvisual
+cortexinstrabismicamblyopia. Front.Hum.Neurosci.2017,11,195.[CrossRef]
+68. Li,H.;Li,W.;Hong,J.;Liu,J.;Hao,J.;Dai,W.;Liu,Z.;Fu,J. Alteredfunctionalconnectivityofresting-statenetworksandthe
+correlationwithclinicalcharacteristicsinintermittentexotropiaadultpatients:Aresting-statemagneticresonanceimagingstudy.
+BMCOphthalmol.2024,24,411.[CrossRef]
+69. Wang,Y.;Wu,Y.;Luo,L.;Li,F. Structuralandfunctionalalterationsinthebrainsofpatientswithanisometropicandstrabismic
+amblyopia:Asystematicreviewofmagneticresonanceimagingstudies. NeuralRegen.Res.2023,18,2348–2356.[CrossRef]
+70. Mu,Y.;Qin,X.;Yao,N.;Zhang,D.;Yang,Y.;Huang,Z.;Chen,F.;Liu,C.;Dong,Y.;Zhang,R.;etal. Singlecentertoevaluateand
+compareanisometropicamblyopiainadultsusingbloodoxygenationlevel-dependentfunctionalmagneticresonanceimaging
+anddiffusionkurtosisimaging. MedSci.Monit.2022,28,e937880.[CrossRef]
+71. Hou,C.;Tyson,T.L.;Uner,I.J.;Nicholas,S.C.;Verghese,P. Excitatorycontributiontobinocularinteractionsinhumanvisual
+cortexisreducedinstrabismicamblyopia. J.Neurosci.2021,41,8632–8643.[CrossRef]
+72. Julku,H.;Rouhinen,S.;Huttunen,H.J.;Lindberg,L.;Liinamaa,J.;Saarela,V.;Karvonen,E.;Booms,S.;Mäkelä,J.P.;Uusitalo,H.;
+etal. Reducedevokedactivityandcorticaloscillationsarecorrelatedwithanisometropicamblyopiaandimpairmentofvisual
+acuity. Sci.Rep.2021,11,8310.[CrossRef]
+73. Dahal,M.;Dahal,H.N.;Gautam,P.;Shrestha,J.B.;Khanal,S. Patternvisualevokedpotentialandfovealsensitivityinamblyopia.
+Doc.Ophthalmol.2023,147,109–119.[CrossRef]
+74. Yap,T.P.;Luu,C.D.;Suttle,C.M.;Chia,A.;Boon,M.Y. Characterisingtheorientation-specificpattern-onsetvisualevokedpotentials
+inchildrenwithbilateralrefractiveamblyopiaandnon-amblyopiccontrols. Doc.Ophthalmol.2021,142,197–211.[CrossRef]
+Disclaimer/Publisher’sNote: Thestatements, opinionsanddatacontainedinallpublicationsaresolelythoseoftheindividual
+author(s)andcontributor(s)andnotofMDPIand/ortheeditor(s).MDPIand/ortheeditor(s)disclaimresponsibilityforanyinjuryto
+peopleorpropertyresultingfromanyideas,methods,instructionsorproductsreferredtointhecontent.
+https://doi.org/10.3390/brainsci16050467

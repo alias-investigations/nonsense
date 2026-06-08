@@ -1,0 +1,1049 @@
+HHS Public Access
+Author manuscript
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Published in final edited form as:
+Exp Brain Res. 2022 March ; 240(3): 897–908. doi:10.1007/s00221-021-06304-4.
+Superior Verbal but Not Nonverbal Memory in Congenital
+Blindness
+Karen Arcos1,3,
+Nora Harhen1,
+Rita Loiotile2,
+Marina Bedny2
+1Department of Cognitive Sciences, University of California, Irvine, Irvine, CA, United States
+2Department of Psychological & Brain Sciences, Johns Hopkins University, Baltimore, MD, United
+States
+Abstract
+Previous studies suggest that people who are congenitally blind outperform sighted people on
+some memory tasks. Whether blindness-associated memory advantages are specific to verbal
+materials or are also observed with nonverbal sounds has not been determined. Congenitally
+blind individuals (n=20) and age and education matched blindfolded sighted controls (n=22)
+performed a series of auditory memory tasks. These included: verbal forward and backward letter
+spans, a complex letter span with intervening equations, as well as two matched recognition
+tasks: one with verbal stimuli (i.e., letters) and one with nonverbal complex meaningless
+sounds. Replicating previously observed findings, blind participants outperformed sighted people
+on forward and backward letter span tasks. Blind participants also recalled more letters on
+the complex letter span task despite the interference of intervening equations. Critically, the
+same blind participants showed larger advantages on the verbal as compared to the nonverbal
+recognition task. These results suggest that blindness selectively enhances memory for verbal
+material. Possible explanations for blindness-related verbal memory advantages include blindness-
+induced memory practice and ‘visual’ cortex recruitment for verbal processing.
+Keywords
+Congenitally blind; verbal; nonverbal; memory; recognition memory
+Introduction
+A distinguishing feature of humans is their ability to adapt to variation in experience. A
+key illustration comes from studies of sensory loss. People born blind gather information
+Corresponding author: Dr. Arcos (karcos1@uci.edu).
+Conflicts of interest/Competing interests. The authors declare that they have no conflicts of interest or competing interests.
+Availability of data and material. Data is available in an Open Science Framework (OSF) project (https://osf.io/etgyh).
+Code availability. Data analysis code is available in an OSF project (https://osf.io/etgyh).
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 2
+through nonvisual means, including not only audition and touch, but also linguistic
+communication and social learning. Language in particular serves as an efficient source
+of information about phenomena that sighted people observe through vision, such as person
+identity, spatial layouts, color, fashion, appearance of animals and distal objects, and visual
+events (Bedny, Koster-Hale, Elli, Yazzolino, & Saxe, 2019; Bigham et al., 2010, October;
+Burton, Brady, et al., 2012; Kim, Elli, & Bedny, 2019). Some evidence suggests that
+blindness enhances aspects of linguistic abilities, perhaps as a result of relying heavily
+on language as an information source. For example, people born blind show speeded
+lexical access and outperform the sighted when answering comprehension questions about
+grammatically complex sentences (Loiotile, Omaki, & Bedny, 2019; Röder, Demuth, Streb,
+& Rösler, 2003; Röder, Rösler, & Neville, 2000).
+Blind individuals outperform sighted controls on verbal memory tasks
+A particularly pronounced blindness-related advantage is observed in verbal memory. People
+who are blind recall longer lists of letters, words, and numbers, both with long (e.g.,
+one week) and short delays (e.g., four seconds Occelli, Lacey, Stephens, Merabet, &
+Sathian, 2017; Pasqualotto, Lam, & Proulx, 2013; Raz, Striem, Pundak, Orlov, & Zohary,
+2007; Rokem & Ahissar, 2009; Smits & Mommers, 1976; Stankov & Spilsbury, 1978;
+Tillman & Bashaw, 1968; Withagen, Kappers, Vervloed, Knoors, & Verhoeven, 2013). Blind
+individuals remember more items and are also more likely to recall them in the correct order
+(Pasqualotto et al., 2013; Raz et al., 2007). One study found that people born blind could
+remember twice as many words as sighted people (Raz et al., 2007).
+People who are blind also show superior memory on tasks involving manipulating
+or updating verbal information, although evidence is more mixed (e.g. Castronovo &
+Delvenne, 2013; Pigeon & Marin-Lamellet, 2015). Blind adults outperform sighted people
+on backward span tasks that require recalling digits in reverse order (Occelli et al., 2017).
+One study found superior performance on an n-back task with raised tactile letters but only
+at intermediate load levels (Bliss, Kujala, & Hämäläinen, 2004). Blind individuals also recall
+lists of consonants in serial order better than sighted participants, even when required to
+complete an intervening pitch discrimination task prior to recall (Dormal, Crollen, Baumans,
+Lepore, & Collignon, 2016). Arguably though, pitch discrimination may provide insufficient
+interference for a verbal memory task. In another study, blind adults were better able
+to remember sentence-final words in an incidental encoding paradigm with 80 sentences
+(Röder, Rösler, & Neville, 2001). Some evidence suggests that such blindness-related
+memory advantages emerge in childhood. One study found that 10-year-old blind children
+outperform sighted children on a listening word span and on backward digit span tasks
+(Withagen et al., 2013). Blindness-related memory advantages have been documented as
+early as six years of age (Hull & Mason, 1995). In sum, blind adults and children outperform
+sighted participants on a range of verbal memory tasks.
+One outstanding question is whether blindness specifically enhances verbal memory or
+memory more generally. Blindness arguably enhances demand for remembering many types
+of information, including spatial routes in the absence of visual landmarks, voices in the
+absence of access to visual facial features, and distal object sounds’ in the absence of
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 3
+constant visual access to the objects (Föcker, Best, Hölig, & Röder, 2012; Fortin et al.,
+2008; Voss et al., 2004). One possibility is that people who are blind demonstrate improved
+memory for all these varied types of information, including nonverbal sounds, spatial
+layouts, and smells. On the other hand, blindness could selectively improve verbal memory.
+As noted above, language may serve as a particularly efficient source of information about
+varied contents and be an effective tool for encoding and maintaining information. Studies
+with other expert sighted populations suggest that memory for different information types
+often improves independently. For example, simultaneous translators show superior working
+memory for linguistic material but not spatial layouts, and musicians show improved verbal
+memory as compared to non-musicians (Chan, Ho, & Cheung, 1998; Christoffels, De
+Groot, & Kroll, 2006; Cohen, Evans, Horowitz, & Wolfe, 2011; for review, see Ericsson
+& Lehmann, 1996; Franklin et al., 2008; Ho, Cheung, & Chan, 2003). Therefore, verbal
+memory in people who are blind might selectively improve.
+Whether blind individuals outperform sighted people on nonverbal tasks
+remains unclear.
+Few studies have directly compared the same blind and sighted adults’ verbal and nonverbal
+memory performance. Studies that have compared blind and sighted adults’ nonverbal
+memory performance alone find mixed results. Several studies find superior memory
+among blind individuals for meaningful, verbalizable sounds, such as the sound of a
+clock ticking, turning a book’s pages, and linoleum floor squeaks (Cornell Kärnekull,
+Arshamian, Nilsson, & Larsson, 2016). These advantages persist, even when participants
+complete intervening tasks involving generating words beginning with a certain letter
+and discriminating nonverbal pitches (Cornell Kärnekull et al., 2016). Interestingly, the
+advantage among people born blind was more pronounced with a semantic (naming the
+sound) as compared to a physical encoding strategy (stating the noises’ volume Röder
+& Rösler, 2003). Verbalizing the sounds may therefore mediate the blindness-related
+advantages when the sounds are easily verbalizable.
+Consistent with the idea that blindness-related advantages are restricted to verbal or
+verbalizable material, a number of studies with non-verbalizable materials have failed to
+find blindness-related advantages. For example, one study found no blindness advantage
+when participants listened to verbal stimuli but remembered nonverbal information. In this
+study, blind and sighted individuals performed with equal accuracy when listening to a
+pseudoword and making n-back judgments on the speaker’s identity (as specified by the
+voice, Gudi-Mindermann et al., 2018). While some studies do find superior memory for
+voices and tones among people born blind, the findings are inconsistent (Bull, Rathborn,
+& Clifford, 1983; but see Stankov & Spilsbury, 1978). Several studies with spatial tactile
+tasks similarly find no advantage among people who are blind. In one recent study, sighted
+and blind participants were not different in their ability to recall haptically encoded target
+cubes’ locations on a 2D matrix (Occelli et al., 2017). Crucially, the same group of
+blind participants outperformed sighted people on two verbal memory tasks, including
+a backwards digit span task and a word list recall task (Occelli et al., 2017). This
+study demonstrates that blind participants who show verbal memory advantages do not
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 4
+also show spatial memory advantages. Converging evidence comes from spatial memory
+navigation tasks and an adaptive tactile n-back task (Cornoldi, Cortesi, & Preti, 1991;
+Gudi-Mindermann et al., 2018; for a review, see Struiksma, Noordzij, & Postma, 2009).
+In summary, prior evidence suggests blind individuals outperform sighted controls on verbal
+memory but not spatial memory tasks (Gudi-Mindermann et al., 2018; Occelli et al., 2017;
+Raz et al., 2007; Sinclair, Dixit, & Burton, 2011). Evidence from nonverbal memory studies
+using sounds is mixed (Gudi-Mindermann et al., 2018; Röder & Rösler, 2003; Sinclair et al.,
+2011).
+Motivating the current study
+One possible interpretation of the available evidence is that blind individuals exhibit a
+specific verbal memory advantage. An alternative possibility is that blindness improves
+memory for verbal and nonverbal material alike. The available evidence falls short of
+distinguishing between the verbal memory and general memory advantage hypotheses.
+As noted above, previous studies show some blindness-related memory advantages for
+nonverbal meaningful sounds (Cornell Kärnekull et al., 2016). These advantages may be
+related to verbalizability, yet whether this is the case is unknown. Evidence from spatial
+tasks is complicated to interpret with respect to the verbal memory hypothesis since prior
+evidence suggests blind and sighted individuals’ performance differs on some spatial tasks.
+For example, one study found that sighted individuals outperformed blind participants when
+navigating through a previously explored 3D matrix of cubes (for a review, see Cattaneo et
+al., 2008; Cornoldi et al., 1991). An additional study found that when following imaginary
+pathways in two and 3D matrices, sighted participants recalled final locations better (Vecchi,
+1998). Spatial and imagery performance differences between blind and sighted people could
+mask a nonverbal memory advantage among people born blind.
+Critically, no prior study has compared the same blind and sighted participants’ performance
+on matched verbal and nonverbal tasks. One reason for this is that most verbal memory
+tasks require generating responses (e.g., reporting a remembered list of words), which is
+impractical for nonverbal material. To address this question, we used matched verbal and
+nonverbal recognition memory tasks. Participants heard either a target sequence of letters (5
+to 15 letters long) or a sequence of target nonmeaningful complex sounds (3 to 15 sounds
+long). They then heard a probe sequence and decided whether it was identical to the target
+sequence. To respond correctly, participants had to remember both the identity and the order
+of the letters and sounds. Non-match lists were created by either interchanging two items’
+positions, replacing one item with another, or moving an item two or more positions. To
+ensure that any differences between verbal and nonverbal tasks were not related to difficulty
+alone, we manipulated load to match the verbal (with letters) and nonverbal (with sounds)
+recognition memory tasks on difficulty.
+To compare the current results to prior literature, we also tested the same blind and
+sighted participants on forward and backward letter span tasks. Finally, we used a complex
+span task to determine whether blindness-related advantages would persist even with
+difficult interfering verbal material. One possibility is that blindness-related verbal memory
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 5
+advantages are only observed in tasks allowing rehearsal of verbal material, perhaps because
+of more efficient rehearsal strategies in blind participants. In the current study, we used a
+complex span task in which participants remember letter sequences while judging interfering
+math equations’ validity. If blind individuals continue to outperform the sighted on this task,
+this would suggest that blindness-related advantages persist even when an intervening task
+precludes rehearsal.
+Methods
+Participants
+Twenty participants who are congenitally blind (13 female) and 22 age and education
+matched sighted controls (14 female) took part in the study (see Table 1 for demographic
+details). One sighted participant only took part in recognition tasks. Three participants who
+are blind did not perform the Woodcock Johnson III (WJIII) standardized test.
+All participants were native English speakers, except one sighted participant who learned
+English at age five. We collected data from participants who are blind at three separate
+national conventions of the National Federation of the Blind (2014, 2016, and 2018).
+Sighted participants were tested at Johns Hopkins University. Participants who are blind
+had minimal-to-no light perception from birth due to pathologies in or anterior to the
+optic chiasm (see Table 1 for list of etiologies). All participants reported no cognitive or
+neurological disabilities and scored within two standard deviations of their own group on
+every WJIII task (max z-score within each group: sighted = 1.4, max blind = 2.02).
+The Johns Hopkins University Homewood Institutional Review Board approved the study
+(HIRB00001291). All participants provided written informed consent and were compensated
+for their time at $30 per hour.
+Procedures
+Participants completed the experimental tasks in the following order: simple verbal forward
+and backward letter spans (together Experiment 1); complex span (Experiment 2); and
+nonverbal recognition and verbal recognition (together Experiment 3). WJIII scores were
+obtained either after all of the experimental tasks or in a separate session. Data were
+collected as part of a larger testing session.
+A female native English speaker recorded all verbal materials. Auditory stimuli were
+delivered over Audio-Technica headphones. All tasks were administered using a PC laptop
+running MATLAB (Mathworks, Inc.) and Psychtoolbox (Brainard, 1997; Pelli, 1997).
+Participant responses were recorded using a button box (Cedrus, RB-730).
+Experiment 1: Recall in simple verbal forward and backward letter spans—The
+forward and backward span tasks were adapted from the Wechsler Adult Intelligence Scale
+(WAIS) digit span tasks. Digits 1-9 were mapped to letters A-I. On each trial, participants
+heard a list of letters at a rate of one letter per second. After hearing the final letter,
+participants were asked to repeat the list back to the experimenter in the exact order
+(forward) or the reverse order (backward). All participants in both groups heard the same
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 6
+lists of letters presented in the same order. Participants heard two trials per load (i.e. number
+of items to recall) with load increasing from two to nine for the forward span task and two to
+eight for the backward span. Trial accuracy was scored as the proportion of letters recalled in
+the correct position. The task self-terminated if participants were unable to recall any of the
+letters in the correct position across the two trials.
+Experiment 2: Recall in complex verbal letter span task—The complex verbal
+span task was similar to the letter span task described above. However, an interfering math
+equation was inserted after each letter within the lists. Participants were thus required to
+do two tasks at once: remember the letter sequence and judge math equations’ validity.
+The intervening math equations were intended to preclude participants from rehearsing the
+letters.
+Equations and letter sequences consisted of the following. Math equations were comprised
+of multiplying or dividing two digits followed by either adding or subtracting a third digit.
+All incorrect answers were selected to be within 3 digits of the correct answer to discourage
+reliance on estimation techniques. Letter lists were constructed from 13 letters (A-M).
+For each list, letters were chosen pseudo-randomly, allowing only for non-consecutive
+repetitions of one letter at most twice per trial. All participants in both groups heard the
+same lists of letters and equations presented in the same order. The event order within each
+trial was as follows: Participants first heard an equation and a proposed solution (“5 x 3
++ 8 = 23,” 5000 ms). Participants decided whether the solution was correct or incorrect.
+They pressed one of two buttons (first or second from left to right, respectively) to respond.
+Following the equation and a 300 ms pause, participants heard a to-be-remembered letter
+(500 ms). The pattern of equations and letters continued until the final letter was reached.
+Participants then heard a tone indicating the end of the trial (75 ms). Following the tone,
+participants repeated the full list of letters back to the experimenter in the presented order.
+Because math abilities can differ substantially within and across groups, participants had an
+individualized amount of time to respond to the interfering math equations (Blind – Mean
+= 2.02 s, SD = 2.28; Sighted – Mean = 1.37 s, SD = 0.93). To calculate a participant’s
+individualized equation time, participants performed 15 practice equations prior to the task.
+On experimental trials, they were given the mean practice equation response time + 2.5
+times the standard deviation of the practice equation response time.
+Participants completed three trials per span, with load increasing from two to 10. Trial
+accuracy was scored as the proportion of letters recalled in the correct position. As with
+the simple letter spans, the complex verbal letter span self-terminated if participants were
+unable to recall any letters in the correct position across trials for a load. Because the highest
+load any participant reached was nine, only loads two through nine were analyzed for each
+participant.
+Experiment 3: Nonverbal and Verbal Recognition tasks
+Nonverbal recognition: Participants identified whether two lists of nonverbal sounds were
+matching or non-matching. The lists were comprised of a combination of 13 nonverbal
+sounds (500 ms), followed by a 400 ms delay. Sounds are posted on Open Science
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 7
+Framework (https://osf.io/etgyh). The nonverbal sounds were created using Audacity
+(https://www.audacityteam.org/). Across the 13 sounds, dominant frequencies ranged from
+172 to 20,155 Hz. Sounds were played at a comfortable volume for each participant based
+on self-report. The sounds were chosen to minimize similarity to real sound categories (e.g.,
+barking, sneezing, rain) and thus to minimize verbalizability.
+The event order within each trial was as follows. Participants heard a target list of sounds
+(500 ms per sound with a 400 ms delay between sounds), followed by a 1500 ms delay and
+a probe list of sounds. Participants then indicated whether the target and probe lists were
+identical by pressing the first (match) or the second (non-match) buttons. Participants could
+respond at any time while listening to the probe list, and they could also pause the task
+after completing a trial. (Trials timed out after 1000 s). After the current trial’s list finished
+playing and a response was received, a verbal cue of “Next Trial” indicated the beginning of
+the following trial.
+Each load contained four match and four non-match trials. On non-match trials, the probe
+lists could differ from the target lists in three possible ways: one item was replaced with a
+new one (“identity change”), two items interchanged positions (“swap two”), or one item
+shifted two or more positions (“slide one over”), causing subsequent items between the new
+and old positions to shift as well.
+Loads ranged from three to 15, with eight trials per load. Accuracy on each trial was scored
+as correct (1) or incorrect (0). Following the eight trials within a load, the participant’s
+overall score for the load was calculated. If the participant performed at or below chance
+(0.50), the task terminated. Performance on the last completed load and at subsequent loads
+was set to chance.
+Verbal recognition: The verbal forward recognition task was structured and scored
+similarly to the nonverbal forward recognition task, except lists of letters were presented
+as opposed to lists of nonverbal sounds. Similar to the complex span, lists of letters were
+comprised of 13 possible letters (A-M). For each list, letters were chosen randomly, allowing
+for non-consecutive repetitions of a single letter at most twice per trial. The lists were
+screened to ensure they did not coincidentally spell out a word. Loads ranged from five to
+15.
+Woodcock-Johnson III (Control): To measure general vocabulary and verbal ability, five
+subtests of the WJIII were administered: (Word Identification, Word Attack, Synonyms,
+Antonyms, and Analogies). These tasks were used as controls to determine whether any
+potential differences among sighted and blind participants were specific to verbal memory
+or general to all measures of verbal ability, including vocabulary. Blind participants
+used a Braille version of the WJIII. On Word Identification, participants read and
+correctly pronounced 60 English words (e.g. “bouquet”). On Word Attack, participants
+read and pronounced 32 non-words (e.g., “paraphonity”). On Oral-Vocabulary Synonyms,
+participants read 12 words and provided a synonym for each (e.g. “wild” → “untamed”). On
+Oral-Vocabulary Antonyms, participants read 12 words and provided an antonym for each
+(e.g., “authentic” → “fake”). On Oral-Vocabulary Analogies, participants generated words
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 8
+to complete 12 unfinished analogies (e.g., “Wrist is to shoulder, as ankle is to…” → “hip”).
+Items on each section were increasingly more difficult. Participants had no time limit and
+were given no feedback. Participants were allowed to skip any questions but could not return
+to them. Section accuracy was scored as the percent correct on all possible items in that
+section. Skipped trials were scored as incorrect.
+Data Analysis—Analysis was conducted in R 4.1.1 (R Core Team, 2021) and used
+the rstatix Package (Kassambra, 2020). Analyses of variance (ANOVAs) were conducted
+with group (blind vs. sighted) as the between subjects factor and direction (forward vs.
+backward), load (2-9 spans), and task (letter recall, equation judgment, and verbal and
+nonverbal recognition) as the within-subjects factors. The Huynh-Feldt Correction was
+applied to all ANOVAs to account for violations of sphericity. P-values for post-hoc t-tests
+were corrected for multiple comparisons using the Holm-Bonferroni method.
+Recall: Forward, Backward, and Complex: Accuracy per trial was calculated as the
+proportion of letters recalled in their correct position in the cue list. Measuring load accuracy
+as the proportion of correctly recalled letters is more sensitive than traditional span length
+because individuals who reach the same span may recall different proportions of letters
+correctly. Accuracy per load was calculated by averaging accuracy across each load’s two
+trials. If a participant was not tested on a load (e.g. load 8) because of poor performance
+on prior loads (e.g. 6 and 7) and the task self-terminated, performance on the untested load
+(i.e. load 8) was set to chance, 0. A subset of participants who were blind (n=8) completed
+all trials regardless of performance, i.e., the task continued after two incorrect responses.
+To combine data consistently across participants, their data were scored in the same way as
+those who’s task self-terminated i.e., all trials occurring after two consecutive errors were set
+to 0.
+Recognition: Verbal and Nonverbal: Prior to the nonverbal recognition task, participants
+performed a short sound discrimination task to ensure sighted and blind participants
+could discriminate the sounds to be used during the recognition task. Blind and sighted
+participants were both at near perfect performance (Blind – Mean = 0.998), SD = 0.0041;
+Sighted – Mean = 0.992, SD = 0.015; t-test between groups – t(39) = −1.93, p =.06, d =
+0.55).
+On the nonverbal and verbal recognition tasks, accuracy per load was averaged across
+the load’s eight trials. d’, a measure of memory discrimination, was calculated using the
+equation below:
+d′=z(H)−z(F)
+where z is a Z-transformation, H is the hit rate, and F is the false alarm rate.
+If a participant was not tested on a load due to poor performance on prior loads, then
+performance was set at chance and d’ was set to 0 for that load. If a participant completed a
+load but performance was below chance, then performance was also set at chance and d’ set
+at 0 in order to equate with those participants that were not tested on that particular load due
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 9
+to poor performance on prior loads. For the nonverbal task, only loads 3 to 6 were analyzed.
+During piloting, these loads were found to produce similar performance as loads 5 to 8 in the
+verbal task.
+Results
+Experiment 1: Recall in simple verbal span task, forward and backward
+Consistent with prior studies, individuals who are blind showed enhanced short-term
+memory recall on a simple verbal span task (e.g. Occelli et al., 2017; Pasqualotto et al.,
+2013; Rokem & Ahissar, 2009). In a group (blind vs. sighted) by direction (forward vs.
+backward) by load (2 through 9 spans) 2 x 2 x 8 ANOVA (Fig 2a), participants who are
+blind performed overall better than the sighted across loads for both forward and backward
+recall (main effect of group, F(1,39) = 8.25, p = .01, ηp 2 = 0.18). Both groups performed
+worse with increasing load (main effect of load, F(3.13, 121.9) = 210.86, p < .001, ηp 2 =
+0.84), with load effects more pronounced in the backward than forward recall task (direction
+X load interaction, F(4.48, 174.53) = 20.73, p < .001, ηp 2 = 0.35). Notably, increasing load
+affected individuals who are blind less (group X load interaction, F(3.13, 121.9) = 3.62, p =
+0.01, ηp 2 = 0.085), consistent with prior work (Occelli et al., 2017; Pasqualotto et al., 2013;
+Rokem & Ahissar, 2009). By contrast, direction of recall (forward vs. backward) affected
+both participant groups equally (directionality X group interaction, F(1,39) = 0.37, p = .55,
+ηp 2 = 0.01), both groups performing more poorly on the backwards than forwards span task
+(directionality effect, F(1, 39) = 76.09, p < .001, ηp 2 = 0.66).
+Experiment 2: Recall in complex verbal span task
+Individuals who are blind continued to show enhanced short-term memory recall in the face
+of interference (with math equations) on a complex span task. In a 2 x 8 group by load
+ANOVA, main effects of group (blind>sighted), increasing load, and task (letter recall and
+equation judgment) on accuracy were found (Fig 2b; group, F(1,39) = 6.55, p = .01, ηp 2 =
+0.14; load, F(3.31, 129.16) = 104.86, p < .001, ηp 2 = 0.73; task, F(1,39) = 26.70, p < .001,
+ηp 2 = 0.41), but not a group by load interaction effect (F(3.31, 129.16) = 1.93, p = .12, ηp 2 =
+0.05, Figure 2). These results are consistent with at least one prior study, showing that blind
+individuals continue to outperform sighted people on verbal recall tasks even in the face of
+interference (Dormal et al., 2016).
+Blind participant’s’ superior letter recall was not a result of trade-off with the equation task:
+participants who are blind performed better than the sighted on the equations task across
+loads (Fig 2b; 2 x 8 group-by-load ANOVA group, F(1, 39) = 6.61, p = .01, ηp 2 = 0.15).
+Though participants received individualized amounts of time to solve interfering equations,
+duration did not differ across groups (Blind – Mean = 2.02 s, SD = 2.28; Sighted – Mean
+= 1.36 s, SD = 0.93; t(39) = 1.21, p = .23, d = 0.38). Increasing load in the concurrent
+letter-working memory task negatively impacted both groups’ performance on the equations
+task (load, F(3.83, 149.33) = 67.13, p < .001, ηp 2 = 0.63).
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 10
+Experiment 3: Verbal and nonverbal recognition task
+When using raw accuracy as the outcome measure, individuals who are blind only showed
+enhanced recognition memory with verbal material. A group (blind vs. sighted) by load (4
+loads) by task (verbal vs. nonverbal) 2 x 4 x 2 ANOVA revealed main effects of group and
+load (Fig 3a; main effect of group (blind>sighted), F(1,40) = 16.20, p < .001, ηp 2 = 0.29,
+main effect of load (F(3, 119.86) = 106.76, p < .001, ηp 2 = 0.73; main effect of task F(1,40)
+= 3.92, p = .06, ηp 2 = 0.09). The main effect of group was qualified by a group by task
+interaction, such that the difference between blind and sighted groups was more pronounced
+in the verbal than nonverbal task, (F(1,40) = 4.61, p = .04, ηp 2 = 0.10). We also found a task
+by load interaction, such that the effect of load was more pronounced in the nonverbal task
+(task X load, F(3.11, 124.50) = 7.16, p < .001, ηp 2 = 0.15).
+D’ was also used as an outcome measure to account for any potential differences in decision
+criterion across groups and yielded qualitatively similar results. Main effects of group and
+load were found (Figure 3, group, F(1,40) = 13.90, p < .001, ηp 2 = 0.26; load, F(3, 123.76)
+= 93.13, p < .001, ηp 2 = 0.70). The effect of task was marginal, F(1,40) = 3..38, p = .07,
+ηp 2 = 0.08). The group X task (verbal/nonverbal) interaction was marginal (F(1,40) = 3.82,
+p = .06, ηp 2 = 0.09) while the task by load interaction was significant (task X load, F(3.05,
+121.83) = 8.56, p < .001, ηp 2 = 0.18). On the nonverbal recognition task, a single load
+drove the effect of group, whereas all loads showed an effect of group in the verbal task.
+These results are consistent with the hypothesis that blindness preferentially enhances verbal
+memory as stated in the introduction (Occelli et al., 2017; Raz et al., 2007).
+Woodcock-Johnson III (Control)
+Blind and sighted participants were matched on their general vocabulary and verbal ability.
+The two groups performed equally well on each of the administered Woodcock-Johnson III
+subtests (Word Identification - t(37) = −0.37, p = .72, d = −0.12; Word Attack - t(37) =
+−0.16, p = .87, d = −0.05; Synonyms - t(37) = 0.40, p = .69, d = 0.13; Antonyms - t(37) =
+0.30, p = .76, d = 0.10; Analogies - t(36) = −1.01, p = .32, d = −0.33).
+Discussion
+Verbal Memory Selectively Improved in Blindness
+We report that congenital blindness is associated with a selective advantage for verbal
+memory. Replicating and extending prior results, we show that adults who are blind from
+birth outperform sighted people on verbal recall tasks, recalling more letters and digits in
+the correct order on forward, backward, and complex span tasks (Cohen, Voss, Lepore,
+& Scherzer, 2010; Hull & Mason, 1995; Occelli et al., 2017; Raz et al., 2007; Rokem &
+Ahissar, 2009; Swanson & Luxenberg, 2009; Withagen et al., 2013). The same blind and
+sighted participants performed equally well on vocabulary and reading tasks, as measured by
+the WJIII standardized test, and on a nonverbal memory task discussed in detail below.
+We also found that blind participants’ verbal memory advantage persisted on the complex
+span task in the face of interference. Blind participants continued recalling more letters
+in the correct order while solving a math equation between each letter presentation. The
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 11
+secondary task of solving equations arguably interferes with explicit articulatory rehearsal.
+Blind participants were also more accurate at solving the equations themselves, suggesting
+no tradeoff between equation and memory tasks. This finding suggests that verbal memory
+advantages in blindness are resilient to interference.
+Consistent with the current complex span task results, prior studies also find blindness-
+related verbal memory advantages persist amidst interference. As compared to sighted
+individuals, blind participants recall more letters and verbalizable sounds after completing
+an intervening pitch discrimination task (Dormal et al., 2016; Röder et al., 2003). On a
+long-term memory task, blind participants recognized more verbalizable sounds than sighted
+participants after generating words beginning with a certain letter over 8-9 minutes (Cornell
+Kärnekull et al., 2016). Similarly, blind children recalled more sentence-final words than
+sighted children while judging the same sentences as true or false during a listening span
+task (Withagen et al., 2013). One study found better memory on an incidental memory
+paradigm, where blind participants recognized more previously heard sentence-final words
+as compared to sighted participants after judging the same sentences as meaningful in an
+intervening task (Röder et al., 2001). To the extent that these intervening tasks prevent
+articulatory rehearsal, these findings suggest that more efficient articulatory rehearsal
+strategies do not fully explain blindness-related advantages.
+We also find that blindness-related advantages extend to verbal recognition memory. Blind
+participants distinguished between previously heard lists of letters and lists of foil letters
+better than sighted participants. Although both blind and sighted participants made more
+errors with increasing list lengths, on average people born blind recognized approximately
+10% more letters correctly.
+Crucially, the goal of the current study was to compare verbal and nonverbal memory
+performance using a recognition memory paradigm. We observed a group-by-verbal
+material interaction on the recognition memory task, such that blindness-related advantages
+were more pronounced for verbal as compared to nonverbal recognition memory. Blind
+participants significantly outperformed sighted participants on all loads of the verbal
+recognition task. No group difference emerged on the nonverbal recognition task except
+at one load level, and this effect was nonsignificant when collapsing across loads. These
+results support the hypothesis that blindness promotes enhanced memory specifically for
+verbal material. Notably, since the recognition task had no concurrent dual task to prevent
+rehearsal, we cannot rule out the possibility that articulatory rehearsal contributes to
+blindness-related advantages in letter recognition.
+Larger verbal as opposed to nonverbal memory advantages observed among people born
+blind are consistent with a number of prior studies. One study reported that blind
+participants outperformed sighted ones on verbal but not spatial memory tasks (Occelli
+et al., 2017). Specifically, blind participants outperformed sighted ones on a backward
+digit span task and on short and long-term word list recall tasks, while the same blind
+and sighted participants showed no differences on a haptic spatial corsi-block task. The
+present findings show that blind individuals exhibit a verbal versus nonverbal memory
+dissociation even when using a nonverbal, nonspatial task for comparison, thus extending
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 12
+previous results. The current results are also consistent with evidence that congenitally
+blind individuals’ higher performance using nonverbal sounds or tactile stimuli is related
+to verbalizability. Prior studies find blind individuals recall more verbalizable sounds (e.g.,
+musical instruments or turning book pages) than sighted participants (Cornell Kärnekull et
+al., 2016; Röder & Rösler, 2003). In contrast, with non-verbalizable stimuli, such as voices
+or vibrotactile rhythms, blindness-related advantages are absent (e.g. n-back tasks matching
+vibrations and voices Burton, Sinclair, & Dixit, 2010; Gudi-Mindermann et al., 2018; and
+a recognition memory task using vibrotactile rhythms Sinclair et al., 2011). Therefore, the
+existing evidence supports the hypothesis that verbal memory is improved in blindness, not
+memory in general.
+Why and how does blindness improve verbal memory?
+One hypothesis is that blindness provides a form of memory practice, thus improving
+memory. People who are blind rely on memory to access some information accessible
+to sighted people through vision, including not only environmental information (e.g.,
+visual landmarks) but also culturally transmitted information. Many cultural tools that
+reduce memory load are designed for people who are sighted (e.g., visual slides during
+a talk, signs for navigation, printed object labels). Blind individuals rely on memory to
+access information that is continuously available visually to people who are sighted. Since
+language provides an efficient means of encoding and maintaining a wide variety of content
+in memory, verbal memory may get abundant practice and thus improve selectively. In
+this regard, language might serve as a mental tool for retaining information (for related
+argument, see Frank, Everett, Fedorenko, & Gibson, 2008).
+Under a practice-based account, sighted people given similar practice, could, in principle
+achieve similar memory improvements. As noted in the introduction, superior verbal
+memory has also been observed among subgroups of sighted people with particular
+expertise, such as simultaneous translators and musicians (Chan et al., 1998; Christoffels
+et al., 2006; Cohen et al., 2011; Franklin et al., 2008; Ho et al., 2003). Under this
+practice-based view, the cognitive and neural mechanisms of blindness-related memory
+improvements might be similar to what is observed in sighted expert populations.
+An alternative possibility is that blindness-related memory improvements are cognitively
+and neurally unique and unachievable for sighted people. One potential reason is the
+availability of unique neural resources. People who are blind recruit ‘visual’ cortices during
+a range of nonvisual tasks (Bedny, Pascual-Leone, Dodell-Feder, Fedorenko, & Saxe, 2011;
+Collignon et al., 2011; Röder, Stock, Bien, Neville, & Rösler, 2002; Thaler, Arnott, &
+Goodale, 2011; Vercillo, Milne, Gori, & Goodale, 2015). Verbal memory is among the
+functions that engages ‘visual’ cortices in blindness. People who are blind activate ‘visual’
+cortices when retrieving words from long-term memory. This activation is observed in
+the anatomical location of the primary visual cortex (V1), along the calcarine sulcus, as
+well as in secondary visual areas, including in ventral occipito-temporal cortex (vOTC),
+lateral occipital cortex (LOC), and dorsal occipital areas (Raz, Amedi, & Zohary, 2005).
+People who are blind also show larger ‘visual’ cortex activity for new over previously heard
+words, and these effects are observed both in primary and secondary visual cortices (vOTC,
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 13
+LOC, and anatomical locations of V2-V8). Blind individuals with larger V1 responses
+during verbal tasks also show better verbal memory performance (Amedi, Raz, Pianka,
+Malach, & Zohary, 2003; Raz et al., 2005). ‘Visual’ cortices are also recruited when
+blind individuals process verbal material, such as sentences and words (e.g. Bedny et al.,
+2011; Burton, Sinclair, & Agato, 2012; Lane, Kanjlia, Omaki, & Bedny, 2015; Röder et
+al., 2002). Recruiting additional cortical resources in ‘visual’ cortex could enhance verbal
+memory in people born blind. Recruiting ‘visual’ cortex does not always confer a behavioral
+advantage to people who are blind, however (e.g., Gudi-Mindermann et al., 2018; Rimmele,
+Gudi-Mindermann, Nolte, Röder, & Engel, 2019). Further studies are needed to clearly
+establish a causal link between visual cortex plasticity and enhanced memory in blindness.
+Verbal memory is not the only task that recruits ‘visual’ subnetworks in blindness.
+‘Visual’ cortices have also been implicated in tasks such as spatial localization, language
+comprehension, echolocation, braille reading, and solving math equations (Bedny et al.,
+2011; Burton, Sinclair, et al., 2012; Collignon et al., 2011; Kanjlia, Lane, Feigenson, &
+Bedny, 2016; Röder et al., 2002; Voss et al., 2004). In some of these cognitive domains, such
+as spatial localization and sentence processing, performance across blind individuals is also
+related to the degree of cross-modal occipital activity (Gougoux, Zatorre, Lassonde, Voss, &
+Lepore, 2005; Lane et al., 2015). How these responses are anatomically situated with respect
+to each other remains to be fully described. Two prior studies suggest that within ‘visual’
+cortex of blind people, different cognitive operations are anatomically segregated. One
+study showed that responses to language and math are segregated within general anatomical
+locations, including within V1 itself, with different portions of V1 responding preferentially
+to math and language (Kanjlia et al., 2016). Likewise, another study reported that responses
+during a long-term memory retrieval task with sentences are anatomically separable from
+activity observed during verb-generation (Abboud & Cohen, 2019). At the same time,
+subspecialization of ‘visual’ cortices in blindness for different cognitive functions does
+not appear to follow subdivisions of the visual hierarchy. Many tasks, including language
+processing and memory tasks, activate both low level and high level visual areas: including
+V1, ventral, dorsal, and lateral occipital cortices. The anatomical location of verbal memory
+responses within ‘visual’ cortices, their relationship to responses observed during other
+cognitive tasks, and their behavioral significance remains to be fully characterized.
+Finally, practice-related and ‘visual’ cortex plasticity accounts of verbal memory advantages
+in blindness are not mutually exclusive. Blindness may confer verbal memory practice while
+‘visual’ cortex plasticity enables pronounced behavioral gains. Furthermore, behavioral
+pressure to rely on remembered verbal information may enhance recruiting visual cortex
+for verbal processing.
+Conclusion
+In sum, we find that people who are born blind show memory advantages but only for verbal
+material. These advantages persist even in the context of interference and are observed
+during recall and recognition. Such advantages could stem either from enhanced memory
+practice conferred by blindness, recruiting ‘visual’ cortices for verbal memory, or both.
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 14
+Acknowledgements
+We are grateful to the study participants, the blind community, as well as the National Federation of the Blind for
+their assistance with this research. We also wish to thank Rashi Pant, Brianna Aheimer, and other members of the
+Neuroplasticity and Development Lab for assisting with collecting data. We gratefully acknowledge funding from a
+National Science Foundation Graduate Research Fellowship (DGE-1321846) (to Karen Arcos) and a University of
+California President's Postdoctoral Fellowship to (Karen Arcos). We also acknowledge a Grant from the National
+Eye Institute at the National Institutes of Health (1R01EY027352-01A), as well as a Science of Learning Grant
+from Johns Hopkins University. The authors are solely responsible for the content; it does not necessarily represent
+funding agencies' official views.
+Funding.
+A National Science Foundation Graduate Research Fellowship (DGE-1321846) and a University of California
+President's Postdoctoral Fellowship supported (Karen Arcos). A Grant from the National Eye Institute at the
+National Institutes of Health (1R01EY027352-01A), as well as a Science of Learning Grant from Johns Hopkins
+University also supported this research. The authors have no financial or proprietary interests in any material
+discussed in this article.
+References
+Abboud S, & Cohen L (2019). Distinctive Interaction Between Cognitive Networks and the Visual
+Cortex in Early Blind Individuals. Cerebral Cortex, 29(11), 4725–4742. doi:10.1093/cercor/bhz006
+[PubMed: 30715236]
+Amedi A, Raz N, Pianka P, Malach R, & Zohary E (2003). Early "visual' cortex activation correlates
+with superior verbal memory performance in the blind. Nature Neuroscience, 6(7), 758–766.
+doi:10.1038/nn1072. [PubMed: 12808458]
+Bedny M, Koster-Hale J, Elli G, Yazzolino L, & Saxe R (2019). There's more to "sparkle" than meets
+the eye: Knowledge of vision and light verbs among congenitally blind and sighted individuals.
+Cognition, 189, 105–115. doi:10.1016/j.cognition.2019.03.017 [PubMed: 30939375]
+Bedny M, Pascual-Leone A, Dodell-Feder D, Fedorenko E, & Saxe R (2011). Language processing in
+the occipital cortex of congenitally blind adults. Proceedings of the National Academy of Sciences,
+108(11), 4429–4434. doi:10.1073/pnas.1014818108
+Bigham JP, Jayant C, Ji H, Little G, Miller A, Miller RC, … Yeh T (2010, October).
+VizWiz: nearly real-time answers to visual questions. Paper presented at the Proceedings
+of the 23nd annual ACM symposium on User interface software and technology. https://
+dl.acm.org/doi/abs/10.1145/1866029.1866080?casa_token=eqdciLsaAKsAAAAA:v_iSvCJKVqaa-
+xY5ls_4fwveOme0IVWxS0hy40kPYpp_vBoRYqOVaGI-i6tDdYMTqiBvusMwGw1eZg
+Bliss I, Kujala T, & Hämäläinen H (2004). Comparison of blind and sighted participants' performance
+in a letter recognition working memory task. Cognitive Brain Research, 18(3), 273–277.
+doi:10.1016/j.cogbrainres.2003.10.012 [PubMed: 14741313]
+Brainard DH (1997). The Psychophysics Toolbox. Spatial Vision, 10(4), 433–436.
+doi:10.1163/156856897X00357 [PubMed: 9176952]
+Bull R, Rathborn H, & Clifford BR (1983). The voice-recognition accuracy of blind listeners.
+Perception, 12(2), 223–226. doi:10.1068/p120223 [PubMed: 6657428]
+Burton H, Sinclair RJ, & Agato A (2012). Recognition memory for Braille or spoken words: an fMRI
+study in early blind. Brain Research, 1438, 22–34. doi:10.1016/j.brainres.2011.12.032 [PubMed:
+22251836]
+Burton H, Sinclair RJ, & Dixit S (2010). Working memory for vibrotactile frequencies: comparison
+of cortical activity in blind and sighted individuals. Human Brain Mapping, 31(11), 1686–1701.
+doi:10.1002/hbm.20966 [PubMed: 20162595]
+Burton MA, Brady E, Brewer R, Neylan C, Bigham JP, & Hurst A (2012). Crowdsourcing subjective
+fashion advice using VizWiz: challenges and opportunities. Paper presented at the Proceedings of
+the 14th international ACM SIGACCESS conference on Computers and accessibility. https://
+dl.acm.org/doi/abs/10.1145/2384916.2384941?
+casa_token=6ooogdNdgOQAAAAA:wKavzQwyNOERUaGzbCjEktqKh_Y6qSlmQty8otfhCsLdP
+azrBzTehrAK1FtIIhc7Tbj0PA5tm7HbZA
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 15
+Castronovo J, & Delvenne JF (2013). Superior numerical abilities following early visual deprivation.
+Cortex, 49(5), 1435–1440. doi:10.1016/j.cortex.2012.12.018 [PubMed: 23402953]
+Cattaneo Z, Vecchi T, Cornoldi C, Mammarella I, Bonino D, Ricciardi E, & Pietrini P (2008). Imagery
+and spatial processes in blindness and visual impairment. Neuroscience & Biobehavioral Review,
+32(8), 1346–1360. doi:10.1016/j.neubiorev.2008.05.002
+Chan AS, Ho Y-C, & Cheung M-C (1998). Music training improves verbal memory. Nature,
+396(6707), 128–128. doi:10.1038/24075 [PubMed: 9823892]
+Christoffels IK, De Groot AM, & Kroll JF (2006). Memory and language skills in simultaneous
+interpreters: The role of expertise and language proficiency. Journal of Memory and Language,
+54(3), 324–345. doi:10.1016/j.jml.2005.12.004
+Cohen H, Voss P, Lepore F, & Scherzer P (2010). The nature of working memory for Braille. PLoS
+One, 5(5), e10833. doi:10.1371/journal.pone.0010833 [PubMed: 20520807]
+Cohen MA, Evans KK, Horowitz TS, & Wolfe JM (2011). Auditory and visual memory in
+musicians and nonmusicians. Psychonomic bulletin & review, 18(3), 586–591. doi:10.3758/
+s13423-011-0074-0 [PubMed: 21374094]
+Collignon O, Vandewalle G, Voss P, Albouy G, Charbonneau G, Lassonde M, & Lepore F
+(2011). Functional specialization for auditory–spatial processing in the occipital cortex of
+congenitally blind humans. Proceedings of the National Academy of Sciences, 108(11), 4435–
+4440. doi:10.1073/pnas.1013928108
+Cornell Kärnekull S, Arshamian A, Nilsson ME, & Larsson M (2016). From perception to
+metacognition: auditory and olfactory functions in early blind, late blind, and sighted individuals.
+Frontiers in psychology, 7, 1450. doi:10.3389/fpsyg.2016.01450 [PubMed: 27729884]
+Cornoldi C, Cortesi A, & Preti D (1991). Individual differences in the capacity limitations of
+visuospatial short-term memory: Research on sighted and totally congenitally blind people.
+Memory & Cognition, 19(5), 459–468. doi:10.3758/BF03199569 [PubMed: 1956307]
+Dormal V, Crollen V, Baumans C, Lepore F, & Collignon O (2016). Early but not late blindness
+leads to enhanced arithmetic and working memory abilities. Cortex, 83, 212–221. doi:10.1016/
+j.cortex.2016.07.016 [PubMed: 27580465]
+Ericsson KA, & Lehmann AC (1996). Expert and exceptional performance: evidence of maximal
+adaptation to task constraints. Annual review of psychology, 47(1), 273–305. doi:10.1146/
+annurev.psych.47.1.273
+Föcker J, Best A, Hölig C, & Röder B (2012). The superiority in voice processing of the blind
+arises from neural plasticity at sensory processing stages. Neuropsychologia, 50(8), 2056–2067.
+doi:10.1016/j.neuropsychologia.2012.05.006 [PubMed: 22588063]
+Fortin M, Voss P, Lord C, Lassonde M, Pruessner J, Saint-Amour D, … Lepore F (2008). Wayfinding
+in the blind: larger hippocampal volume and supranormal spatial navigation. Brain, 131(11),
+2995–3005. doi:10.1093/brain/awn250 [PubMed: 18854327]
+Frank MC, Everett DL, Fedorenko E, & Gibson E (2008). Number as a cognitive technology:
+evidence from Pirahã language and cognition. Cognition, 108(3), 819–824. doi:10.1016/
+j.cognition.2008.04.007 [PubMed: 18547557]
+Franklin MS, Sledge Moore K, Yip C-Y, Jonides J, Rattray K, & Moher J (2008). The
+effects of musical training on verbal memory. Psychology of Music, 36(3), 353–365.
+doi:10.1177/0305735607086044
+Gougoux F, Zatorre RJ, Lassonde M, Voss P, & Lepore F (2005). A functional neuroimaging study
+of sound localization: visual cortex activity predicts performance in early-blind individuals. PLOS
+Biology, 3(2), e27. doi:10.1371/journal.pbio.0030027 [PubMed: 15678166]
+Gudi-Mindermann H, Rimmele JM, Nolte G, Bruns P, Engel AK, & Röder B (2018). Working
+memory training in congenitally blind individuals results in an integration of occipital cortex
+in functional networks. Behavioural brain research, 348, 31–41. doi:10.1016/j.bbr.2018.04.002.
+[PubMed: 29655595]
+Ho Y-C, Cheung M-C, & Chan AS (2003). Music training improves verbal but not visual
+memory: cross-sectional and longitudinal explorations in children. Neuropsychology, 17(3), 439.
+doi:10.1037/0894-4105.17.3.439 [PubMed: 12959510]
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 16
+Hull T, & Mason H (1995). Performance of blind children on digit-span tests. Journal of Visual
+Impairment & Blindness, 89(2), 166–169. doi:10.1177/0145482X9508900213
+Kanjlia S, Lane C, Feigenson L, & Bedny M (2016). Absence of visual experience modifies the
+neural basis of numerical thinking. Proceedings of the National Academy of Sciences, 113(40),
+11172–11177. doi:10.1073/pnas.1524982113
+Kim JS, Elli GV, & Bedny M (2019). Knowledge of animal appearance among sighted and blind
+adults. Proceedings of the National Academy of Sciences, 116(23), 11213–11222. doi:10.1073/
+pnas.1900952116
+Lane C, Kanjlia S, Omaki A, & Bedny M (2015). “Visual” cortex of congenitally blind adults
+responds to syntactic movement. Journal of Neuroscience, 35(37), 12859–12868. doi:10.1523/
+JNEUROSCI.1256-15.2015 [PubMed: 26377472]
+Loiotile R, Omaki A, & Bedny M (2019). Enhanced sentence processing abilities among congenitally
+blind adults. PsyArXiv. doi:10.17605/OSF.IO/M87SV
+Occelli V, Lacey S, Stephens C, Merabet LB, & Sathian K (2017). Enhanced verbal abilities
+in the congenitally blind. Experimental brain research, 235(6), 1709–1718. doi:10.1007/
+s00221-017-4931-6 [PubMed: 28280879]
+Pasqualotto A, Lam JS, & Proulx MJ (2013). Congenital blindness improves semantic and episodic
+memory. Behavioural brain research, 244, 162–165. doi:10.1016/j.bbr.2013.02.005 [PubMed:
+23416237]
+Pelli DG (1997). The VideoToolbox software for visual psychophysics: transforming numbers into
+movies. Spatial Vision, 10(4), 437–442. doi:10.1163/156856897X00366 [PubMed: 9176953]
+Pigeon C, & Marin-Lamellet C (2015). Evaluation of the attentional capacities and working memory
+of early and late blind persons. Acta Psychologica, 155, 1–7. doi:10.1016/j.actpsy.2014.11.010
+[PubMed: 25506773]
+Raz N, Amedi A, & Zohary E (2005). V1 activation in congenitally blind humans is associated
+with episodic retrieval. Cerebral Cortex, 15(9), 1459–1468. doi:10.1093/cercor/bhi026 [PubMed:
+15647525]
+Raz N, Striem E, Pundak G, Orlov T, & Zohary E (2007). Superior serial memory in the blind:
+a case of cognitive compensatory adjustment. Current Biology, 17(13), 1129–1133. doi:10.1016/
+j.cub.2007.05.060 [PubMed: 17583507]
+Rimmele JM, Gudi-Mindermann H, Nolte G, Röder B, & Engel AK (2019). Working memory training
+integrates visual cortex into beta-band networks in congenitally blind individuals. Neuroimage,
+194, 259–271. doi:10.1016/j.neuroimage.2019.03.003 [PubMed: 30853565]
+Röder B, Demuth L, Streb J, & Rösler F (2003). Semantic and morpho-syntactic priming in auditory
+word recognition in congenitally blind adults. Language and Cognitive Processes, 18(1), 1–20.
+doi:10.1080/01690960143000407
+Röder B, & Rösler F (2003). Memory for environmental sounds in sighted, congenitally blind and late
+blind adults: evidence for cross-modal compensation. International Journal of Psychophysiology,
+50(1-2), 27–39. doi:10.1016/s0167-8760(03)00122-3 [PubMed: 14511834]
+Röder B, Rösler F, & Neville HJ (2000). Event-related potentials during auditory language processing
+in congenitally blind and sighted people. Neuropsychologia, 38(11), 1482–1502. doi:10.1016/
+s0028-3932(00)00057-9 [PubMed: 10906374]
+Röder B, Rösler F, & Neville HJ (2001). Auditory memory in congenitally blind adults: a behavioral-
+electrophysiological investigation. Cognitive Brain Research, 11(2), 289–303. doi:10.1016/
+S0926-6410(01)00002-7 [PubMed: 11275490]
+Röder B, Stock O, Bien S, Neville H, & Rösler F (2002). Speech processing activates visual cortex
+in congenitally blind humans. European Journal of Neuroscience, 16(5), 930–936. doi:10.1046/
+j.1460-9568.2002.02147.x [PubMed: 12372029]
+Rokem A, & Ahissar M (2009). Interactions of cognitive and auditory abilities in congenitally blind
+individuals. Neuropsychologia, 47(3), 843–848. doi:10.1016/j.neuropsychologia.2008.12.017
+[PubMed: 19138693]
+Sinclair RJ, Dixit S, & Burton H (2011). Recognition memory for vibrotactile rhythms: An fMRI
+study in blind and sighted individuals. Somatosensory & motor research, 28(3-4), 48–62.
+doi:10.3109/08990220.2011.602765 [PubMed: 21846300]
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 17
+Smits B, & Mommers M (1976). Differences between blind and sighted children on
+WISC verbal subtests. Journal of Visual Impairment & Blindness, 70(6), 240–246.
+doi:10.1177/0145482X7607000604
+Stankov L, & Spilsbury G (1978). The measurement of auditory abilities of blind,
+partially sighted, and sighted children. Applied Psychological Measurement, 2(4), 491–503.
+doi:10.1177/014662167800200403
+Struiksma ME, Noordzij ML, & Postma A (2009). What is the link between language and spatial
+images? Behavioral and neural findings in blind and sighted individuals. Acta Psychologica,
+132(2), 145–156. doi:10.1016/j.actpsy.2009.04.002 [PubMed: 19457462]
+Swanson HL, & Luxenberg D (2009). Short-term memory and working memory in children with
+blindness: support for a domain general or domain specific system? Child Neuropsychology,
+15(3), 280–294. doi:10.1080/09297040802524206 [PubMed: 19051074]
+Thaler L, Arnott S, & Goodale M (2011). Neural Correlates of Natural Human Echolocation in Early
+and Late Blind Echolocation Experts. PLoS One, 6(5), e20162. doi:10.1371/journal.pone.0020162
+[PubMed: 21633496]
+Tillman MH, & Bashaw WL (1968). Multivariate analysis of the WISC scales for blind and
+sighted children. Psychological reports, 23(2), 523–526. doi:10.2466/pr0.1968.23.2.523 [PubMed:
+5698798]
+Vecchi T (1998). Visuo-spatial imagery in congenitally totally blind people. Memory, 6(1), 91–102.
+doi:10.1080/741941601 [PubMed: 9640434]
+Vercillo T, Milne JL, Gori M, & Goodale MA (2015). Enhanced auditory spatial localization in
+blind echolocators. Neuropsychologia, 67, 35–40. doi:10.1016/j.neuropsychologia.2014.12.001.
+[PubMed: 25484307]
+Voss P, Lassonde M, Gougoux F, Fortin M, Guillemot JP, & Lepore F (2004). Early- and late-onset
+blind individuals show supra-normal auditory abilities in far-space. Current Biology, 14(19),
+1734–1738. doi:10.1016/j.cub.2004.09.051 [PubMed: 15458644]
+Withagen A, Kappers AM, Vervloed MP, Knoors H, & Verhoeven L (2013). Short term memory and
+working memory in blind versus sighted children. Research in developmental disabilities, 34(7),
+2161–2172. doi:10.1016/j.ridd.2013.03.028 [PubMed: 23643769]
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 18
+Figure 1: Tasks.
+Recall: Participants repeated sequences of letters presented to them in an audio format. For
+forward recall, participants repeated the list in the same order as presented but for backward
+recall, in the opposite order as presented. During complex recall, participants determined the
+validity of a math equation followed by hearing each letter to be remembered. Recognition:
+Participants were given two lists and determined if they matched. For the verbal task,
+the lists consisted of letters. For the nonverbal task, the list consisted of non-verbalizable
+sounds.
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 19
+Figure 2: Verbal Recall Performance
+Performance on recall tasks. A) Average recall accuracy per load for simple verbal forward
+and backward span tasks. B) Average recall accuracy per load for the complex verbal
+span task and the equations task. Error bars indicate 95% confidence intervals. The black
+stars indicate significance after correcting p-values for multiple comparisons with the Holm-
+Bonferroni method: * p < .05 ** p < .01 *** p < .001.
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Arcos et al. Page 20
+Figure 3: Recognition Performance
+Performance on recognition tasks. Average d’ per load for each group is shown for verbal
+and nonverbal tasks. Error bars indicate 95% confidence intervals. The black stars indicate
+significance after correcting p-values for multiple comparisons with the Holm-Bonferroni
+method: * p < .05 ** p <.01 *** p < .001.
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Arcos et al. Page 21
+Table 1:
+Participants demographic information.
+Individual participant information is provided for congenitally blind (CB) participants.
+Light Years of
+Participant Gender Age Cause of blindness
+perception Education
+CB_01 F 34 Leber's Congenital Amaurosis None 17
+CB_02 M 38 Leber's Congenital Amaurosis None 19
+CB_04 F 34 Leber's Congenital Amaurosis Minimal 17
+CB_05 F 19 Leber's Congenital Amaurosis Minimal 15
+CB_07 F 35 Anopthalmia None 19
+CB_08 M 40 Bilateral amnothalmia None 17
+CB_09 F 38 Micro-opthalmia None 16
+CB_10 F 22 Leber's Congenital Amaurosis Minimal 19
+CB_13 F 19 Optic Nerve Displacia None 13
+CB_14 F 28 Leber's Congenital Amaurosis None 16
+CB_15 F 18 Leber's Congenital Amaurosis Minimal 13
+CB_16 M 19 Glaucoma None 12
+CB_18 M 24 Retinopathy of Prematurity Minimal 13
+CB_19 M 61 Congenital glaucoma Minimal 17
+CB_20 F 21 Fraser’s syndrome None 16
+CB_21 F 25 Bilateral amnothalmia None 17
+CB_22 M 38 Leber's Congenital Amaurosis None 17
+CB_23 F 24 Leber's Congenital Amaurosis Minimal 16
+CB_24 F 48 Septo-optic Dysphasia None 17
+CB_25 M 18 Leber's Congenital Amaurosis Minimal 13
+Average
+Blind (N=20) 13F 30.26 - - 15.95
+Sighted (N=22) 14F 32.86 - - 16.64
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.
+
+--- PAGE BREAK ---
+
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Arcos et al. Page 22
+Table 2:
+Average Woodcock-Johnson III Scores per group.
+Group means and standard deviations for task performance.
+Group Word ID Word Attack Synonyms Antonyms Analogies
+Blind 96% (4) 92% (6) 89% (12) 79% (15) 68% (16)
+Sighted 95% (4) 92% (6) 82% (14) 78% (16) 71% (15)
+Exp Brain Res. Author manuscript; available in PMC 2023 March 01.

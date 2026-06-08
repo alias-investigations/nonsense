@@ -1,0 +1,1208 @@
+TYPE Review
+PUBLISHED 27June2025
+DOI 10.3389/fcell.2025.1590009
+Understanding amblyopia from
+the perspective of neurovascular
+OPENACCESS
+EDITEDBY units: changes in the retina and
+LingWei,
+SichuanAcademyofMedicalSciencesand
+SichuanProvincialPeople’sHospital brain
+Chengdu,China
+REVIEWEDBY
+AsuncionRomero-Molina,
+Consultant,Barcelona,Spain
+LinZhang1,YaqiZhao1,XiaoluShi2,FanWu1andYiShen1*
+WenhanLu,
+FudanUniversity,China 1SpecialEducationCollege,BeijingUnionUniversity,Beijing,China,2ExperimentalResearchCenter,
+ChinaAcademyofChineseMedicalSciences,Beijing,China
+*CORRESPONDENCE
+YiShen,
+tjtshenyi@buu.edu.cn
+RECEIVED08March2025
+As a developmental vision disorder, amblyopia has traditionally been studied
+ACCEPTED13June2025
+PUBLISHED27June2025 with a focus on neurons. However, the neurovascular unit (NVU), a dynamic
+functionalcomplexofneurons,bloodvessels,andglialcells,hasrecentlybeen
+CITATION
+ZhangL,ZhaoY,ShiX,WuFandShenY implicated in amblyopia. This review systematically discusses the pathological
+(2025)Understandingamblyopiafromthe changesandfunctionalinteractionsoftheNVUinretinaandbraininamblyopia
+perspectiveofneurovascularunits:changes
+patients and experimental models, providing a new perspective for clinical
+intheretinaandbrain.
+Front.CellDev.Biol.13:1590009. intervention.
+doi:10.3389/fcell.2025.1590009
+COPYRIGHT KEYWORDS
+©2025Zhang,Zhao,Shi,WuandShen.This
+amblyopia,neurovascularunit,retina,brain,neuralplasticity
+isanopen-accessarticledistributedunder
+thetermsoftheCreativeCommons
+AttributionLicense(CCBY).Theuse, 1 Introduction
+distributionorreproductioninotherforumsis
+permitted,providedtheoriginalauthor(s)and
+thecopyrightowner(s)arecreditedandthat Amblyopia is a condition characterized by reduced vision in one or both eyes due
+theoriginalpublicationinthisjournaliscited,
+toabnormalvisualexperiences,suchasvisiondeprivation,anisometropia,orstrabismus,
+inaccordancewithacceptedacademic
+practice.Nouse,distributionorreproduction duringthecriticalperiodofvisualdevelopment.Amblyopiaaffects2%–4%ofchildrenin
+ispermittedwhichdoesnotcomplywith NorthAmericaandisthemostprevalentcauseofunilateralvisuallossinchildren(Solebo
+theseterms.
+and Rahi, 2014). A study involving 47,571 children identified refractive and strabismic
+amblyopiaastheprimarycausesofvisualimpairmentinthispopulation(Kimetal.,2024).
+Furthermore,amblyopiaisrecognizedastheleadingcauseofmonocularvisualimpairment
+inadults(Tunaetal.,2024).
+Fordecades,researchintothepathologicalmechanismofamblyopiafocusedprimarily
+on neural plasticity. Neural plasticity in amblyopia refers to the visual cortex’s ability
+to modify neural connections in response to abnormal visual input during the critical
+developmentalperiodandbeyond,therebyinfluencingvisualfunction(BirchandDuffy,
+2024; Sengpiel, 2014; Hensch, 2005). Neurovascularunit,a dynamicfunctional complex
+composedofneurons,vascularendothelialcells,pericytesandglialcellsinamblyopiahas
+been gradually revealed, that plays a vital role in both retina and brain (Grimes et al.,
+2024; Schaeffer and Iadecola, 2021; Metea and Newman, 2007). Associated with critical
+physiological processes, including the regulation of blood flow, metabolic support, and
+signal transduction, NVU influence neural plasticity and visual function, which was
+discoveredinvariousocularandneurologicaldiseases(Jonesetal.,2012;Warehamand
+Calkins2020;Sipeetal.,2021).Thisreviewelucidatesthefunctionalandmorphological
+alterations of NVU in the retina and brain under amblyopic conditions, as well as
+the related molecules, with the aim of identifying new targets for intervention. It is
+noteworthythatindiscussingthepathologicalchangesassociatedwiththeformdeprivation
+FrontiersinCellandDevelopmentalBiology 01 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+GRAPHICALABSTRACT
+Summarydiagramillustratingtheformationofamblyopia,highlightingalterationsinvariouscellularcomponentsoftheneurovascularunitintheretina
+andbrain,wherebloodflowandneurotransmitterregulationplayacrucialrole.
+model, this article addresses both amblyopia and myopia, as particularly in specific layers such as the outer nuclear layer
+both conditions involve unilateral visual deprivation. Although (ONL), the foveal and macular regions, and the retinal nerve
+myopiainducedbyformdeprivationtypicallyresultsinrefractive fiber layer (RNFL) (Alqudah et al., 2025; Manouchehri et al.,
+errors through the application of diffuser lenses to a single 2025;Lietal.,2015;Szigetietal.,2014).Conversely,otherstudies
+eye, it may still offer valuable insights in the context of have found no significant differences or even reduced retinal
+amblyopia research, particularly given the current limitations thickness, potentially due to variations in amblyopia subtypes
+in amblyopia-related studies. Accordingly, the form deprivation (Parikhetal.,2022;Arakietal.,2017):Forexample,inhighmyopic
+myopia model may serve as a useful reference and source of amblyopia,retinalthicknessisdecreased(Wanetal.,2022),whilein
+novelperspectives. esotropicamblyopia,fovealandRNFLthicknessremainunchanged
+(Xuetal.,2013).Moreover,instrabismicamblyopia,theganglion
+cell complex (GCC) thickness is reduced (Tugcu et al., 2013).
+2 Retinal NVU in amblyopia Experimental models further highlight these inconsistencies. In
+adultrodentmodelsofamblyopia,thecombinedthicknessofthe
+Structural and functional alterations in the retina have been RNFL,ganglioncelllayer(GCL),andinnerplexiformlayer(IPL)
+observedinamblyopia(Mompart-Martínezetal.,2023;Milleretal., has been reported to increase (Martinez-Navarrete et al., 2024).
+2020).Opticalcoherencetomography(OCT)anditsvariantshave In contrast, form-deprivation models have shown overall retinal
+beenwidelyusedtoassessretinallayerthicknessinamblyopiceyes thinning,particularlyintheRNFL,innernuclearlayer(INL),and
+in vivo; however, the findings remain controversial (Gaier et al., ONL (Duan et al., 2023; Chen et al., 2020). These discrepancies
+2019). Some studies report increased overall retinal thickness, may arise from differences in amblyopia modeling techniques, or
+FrontiersinCellandDevelopmentalBiology 02 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+moreindepth,thedistinctmechanismsofvisualdeprivation.While to the specific subtype of amblyopia and the intended depth of
+form-deprivation amblyopia often leads to retinal thinning due investigation.Whilerodentmodelsplayapivotalroleinelucidating
+to early and severe stimulus loss, anisometropic amblyopia may molecular mechanisms, they present notable limitations in
+inducecompensatorythickeningincertainlayers.Methodological replicatingthecomplexityofthehumanvisualsystem,particularly
+variations and neuroplastic responses may also contribute to inaspectsrelatedtoglialarchitectureandneurovascularcoupling.
+these divergent findings. The most commonly used experimental For studies requiring in-depth validation of mechanisms or
+model,monoculardeprivation(MD),alsoreferredtoasmonocular therapeutic efficacy, cats and non-human primates, with brain
+form deprivation (FD), is induced by covering one eye, which is structures more comparable to humans, may serve as valuable
+thought to be the most severe type in amblyopia (Attebo et al., complementary models for preclinical validation. Moreover, the
+1998). The method of occlusion significantly influences ocular timing of experimental intervention is critical. Animal models
+outcomes. For instance, using a facemask to cover one eye in should align, as closely as possible, with the critical periods of
+guineapigsinducescoexistingmyopiaandamblyopia(Tianetal., visualplasticityinhumandevelopment(e.g.,earlypostnatalstages)
+2021),whereaseyelidsuturedeprivationhasbeenassociatedwith to ensure biological relevance. Future research may benefit from
+cornealflattening,afeatureabsentinmodelsusingopaquegoggles integrating cross-species comparisons, longitudinal assessments,
+(Norton, 1990). Monocular deprivation, achieved by blocking and intervention-response analyses, thereby strengthening the
+visual input to one eye, represents an extreme form of biased translationalbridgebetweenbasicscienceandclinicalapplication
+visualexperience.Itinducesprofoundanatomicalandphysiological inamblyopia.
+alterations in the primary visual cortex (V1), particularly in the Although rare studies to date have specifically examined
+cortical territory corresponding to the deprived eye, ultimately the direct relationship between retinal layer thickness and NVU
+resulting in vision loss resembling human deprivation amblyopia function in amblyopia models, existing evidence of structural
+(Mitchell and Sengpiel, 2009). Therefore, a systematic review of alterations suggests that this is a promising area for further
+experimentalanimalmodelsofamblyopiaisessentialtoestablish investigation,andoneofthekeyfocusesofourwork.Theintegration
+a scientifically robust foundation for clinical translation. Table 1 of OCT/OCTA imaging with molecular biology approaches may
+(ComparativeAnalysisofAnimalModelsforAmblyopia)aimsto facilitatetheelucidationofneurovascularmechanismsattheretinal
+address key issues, including interspecies differences, the validity level in amblyopia. Changes in retinal layer thickness have been
+and limitations of specific models, and the critical importance of shown to significantly influence NVU structure and function
+appropriate model selection in preclinical research (Duffy et al., in other conditions, for example, diabetic retinopathy. Notably,
+2023; Tian L. et al., 2021; Kiorpes, 2019; Mower, et al., 1982). thinning of the inner retinal layers—such as the ganglion cell
+Reliance on a single species--particularly rodents such as mice layer(GCL)andretinalnervefiberlayer(RNFL)—hasbeenclearly
+or rats, which possess relatively primitive visual systems, may associated with impaired local neurovascular coupling, indicating
+limit the translational relevance of findings and fail to provide that structural degeneration serves as an important basis for
+reliable guidance for the treatment of amblyopia in humans. In functionaldeficits(Pempetal.,2024).Beforethat,weshouldreview
+summary, the selection of animal species for amblyopia research thedistributionofneurovascularunitsintheretina,whichmayhelp
+shouldbetailoredtothespecificscientificgoalsandmethodological tounderstandthepathologicalbasisofamblyopia.Priortothis,itis
+requirements of the study. Non-human primates are the most essentialtoreviewthedistributionofNVUwithintheretina,asthis
+suitable models for investigating strabismic and anisometropic mayprovideimportantinsightsintothepathologicalunderpinnings
+amblyopia with high translational relevance, owing to their close ofamblyopia.
+anatomicalandfunctionalresemblancetothehumanvisualsystem. Neurovascular units are exclusively distributed in the inner
+Incontrast,miceandratsareoptimalformechanistic,molecular, layers of the retina. Due to their metabolic sensitivity, nerve
+and genetically tractable investigations, especially where high- cells, astrocytes, and pericytes rely heavily on proper vascular
+throughputorlong-termexperimentsareneeded.Catsandguinea support(Provis,2001).Intheretina,photoreceptorsreceiveessential
+pigs provide a valuable intermediate model, offering relatively nutrientsfromthechoroid,whiletheremainingretinallayersare
+high similarity to human binocular vision and are well-suited vascularizedbythecentralretinalartery.Uponenteringtheeye,this
+for functional and behavioral studies of amblyopia. Ultimately, arterybranchestoformatrilaminarvascularnetwork,consistingof
+experimental design should be guided by a comprehensive thesuperficial,intermediate,anddeepvascularplexuses(SVP,IVP,
+evaluation of the advantages, limitations, ethical constraints, and DVP, respectively). The SVP, located within the ganglion cell
+and relevance to the research question, to ensure scientific layer(GCL)andtheopticfiberlayer,comprisesveins,arterioles,and
+validityandreproducibility. capillaries (Kornfield and Newman, 2014; Snodderly et al., 1992).
+To advance amblyopia research and enhance its clinical RetinalastrocytesareconfinedtotheSVP,whereasMüllercellsspan
+translatability, future animal studies should more systematically nearlytheentireretinalthickness,extendingfinelateralprocesses
+integrate ethical, biological, and methodological considerations into all synaptic and vascular layers. Microglia are dispersed
+into their design. Adherence to the 3R principles, Replacement, throughout the inner retina; under pathological conditions, they
+Reduction, and Refinement, remains a fundamental requirement becomeactivatedandmigratetootherlayers.Photoreceptorcells,
+to ensure both ethical responsibility and scientific rigor. Prior to including cones and rods, have their cell bodies localized in the
+conducting in vivo experiments, researchers should fully consult outernuclearlayer(ONL)andouterplexiformlayer(OPL),where
+existing in vitro and computational data, optimize statistical they form synaptic connections with bipolar and horizontal cells.
+design, and adopt non-invasive or minimally invasive procedures The cell bodies of bipolar cells reside in the inner nuclear layer
+to minimize animal stress. Species selection should be tailored (INL), while their axons extend into the inner plexiform layer
+FrontiersinCellandDevelopmentalBiology 03 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+TABLE1 Comparativeanalysisofanimalmodelsforamblyopia.
+Species Modelingmethods Species-specific Species-specific Similaritytohuman
+(withprosandcons) advantages limitations
+Mouse 1.Monoculardeprivationvia 1.Lowcost 1.Nofovea ★★☆☆☆
+eyelidsutureorfacemask: 2.Geneticallytractable 2.Simplifiedcortex
+fullyblocksformvision, 3.Rapiddevelopment 3.Rudimentaryvisualsystem
+simplesurgery,minimal 4.Suitableformolecular 4.Limitedglialcomplexity
+distress.Mimicscongenital studies
+cataractorptosis
+2.Anisometropiaviacontact
+lens:inducesblur/defocusin
+oneeye,lensdifficulttosecure,
+simulatesanisometropic
+amblyopia
+Rat Sameasmouse 1.Suitableforbehavioral Sameasmouse ★★☆☆☆
+testing
+2.Axiallengthmeasurable
+Guineapig Sameasabove,butmonocular 1.Largeeyes 1.Retinal/corticaldivergence ★★☆☆☆
+deprivationleadsto 2.Highrefractiveplasticity 2.Lowvisualacuity
+co-existingmyopiaand 3.Completeconesystem 3.Limitedgenetictools
+amblyopia.Usefulforstudying
+overlappingmechanismsand
+treatmentwindows
+Cat 1,2Sameasabove3. 1.Human-likebinocular 1.Highcost ★★★★☆
+Strabismusmodelviamedial system 2.Incompletefovea
+rectustransectioninduces 2.Idealforphysiological 3.Surgicalrisk
+imagemisalignment.Mimics recordings
+congenital/earlystrabismus.
+Naturalanisometropicand
+strabismicamblyopiapossible
+Treeshrew Sameasmouse 1.Fovea-likespecialization 1.Rarelyused ★★★☆☆
+2.Developedvisualcortex 2.Fewtools/standards
+Primates(e.g.,acaques) Sameascat 1.Closesthumanmatch 1.Veryhighcost ★★★★★
+2.Hasfovea 2.Longcycles
+3.Eyemovementand 3.Limitedaccess
+perceptualtasks
+4.Homologouscortical/NVU
+structure
+(IPL),formingsynapticconnectionswiththedendritesofganglion imaging modalities such as OCT-A, electrophysiological tests
+cells. Ganglion cell bodies are located in the GCL, with their (visualevokedpotentials(VEP)andelectroretinography(ERG),and
+axons converging to form the retinal nerve fiber layer (RNFL), microperimetry.Inchildrenwithfunctionalamblyopia,OCT-Ahas
+whichtransmitsvisualinformationtotheopticnerve.Horizontal demonstratedasignificantreductioninmacularcapillarydensity,
+cell bodies are situated between the ONL and INL, with axons particularly within the foveal region, which negatively correlates
+extendingintotheOPL,wheretheyestablishsynapticconnections with visual acuity and appears reversible following occlusion
+withthedendritesofbipolarcells,modulatingsignalintegrationin therapy (Errera et al., 2024). Electrophysiological assessments
+the retina. Non-elongated cells have their cell bodies in the INL, and microperimetry further indicate decreased photosensitivity
+with protrusions extending into both the INL and the plexiform in the central retina of amblyopic eyes, which is associated with
+layer, forming synaptic connections with bipolar and ganglion structuralchangessuchasthinningoftheganglioncelllayerand
+cells(Masland,2001). alterations in choroidal thickness (Khubieva and Tarutta, 2022).
+The thickness of specific retinal regions and layers is believed Following amblyopia treatment, changes in retinal and choroidal
+toserveasanindicatorofpathologicalchangestosomeextent.For thicknesshavealsobeenobserved,suggestingthatsomestructural
+instance, RNFL thickness can be used as a marker for assessing alterations may exhibit neuroplastic potential, although the
+axonallossandneuronaldegeneration(Yuanetal.,2023).Similarly, underlyingmechanismsremainunclear(Jingetal.,2022).However,
+increased central macular thickness is thought to reflect delayed additionalevidenceisneededtoclarifytheroleofretinalthickness
+ordisruptedpruningofintraretinalsynapsesinamblyopia.Retinal alterations in amblyopia and their impact on the neurovascular
+functionalalterationsinamblyopiacanberevealedusingmodern unit.Thisunderscoresthenecessityforfurtherinvestigationsinto
+FrontiersinCellandDevelopmentalBiology 04 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+the underlying mechanisms and functional implications of these nutrientstotheouterretinallayersthroughitsextensivevascular
+structuralchanges. network, thereby supporting the maintenance of normal retinal
+function (Campbell et al., 2017). In the MD model, increased
+choroidal blood perfusion has been shown to alleviate scleral
+2.1 Retinal vascular alterations hypoxia and reduce scleral α-smooth muscle actin (α-SMA)
+expression, suggesting a potential regulatory role of choroidal
+Thetraditionalunderstandingofamblyopiaprimarilyattributes circulation in mitigating scleral remodeling and hypoxia-induced
+itsunderlyingmechanismtofunctionalinhibitionwithinthevisual changes (Zhou et al., 2021). In a guinea pig model of form-
+cortex. However, recent studies suggest that alterations in retinal deprivationmyopia(FDM)and532-nmlasertreatment,choroidal
+blood flow may also contribute to its pathogenesis, though it neovascularization was observed along with upregulation of the
+remains unclear whether these vascular changes are a cause or a hypoxia-inducible factor-1 (HIF-1)-vascular endothelial growth
+consequenceofamblyopia.Inotherophthalmicdisorders,suchas factor(VEGF)signalingpathway,indicatingthepresenceoftissue
+diabetic retinopathy (Maurissen et al., 2024), age-related macular ischemiaandhypoxia.Thesefindingssuggestthathypoxia-driven
+degeneration (Gattoussi et al., 2019), and pathological myopia vascular changes may contribute to the pathophysiology of MD
+(Sietal.,2024),changesinretinalvasculatureandbloodflowhave (Liu et al., 2022). However, there is still lack of relevant evidence
+been shown to reflect underlying pathophysiological processes, onwhetherthereissignificantischemicandhypoxicchangesinthe
+underscoring the potential relevance of similar mechanisms in retinaofamblyopiaeyes.Therefore,thechangesofretinacanonly
+amblyopia. In individuals with amblyopia, retinal blood flow be inferred from the expression of some related factors. As a key
+parameters are altered, characterized by reduced blood flow regulatorofhypoxicresponses,HIF-1candirectlytargetVEGFto
+velocity and vascular narrowing, which may lead to retinal stimulate vascular growth (Saint-Geniez et al., 2006; Ozaki et al.,
+undernutrition and subsequently impair the quality of refractive 1999). Notably, in the choroid-retinal pigment epithelium (RPE)
+imaging. Furthermore, amblyopia may contribute to structural complex, increased VEGF-A expression and decreased HIF-
+abnormalitiesintheretinalvasculature,includingdecreasedvessel 1ɑ expression have been shown to inhibit the progression of
+density and changes in vessel diameter, potentially disrupting FDM (Che et al., 2025). Additionally, differentially acetylated
+normal retinal function (Yang et al., 2023; Cinar et al., 2020; proteins were significantly enriched in key metabolic pathways,
+De Schweinitz, 1907). It is well established that reductions in including glycolysis/gluconeogenesis, the pentose phosphate
+local perfusion and microvascular density compromise the pathway, retinol metabolism, and the HIF-1 signaling pathway.
+structural integrity and functional coupling of NVU, resulting in Thesefindingssuggestthatpost-translationalmodifications,suchas
+neuronal metabolic dysregulation, impaired signal transduction, acetylation, may play a crucial role in regulating metabolic and
+and ultimately progressive functional decline or irreversible hypoxia-related processes in the retina. Several key metabolic
+neurodegeneration. Such disruptions have been substantiated enzymes, including hexokinase 2 (HK2), hexokinase domain-
+acrossmultiplemodelsofretinalpathology(Maurissenetal.,2024; containingprotein1(HKDC1),pyruvatekinaseM(PKM),lactate
+Sietal.,2024;Gattoussietal.,2019). dehydrogenase(LDH),glyceraldehyde3-phosphatedehydrogenase
+Childrenwithmonocularfunctionalamblyopiaexhibitreduced (GAPDH),andenolase1(ENO1),exhibiteddecreasedacetylation
+vasculardensity(VD)andperfusiondensityinthemacularregion, levels under FDM conditions. Altered lysine acetylation of these
+suggestingimpairedretinalmicrocirculationthatmaycontributeto enzymes in the form-deprived retina may disrupt the dynamic
+thepathophysiologyofamblyopia(Erreraetal.,2024).Specifically, metabolicbalanceoftheretinalmicroenvironmentbymodulating
+the deep parafoveal plexus VD is decreased in amblyopic eyes, enzymatic activity. These post-translational modifications could
+whereas foveal VD remains unchanged (Manouchehri et al., influencecriticalmetabolicpathways,potentiallycontributingtothe
+2025). Additionally, both macular and optic disc VD are reduced pathophysiologicalmechanismsunderlyingprogression(Fengetal.,
+in children with anisometropic amblyopia (Li et al., 2025). 2023). What needs to be emphasized here is, form-deprivation
+AlterationsinmacularretinalVDhavebeencorrelatedwithchanges amblyopia(FDA)andFDMshareconsiderablesimilaritiesinterms
+in best-corrected visual acuity, which is significantly lower in ofinductionmethods,developmentaltiming,andthedeprivation
+amblyopiceyes,suggestingapotentiallinkbetweenmicrovascular of patterned visual input. Despite these parallels, their primary
+abnormalitiesandvisualfunctionimpairment(Sesmaetal.,2024). pathophysiological targets differ: FDA predominantly affects
+Furthermore,amblyopiceyesexhibitsignificantreductionsinretinal cortical plasticity and neural development, whereas FDM alters
+VD and skeleton length, indicating a strong association between oculargrowthandrefractiveregulation.Importantly,co-occurrence
+retinal vascular alterations and the pathophysiological state of ofbothconditionshasbeendemonstratedinanimalmodelssuch
+amblyopia.Thesefindingsunderscorethepotentialroleofretinal as guinea pigs, suggesting potential mechanistic overlap. Given
+microvascular changes in the development and progression of themoreadvancedunderstandingofFDM—particularlyinretinal
+amblyopia(Suetal.,2024). signaling,scleralremodeling,anddopaminergicmodulation—these
+However,alterationsinretinalbloodflowinamblyopiceyesdo insights may provide a valuable framework for unraveling early-
+notnecessarilyindicatethepresenceofretinalischemia.Therefore, stagemechanismsinFDA.Futurestudiesshouldthereforeintegrate
+investigatingchangesinthechoroidandothercontributingfactors perspectives from both fields to foster a more comprehensive
+mayprovidefurtherinsightsintotheretinalstate,aidinginabetter understandingofvisualdevelopmentdisorders.
+understandingofthevascularandfunctionaladaptationsassociated The regulation of retinal blood flow and the maintenance
+with amblyopia. As the primary source of blood supply to the of vascular homeostasis are essential for preserving normal
+retina, the choroid plays a crucial role in delivering oxygen and retinal function. Proper blood circulation ensures an adequate
+FrontiersinCellandDevelopmentalBiology 05 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+supply of oxygen and nutrients, supporting cellular metabolism Hypertrophied Müller cells are indicative of retinal distress and
+and overall retinal health. Similar to the blood-brain barrier havebeenassociatedwithworsenedvisualdeficits,asobservedin
+(BBB), the blood-retinal barrier (BRB) plays a critical role in zebrafish with lazy eyes mutations, where Müller cell dysfunction
+maintaining retinal homeostasis. However, under pathological compromises photoreceptor function and contributes to partial
+conditions such as ischemia and inflammation, the integrity blindness (Kainz et al., 2003). In FDM in rabbits, Müller cells
+of the BRB may be compromised, leading to disruptions in exhibit significant metabolic alterations, particularly in glycolysis
+NVU cell communication and microvascular structural damage. and angiogenesis. The upregulation of glycolytic enzymes,
+This breakdown exacerbates inflammatory responses, ischemic including lactate dehydrogenase A and pyruvate kinase, suggests
+injury,anddiseaseprogression,furtherimpairingretinalfunction an adaptive response to increased metabolic demands under
+(Antonetti et al., 2012; Huang et al., 2011). In diabetes mellitus- FDstress(Moonetal.,2024).
+inducedretinalvasculardysfunction,thecrosstalkbetweenvascular Microglial activation is observed, accompanied by migration
+pericytesandendothelialcellsplaysacrucialroleinmicrovascular towardtheganglioncelllayer(GCL)andsubsequentcellapoptosis
+stabilization and remodeling. Disruptions in this interaction can in MD (Ma et al., 2020). However, the role of retinal microglia
+lead to pericyte loss, endothelial dysfunction, and increased in amblyopia remains insufficiently explored, highlighting the
+vascular permeability, thereby contributing to the progression need for further investigation into their activation patterns,
+of diabetic retinopathy and retinal microvascular complications functional alterations, and potential contributions to amblyopic
+(Liuetal.,2019).Pericytes,asmultifunctionalcellswithplasticity pathophysiology. However, the changes observed in microglia
+andregenerativepotential,arecriticalcomponentsoftheNVUin underischemicandhypoxicconditionsmayoffervaluableinsights.
+boththebrainandretina.Theirinteractionswithendothelialcells Oxygen-induced retinopathy (OIR) is a well-established model
+contributetovascularstability,permeabilityregulation,andtissue for retinopathy of prematurity, and both conditions share similar
+homeostasis, underscoring their essential role in neurovascular pathological processes. In OIR retinas, the number of microglia
+integrity (Huang, 2020). Despite the recognized importance of increases significantly, with most exhibiting an activated state.
+pericytes in retinal vascular function, there are only a few early Theseactivatedmicrogliacloselyassociatewithnewlyformedblood
+studies examining their role in composite models combining vessels.Notably,microglialdepletionviaclodronateliposomesand
+MD and diabetes. Preliminary findings suggest that such models inhibitionofmicroglialactivationwithminocyclinebothleadtoa
+exhibit reduced pericyte loss and thickening of the capillary reduction in pathological neovascularization (Xu et al., 2018). In
+basementmembrane(Zhangetal.,2024).Therefore,futureresearch OIR, activated microglia secrete various inflammatory cytokines,
+shouldfocusonelucidatingthespecificchangesinretinalpericytes includingTumornecrosisfactor-alpha(TNF-α),Interleukin-1beta
+andendothelialcellsinamblyopia.Investigatingtheirinteractions, (IL-1β),andInterleukin-6(IL-6),contributingtotheinflammatory
+structuralalterations,andfunctionaldynamicswillprovidedeeper environment (Li et al., 2021). Additionally, microglia release
+insights into the role of microvascular dysfunction in amblyopia proangiogenic factors such as fibroblast growth factor 2 (FGF2)
+pathophysiologyandmaycontributetothedevelopmentoftargeted andvascularendothelialgrowthfactorA(VEGFA),whichdirectly
+therapeuticstrategies. promote angiogenesis (Blank et al., 2021). As it is known,
+Emerging evidence suggests that retinal microvascular microglia activate and migrate in response to inflammatory
+alterations, characterized by reduced perfusion, vessel density, mediators TNF and other stimuli, thereby exacerbating retinal
+and NVU disruption, may contribute significantly to the lesions(Lennikovetal.,2019).Underhypoxicconditions,activated
+pathophysiologyofamblyopia,parallelingmechanismsobservedin microgliapromotetheformationofnewretinalbloodvesselsand
+otherretinaldisorders.Giventhestructuralandfunctionaloverlap contributetovascularlesions,ultimatelyleadingtoincreasedretinal
+with form-deprivation myopia, insights from well-characterized ganglioncellapoptosis(Liuetal.,2021;Yinetal.,2017).
+myopia models may provide a valuable framework for advancing Thesefindingsunderscorethepivotalrolesofretinalglialcells,
+ourunderstandingofamblyopia’searly-stagevascularandmetabolic particularly astrocytes, Müller cells, and microglia, in mediating
+dysregulation. neurovascular responses under stress conditions such as form
+deprivation and hypoxia. Macroglia demonstrate metabolic and
+structural plasticity in response to altered retinal demands,
+2.2 Retinal glia alterations while microglia act as key modulators of inflammation and
+angiogenesis, potentially amplifying retinal damage. Although
+Thehumanretinacomprisesthreetypesofglialcells:microglia evidence from FDM and OIR models provides valuable insights,
+andtwotypesofmacroglia,astrocytesandMüllercells.Macroglia the specific contributions of glial cells to the pathophysiology of
+play a crucial role in maintaining homeostasis and providing amblyopia remain insufficiently characterized. Therefore, further
+metabolicsupporttophotoreceptorsandneurons,whichisessential investigation into glial dynamics is essential and may reveal
+forproperneuronalfunction(ReichenbachandBringmann,2020). critical therapeutic targets for visual impairments associated with
+RetinalastrocytesandMüllercellsestablishdirectcontactwith amblyopia and other retinal disorders. To investigate glial cell
+bloodvesselsandexhibitincreasedactivationandelevatedprotein alterations in the amblyopic retina, advanced techniques such as
+expression in a mouse FDM model. In this model, glial fibrillary tissue clearing combined with high-resolution imaging, single-
+acidic protein (GFAP)-positive structures adopt a more star-like cell metabolomics, and spatial metabolomics may offer precise
+morphology with enhanced connections to retinal vasculature, insights into specific glial subpopulations. When integrated with
+suggesting that hypoxia influences hormone metabolism, peptide the expression profiles of key cellular factors and signaling
+secretion, and cellular differentiation (Zhang et al., 2022). pathways discussed above, these approaches could contribute to
+FrontiersinCellandDevelopmentalBiology 06 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+the construction of a comprehensive and fine-grained retinal theabsenceofVIPitself,butisabolishedwhenGABAreleasefrom
+atlas, ultimately advancing our understanding of the cellular and VIP-expressinginterneuronsisimpaired—suggestingthatHebbian
+molecularlandscapeunderlyingamblyopia. plasticitymechanismsunderlieSSEinadultV1(Kanekoetal.,2024).
+Theseobservationshighlightthatamblyopiainvolvesnotonly
+transient functional suppression, but also long-lasting structural
+2.3 Retinal neural cells changes and molecular remodeling within the retina. Visual input plays a
+fundamental role in guiding neuronal development, influencing
+Over the past several decades, amblyopia has primarily been synaptic connectivity, neurogenesis, and neurotransmitter
+regarded as a cortical disorder; however, accumulating evidence expression. Molecules such as SorCS1 and VIP emerge as key
+suggests that detectable structural and functional changes also regulatorsofretinalandcorticalplasticity,withVIPdemonstrating
+occur at the retinal level, particularly in form-deprivation and a broad influence across retinal, thalamic, and cortical circuits.
+anisometropic amblyopia models (Mitchell and Sengpiel, 2009). These findings underscore the intricate interplay between visual
+Although retinal neurons are not the primary site of pathology, experience and neurochemical signaling in shaping retinal
+retinal ganglion cells (RGCs) and bipolar cells have been shown architectureandfunction,offeringpromisingavenuesfortargeted
+to undergo measurable synaptic, functional, and structural interventions in amblyopia. Integrating advanced imaging,
+alterations. Visual deprivation induces changes at functional, optogenetic,andtranscriptomictechniquesinprimateandhuman-
+cellular, and molecular levels within the retina. Specifically, relevant models are supposed to translate these findings into
+in the deprived eye, RGCs exhibit an increased density and clinicallyapplicablestrategies.
+multilayereddistribution.Atthemolecularlevel,severaltranscripts
+associated with retinal differentiation, such as fibroblast growth
+3 Pathological alterations of the NVU
+factor 2 (FGF-2), show altered expression patterns (Prokosch-
+Willing et al., 2015). Emerging technologies—including OCT, in the amblyopic brain
+electroretinography (ERG), spatial metabolomics, and high-
+resolution in vivo imaging—offer promising tools to further As mentioned above, amblyopia results in abnormal
+map and characterize the neural circuitry alterations within the development of the visual region of brain and impaired visual
+amblyopicretina. function, necessitating an understanding of underlying changes
+In amblyopia models, retinal neurons undergo not only atthetranscriptionallevel.Forinstance,themRNAsequencingof
+functional suppression due to visual input deprivation but also the dorsal lateral geniculate nucleus (dLGN), the important relay
+structural and molecular remodeling. Form deprivation, by stations of visual pathway, in the model of amblyopia revealed
+eliminating patterned input to photoreceptors, initiates a cascade enrichmentofgenepathwaysrelatedtosynapticfunction,nervous
+of changes that permanently alter neuronal architecture, disrupt system development, and neurogenesis (Lin et al., 2022). This
+synaptic connectivity, and modify pharmacological response also once again confirms the vital position of neuroplasticity in
+profiles within the retina (Jones et al., 2012). At the molecular amblyopia. Recently, research has progressively shifted from a
+level,thesortingprotein-relatedreceptorSorCS1,atransmembrane neuron-centricapproachtowardexaminingtheneurovascularunit,
+proteininvolvedinneuronaldevelopment,synapticsignaling,and recognizing that neuronal function and activity are not isolated
+metabolic regulation, is significantly upregulated in the retinas of phenomena but involve complex, bidirectional interactions with
+FDrats.SorCS1overexpressionhasbeenshowntoenhanceneurite glial cells, vascular endothelial cells, and pericytes. Consequently,
+outgrowth, promote cell viability, and increase the expression of modulatingbloodsupplytothevisualcortexrepresentsapromising
+inhibitory neurotransmitters (Chen et al., 2020). Additionally, new therapeutic perspective. However, to fully appreciate this
+disturbancesinCa2+-dependentsignalinghavebeenimplicatedin approach, it is essential first to review the classical pathological
+reducedneuronalactivitywithinamblyopicretinas(Lietal.,2022). mechanismsunderlyingneuronalplasticityandamblyopia.
+In primate models, altered visual experience caused by lid fusion
+increasesmitoticactivityinneurogenicprogenitorcellswithinthe
+peripheral retina, indicating that neurogenesis in the developing 3.1 Neural plasticity
+retina is modulated by visual input. Vasoactive intestinal peptide
+(VIP)hasbeenidentifiedasakeymolecularmediatorthatpromotes Disrupted visual input during the early postnatal “critical
+thisactivityandsupportsretinalgrowth(Tkatchenkoetal.,2006). period”ofheightenedneuroplasticityinducesenduringstructural
+VIP’s role extends beyond the retina; it is widely expressed in and functional abnormalities across the visual pathway, including
+the cerebral cortex, intraocular tissues, and the lateral geniculate the retina, lateral geniculate nucleus (LGN), and visual cortex
+nucleus(LGN)(Ogawa-Meguroetal.,1992;Fuxeetal.,1977;Said (Thompson,2021).Amblyopiasubtypes,strabismic,anisometropic,
+and Rosenberg, 1976). Exogenous VIP administration has been deprivation, and combined, arise from distinct disruptions in
+showntosuppressthepathologicalprogressionofformdeprivation, earlyvisualexperienceandmayreflectdifferingtemporalprofiles
+improveneurochemicalmetabolismintheLGN,andfacilitatevisual of neural plasticity (Mitchell and Maurer, 2022; Olson and
+recovery during the critical period of amblyopia (Li et al., 2019; Freeman,1980).
+Cakmaketal.,2017).Furthermore,VIP-positiveinterneuronsplay While amblyopia has traditionally been viewed as a cortical
+apivotalroleincorticalplasticity.Thesecellsco-releaseVIPandthe disorder, recent evidence reveals significant retinal and thalamic
+inhibitoryneurotransmitterGABA,andareimplicatedinregulating (LGN) contributions. Retinal ganglion cells (RGCs), bipolar
+stimulus-specificenhancement(SSE).Notably,SSEpersistsevenin neurons, and synaptic structures undergo remodeling in animal
+FrontiersinCellandDevelopmentalBiology 07 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+models of deprivation amblyopia (Lynne, 2019; Mitchell and andinresponsetoinjuryordeprivation.Understandingthiscross-
+Sengpiel,2009).Thesechangesinvolvealteredneurotransmission, talk is essential for developing targeted therapies for visual and
+disrupted gene expression such as SorCS1 (Chen et al., 2020), neurologicaldisorderssuchasamblyopia.
+FGF-2 (Prokosch-Willing et al., 2015), and Egr-1 (Wang et al.,
+2024), and glial interactions. In the LGN, MD leads to shifts
+3.2 Abnormal cerebral blood flow and
+in ocular dominance (Jaepel et al., 2017; Rompani et al., 2017;
+neuron-vascular coupling
+Sommeijeretal.,2017;Morganetal.,2016;Hammeretal.,2015;
+Hess et al., 2009), reduced excitability (Duménieu et al., 2025),
+and diminished plasticity-related gene expression, suggesting Associationsbetweenvisualabnormalitiesandreducedcerebral
+the LGN is a site of active plasticity rather than a passive relay. blood flow, along with impaired brain region functionality,
+Two primary mechanisms of neuroplasticity underlie amblyopia: have been well documented and are believed to contribute to
+Hebbianplasticity(activity-dependentsynapticstrengthening)and neurophysiologicalchanges(Bennettetal.,2020;Choietal.,2001).
+homeostatic plasticity (activity normalization) (Thompson et al., It is important to emphasize that changes in cerebral blood flow
+2024; Yee et al., 2017; Turrigiano, 2012; Mrsic-Flogel et al., (CBF) are distinct from structural alterations in the vasculature.
+2007). Both mechanisms interact within the visual cortex and This distinction highlights the need to integrate both in vivo and
+exvivoapproacheswheninvestigatingvascularandhemodynamic
+are modulated by local inhibitory circuits, especially those
+involvingparvalbumin-positive(PV+)interneurons.Restorationof changes.Neurovascularcoupling(NVC)referstothecoordinated
+mechanismbywhichlocalCBFincreasesinresponsetoneuronal
+excitatory/inhibitory(E/I)balanceviavisualstimulationorgenetic
+activation in specific brain regions, ensuring an adequate supply
+manipulation,suchasRESTknockdown(Shmaletal.,2024),can
+ofoxygen,glucose,andmetabolicsubstrates.NVCisfundamental
+reactivateplasticityandpromoterecovery.
+tomaintainingneuralfunction,interpretingbrainimagingsignals
+Therapeuticinterventionsaimtoreopenplasticitywindowsin
+(e.g.,fMRI),andunderstandingthepathophysiologyofneurological
+thevisualcortex.Approachesincludedarkexposure(Strykerand
+disorders.
+Löwel, 2018), fluoxetine administration (Maya Vetencourt et al.,
+In patients with visual deprivation amblyopia (VDA),
+2008),enrichedenvironments,physicalactivity,temporaryretinal
+significantreductionsincerebralbloodflowwithinV1havebeen
+inactivation via intraocular tetrodotoxin (TTX) (Fong et al.,
+reported, accompanied by corresponding neurophysiological and
+2016; Linden et al., 2009; Stryker and Harris, 1986), and
+histopathological alterations in both the LGN and V1 regions
+electroacupuncture (Wang et al., 2025). These methods act
+(Pescosolido et al., 2014; Li et al., 2012). Reduced glucose
+by reducing cortical inhibition, modulating GABAergic tone
+metabolism in the V1 and decreased activation in extrastriate
+(Venturino et al., 2021; Greifzu et al., 2014; Sale et al., 2007),
+regions have been observed in patients with amblyopia (Hoyt,
+reshaping NMDA receptor function (Hu et al., 2024; Fong et al.,
+2005;Demeretal.,1988).Bloodoxygenlevel-dependentfunctional
+2020;Murphyetal.,2004;Philpotetal.,2001;Quinlanetal.,1999),
+magnetic resonance imaging (BOLD-fMRI) utilizes the focal
+andalteringextracellularmatrixarchitecture(Muraseetal.,2017).
+uncouplingbetweencerebralbloodflowandmetabolismtodetect
+Notably,NMDAreceptorexpressionappearsunaffectedintheLGN
+brain activation patterns (Born et al., 1998; Sereno et al., 1995;
+(Ziburkus et al., 2000). Contrary to earlier beliefs, adult visual
+Schneider et al., 1993; Blamire et al., 1992; Ogawa et al., 1992;
+cortex retains latent plasticity. Visual recovery in adult amblyopic
+Belliveau et al., 1991), and has been employed to assess cortical
+modelsdemonstratesthatsynapticremodeling,neurogenesis,and
+changesinvarioustypesofamblyopia.Usingthistechnique,patients
+molecular signaling (e.g., CREB/BDNF/TrkB pathway) continue
+with amblyopia have demonstrated reduced activation levels and
+beyond childhood. Persistent synaptic connectivity depends on
+decreased activated areas within Brodmann area (BA) 17 and
+active visual input; unused synapses retract, but functional input
+additionalextrastriatecorticalregions.Furthermore,patientswith
+canrestorethem.Synapsesinfluencevisualfunctionbyregulating
+anisometropic amblyopia show particularly pronounced cortical
+localexcitation/inhibitionbalance(Huangetal.,2024).
+impairment within bilateral extrastriate areas BA 18 and BA 19
+The LGN and V1 should be viewed as dynamic plastic
+comparedtothosewithstrabismicamblyopia(Wangetal.,2012).
+hubs. In amblyopia, dLGN neurons show reduced responsiveness
+These phenomena may be explained by the intricate
+(Duménieu et al., 2021; Rose and Bonhoeffer, 2018; Sherman, functional connection between the eye and brain. Stress
+2007),changesinoculardominance,andmolecularreprogramming hormones released by the brain can influence vascular tone,
+(Wang et al., 2024). These findings challenge the classical view particularly affecting blood vessels in and around the optic
+of the LGN as a passive relay and underscore its active role in nerve, impairing vascular autoregulation and neural metabolism
+visualplasticity(IkedaandWright,1976;WieselandHubel,1963). (Sabel et al., 2018). Consequently, investigating the relationship
+Together, these findings underscore that amblyopia is a system- among neurovascular coupling, neurotransmitter balance, and
+leveldisorderinvolvingmultilayeredneuroplasticchangesfromthe functional disturbances within the visual cortex is crucial for
+retina to the cortex. Future therapeutic strategies should harness understanding the neurophysiological mechanisms underlying
+bothearlyandlate-phaseplasticitymechanismstooptimizevisual amblyopia(Zhangetal.,2024).
+recoveryacrossagegroups. 5-HT, a crucial neurotransmitter and vasoactive substance,
+NeuroplasticityprofoundlyinfluencestheNVUbymodulating exerts multifaceted effects on cerebrovascular regulation and
+neuronal activity, glial function, and local vascular remodeling. cerebralhemodynamics.Itsimpactvariesdependingonthespecific
+The dynamic interactions ensure metabolic support, maintain 5-HTreceptorsubtype,thetypeofbloodvesselinvolved,andthe
+homeostasis, and facilitate adaptive changes during development prevailing physiological or pathological conditions. Its receptor
+FrontiersinCellandDevelopmentalBiology 08 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+abnormalities significantly contribute to the neurophysiological suggest that MRI-based neuroimaging can be used to assess
+alterationsobservedinamblyopia.Interactionsbetweendisrupted plastic changes in cerebral blood flow pathways and vascular
+serotonin receptor systems and impaired cerebral metabolism architectureinamblyopicbrains,offeringapotentialavenueforthe
+result in compromised neurovascular coupling and altered development of novel neurovascular-targeted therapies. However,
+cortical responses (Carhart-Harris and Nutt, 2017). Specifically, themorphologicalandfunctionalalterationsofvascular-associated
+activation of 5-HT1a receptors inhibits long-term potentiation cells,suchasendothelialcells,smoothmusclecells,andpericytes,
+within the visual cortex, whereas activation of 5-HT1b receptors within pathological brain tissues remain largely unexplored.
+modulates cortical visual responses. This interaction suggests a Current insights into changes in the vascular components of the
+critical role for serotonin receptors in visual cortical plasticity. neurovascular unit are mostly inferred indirectly through related
+Fluoxetine, a selective serotonin reuptake inhibitor, has been neurotransmitterprofilesandsignalingpathways,whichhighlights
+shown experimentally to restore plasticity and improve visual acriticalneedforfutureexperimentalanimalstudiesfocusingon
+functioninadultamblyopicanimalmodelsbymodulatingserotonin cellular-levelvascularchangesinamblyopia.
+receptorsignaling(Maya Vetencourtetal.,2008).However,clinical
+studies in humans have provided inconsistent results; fluoxetine
+treatment has not uniformly enhanced perceptual learning or 3.3 Glia activation
+visualfunctioninadultamblyopiapatients,suggestingvariabilityin
+therapeuticefficacyandpotentiallimitationsinclinicaltranslation During postnatal development, the remodeling of cortical
+(Sharifetal.,2019;Huttunenetal.,2018). neuralcircuitsisessentialforadaptingtosensoryinput.Amblyopia
+Dopamine(DA)servesnotonlyasacrucialneurotransmitter affects the visual pathway at multiple levels, including retinal
+in CNS but also plays a significant role in the cerebrovascular input, integration within the lateral geniculate nucleus (LGN),
+system. It actively regulates cerebrovascular tone, modulates cortical processing, and white matter structure and connectivity
+blood flow distribution, and facilitates neurovascular coupling, (Miller et al., 2020). Different subtypes of amblyopia influence
+thereby influencing cerebral hemodynamics and overall brain distinct components of the pathway, with the ON pathway,
+function (Choi et al., 2006). Because dopamine readily crosses magnocellular (M) pathway, and thalamo-cortical white matter
+the blood-brain barrier, its precursor levodopa has been projections being particularly vulnerable (Liu et al., 2020;
+extensivelyinvestigatedinclinicalstudiesforamblyopiatreatment, Pons et al., 2019; Allen et al., 2015). Among these regions, the
+especially since visual deprivation is known to reduce dopamine primary visual cortex (V1) is the earliest and most severely
+concentrations (Holmes et al., 2016; Pediatric Eye Disease affected area, particularly in monocular deprivation models,
+Investigator Group, 2010; Repka et al., 2010; Dadeya et al., 2009; where responses from the contralateral dominant eye in V1 are
+Leguire et al., 2002; Mohan et al., 2001). Dopamine deficiency significantly reduced (Kiorpes, 2019). Disruption of NVC, the
+has been linked to impaired visual processing and disrupted dynamicbalancebetweencerebralbloodflowandneuronalactivity,
+neurovascular coupling, particularly involving abnormalities may further constrain the development and plasticity of these
+within dopamine signaling pathways. Furthermore, modulation circuits; however, the causal direction and temporal sequence of
+of inhibitory circuits in the visual cortex is known to depend these effects remain unclear, which may be a promising target
+on the dopaminergic system, specifically involving D2 receptors for future therapeutic intervention. Besides, neuronal activity
+and dopamine transporter (DAT) activity. Despite promising is modulated by visual experience, while interactions with glial
+experimentalresults,clinicalconsensusregardingtheeffectiveness cells further shape the structural and functional architecture of
+of dopamine modulation in amblyopia treatment remains corticalcircuits.
+controversial, as visual improvements vary among patients and Astrocytes play an important role in this process, regulating
+optimaltherapeuticapproachesarestilldebated. synaptic plasticity, neuronal maturation, and local blood flow
+Moreover, abnormal cortical neuronal coupling in amblyopia (Stevens, 2008). Astrocytes have reactive and non reactive states,
+is associated with elevated activity of metabotropic glutamate and their activities are significantly affected by visual experience.
+receptors, leading to increased impulsivity and functional Longtermvisualdeprivation(suchasdarkrearing)reducesGFAP
+impairments within the dopaminergic signaling pathway. (glialfibrillaryacidicprotein)expression,indicatingadecreasein
+Additionally,developmentalalterationsinGABA receptorsubunit astrocyte reactivity (Onwordi et al., 2020). However, the specific
+a
+composition during accelerated neocortical maturation enhance functionalstatusofastrocytesandtheirroleincorticaldevelopment
+γ-aminobutyric acid (GABA)-mediated inhibitory transmission, and neural plasticity still need to be further explored, especially
+contributingtoreactivedeclinesinvisualacuity.Thenoradrenaline in the context of amblyopia and other sensory disorders. In V1
+transporter also plays a critical role in modulating visual cortical (primary visual cortex), long-term visual deprivation leads to a
+activity, thus influencing cortical executive function. Importantly, decrease in the number of reactive astrocytes, but no change in
+neurovascular coupling disturbances in amblyopia interact thetotalnumberofastrocytes(Wangetal.,2022).Enhancinggap
+closely with vulnerabilities in both the noradrenergic transporter junctioncouplingbetweenastrocytesmayserveasacompensatory
+and GABA neurotransmitter systems, further highlighting the mechanism to stabilize local neural circuits damaged by sensory
+a
+complexityofneurotransmitterinteractionsunderlyingamblyopic deprivation(Rouachetal.,2000).Thisadaptivechangereflectsthe
+visualdysfunction(Zhangetal.,2024). regulatoryeffectofneuralactivityonastrocyteneuroninteraction,
+In summary, amblyopia is not solely a disorder of neural indicating that astrocytes not only passively respond to external
+activity but also involves long-term remodeling of the structure stimuli, but also maintain the functional homeostasis of neurons
+and function of the neurovascular system. The studies above throughcouplingenhancement.
+FrontiersinCellandDevelopmentalBiology 09 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+Visual experience during development significantly shapes respondtomonoculardeprivationbyincreasinglysosomalactivity,
+astrocyticstructure;however,simplyalteringvisuallydrivenneural indicating their active involvement in experience-dependent
+activityinadulthooddoesnotinducesubstantialstructuralchanges synaptic remodeling. However, signaling through the fractalkine
+in astrocytes (Hawrylak and Greenough, 1995). Furthermore, receptor CX3CR1 does not appear to be essential for visual
+astrocytic glutamate transporters, particularly GLT1, mediate cortical development or synaptic plasticity (Schecter et al., 2017).
+critical roles in the refinement of eye-specific inputs in the This suggests that microglial regulation of cortical plasticity may
+developing visual cortex by coordinating experience-dependent occur independently of direct neuronal communication via the
+neuronal signaling and glutamate clearance (Sipe et al., 2021). In CX3CR1 pathway. In contrast, the purinergic receptor P2Y12,
+visually deprived cortex, astrocyte density rapidly increases until which is selectively expressed in non-activated microglia, plays
+maximal functional recovery is achieved. Functional modulation a critical role in microglial motility and early injury responses.
+of protoplasmic astrocytes exerts long-lasting influences on Disruption of P2Y12 receptor signaling significantly impairs
+the functional recovery of cortical neurons following sensory microglial responses to monocular deprivation and effectively
+deprivation, potentially by altering neuronal thresholds for abolishesoculardominanceplasticity,highlightingitsindispensable
+reactivation (Hennes et al., 2020). Although astrocytes undergo role in microglia-mediated synaptic remodeling within the
+significant changes in response to visual deprivation, their visualcortex(Sipeetal.,2016).
+overall developmental trajectory is not disrupted by sensory loss. Unlike many other neurological conditions where
+Specifically, the maturation of GFAP expression occurs early oligodendrocytes primarily serve supportive roles, in amblyopia
+during postnatal development and remains unaffected by visual they undergo significant adaptive remodeling. Monocular
+deprivation(Corvettietal.,2003). deprivation induces selective, neuron class-specific changes in
+Visual experience shapes cortical neural circuits but also myelination,highlightingthespecificityofneuron-oligodendrocyte
+modulates the functional state of astrocytes. Prolonged visual interactions(Yangetal.,2020).Oligodendrocytematurationoccurs
+deprivation can alter astrocyte reactivity, enhance astrocytic slowlyandprogressivelystabilizesneuronalcircuits,thusrestricting
+coupling, and influence the synaptic microenvironment. These plasticityasanimalsmature(PriebeandMcGee,2014;LeVayand
+adaptations may serve as crucial mechanisms for maintaining Stryker,1978;Hensch,2005).Importantly,inadultmousemodels
+cortical homeostasis and facilitating functional recovery. Future lackingadolescentoligodendrogenesis,briefmonoculardeprivation
+research should further investigate the role of astrocytes in significantlyreducedinhibitorysynaptictransmission.Thisfinding
+amblyopia, sensory deprivation adaptation, and visual restoration underscoresthecriticalroleoligodendrocytesplayinthematuration
+touncovertheirfundamentalcontributionstoneuralplasticity. andstabilizationofcorticalcircuitsandsupportstheconceptthat
+Visualinformationoriginatingfromeachretinaremainslargely developmental myelination functions as a physiological brake on
+segregated until converging at the cortical level. Consequently, neuronalplasticity(Xinetal.,2024).
+multiplebrainregionsexhibitalteredactivationinbothamblyopia In mice, long-term monocular deprivation increases
+patientsandanimalmodels,includingV1,earlyextrastriatevisual oligodendrogenesis in the retinogeniculate pathway but leads
+areas (V2 and V3), dorsal visual pathway regions such as area to shorter myelin internodes without altering other structural
+V3Aandthemiddletemporal(MT)area,ventralpathwayregions properties of myelinated fibers. Glutamate signaling may
+includingareaV4,andtheinferiortemporalcortex,particularlythe mediate this activity-dependent regulation of myelin internode
+rostrallowerbankofthesuperiortemporalsulcus(STS).Additional length. Visual deprivation-induced shortening of internodes
+areas activated include regions within the parietal cortex, notably significantlydecreasesnerveconductionvelocityintheopticnerve,
+thelateralbankoftheintraparietalsulcus(IPS),caudalintraparietal demonstratingthatsensoryinputcriticallyshapesmyelinationand
+area (CIP), lateral intraparietal area (LIP), anterior intraparietal thus dynamically modulates the conductive properties of neural
+area (AIP), and the frontal eye field (FEF), as well as the ventral circuitsinresponsetoenvironmentalexperience(Etxeberriaetal.,
+premotorcortex(areaF5),knowntocontainvisuomotorneurons 2016).Moreover,theaveragelengthofmyelininternodesformedby
+receivingprojectionsfromtheAIP(JolyandFrankó,2014).Given individualoligodendrocytesvariesdependingontheproportionof
+the well-established link between amblyopia and neuroplasticity, sensory-deprivedversusnormallyactiveaxons.Ahigherproportion
+microglia-mediated removal of inhibitory synapses within these of deprived axons around an oligodendrocyte significantly
+regionsappearscriticalforcross-modalcorticalplasticity.Microglia alters its myelination pattern, indicating that oligodendrocyte
+selectively phagocytose inhibitory inputs onto visual cortical myelination programs are strongly influenced by the local axonal
+neurons, facilitating heightened neuronal responsiveness during microenvironment (Osanai et al., 2018). Physiological Nogo
+sensory stimulation, with matrix metalloproteinase 9 (MMP9) receptor(NgR)signalinginducedbymyelin-associatedinhibitors,
+playingapivotalroleinthisprocess(Hashimotoetal.,2023). suchasNogo,MAG,andOMgp,helpsconsolidateneuralcircuits
+Microglia play a crucial role in synaptic pruning, maturation, established during experience-dependent plasticity. However, in
+functionalconnectivity,andplasticityduringcorticaldevelopment. pathologicalcontextssuchasmonoculardeprivation,similarNgR-
+The proper maturation and connectivity of cortical circuits mediated signaling pathways can limit functional recovery and
+rely heavily on microglial activity. Notably, microglial depletion restrict axonal regeneration, thereby constraining visual cortex
+significantly reduces dendritic spine pruning during the critical plasticity(McGeeetal.,2005).
+period of visual cortex (VC) development, underscoring their Beyond neuronal dysfunction, amblyopia may profoundly
+essential role in glutamatergic synapse formation, refinement, reshape brain structure and function through glial
+and the establishment of functional neural circuits in early brain mechanisms—including metabolic support, synaptic pruning,
+development (Ma et al., 2020). In the visual cortex, microglia myelination, and neurovascular regulation. Despite glia’s
+FrontiersinCellandDevelopmentalBiology 10 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+essential role in visual cortical development and excitation- Thesefindingssuggestthatmultipleneurotransmittersystems
+inhibition balance, their involvement in amblyopia remains and their downstream signaling pathways play multifaceted roles
+underexplored. Future studies should employ techniques such in regulating NVU function in amblyopia. As our understanding
+as immunohistochemistry, single-cell RNA sequencing, and in of these molecular mechanisms deepens, they are emerging as
+vivo imaging to elucidate glial dynamics and their mechanistic highlypromisingtherapeutictargets,particularlyforinterventions
+contributionsinamblyopicbrains. aimed at restoring visual function beyond the traditional critical
+period. Based on the above literature review, we propose the
+following hypothesis regarding NVU alterations in the retina
+and brain of individuals with amblyopia (Figure 1), referencing
+4 Other signals affecting amblyopia
+mechanisms described in pathological myopia and diabetic
+retinopathy.
+In addition to 5-HT and DA discussed earlier, other
+In the retina, blood flow parameters may be altered,
+neurotransmitters also contribute to the NVU in amblyopia.
+characterized by reduced flow velocity and vascular narrowing,
+Citicoline, a complex organic molecule known for increasing
+whichleadstoretinalmalnutrition.Thisresultsinimpairedlocal
+norepinephrine and dopamine levels within the central nervous
+neurovascularcoupling,functionalchangesinneurons,dysfunction
+system, has been evaluated as a treatment in ocular disorders
+of pericytes and endothelial cells, activation of microglia, and
+such as amblyopia and glaucoma due to its neuro-modulatory
+a more stellate morphology of GFAP-positive structures such as
+effects. It has been shown to compensate for the reduction in
+astrocytesandMüllercells.Inthebrain,especiallyintheprimary
+retinal dopamine levels and mitigate the pathological shift in FD
+visual cortex (V1), cerebral blood flow is significantly reduced,
+guinea pigs (Campos et al., 1995). Studies have demonstrated
+neuronal responsiveness is diminished, internodal segments of
+that citicoline administration significantly improves visual acuity
+myelinbecomeshorter,astrocytenumbersincrease,andmicroglia
+and contrast sensitivity, even showing therapeutic potential
+areactivated.
+in both amblyopia children and adults beyond the critical
+period of visual system development (Pawar et al., 2014;
+Porciattietal.,1998;Camposetal.,1995). 5 Future directions
+The neurotransmitter acetylcholine is known to facilitate
+plasticity in animal models by elevating cortical acetylcholine
+In amblyopia, neurons, blood vessels, and glial cells undergo
+levels during passive visual exposure. In the posterior sclera,
+parallel and interdependent alterations that collectively shape the
+expression of the muscarinic acetylcholine receptors M1 and M4
+structuralandfunctionalplasticityofthevisualsystem—fromthe
+subtypes significantly increased in FDM eyes (Liu et al., 2007).
+retinatothebrain.Imbalancedvisualinputfirstdisruptsneuronal
+Donepezil, a cholinesterase inhibitor used to enhance cortical activity, leading to impaired synaptic efficacy, reduced cortical
+acetylcholine levels, has thus been investigated as a potential responsiveness,andlong-termdeficitsinplasticity.Thesechanges
+therapeuticstrategyforamblyopia,whileitseffectivenessremains are accompanied by decreased cerebral blood flow and disrupted
+controversial. Donepezil significantly reduces the magnitude and neurovascularcoupling(NVC),whichimpairthemetabolicsupport
+durationoftheshiftintheprocessofa-few-hourMD(Sheyninetal., ofactiveneuralcircuitsandexacerbatefunctionaldeterioration.At
+2019).Asthelimitedefficacyindicating,donepezildidnotimprove the cerebral level, mismatches between neuronal activation and
+perceptuallearninginadultswithamblyopiaand,insomecases,was bloodflowhavebeenobservedinV1,thelateralgeniculatenucleus
+associated with impaired visual processing, particularly affecting (LGN), and frontoparietal associative pathways, indicating that
+visualacuityandcontrastsensitivity(Chungetal.,2017). NVCdysfunctionisacorepathologicalfeature.Attheretinallevel,
+Moreover, the expression levels of key molecular markers amblyopiamodelsdemonstratestructuralremodelingoftheNVU,
+such as C-Fos protein, GABA, and BDNF significantly reduced includingalteredganglioncellfunction,reducedcapillarydensity,
+in neurons receiving input from the contralateral, deprived eye changesinvesselcaliber,andimpairedperfusion.Inparallel,glial
+compared with those receiving input from the ipsilateral eye elements such as astrocytes and Müller cells show morphological
+in MD kittens (Li et al., 2021; Yu, 2014; Cheng et al., 2008). and activation changes under visual deprivation, suggesting
+Additionally, recent evidence indicates that high concentrations their involvement in neurovascular signaling and metabolic
+of magnesium can promote recovery of binocular visual function maintenance.
+in amblyopia, an effect mediated by transient receptor potential Together,thesefindingshighlightamblyopiaasamulti-layered
+melastatin-like7(TRPM7)channels,furtherhighlightingpotential disorderinvolvingsystemicdysregulationoftheneuro-glia-vascular
+molecular targets for amblyopia treatment (Dai et al., 2024). unit,ratherthanapurelycorticaldysfunction.Futuretherapeutic
+Activity-regulated cytoskeleton-associated protein (ARC/Arg3.1), approaches should aim to restore this integrated unit across both
+induced in neurons by neural activity, plays an essential role retinal and cortical circuits, offering novel molecular and cellular
+in activity-dependent synaptic plasticity and is also critical for targets to promote visual recovery even beyond the traditional
+memory consolidation and cognitive flexibility (Barylko et al., criticalperiod.
+2018). Recent studies demonstrated that MD increases neuronal Amblyopia has traditionally been studied primarily from
+dysfunction in LGN, accompanied by a significant reduction of a neuronal dysfunction perspective; however, recent evidence
+ARC/Arg3.1 expression, whose changes from visual deprivation- focusing on the NVU reveals a more complex pathogenesis
+driving may contribute to synaptic impairment and subsequent involvingsynergisticdysregulationamongneurons,glialcells,and
+amblyopiadevelopment(Fanetal.,2023). the vascular network. By integrating clinical findings and animal
+FrontiersinCellandDevelopmentalBiology 11 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+FIGURE1
+Hypothesizedneurovascularunitalterationsintheretinaandbrainofamblyopicindividuals.
+model data, this review highlights how dysfunction within the approachnotonlyreducestherelianceonanimalmodelsbutalso
+NVU,includingneurons,glia,andvasculature,extendsbeyondthe offers an irreplaceable advantage by closely recapitulating human
+classicalneuronal-centricviewofamblyopia.However,therearestill pathologicalfeatures.
+toofewstudiesonthefusionofamblyopiaandneurovascularunits, Protein and lipid profile, spatial transcriptomics and single-
+comparedwithdiabeticretinopathy,etc.Newinsightsadvocatefor cell metabolomics could be used to characterize molecular
+multi-target interventions directed toward the NVU, potentially profiles of each NVU component at distinct developmental
+overcoming limitations associated with conventional single-target stages of amblyopia, emphasizing spatiotemporal changes in glial
+therapies. cell polarization phenotypes (e.g., astrocyte A1/A2 conversion).
+Developing high spatiotemporal resolution in vivo imaging These techniques have been applied to other diseases to
+technologies, such as the integration of adaptive optics and explain pathological changes (Yang et al., 2023; Li et al., 2021),
+two-photon microscopy, will be critical for capturing real-time which could be convincing reference to amblyopia. Special
+interactions among neurons, glia, and vasculature during the attention should be given to paracrine signaling and glial-
+criticalperiodofamblyopia.Combiningoptogeneticmanipulation endothelial interactions, focusing on the dynamic alterations in
+with organoid models enables precise interrogation of specific vascular-glial crosstalk mediated by endothelial, astrocytic, and
+neurovascular unit components involved in the closure of visual pericyticfactors.
+plasticity windows. The integration of visual organoids with Developing multi-target approaches to modulate NVU
+multimodal imaging platforms allows for multiscale, high- dysfunction may be useful for the diseases with multiple
+resolutioninvestigationofNVUpathologyinboththeretinaand retinal-brain interactions. Exploring neurovascular-coupled
+visual cortex during amblyopia, offering key support for cross- hydrogel scaffolds designed to emulate the mechano-chemical
+species mechanistic alignment and clinical translation. Existing microenvironmentoftheNVU,therebypromotingvisualpathway
+studieshavedemonstratedthatretinalandbrainorganoidscanform remodelingthroughenhancedneurovascularcouplingmightbea
+structurallyandfunctionallyconnectedsystems.Whencombined newway.Additionally,integratingbrain-computerinterface(BCI)
+withopticalimaging,functionalelectrophysiology,andsingle-cell technology with local vasomotor signal monitoring may establish
+omics,theseorganoid-basedplatformsprovideahighlycontrollable novel“neurovascularbidirectionalfeedback”treatments,enhancing
+and human-relevant model for exploring NVU interactions and therapeutic precision through real-time neuromodulation and
+therapeutic strategies in amblyopia (Fligor et al., 2021). This vascularresponseadjustments.
+FrontiersinCellandDevelopmentalBiology 12 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+Author contributions
+Addressing translational gaps by examining the reversibility
+of NVU impairments in adult amblyopia, potentially overcoming
+the current age-related therapeutic constraints. Identifying LZ: Conceptualization, Writing – original draft. YZ: Data
+clinically relevant biomarkers using integrated neuroimaging and curation, Investigation, Writing – review and editing. XS: Data
+multi-omics approaches could guide personalized interventions. curation,Writing–reviewandediting.FW:Datacuration,Writing
+Moreover,exploringneurovasculareffectsofestablishedtherapies –reviewandediting.YS:Conceptualization,Fundingacquisition,
+(e.g., levodopa, fluoxetine) may clarify their role in NVU Visualization,Writing–originaldraft.
+modulation. Defining sensitive biological markers for NVU
+dysfunction, such as retinal and cerebrovascular complexity
+measures or inflammatory cytokine profiles, offers promising Funding
+opportunitiesforpersonalizedmedicineandtargetedinterventions
+beyondconventionalagelimitations.
+Theauthor(s)declarethatfinancialsupportwasreceivedforthe
+Finally,providedthatstrictethicalapproval,informedconsent,
+researchand/orpublicationofthisarticle.Thisworkwassupported
+tissue preservation, and standardized treatment protocols are
+bytheAcademicResearchProjectsofBeijingUnionUniversity(No.
+rigorously adhered to, it is feasible to obtain human tissue
+ZK30202411),CACMSInnovationFund(CI2021A05014).
+samples from certified biobanks or postmortem donor banks.
+Increasingly,thisapproachisrecognizedasavaluablemethodfor
+research.Suchsamplesofferuniqueandirreplaceableinsightsinto Conflict of interest
+human-specific neurovascular and glial mechanisms underlying
+amblyopia, particularly when integrated with transcriptomic and
+The authors declare that the research was conducted in the
+histological analyses. However, the availability of samples from
+absenceofanycommercialorfinancialrelationshipsthatcouldbe
+pediatric populations, especially those affected by amblyopia,
+construedasapotentialconflictofinterest.
+remains severely limited. Consequently, non-human species
+continuetoplayacriticalroleinexperimentalmodeling.Although
+rodents possess certain anatomical limitations—such as the
+Generative AI statement
+absence of a fovea—they are well suited for mechanistic and
+genetic investigations. In contrast, cats and non-human primates
+The author(s) declare that no Generative AI was used in the
+exhibit greater anatomical and functional homology to the
+creationofthismanuscript.
+human visual system, notably in aspects of binocular integration
+and cortical plasticity. Therefore, a complementary approach
+is warranted, integrating bioinformatics, multi-species models,
+Publisher’s note
+biobank-derived sample data, in vitro platforms, and advanced
+humanimagingtechniques.Thisintegratedstrategyaimstomitigate
+thelimitationsinherenttoindividualmodelsystemsandenhance All claims expressed in this article are solely those of the
+translationalrelevance. authors and do not necessarily represent those of their affiliated
+Inconclusion,thereviewhavecombedtheroleofNVUchanges organizations, or those of the publisher, the editors and the
+inthebrainandretinaforclinicalandexperimentalanimalstudies, reviewers.Anyproductthatmaybeevaluatedinthisarticle,orclaim
+hoping to provide ideas in the mechanisms and treatments of thatmaybemadebyitsmanufacturer,isnotguaranteedorendorsed
+amblyopia. bythepublisher.
+References
+Allen,B.,Spiegel,D.P.,Thompson,B.,Pestilli,F.,andRokers,B.(2015).Altered potentialroleinsynapticdepression.Biochemistry57(5),520–524.doi:10.1021/acs.
+whitematterinearlyvisualpathwaysofhumanswithamblyopia.Vis.Res.114,48–55. biochem.7b00959
+doi:10.1016/J.VISRES.2014.12.021
+Belliveau, J. W., Kennedy, D. N., Jr., McKinstry, R. C., Buchbinder, B. R.,
+Alqudah, N. M., Mohidat, H., Aleshawi, A., Al-Dolat, W., and Alshami, A. Weisskoff, R. M., Cohen, M. S., et al. (1991). Functional mapping of the human
+(2025). Differences between amblyopic and fellow eyes in optical coherence visual cortex by magnetic resonance imaging. Science 254 (5032), 716–719.
+tomography: a cohort from Jordanian population. Med. Kaunas. Lith. 61 (1), 72. doi:10.1126/science.1948051
+doi:10.3390/medicina61010072
+Bennett,C.R.,Bauer,C.M.,Bailin,E.S.,andMerabet,L.B.(2020).Neuroplasticity
+Antonetti,D.A.,Klein,R.,andGardner,T.W.(2012).Diabeticretinopathy.N.Engl. in cerebral visual impairment (CVI): assessing functional vision and the
+J.Med.366(13),1227–1239.doi:10.1056/NEJMra1005073 neurophysiological correlates of dorsal stream dysfunction. Neurosci. Biobehav.
+Rev.108,171–181.doi:10.1016/j.neubiorev.2019.10.011
+Araki,S.,Miki,A.,Goto,K.,Yamashita,T.,Takizawa,G.,Haruishi,K.,etal.(2017).
+Macularretinalandchoroidalthicknessinunilateralamblyopiausingswept-source Birch,E.E.,andDuffy,K.R.(2024).Leveragingneuralplasticityforthetreatmentof
+opticalcoherencetomography.BMCOphthalmol.17(1),167.doi:10.1186/s12886-017- amblyopia.Surv.Ophthalmol.69(5),818–832.doi:10.1016/j.survophthal.2024.04.006
+0559-3
+Blamire,A.M.,Ogawa,S.,Ugurbil,K.,Rothman,D.,McCarthy,G.,Ellermann,
+Attebo,K.,Mitchell,P.,Cumming,R.,Smith,W.,Jolly,N.,andSparkes,R.(1998). J. M., et al. (1992). Dynamic mapping of the human visual cortex by high-
+Prevalence and causes of amblyopia in an adult population. Ophthalmol. 105 (1), speed magnetic resonance imaging. Proc. Natl. Acad. Sci. 89 (22), 11069–11073.
+154–159.doi:10.1016/s0161-6420(98)91862-0 doi:10.1073/pnas.89.22.11069
+Barylko,B.,Wilkerson,J.R.,Cavalier,S.H.,Binns,D.D.,James,N.G.,Jameson, Blank,A.,Kremenetskaia,I.,Urbantat,R.M.,Acker,G.,Turkowski,K.,Radke,
+D. M., et al. (2018). Palmitoylation and membrane binding of Arc/Arg3.1: a J., et al. (2021). Microglia/macrophages express alternative proangiogenic factors
+FrontiersinCellandDevelopmentalBiology 13 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+depending on granulocyte content in human glioblastoma. J. pathology 253 (2), OCT-angiographyandfollow-upduringtreatment.Eur.J.Ophthalmol.34(2),399–407.
+160–173.doi:10.1002/path.5569 doi:10.1177/11206721231188987
+Born,P.,Leth,H.,Miranda,M.J.,Rostrup,E.,Stensgaard,A.,Peitersen,B.,etal. Etxeberria, A., Hokanson, K. C., Dao, D. Q., Mayoral, S. R., Goldman, S. A.,
+(1998).Visualactivationininfantsandyoungchildrenstudiedbyfunctionalmagnetic Redmond,S.A.,etal.(2016).Dynamicmodulationofmyelinationinresponseto
+resonanceimaging.Pediatr.Res.44(4),578–583.doi:10.1203/00006450-199810000- visualstimulialtersopticnerveconductionvelocity.J.Neurosci.36(26),6937–6948.
+00018 doi:10.1523/JNEUROSCI.0908-16.2016
+Cakmak,A.I.,Basmak,H.,Gursoy,H.,Ozkurt,M.,Yildirim,N.,Erkasap,N.,etal. Fan, H., Wang, Y., Zou, Y., Tang, X., Yin, X., Li, B., et al. (2023). ARC/Arg3.1
+(2017).Vasoactiveintestinalpeptide,apromisingagentformyopia?Int.J.Ophthalmol. expressioninthelateralgeniculatebodyofmonocularformdeprivationamblyopic
+10(2),211–216.doi:10.18240/ijo.2017.02.05 kittens.BMCOphthalmol.23(1),3.doi:10.1186/s12886-022-02757-5
+Campbell,J.P.,Zhang,M.,Hwang,T.S.,Bailey,S.T.,Wilson,D.J.,Jia,Y.,etal. Feng,J.,Zhang,X.,Li,R.,Zhao,P.,Han,X.,Wu,Q.,etal.(2023).Widespread
+(2017).Detailedvascularanatomyofthehumanretinabyprojection-resolvedoptical involvementofacetylationintheretinalmetabolismofform-deprivationmyopiain
+coherencetomographyangiography.Sci.Rep.7,42201.doi:10.1038/srep42201 guineapigs.ACSOmega8(26),23825–23839.doi:10.1021/acsomega.3c02219
+Campos,E.C.,Schiavi,C.,Benedetti,P.,Bolzani,R.,andPorciatti,V.(1995).Effectof Fligor,C.M.,Lavekar,S.S.,Harkin,J.,Shields,P.K.,VanderWall,K.B.,Huang,
+citicolineonvisualacuityinamblyopia:preliminaryresults.Graefe’sArchiveClin.Exp. K.C.,etal.(2021).Extensionofretinofugalprojectionsinanassembledmodelof
+Ophthalmol.233(5),307–312.doi:10.1007/BF00177654 humanpluripotentstemcell-derivedorganoids.Stemcellreports16(9),2228–2241.
+doi:10.1016/j.stemcr.2021.05.009
+Carhart-Harris, R. L., and Nutt, D. J. (2017). Serotonin and brain function:
+a tale of two receptors. J. Psychopharmacol. Oxf. Engl. 31 (9), 1091–1120. Fong, M. F., Mitchell, D. E., Duffy, K. R., and Bear, M. F. (2016). Rapid
+doi:10.1177/0269881117725915 recoveryfromtheeffectsofearlymonoculardeprivationisenabledbytemporary
+inactivation of the retinas. Proc. Natl. Acad. Sci. U. S. A. 113 (50), 14139–14144.
+Che, D., Qiao, D., Lv, L., Zhang, K., Zhang, M., Wang, J., et al. (2025).
+doi:10.1073/pnas.1613279113
+Effects of atropine on choroidal hemodynamics and VEGFA and HIF-1α
+expression in form-deprivation Myopia Guinea pigs. Exp. Eye Res. 251, 110214. Fong,M.F.,Finnie,P.S.B.,Kim,T.,Thomazeau,A.,Kaplan,E.S.,Cooke,S.F.,etal.
+doi:10.1016/j.exer.2024.110214 (2020).DistinctlaminarrequirementsforNMDAreceptorsinexperience-dependent
+visualcorticalplasticity.Cereb.Cortex30(4),2555–2572.doi:10.1093/cercor/bhz260
+Chen,P.,Xu,L.,Zhang,J.,Zhang,T.,Yang,Y.,Yu,J.,etal.(2020).Up-regulationof
+SorCS1,animportantsortingreceptor,intheretinaofaform-deprivationratmodel. Fuxe,K.,Hökfelt,T.,Said,S.I.,andMutt,V.(1977).Vasoactiveintestinalpolypeptide
+Cell.Mol.Neurobiol.40(3),395–405.doi:10.1007/s10571-019-00740-1 andthenervoussystem:immunohistochemicalevidenceforlocalizationincentraland
+peripheralneurons,particularlyintracorticalneuronsofthecerebralcortex.Neurosci.
+Cheng,G.,Kaminski,H.J.,Gong,B.,Zhou,L.,Hatala,D.,Howell,S.J.,etal.(2008).
+Lett.5(3),241–246.doi:10.1016/0304-3940(77)90073-8
+Monocularvisualdeprivationinmacaquemonkeys:aprofileinthegeneexpression
+oflateralgeniculatenucleusbylasercapturemicrodissection.Mol.Vis.14,1401–1413. Gaier, E. D., Gise, R., and Heidary, G. (2019). Imaging amblyopia: insights
+Availableonlineat: https://pmc.ncbi.nlm.nih.gov/articles/PMC2493024/. from optical coherence tomography (OCT). Semin. Ophthalmol. 34 (4), 303–311.
+doi:10.1080/08820538.2019.1620810
+Choi,J.K.,Chen,Y.I.,Hamel,E.,andJenkins,B.G.(2006).Brainhemodynamic
+changes mediated by dopamine receptors: role of the cerebral microvasculature Gattoussi, S., Cougnard-Grégoire, A., Korobelnik, J. F., Rougier, M. B., Delyfer,
+in dopamine-mediated neurovascular coupling. NeuroImage 30 (3), 700–712. M.N.,Schweitzer,C.,etal.(2019).Choroidalthickness,vascularfactors,andage-
+doi:10.1016/j.neuroimage.2005.10.029 related macular degeneration: the Alienor Study. Retina Phila. Pa. 39 (1), 34–43.
+doi:10.1097/IAE.0000000000002237
+Choi, M. Y., Lee, K. M., Hwang, J. M., Choi, D. G., Lee, D. S., Park, K.
+H., et al. (2001). Comparison between anisometropic and strabismic amblyopia Greifzu,F.,Pielecka-Fortuna,J.,Kalogeraki,E.,Krempler,K.,Favaro,P.D.,Schluter,
+usingfunctionalmagneticresonanceimaging.Br.J.Ophthalmol.85(9),1052–1056. O.M.,etal.(2014).Environmentalenrichmentextendsoculardominanceplasticity
+doi:10.1136/bjo.85.9.1052 intoadulthoodandprotectsfromstroke-inducedimpairmentsofplasticity.Proc.Natl.
+Acad.Sci.U.S.A.111(3),1150–1155.doi:10.1073/pnas.1313385111
+Chung,S.T.L.,Li,R.W.,Silver,M.A.,andLevi,D.M.(2017).Donepezildoesnot
+enhanceperceptuallearninginadultswithamblyopia:apilotstudy.Front.Neurosci.11, Grimes,W.N.,Berson,D.M.,Sabnis,A.,Hoon,M.,Sinha,R.,Tian,H.,etal.(2024).
+448.doi:10.3389/fnins.2017.00448 Theretina’sneurovascularunit:müllerglialsheathsandneuronalcontacts.bioRxiv.
+2024,doi:10.1101/2024.04.30.591885
+Cinar, E., Yuce, B., Aslan, F., and Erbakan, G. (2020). Comparison of retinal
+vascularstructureineyeswithandwithoutamblyopiabyopticalcoherencetomography Hammer,S.,Monavarfeshani,A.,Lemon,T.,Su,J.,andFox,M.A.(2015).Multiple
+angiography.J.Pediatr.Ophthalmol.strabismus57(1),48–53.doi:10.3928/01913913- retinalaxonsconvergeontorelaycellsintheadultmousethalamus.CellRep.12(10),
+20191004-01 1575–1583.doi:10.1016/j.celrep.2015.08.003
+Corvetti, L., Capsoni, S., Cattaneo, A., and Domenici, L. (2003). Postnatal Hashimoto,A.,Kawamura,N.,Tarusawa,E.,Takeda,I.,Aoyama,Y.,Ohno,N.,etal.
+developmentofGFAPinmousevisualcortexisnotaffectedbylightdeprivation.Glia (2023).Microgliaenablecross-modalplasticitybyremovinginhibitorysynapses.Cell
+41(4),404–414.doi:10.1002/glia.10194 Rep.42(5),112383.doi:10.1016/j.celrep.2023.112383
+Dadeya,S.,Vats,P.,andMalik,K.P.S.(2009).Levodopacarbidopainthetreatment Hawrylak, N., and Greenough, W. T. (1995). Monocular deprivation alters
+ofamblyopia.J.Pediatr.Ophthalmol.Strabismus46(2),87–90.doi:10.3928/01913913- the morphology of glial fibrillary acidic protein-immunoreactive astrocytes
+20090301-07 in the rat visual cortex. Brain Res. 683 (2), 187–199. doi:10.1016/0006-
+8993(95)00374-y
+Dai,M.,Li,J.,Hao,X.,Li,N.,Zheng,M.,He,M.,etal.(2024).Highmagnesium
+promotestherecoveryofbinocularvisionfromamblyopiaviaTRPM7.Neurosci.Bull. Hennes,M.,Lombaert,N.,Wahis,J.,VandenHaute,C.,Holt,M.G.,andArckens,
+40(9),1245–1260.doi:10.1007/s12264-024-01242-x L.(2020).Astrocytesshapetheplasticresponseofadultcorticalneuronstovisionloss.
+Glia68(10),2102–2118.doi:10.1002/glia.23830
+Demer,J.L.,vonNoorden,G.K.,Volkow,N.D.,andGould,K.L.(1988).Imaging
+ofcerebralbloodflowandmetabolisminamblyopiabypositronemissiontomography. Hensch,T.K.(2005).Criticalperiodplasticityinlocalcorticalcircuits.Nat.Rev.
+Am.J.Ophthalmol.105(4),337–347.doi:10.1016/0002-9394(88)90294-2 Neurosci.6(11),877–888.doi:10.1038/nrn1787
+De Schweinitz, G. E. (1907). Vascular changes in uveal tract, retina and optic Hess,R.F.,Thompson,B.,Gole,G.,andMullen,K.T.(2009).Deficientresponses
+nerve in quinine blindness, and in tobacco-alcohol amblyopia, etc. Trans. Am. fromthelateralgeniculatenucleusinhumanswithamblyopia.Eur.J.Neurosci.29(5),
+Ophthalmol.Soc.11(Pt2),337–359.Availableonlineat: https://pmc.ncbi.nlm.nih. 1064–1070.doi:10.1111/j.1460-9568.2009.06650.x
+gov/articles/PMC1322573/.
+Holmes,J.M.,Manh,V.M.,Lazar,E.L.,Beck,R.W.,Birch,E.E.,Kraker,R.T.,
+Duan,M.M.,Liu,H.,andZhong,Y.L.(2023).Effectofshapedeprivationon etal.(2016).EffectofabinoculariPadgamevs.part-timepatchinginchildrenaged
+retinalthicknessinmyopicmiceusinganOCTmethod.Front.Neurosci.17,1156990. 5to12yearswithamblyopia:arandomizedclinicaltrial.JAMAOphthalmol.134(12),
+doi:10.3389/fnins.2023.1156990 1391–1400.doi:10.1001/jamaophthalmol.2016.4262
+Duffy,K.R.,Bear,M.F.,Patel,N.B.,Das,V.E.,andTychsen,L.(2023).Human Hoyt,C.S.(2005).Amblyopia:aneuro-ophthalmicview.J.Neuro-Ophthalmology25
+deprivationamblyopia:treatmentinsightsfromanimalmodels.Front.Neurosci.17, (4),227–231.doi:10.1097/01.wno.0000177304.67715.ba
+1249466.doi:10.3389/fnins.2023.1249466
+Hu,G.,Chen,A.,Ye,J.,Wang,J.,Zhang,Y.,Li,Y.,etal.(2024).Adevelopmental
+Duménieu,M.,Fronzaroli-Molinieres,L.,Naudin,L.,Debanne,D.,Wakade,A., criticalperiodforoculardominanceplasticityofbinocularneuronsinmousesuperior
+Zanin,E.,etal.(2025).Visualactivityenhancesneuronalexcitabilityinthalamicrelay colliculus.CellRep.43(1),113667.doi:10.1016/j.celrep.2023.113667
+neurons.Sci.Adv.11(4),eadp4627.doi:10.1126/sciadv.adp4627
+Huang,H.(2020).Pericyte-endothelialinteractionsintheretinalmicrovasculature.
+Duménieu, M., Marquèze-Pouey, B., Russier, M., and Debanne, D. (2021). Int.J.Mol.Sci.21(19),7413.doi:10.3390/ijms21197413
+Mechanisms of plasticity in subcortical visual areas. Cells 10 (11), 3162.
+Huang,H.,Gandhi,J.K.,Zhong,X.,Wei,Y.,Gong,J.,Duh,E.J.,etal.(2011).
+doi:10.3390/cells10113162
+TNFalphaisrequiredforlateBRBbreakdownindiabeticretinopathy,anditsinhibition
+Errera,C.,Romann,J.,Solecki,L.,Gaucher,D.,Ballonzoli,L.,Bourcier,T.,etal. preventsleukostasisandprotectsvesselsandneuronsfromapoptosis.Investigative
+(2024).Retinalmicrovascularchangesinunilateralfunctionalamblyopiadetectedby Ophthalmol.Vis.Sci.52(3),1336–1344.doi:10.1167/iovs.10-5768
+FrontiersinCellandDevelopmentalBiology 14 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+Huang,Y.,Liu,Z.,Zhan,Z.,Li,Q.,Zhang,S.,Xu,H.,etal.(2024).Interactions Lin, D., Wang, Z., Chen, W., Li, Y., Qiu, X., Wei, K., et al. (2022). Regional
+between excitatory neurons and parvalbumin interneurons in V1 underlie neural downregulation of dopamine receptor D1 in bilateral dorsal lateral geniculate
+mechanismsofamblyopiaandvisualstimulationtreatment.Commun.Biol.7(1),1564. nucleusofmonocularform-deprivedamblyopiamodels.Front.Neurosci.16,861529.
+doi:10.1038/s42003-024-07296-x doi:10.3389/fnins.2022.861529
+Huttunen,H.J.,Palva,J.M.,Lindberg,L.,Palva,S.,Saarela,V.,Karvonen,E.,etal. Linden,M.L.,Heynen,A.J.,Haslinger,R.H.,andBear,M.F.(2009).Thalamicactivity
+(2018).Fluoxetinedoesnotenhancetheeffectofperceptuallearningonvisualfunction thatdrivesvisualcorticalplasticity.Nat.Neurosci.12(4),390–392.doi:10.1038/nn.2284
+inadultswithamblyopia.Sci.Rep.8,12830.doi:10.1038/s41598-018-31169-z
+Liu,C.,Ge,H.M.,Liu,B.H.,Dong,R.,Wang,F.,Li,G.,etal.(2019).Targeting
+Ikeda,H.,andWright,M.J.(1976).PropertiesofLGNcellsinkittensrearedwith pericyte-endothelialcellcrosstalkbycircularRNA-cPWWP2Ainhibitionaggravates
+convergentsquint:aneurophysiologicaldemonstrationofamblyopia.Exp.BrainRes. diabetes-inducedmicrovasculardysfunction.Proc.Natl.Acad.Sci.U.S.A.116(15),
+25,63–77.doi:10.1007/BF00237326 7455–7464.doi:10.1073/pnas.1814874116
+Jaepel,J.,Hübener,M.,Bonhoeffer,T.,andRose,T.(2017).Lateralgeniculateneurons Liu,L.,Zhu,D.,Ding,W.,Zhang,T.,Ma,X.,andZou,J.(2022).MiRNA-21-HIF-
+projectingtoprimaryvisualcortexshowoculardominanceplasticityinadultmice.Nat. 1α-VEGFaxisisassociatedwithmyopicchoroidalneovascularizationinGuineapigs.
+Neurosci.20(12),1708–1714.doi:10.1038/s41593-017-0021-0 OphthalmicRes.65(5),493–505.doi:10.1159/000522511
+Jing,L.,Shi,J.,Tan,X.-F.,Yang,J.,andChen,X.(2022).Anoverviewoftheretinal Liu,Q.,Wu,J.,Wang,X.,andZeng,J.(2007).Changesinmuscarinicacetylcholine
+andchoroidalchangesandtheirinfluencingfactorsaftertreatmentofamblyopia.Open receptorexpressioninformdeprivationmyopiainGuineapigs.Mol.Vis.13,1234–1244.
+J.Ophthalmol.12(02),158–169.doi:10.4236/ojoph.2022.122016 Availableonlineat: https://pubmed.ncbi.nlm.nih.gov/17679952/.
+Joly,O.,andFrankó,E.(2014).Neuroimagingofamblyopiaandbinocularvision:a Liu,Y.J.,Chen,X.,Zhang,J.Q.,Yang,H.,Li,Y.,andJian,Y.(2021).Semaphorin3A
+review.Front.Integr.Neurosci.8,62.doi:10.3389/fnint.2014.00062 increasesM1-likemicrogliaandretinalganglioncellapoptosisafteropticnerveinjury.
+CellBiosci.11(1),97.doi:10.1186/s13578-021-00603-7
+Jones,B.W.,Kondo,M.,Terasaki,H.,Lin,Y.,McCall,M.,andMarc,R.E.(2012).
+Retinal remodeling. Jpn. J. Ophthalmol. 56 (4), 289–306. doi:10.1007/s10384-012- Liu,Z.,Chen,Z.,Xu,Y.,Feng,L.,Yuan,J.,Deng,D.,etal.(2020).Objectiveassessment
+0147-2 oftheeffectofopticaltreatmentonmagnocellularandparvocellular-biasedvisual
+responseinanisometropicamblyopia.InvestigativeOphthalmol.Vis.Sci.61(2),21.
+Kainz,P.M.,Adolph,A.R.,Wong,K.Y.,andDowling,J.E.(2003).Lazyeyeszebrafish
+doi:10.1167/IOVS.61.2.21
+mutationaffectsmüllerglialcells,compromisingphotoreceptorfunctionandcausing
+partialblindness.J.Comp.Neurology463(3),265–280.doi:10.1002/cne.10763 Lynne, K. (2019). Understanding the development of amblyopia using
+macaque monkey models. Proc. Natl. Acad. Sci. 116 (52), 26217–26223.
+Kaneko, M., Hoseini, M. S., Waschek, J. A., and Stryker, M. P. (2024).
+doi:10.1073/pnas.1902285116
+Stimulus-specific enhancement in mouse visual cortex requires GABA but not
+VIP-peptide release from VIP interneurons. J. Neurophysiology 132 (1), 34–44. Ma,X.,Chen,K.,Cui,Y.,Huang,G.,Nehme,A.,Zhang,L.,etal.(2020).Depletionof
+doi:10.1152/jn.00463.2023 microgliaindevelopingcorticalcircuitsrevealsitscriticalroleinglutamatergicsynapse
+development,functionalconnectivity,andcriticalperiodplasticity.J.Neurosci.Res.98
+Khubieva,R.R.,andTarutta,E.P.(2022).Modernmethodsforthediagnosisof
+(10),1968–1986.doi:10.1002/jnr.24641
+morphologicalandfunctionalfeaturesoftheretinaindysbinocularandanisometropic
+amblyopia.Офтальмология19(1),63–70.doi:10.18008/1816-5095-2022-1-63-70 Manouchehri, V., Eftekhari Milani, A., Chegini, R., and Arasteh, A. (2025).
+The evaluation of the macular and optic nerve head microvasculature in
+Kim, S., Rachitskaya, A., Babiuch, A., Eisenberg, M., Ghasia, F., Sears, J., et al.
+amblyopic and non-amblyopic patients with constant exotropia in comparison
+(2024). Characterization of pediatric low vision and socioeconomic determinants
+tohealthycontrols.PhotodiagnosisPhotodyn.Ther.52,104506.doi:10.1016/j.pdpdt.
+of health at an academic center: a 5-year analysis. J. AAPOS 28 (6), 104033.
+2025.104506
+doi:10.1016/j.jaapos.2024.104033
+Martinez-Navarrete,G.,Castaño-Castaño,S.,Morales-Navas,M.,Nieto-Escámez,
+Kiorpes, L. (2019). Understanding the development of amblyopia using
+F.,Sánchez-Santed,F.,andFernandez,E.(2024).Impactoftranscranialdirectcurrent
+macaque monkey models. Proc. Natl. Acad. Sci. U. S. A. 116 (52), 26217–26223.
+stimulationonstereoscopicvisionandretinalstructureinadultamblyopicrodents.Eye
+doi:10.1073/PNAS.1902285116
+Brain16,75–88.doi:10.2147/EB.S474573
+Kornfield, T. E., and Newman, E. A. (2014). Regulation of blood flow
+Masland,R.H.(2001).Thefundamentalplanoftheretina.Nat.Neurosci.4(9),
+in the retinal trilaminar vascular network. J. Neurosci. 34, 11504–11513.
+877–886.doi:10.1038/nn0901-877
+doi:10.1523/JNEUROSCI.1971-14.2014
+Maurissen, T. L., Spielmann, A. J., Schellenberg, G., Bickle, M., Vieira, J. R.,
+Leguire,L.E.,Komaromy,K.L.,Nairus,T.M.,andRogers,G.L.(2002).Long
+Lai, S. Y., et al. (2024). Modeling early pathophysiological phenotypes of diabetic
+termfollowupofL-dopatreatmentinchildrenwithamblyopia.J.Pediatr.Ophthalmol.
+retinopathyinahumaninnerblood-retinalbarrier-on-a-chip.Nat.Commun.15(1),
+Strabismus39(6),326–346.doi:10.3928/0191-3913-20021101-05
+1372.doi:10.1038/s41467-024-45456-z
+Lennikov, A., Saddala, M. S., Mukwaya, A., Fan, Y., and Huang, H. (2019).
+MayaVetencourt,J.F.,Sale,A.,Viegi,A.,Baroncelli,L.,DePasquale,R.,O’Leary,
+Autoimmune-mediated retinopathy in CXCR5-deficient mice as the result of age-
+O.F.,etal.(2008).Theantidepressantfluoxetinerestoresplasticityintheadultvisual
+relatedmaculardegenerationassociatedproteinsaccumulation.Front.Immunol.10,
+cortex.Science320(5874),385–388.doi:10.1126/science.1150516
+1903.doi:10.3389/fimmu.2019.01903
+McGee,A.W.,Yang,Y.,Fischer,Q.S.,Daw,N.W.,andStrittmatter,S.M.(2005).
+LeVay,S.,Stryker,M.P.,andShatz,C.J.(1978).Oculardominancecolumnsandtheir
+Experience-drivenplasticityofvisualcortexlimitedbymyelinandnogoreceptor.
+developmentinlayerIVofthecat’svisualcortex:aquantitativestudy.TheJournalof
+Science309(5744),2222–2226.doi:10.1126/science.1114362
+comparativeneurology,179(1),223–244.doi:10.1002/cne.901790113
+Metea, M. R., and Newman, E. A. (2007). Signalling within the
+Li,B.,Zou,Y.,Li,L.,Deng,H.,Mi,W.,Wang,X.,etal.(2019).Therapeuticeffectof
+neurovascular unit in the mammalian retina. Exp. Physiol. 92 (4), 635–640.
+vasoactiveintestinalpeptideonform-deprivedamblyopickittens.BMCOphthalmol.19
+doi:10.1113/expphysiol.2006.036376
+(1),190.doi:10.1186/s12886-019-1203-1
+Miller, N. P., Aldred, B., Schmitt, M. A., and Rokers, B. (2020). Impact of
+Li, B., Zou, Y., Yin, X., Tang, X., and Fan, H. (2021). Expression of brain-
+amblyopiaonthecentralnervousSystem.J.Binocul.Vis.ocularMotil.70(4),182–192.
+derived neurotrophic factor in the lateral geniculate body of monocular
+doi:10.1080/2576117X.2020.1841710
+form deprivation amblyopic kittens. Eur. J. Ophthalmol. 31 (5), 2724–2730.
+doi:10.1177/1120672120953341 Mitchell,D.E.,andMaurer,D.(2022).Criticalperiodsinvisionrevisited.Annu.Rev.
+Vis.Sci.8,291–321.doi:10.1146/annurev-vision-090721-110411
+Li,C.,Cheng,L.,Yu,Q.,Xie,B.,andWang,J.(2012).Relationshipofvisualcortex
+functionandvisualacuityinanisometropicamblyopicchildren.Int.J.Med.Sci.9(2), Mitchell,D.E.,andSengpiel,F.(2009).Neuralmechanismsofrecoveryfollowing
+115–120.doi:10.7150/ijms.9.115 earlyvisualdeprivation.PhilosophicalTrans.R.Soc.BBiol.Sci.364(1515),383–398.
+doi:10.1098/rstb.2008.0192
+Li, J., Ji, P., and Yu, M. (2015). Meta-analysis of retinal changes in unilateral
+amblyopiausingopticalcoherencetomography.Eur.J.Ophthalmol.25(5),400–409. Mohan, K., Dhankar, V., and Sharma, A. (2001). Visual acuities after levodopa
+doi:10.5301/ejo.5000583 administration in amblyopia. J. Pediatr. Ophthalmol. Strabismus 38 (2), 62–97.
+doi:10.3928/0191-3913-20010301-05
+Li,J.,Yu,S.,Lu,X.,Cui,K.,Tang,X.,Xu,Y.,etal.(2021).ThephasechangesofM1/M2
+phenotypeofmicroglia/macrophagefollowingoxygen-inducedretinopathyinmice. Mompart-Martínez,R.,Argilés,M.,Cardona,G.,Cavero-Roig,L.,González-Sanchís,
+Inflamm.Res.officialJ.Eur.HistamineRes.Soc.70(2),183–192.doi:10.1007/s00011- L.,andPighin,M.S.(2023).Therelationshipbetweenfixationstabilityandretinal
+020-01427-w structuralparametersinchildrenwithanisometropic,strabismicandmixedamblyopia.
+Life(Basel)13(7),1517.doi:10.3390/life13071517
+Li, J.-H., Yang, C.-Y., Ma, J.-Y., Wang, J., Li, Y.-J., et al. (2025). Comparative
+analysisofopticdiscandmacularmicrovasculatureinchildrenwithanisometropic Moon,C.E.,Lee,J.K.,Kim,H.,Park,S.H.,Kim,J.H.,Han,J.,etal.(2024).Proteomic
+amblyopia before and after treatment. Photodiagnosis Photodyn. Ther. 52, 104481. analysisofCD29+müllercellsrevealsmetabolicreprogramminginrabbitmyopia
+doi:10.1016/j.pdpdt.2025.104481 model.Sci.Rep.14(1),24072.doi:10.1038/s41598-024-75637-1
+Li, Q., Zhu, H., Fan, M., Sun, J., Reinach, P. S., Wang, Y., et al. (2022). Form- Morgan, J. L., Berger, D. R., Wetzel, A. W., and Lichtman, J. W. (2016). The
+deprivationmyopiadownregulatescalciumlevelsinretinalhorizontalcellsinmice.Exp. fuzzylogicofnetworkconnectivityinmousevisualthalamus.Cell165(1),192–206.
+EyeRes.218,109018.doi:10.1016/j.exer.2022.109018 doi:10.1016/j.cell.2016.02.033
+FrontiersinCellandDevelopmentalBiology 15 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+Mower, G. D., Burchfiel, J. L., and Duffy, F. H. (1982). Animal models Repka,M.X.,Kraker,R.T.,Beck,R.W.,Atkinson,C.S.,Bacal,D.A.,Bremer,D.L.,
+of strabismic amblyopia: physiological studies of visual cortex and the etal.(2010).Pilotstudyoflevodopadoseastreatmentforresidualamblyopiainchildren
+lateral geniculate nucleus. Dev. Brain Res. 5 (3), 311–327. doi:10.1016/0165- aged 8 years to younger than 18 years. Archives Ophthalmol. 128 (9), 1215–1217.
+3806(82)90130-4 doi:10.1001/archophthalmol.2010.178
+Mrsic-Flogel,T.D.,Hofer,S.B.,Ohki,K.,Reid,R.C.,Bonhoeffer,T.,andHübener,M. Rouach, N., Glowinski, J., and Giaume, C. (2000). Activity-dependent neuronal
+(2007).Homeostaticregulationofeye-specificresponsesinvisualcortexduringocular controlofgap-junctionalcommunicationinastrocytes.J.CellBiol.149(7),1513–1526.
+dominanceplasticity.Neuron54(6),961–972.doi:10.1016/j.neuron.2007.05.028 doi:10.1083/jcb.149.7.1513
+Murase,S.,Lantz,C.L.,andQuinlan,E.M.(2017).Lightreintroductionafterdark Rompani,S.B.,Müllner,F.E.,Wanner,A.,Zhang,C.,Roth,C.N.,Yonehara,K.,
+exposurereactivatesplasticityinadultsviaperisynapticactivationofMMP-9.eLife6, etal.(2017).Differentmodesofvisualintegrationinthelateralgeniculatenucleus
+e27345.doi:10.7554/eLife.27345 revealed by single-cell-initiated transsynaptic tracing. Neuron 93 (4), 767–776.e6.
+doi:10.1016/j.neuron.2017.01.028
+Murphy,K.M.,Duffy,K.R.,andJones,D.G.(2004).Experience-dependentchanges
+inNMDAR1expressioninthevisualcortexofananimalmodelforamblyopia.Vis. Rose,T.,andBonhoeffer,T.(2018).Experience-dependentplasticityinthelateral
+Neurosci.21(4),653–670.doi:10.1017/S0952523804214146 geniculatenucleus.Curr.Opin.Neurobiol.53,22–28.doi:10.1016/j.conb.2018.04.016
+Norton,T.T.(1990).Experimentalmyopiaintreeshrews.CibaFound.Symp.155, Sabel,B.A.,Flammer,J.,andMerabet,L.B.(2018).Residualvisionactivationand
+178–199.Availableonlineat: https://pubmed.ncbi.nlm.nih.gov/2088676/. thebrain-eye-vasculartriad:dysregulation,plasticityandrestorationinlowvisionand
+blindness—areview.Restor.NeurologyNeurosci.36(6),767–791.doi:10.3233/RNN-
+Ogawa,S.,Tank,D.W.,Menon,R.,Ellermann,J.M.,Kim,S.G.,Merkle,H.,etal.
+180880
+(1992).Intrinsicsignalchangesaccompanyingsensorystimulation:functionalbrain
+mappingwithmagneticresonanceimaging.Proc.Natl.Acad.Sci.89(13),5951–5955. Said,S.I.,andRosenberg,R.N.(1976).Vasoactiveintestinalpolypeptide:abundant
+doi:10.1073/pnas.89.13.5951 immunoreactivityinneuralcelllinesandnormalnervoustissue.Science192(4238),
+907–908.doi:10.1126/science.1273576
+Ogawa-Meguro, R., Itoh, K., and Mizuno, N. (1992). Substance P-vasoactive
+intestinalpolypeptide-andcholecystokinin-likeimmunoreactivefiberprojectionsfrom Saint-Geniez,M.,Maldonado,A.E.,andD’Amore,P.A.(2006).VEGFexpressionand
+thesuperiorcolliculustothedorsallateralgeniculatenucleusintherat.Exp.BrainRes. receptoractivationinthechoroidduringdevelopmentandintheadult.Investigative
+89(1),59–66.doi:10.1007/BF00229001 Ophthalmol.Vis.Sci.47(7),3135–3142.doi:10.1167/iovs.05-1229
+Olson,C.R.,andFreeman,R.D.(1980).Profileofthesensitiveperiodformonocular Sale, A., Maya Vetencourt, J. F., Medini, P., Cenni, M. C., Baroncelli, L., De
+deprivationinkittens.Exp.BrainRes.39(1),17–21.doi:10.1007/BF00237065 Pasquale,R.,etal.(2007).Environmentalenrichmentinadulthoodpromotesamblyopia
+recoverythroughareductionofintracorticalinhibition.Nat.Neurosci.10(6),679–681.
+Onwordi,E.C.,Halff,E.F.,Whitehurst,T.,Mansur,A.,Cotel,M.C.,Wells,L.,
+doi:10.1038/nn1899
+etal.(2020).SynapticdensitymarkerSV2Aisreducedinschizophreniapatientsand
+unaffectedbyantipsychoticsinrats.Nat.Commun.11(1),246.doi:10.1038/s41467- Schaeffer,S.,andIadecola,C.(2021).Revisitingtheneurovascularunit.Nat.Neurosci.
+019-14122-0 24(9),1198–1209.doi:10.1038/s41593-021-00904-7
+Osanai, Y., Shimizu, T., Mori, T., Kawai, K., Kimori, Y., Kobayashi, K., et al. Schecter,R.W.,Maher,E.E.,Welsh,C.A.,Stevens,B.,Erisir,A.,andBear,M.
+(2018). Length of myelin internodes of individual oligodendrocytes is controlled F.(2017).Experience-dependentsynapticplasticityinV1occurswithoutmicroglial
+bymicroenvironmentinfluencedbynormalandinput-deprivedaxonalactivitiesin CX3CR1.J.Neurosci.37(44),10541–10553.doi:10.1523/JNEUROSCI.2679-16.2017
+sensorydeprivedmousemodels.Glia66(11),2514–2525.doi:10.1002/glia.23502
+Schneider,W.,Noll,D.C.,andCohen,J.D.(1993).Functionaltopographicmapping
+Ozaki,H.,Yu,A.Y.,Della,N.,Ozaki,K.,Luna,J.D.,Yamada,H.,etal.(1999).Hypoxia ofthecorticalribboninhumanvisionwithconventionalMRIscanners.Nature365
+induciblefactor-1alphaisincreasedinischemicretina:temporalandspatialcorrelation (6442),150–153.doi:10.1038/365150a0
+withVEGFexpression.InvestigativeOphthalmol.Vis.Sci.40(1),182–189.Available
+Sengpiel,F.(2014).Plasticityofthevisualcortexandtreatmentofamblyopia.Curr.
+onlineat: https://iovs.arvojournals.org/article.aspx?articleid=2162082.
+Biol.CB24(18),R936–R940.doi:10.1016/j.cub.2014.05.063
+Parikh,R.,Sachdeva,V.,Kekunnaya,R.,Rao,B.V.,Parikh,S.,andThomas,R.
+Sereno,M.I.,Dale,A.M.,Reppas,J.B.,Kwong,K.K.,Belliveau,J.W.,Brady,T.J.,
+(2022).Retinalnervefiberlayerthicknessinamblyopia.IndianJ.Ophthalmol.70(8),
+etal.(1995).Bordersofmultiplevisualareasinhumansrevealedbyfunctionalmagnetic
+3065–3072.doi:10.4103/ijo.IJO_2875_21
+resonanceimaging.Science268(5212),889–893.doi:10.1126/science.7754376
+Pawar,P.V.,Mumbare,S.S.,Patil,M.S.,andRamakrishnan,S.(2014).Effectiveness
+Sesma, G., Almairi, T., Khashoggi, H., Aljohar, F., Khandekar, R., and Awad,
+of the addition of citicoline to patching in the treatment of amblyopia around
+A. (2024). Longitudinal evaluation of macular vascular density alterations in
+visualmaturity:arandomizedcontrolledtrial.IndianJ.Ophthalmol.62(1),124–129.
+unilateralamblyopicchildrenundergoingtherapy:anopticalcoherencetomographic
+doi:10.4103/0301-4738.128586
+angiographystudy.Heliyon10(11),e31899.doi:10.1016/j.heliyon.2024.e31899
+Pemp,B.,Palkovits,S.,Sacu,S.,Schmidl,D.,Garhöfer,G.,Schmetterer,L.,etal.
+Sharif,M.H.,Talebnejad,M.R.,Rastegar,K.,Khalili,M.R.,andNowroozzadeh,
+(2024). Associations of retinal neurovascular dysfunction with inner retinal layer
+M.H.(2019).Oralfluoxetineinthemanagementofamblyopicpatientsagedbetween
+thicknessinnon-proliferativediabeticretinopathy.GraefesArch.Clin.Exp.Ophthalmol.
+10 and 40 years old: a randomized clinical trial. Eye Lond. 33 (7), 1060–1067.
+262(12),3761–3771.doi:10.1007/s00417-024-06552-4
+doi:10.1038/s41433-019-0360-z
+Pescosolido,N.,Stefanucci,A.,Buomprisco,G.,andFazio,S.(2014).Amblyopia
+Sherman,S.M.(2007).Thethalamusismorethanjustarelay.Curr.Opin.Neurobiol.
+treatmentstrategiesandnewdrugtherapies.J.Pediatr.Ophthalmol.Strabismus51(2),
+17,417–422.doi:10.1016/j.conb.2007.07.003
+78–86.doi:10.3928/01913913-20130107-01
+Sheynin, Y., Chamoun, M., Baldwin, A. S., Rosa-Neto, P., Hess, R. F., and
+Philpot,B.D.,Sekhar,A.K.,Shouval,H.Z.,andBear,M.F.(2001).Visualexperience
+Vaucher,E.(2019).Cholinergicpotentiationaltersperceptualeyedominanceplasticity
+and deprivation bidirectionally modify the composition and function of NMDA
+inducedbyafewhoursofmonocularpatchinginadults.Front. Neurosci.13,22.
+receptorsinvisualcortex.Neuron29(1),157–169.doi:10.1016/S0896-6273(01)00187-8
+doi:10.3389/fnins.2019.00022
+Pons, C., Jin, J., Mazade, R., Dul, M. W., Zaidi, Q., and Alonso, J.-M. (2019).
+Shmal,D.,Mantero,G.,Floss,T.,Benfenati,F.,andMaya-Vetencourt,J.F.(2024).
+AmblyopiaaffectstheONvisualpathwaymorethantheOFF.J.Neurosci.39(32),
+Restoringvisioninadultamblyopiabyenhancingplasticitythroughdeletionofthe
+6276–6290.doi:10.1523/JNEUROSCI.3215-18.2019
+transcriptionalrepressorREST.iScience27(4),109507.doi:10.1016/j.isci.2024.109507
+Porciatti, V., Schiavi, C., Benedetti, P., Baldi, A., and Campos, E. C. (1998).
+Si,Y.,Pang,K.,Song,Y.,Zhang,X.,Yang,H.,andCui,Y.(2024).Observationof
+Cytidine-5’-diphosphocholine improves visual acuity, contrast sensitivity and
+structuralandvascularfeaturesofretinaandchoroidinmyopiausingultra-widefield
+visually-evoked potentials of amblyopic subjects. Curr. Eye Res. 17 (2), 141–148.
+SS-OCTA.BMCOphthalmol.24(1),208.doi:10.1186/s12886-024-03473-y
+doi:10.1076/ceyr.17.2.141.5606
+Sipe,G.O.,Lowery,R.L.,Tremblay,M.È.,Kelly,E.A.,Lamantia,C.E.,andMajewska,
+Priebe, N. J., and McGee, A. W. (2014). Mouse vision as a gateway for
+A.K.(2016).MicroglialP2Y12isnecessaryforsynapticplasticityinmousevisual
+understandinghowexperienceshapesneuralcircuits.Front.NeuralCircuits8,123.
+cortex.Nat.Commun.7,10905.doi:10.1038/ncomms10905
+doi:10.3389/fncir.2014.00123
+Sipe,G.O.,Petravicz,J.,Rikhye,R.V.,Garcia,R.,Mellios,N.,andSur,M.(2021).
+Prokosch-Willing,V.,MeyerzuHoerste,M.,Mertsch,S.,Stupp,T.,andThanos,S.
+Astrocyteglutamateuptakecoordinatesexperience-dependent,eye-specificrefinement
+(2015).Postnatalvisualdeprivationinratsregulatesseveralretinalgenesandproteins,
+indevelopingvisualcortex.Glia69(7),1723–1735.doi:10.1002/glia.23987
+includingdifferentiation-associatedfibroblastgrowthfactor-2.Dev.Neurosci.37(1),
+14–28.doi:10.1159/000367651 Snodderly, D. M., Weinhaus, R. S., and Choi, J. C. (1992). Neural-vascular
+relationshipsincentralretinaofmacaquemonkeys(Macacafascicularis).J.Neurosci.
+Provis,J.M.(2001).Developmentoftheprimateretinalvasculature.Prog.Retin.eye
+12,1169–1193.doi:10.1523/JNEUROSCI.12-04-01169.1992
+Res.20(6),799–821.doi:10.1016/s1350-9462(01)00012-x
+Solebo,A.L.,andRahi,J.(2014).Epidemiology,aetiologyandmanagementofvisual
+Quinlan, E. M., Philpot, B. D., Huganir, R. L., and Bear, M. F. (1999). Rapid,
+impairmentinchildren.Arch.Dis.Child.99,375–379.doi:10.1136/archdischild-2012-
+experience-dependentexpressionofsynapticNMDAreceptorsinvisualcortexinvivo.
+303002
+Nat.Neurosci.2(4),352–357.doi:10.1038/7263
+Sommeijer,J.-P.,Ahmadlou,M.,Saiepour,M.H.,Seignette,K.,Min,R.,Heimel,
+Reichenbach,A.,andBringmann,A.(2020).Gliaofthehumanretina.Glia68(4),
+J. A., et al. (2017). Thalamic inhibition regulates critical-period plasticity in
+768–796.doi:10.1002/glia.23727
+FrontiersinCellandDevelopmentalBiology 16 frontiersin.org
+Zhanget al. 10.3389/fcell.2025.1590009
+visualcortexandthalamus.Nat.Neurosci.20(12),1715–1721.doi:10.1038/s41593- Wang,X.,Cui,D.,Zheng,L.,Yang,X.,Yang,H.,andZeng,J.(2012).Combination
+017-0002-3 of blood oxygen level-dependent functional magnetic resonance imaging and
+visual evoked potential recordings for abnormal visual cortex in two types of
+Stevens,B.(2008).Neuron-astrocytesignalinginthedevelopmentandplasticityof
+amblyopia. Mol. Vis. 18, 909–919. Available online at: https://pmc.ncbi.nlm.nih.
+neuralcircuits.Neurosignals16(4),278–288.doi:10.1159/000123038
+gov/articles/PMC3335782/.
+Stryker, M. P., and Harris, W. A. (1986). Binocular impulse blockade prevents
+Wang, Y., Fan, H., Zou, Y., Li, J., Zhang, J., Chen, Y., et al. (2024). Expression
+theformationofoculardominancecolumnsincatvisualcortex.J.Neurosci.6(8),
+of early growth responsive gene-1 in the lateral geniculate body of kittens with
+2117–2133.doi:10.1523/JNEUROSCI.06-08-02117.1986
+amblyopiacausedbymonocularformdeprivation.Eur.J.Ophthalmol.34(2),408–418.
+Stryker,M.P.,andLöwel,S.(2018).Amblyopia:newmolecular/pharmacological doi:10.1177/11206721231187926
+and environmental approaches. Vis. Neurosci. 35, E018. doi:10.1017/
+Wareham,L.K.,andCalkins,D.J.(2020).TheNeurovascularUnitinGlaucomatous
+S0952523817000256
+Neurodegeneration.Front.celldev.biol.8,452.doi:10.3389/fcell.2020.00452
+Su, W., Ma, L., Li, K., Hu, Y., Mao, Y., Xie, W., et al. (2024). Reduced retinal
+Wiesel,T.N.,andHubel,D.H.(1963).Effectsofvisualdeprivationonmorphology
+vasculardensityandskeletonlengthinamblyopia.Transl.Vis.Sci.Technol.13(5),21.
+and physiology of cells in the cat’s lateral geniculate body. J. Neurophysiology 26,
+doi:10.1167/tvst.13.5.21
+978–993.doi:10.1152/jn.1963.26.6.978
+Szigeti, A., Tátrai, E., Szamosi, A., Vargha, P., Nagy, Z. Z., Németh, J., et al.
+Xin, W., Kaneko, M., Roth, R. H., Wang, L., Li, Y., Xu, T., et al. (2024).
+(2014). A morphological study of retinal changes in unilateral amblyopia using
+Oligodendrocytesandmyelinlimitneuronalplasticityinvisualcortex.Nature633
+optical coherence tomography image segmentation. PLoS One 9 (2), e88363.
+(8031),856–863.doi:10.1038/s41586-024-07853-8
+doi:10.1371/journal.pone.0088363
+Xu,J.,Lu,F.,Liu,W.,Zhang,F.,Chen,W.,andChen,J.(2013).Retinalnervefibre
+Thompson,B.(2021).NeuralPlasticityinAmblyopia.OxfordResearchEncyclopedia
+layerthicknessandmacularthicknessinpatientswithesotropicamblyopia.Clin.Exp.
+ofPsychology.doi:10.1093/acrefore/9780190236557.013.702
+Optometry96(3),267–271.doi:10.1111/cxo.12001
+Thompson, B., Morrone, M. C., Bex, P., Lozama, A., and Sabel, B. A. (2024).
+Xu, W., Hu, Z., Lv, Y., Dou, G., Zhang, Z., Wang, H., et al. (2018). Microglial
+Harnessingbrainplasticitytoimprovebinocularvisioninamblyopia:anevidence-
+densitydeterminestheappearanceofpathologicalneovasculartuftsinoxygen-induced
+basedupdate.Eur.J.Ophthalmol.34(4),901–912.doi:10.1177/11206721231187426
+retinopathy.CelltissueRes.374(1),25–38.doi:10.1007/s00441-018-2847-5
+Tian,L.,Guo,Y.T.,Ying,M.,Liu,Y.C.,Li,X.,andWang,Y.(2021).Co-existenceof
+Yang,C.C.,Ji,K.B.,andYu,Y.F.(2023).Analysisofretinalmicrovasculature
+myopiaandamblyopiainaGuineapigmodelwithmonocularformdeprivation.Ann.
+features in amblyopic eyes: a meta-analysis. Ophthalmic Res. 66 (1), 131–143.
+Transl.Med.9(2),110.doi:10.21037/atm-20-5433
+doi:10.1159/000526531
+Tkatchenko, A. V., Walsh, P. A., Tkatchenko, T. V., Gustincich, S., and
+Yang,S.M.,Michel,K.,Jokhi,V.,Nedivi,E.,andArlotta,P.(2020).Neuronclass-
+Raviola, E. (2006). Form deprivation modulates retinal neurogenesis in primate
+specificresponsesgovernadaptivemyelinremodelingintheneocortex.Science370
+experimental myopia. Proc. Natl. Acad. Sci. U. S. A. 103 (12), 4681–4686.
+(6523),eabd2109.doi:10.1126/science.abd2109
+doi:10.1073/pnas.0600589103
+Yee,A.X.,Hsu,Y.-T.,andChen,L.(2017).Ametaplasticityviewoftheinteraction
+Tugcu,B.,Araz-Ersan,B.,Kilic,M.,Erdogan,E.T.,Yigit,U.,andKaramursel,S.
+betweenhomeostaticandHebbianplasticity.PhilosophicalTrans.R.Soc.BBiol.Sci.372
+(2013).Themorpho-functionalevaluationofretinainamblyopia.Curr.EyeRes.38(7),
+(1715),20160155.doi:10.1098/rstb.2016.0155
+802–809.doi:10.3109/02713683.2013.779721
+Yin,J.,Xu,W.Q.,Ye,M.X.,Li,Y.,Wang,Y.,Zhang,J.,etal.(2017).Up-regulated
+Tuna, A. R., Pinto, N., Fernandes, A., Brardo, F. M., and Pato, M. V. (2024).
+basigin-2inmicrogliainducedbyhypoxiapromotesretinalangiogenesis.J.Cell.Mol.
+Can repetitive transcranial magnetic stimulation influence the visual cortex of
+Med.21(12),3467–3480.doi:10.1111/jcmm.13256
+adults with amblyopia? - systematic review. Clin. Exp. Optom. 107 (7), 691–697.
+doi:10.1080/08164622.2024.2363369 Yu, M. (2014). Relationship between monocularly deprivation and amblyopia
+rats and visual system development. Asian Pac. J. Trop. Med. 7 (7), 568–571.
+Turrigiano,G.(2012).Homeostaticsynapticplasticity:localandglobalmechanisms
+doi:10.1016/S1995-7645(14)60095-X
+forstabilizingneuronalfunction.ColdSpringHarb.Perspect.Biol.4(1),a005736.
+doi:10.1101/cshperspect.a005736 Yuan, X., Zhang, Z., Shi, Y., and Liu, T. (2023). Application of quantitative
+assessmentofretinalnervefiberlayerinretinaldiseases.EyeSci.38(3),253–259.
+Venturino,A.,Schulz,R.,DeJesús-Cortés,H.,Maes,M.E.,Nagy,B.,Reilly-Andújar,
+doi:10.12419/j.issn.1000-4432.2023.03.09
+F.,etal.(2021).Microgliaenablematureperineuronalnetsdisassemblyuponanesthetic
+ketamineexposureor60-Hzlightentrainmentinthehealthybrain.CellRep.36(1), Zhang, X., Liu, L., Li, Y., Li, X., Wang, K., Han, S., et al. (2024). Integrative
+109313.doi:10.1016/j.celrep.2021.109313 neurovascularcouplingandneurotransmitteranalysesinanisometropicandvisual
+deprivationamblyopiachildren.iScience27(6),109988.doi:10.1016/j.isci.2024.109988
+Wan, J., Zhang, Z., and Tian, Y. (2022). Examination of macular retina and
+choroidalthicknessinhighmyopicamblyopiausingspectral-domainopticalcoherence Zhang,X.,Yu,X.,Wen,Y.,Yang,Y.,Li,Y.,Zhu,H.,etal.(2022).Functionsof
+tomography.Front.Med.(Lausanne)9,808409.doi:10.3389/fmed.2022.808409 retinalastrocytesandmüllercellsinmammalianmyopia.BMCOphthalmol.22(1),
+451.doi:10.1186/s12886-022-02643-0
+Wang, L., Ji, Y., Mei, H., Zhang, Y., Miao, H., Zhu, Z., et al. (2025).
+ElectroacupunctureimprovesV1cortexsynapticplasticityviatheCREB/BDNF/TrkB Zhou,X.,Zhang,S.,Yang,F.,Lu,B.,Zhao,H.,Huang,C.,etal.(2021).Decreased
+pathway in juvenile rats with monocular deprivation. Exp. Eye Res. 250, 110169. choroidalbloodperfusioninducesmyopiainGuineapigs.InvestigativeOphthalmol.
+doi:10.1016/j.exer.2024.110169 Vis.Sci.62(15),30.doi:10.1167/iovs.62.15.30
+Wang,L.L.,Xu,D.,Luo,Y.,Li,X.,Gu,Y.,andWang,L.(2022).Homeostaticregulation Ziburkus,J.,Bickford,M.E.,andGuido,W.(2000).NMDAR-1staininginthelateral
+ofastrocytesbyvisualexperienceinthedevelopingprimaryvisualcortex.Cereb.Cortex geniculatenucleusofnormalandvisuallydeprivedcats.Vis.Neurosci.17(2),187–196.
+32(5),970–986.doi:10.1093/cercor/bhab259 doi:10.1017/S0952523800172013
+FrontiersinCellandDevelopmentalBiology 17 frontiersin.org

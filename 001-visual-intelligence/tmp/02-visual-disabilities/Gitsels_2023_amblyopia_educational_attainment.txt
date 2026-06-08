@@ -1,0 +1,565 @@
+PLOS ONE
+RESEARCHARTICLE
+Educational attainment and trajectories at key
+stages of schooling for children with
+amblyopia compared to those without eye
+conditions: Findings from the Millennium
+Cohort Study
+a1111111111
+LisanneAndraHorvat-GitselsID 1,2,MarioCortina-Borja1,JugnooSangeetaRahiID 1,2,3,4*
+a1111111111 1 Population,PolicyandPracticeResearchandTeachingDepartment,GreatOrmondStreetInstituteof
+a1111111111 ChildHealth,UniversityCollegeLondon,London,UnitedKingdom,2 UlverscroftVisionResearchGroup,
+a1111111111 GreatOrmondStreetInstituteofChildHealth,UniversityCollegeLondon,London,UnitedKingdom,3 Great
+a1111111111 OrmondStreetHospitalforChildrenNHSFoundationTrust,London,UnitedKingdom,4 Instituteof
+Ophthalmology,UniversityCollegeLondonandNIHRMoorfieldsBiomedicalResearchCentreLondon,
+London,UnitedKingdom
+*j.rahi@ucl.ac.uk
+OPENACCESS
+Abstract
+Citation:Horvat-GitselsLA,Cortina-BorjaM,Rahi
+JS(2023)Educationalattainmentandtrajectories
+atkeystagesofschoolingforchildrenwith
+amblyopiacomparedtothosewithouteye
+Background
+conditions:FindingsfromtheMillenniumCohort
+Study.PLoSONE18(3):e0283786.https://doi.org/ Amblyopiaisaneurodevelopmentalconditionresultinginreducedvisionforwhichwhole
+10.1371/journal.pone.0283786
+populationchildvisionscreeningisundertaken.Cross-sectionalstudieshaveestablished
+Editor:OmarMKhraisat,Al-AhliyyaAmman anassociationbetweenamblyopiaandloweracademicself-concept,slowerreadingspeed.
+University,JORDAN
+Nodifferencehasbeenfoundineducationalperformanceinadolescencewhilstthereare
+Received:August3,2022 mixedassociationswitheducationalattainmentinadults.Educationaltrajectoriesandinten-
+Accepted:March16,2023 tionshavenotbeenstudiedpreviously.Weanalyseifthosetreatedforamblyopiahavedif-
+ferenteducationalperformanceandtrajectoriesforcoresubjectsduringstatutoryschooling,
+Published:March30,2023
+orsubsequenthighereducation(university)intentionsthantheirpeerswithouteye
+Copyright:©2023Horvat-Gitselsetal.Thisisan
+conditions.
+openaccessarticledistributedunderthetermsof
+theCreativeCommonsAttributionLicense,which
+permitsunrestricteduse,distribution,and
+Methodsandfindings
+reproductioninanymedium,providedtheoriginal
+authorandsourcearecredited. DatafromtheMillenniumCohortStudyofchildrenbornintheUnitedKingdomin2000–01
+andfollowed-uptoage17years(n=9989).Usingavalidatedapproachdrawingonparental
+DataAvailabilityStatement:Dataarefreely
+availablefromtheUKDataArchive,https://beta. self-reportoneyeconditionsandtreatmentcodedbyclinicalreviewers,participantswere
+ukdataservice.ac.uk/datacatalogue/series/series? groupedintomutuallyexclusivecategories:noeyeconditions,strabismusalone,refractive
+id=2000031#!/access-data.Forthisstudy,we
+amblyopia,strabismic/mixed(refractiveplusstrabismic)amblyopia.Theoutcomeswerelev-
+madeuseofthefirstfoursurveys(MCS1-7
+SN:4683,5350,5795,6411,7464,8156,8682, elsandtrajectoriesofpassingEnglish,Maths,Scienceatages7–16years,passingnational
+and8481).Wehadspecialaccessprivilegesasco- examsatage16,andintentionsatages14–17topursuehigher(university)education.
+investigatorsontheCLOSERgranttotheoriginal
+Adjustedanalysesshowedthatamblyopiastatuswasnotassociatedwithperformancein
+parentalreportoneyeconditions(variableEYEXin
+English,Maths,andScienceatanykeystage,attainmentinnationalexams,orintendingto
+MCS2-4).Accessisotherwiseobtainedviahttps://
+www.closer.ac.uk/study/millennium-cohort-study/. gotouniversity.Similarly,theage-relatedtrajectoriesofperformanceincoresubjectsand
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 1/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+Funding:LAHGissupportedbytheUlverscroft highereducationintentionsdidnotdifferbetweenthegroups.Therewerenosignificantdif-
+VisionResearchGroup.JSRisanNIHRSenior ferencesinmainreasonforhavingornothavinguniversityintentions.
+InvestigatorandissupportedbytheNIHR
+BiomedicalResearchCentreatMoorfieldsEye
+Conclusions
+HospitalNHSFoundationTrustandUCLInstitute
+ofOphthalmology.AllresearchatGreatOrmond
+Wefoundnoassociationsbetweenahistoryofamblyopiaandeitheradverseperformance
+StreetHospitalNHSFoundationTrustandUCL
+orage-relatedattainmenttrajectoriesincoresubjectsduringkeystagesofstatutoryschool-
+GreatOrmondStreetInstituteofChildHealthis
+madepossiblebytheNIHRGreatOrmondStreet ingaswellastheabsenceofanassociationwithintentionsforhighereducation.These
+HospitalBiomedicalResearchCentre.The resultsshouldbereassuringtoaffectedchildrenandyoungpeople,andtheirfamilies,teach-
+sponsorshadnoroleinthedesignorconductof
+ersandphysicians.
+thisresearch.Theviewsexpressedarethoseofthe
+author(s)andnotnecessarilythoseoftheNHS,the
+NIHRortheDepartmentofHealth.
+Competinginterests:Theauthorshavedeclared
+Introduction
+thatnocompetinginterestsexist.
+Healthandeducationarelinkedinavirtuouscirclewherechildrenwithbetterhealthtendto
+performbetteratschool,whichinturnimprovestheirwellbeingandenablesthemtoachieve
+theirfullpotentialineducation[1,2].Performanceatkeystagesinprimaryandsecondary
+schoolinginturnisstronglyassociatedwitheducationalattainment,income,andhealthlater
+inlife[3,4].Children’seducationalperformanceandaspirationsareshapedbyanumberof
+factorsincludingparentaleducation,socioeconomicstatus,andexpectationsfortheirchildren
+[5–7].Furthermore,parentalinvolvement,expectations,andsupportduringadolescenceis
+positivelyassociatedwithchildren’scareersuccess,whichismediatedpartlybyeducational
+attainment[8].
+Amblyopiaisaneurodevelopmentalconditionresultinginreducedvision,predominantly
+affectingoneeye,andoccursinupto4%ofchildrenagedyoungerthan6yearsinindustrial-
+isedcountries[1]Universalchildvisionscreeningexistsinmanycountrieswiththeprimary
+aimofidentifyingchildrenwithamblyopiatoimplementtreatmenttoimprovevisionasearly
+aspossible[9,10].Thereremainsalimitedevidencebaseonthebroaderimpactsofamblyopia
+onaffectedindividuals.Ourpreviousresearchhasshownnoclinicallymeaningfuldifferences
+inearlycognitiveperformanceofchildrenwithamblyopiacomparedtothosewithoutanyeye
+conditions[11].Otherstudieshavereportedloweracademicself-conceptandassociated
+slowerreadingspeed[12–14].Thereisnoindicationofdifferencesineducationalperformance
+betweenages7and18yearsinolderbirthcohorts[15,16].Regardingeducationalattainment
+inadults,cross-sectionalanalysesprovideevidenceofmixedassociations[16–19].Educational
+trajectoriesofchildrenwithamblyopiaandtheirexpectationsforfurthereducation,and
+whetherandhowthesearerelatedtoeachotherhavenotbeeninvestigated.
+Wehypothesisedthatthosewhohavebeentreatedforamblyopiamayexperienceeduca-
+tionalimpactsondiscernibleinlongitudinalperformanceincoresubjectsatkeystagesduring
+statutoryschooling.Additionally,wehypothesisedthattheremaybedifferencesinintentions
+regardinghighereducationinadolescentswhohadbeentreatedforamblyopiacomparedto
+thosewithoutanyeyeconditions.WeinvestigatedthisanalysingdataoftheMillennium
+CohortStudy(MCS)[20]toexpandourpreviousinvestigationofschoolreadinessandcogni-
+tiveperformancetrajectoriesduringearlyschoolinginthesamechildren[11].
+Materialsandmethods
+Studydesign
+TheMillenniumCohortStudyisanational,prospectivecohortstudyofchildrenborninthe
+UnitedKingdom(UK)in2000–01thatusedastratifiedsamplingdesigntoachievean
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 2/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+overrepresentationoffamiliesfromanethnicminoritygroupanddeprivedbackground[20].
+Whilstthisincreasedtheabsolutenumbersofhard-to-reachgroups,samplingweightswere
+providedtoensureanalysesarerepresentativeoftheUKpopulationthroughoutfollow-up
+[21].Thisrendersitparticularlysuitableforresearchonamblyopiaandeducationaloutcomes,
+whichvarybyethnicityandsocioeconomicstatus[5,22].
+Webuiltonourpreviouswork[11]thatidentifiedchildrenwitheyeconditionsatagethree
+tosevenyears,duringwhichchildhoodvisionscreeningisundertakenintheUK(agesfourto
+fiveyears)andthusallchildrenwithamblyopiawouldbeexpectedtobeidentifiedwiththeir
+treatmentmostlycomplete[9].Weusedthisasthebaselineforalongitudinalanalysistothe
+endofstatutoryschooling(upto17years).Inclusioncriteriawereconsentandsuccessfullink-
+ageofeducationrecordsfromtheNationalPupilDatabaseofEngland[23].Childrenwith
+neurologicalor-developmentalconditions(suchascerebralpalsyandDownsyndrome),or
+eyeconditionsotherthanamblyopiaorstrabismus,wereexcludedastheseconditionscould
+themselvesimpactonbothvisionandeducationaloutcomes[15,24,25].Finally,children
+frommultiplebirthswereexcludedastheyaremorelikelytohavevisiondisorders[24].
+TheMCSsecuredethicalapprovalfromtheNationalHealthServiceMulti-CentreResearch
+EthicsCommitteeforeachsweep(seehttps://cls.ucl.ac.uk/wp-content/uploads/2017/07/
+MCS-Ethical-Approval-and-Consent-2019.pdf).Writteninformedconsentwasrequiredand
+obtainedfromparents/legalguardians.Attheage14follow-up,childrenalsoprovided
+informedconsent.Thisstudyrequirednofurtherethicalapprovalforsecondarydataanalysis.
+Allmethodscomplywiththerelevantnationalandinstitutionalcommitteesonhumanexperi-
+mentation,includingtheethicalstandardsoutlinedinthe1975HelsinkiDeclaration,as
+revisedin2013.TheMCSwasapprovedbytherelevantEthicsCommittees[20]andfamilies
+ofparticipantsgaveinformedconsenttoparticipate[20].AlthoughtheMCSisactiveinpartic-
+ipantandpublicengagement,therewasnodirectinvolvementinthisspecificstudy,which
+drewonexistingdata.
+Ophthalmicdata
+Weusedourpreviouslyvalidatedapproach[11,24,25]drawingontheInternationalClassifi-
+cationsofDiseases(ICD)andourextendedtaxonomyappliedinourpreviousresearchon
+childhoodblindness[26]toidentifythosewithamblyopiafromhighlydetailedparentalreport
+ontheirchild’svisionandeyeproblemsatages3,5,and7yearsusingvalidatedopenand
+closed-endedquestionsdesignedandreviewedbyophthalmologistinourstudyteam.Acon-
+servative,hierarchicalapproachwasfollowedthusrequiringdiagnosis,typesoftreatmentand
+ageattreatmenttomatchconsistently.Thetherapiesincludedsurgery,patchocclusionor
+penalisationwithcycloplegicdrops,andglasses.
+Inthisfollow-upstudy,wecategorisedchildreninthesamemutuallyexclusivegroupsthat
+wehaveusedinpriorresearch[11],comprisingtwo‘affected’groupsofa)refractiveambly-
+opiaandb)strabismicormixedamblyopiaalongwithtwocomparatorgroupsofc)noeye
+conditions(mainreference)andd)strabismusalone,thelattertodifferentiatebetweenthe
+impactofimpairedacuity(amblyopia)andocularmisalignmentperse.Refractiveamblyopia
+hasthebestprognosisofallamblyopiatypes,impactingmostlyacuity,whereasstrabismic
+amblyopiadirectlyaffectsstereovisionaswell,suchthatmixedamblyopiaisclinicallythemost
+‘severe’type.
+Educationdata
+InEngland,theNationalCurriculumconsistsoffiveKeyStages(KS)[27].Allpupilsmust
+attendfull-timeeducationuntiltheendofKeyStage4.Atthattime,pupilstakeaseriesof
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 3/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+examscalledtheGeneralCertificateofSecondaryEducation(GCSE).Theeducationalrecords
+atKeyStages1,2,and4werelinkedtoMillenniumCohortStudymembers,withtests’results
+attheendofeachstagecorrespondingtoages7,11,and16years,respectively[23].Intheman-
+datorysubjectsEnglish(readingandwriting),mathematics,andscience,pupilsareexpected
+toachieveatleastleveltwoattheendofKeyStage1andlevelfouratKeyStage2.Attheend
+ofKeyStage4,pupilsareexpectedtoachieveatleastfiveGCSEsA*-C,includingEnglishand
+mathematics.Weusedthesebenchmarksasouroutcomes.
+Oursecondaryoutcomeofinterestwasadolescents’viewsatages14and17yearsofhow
+likelytheyweretogotouniversityonascaleof0to100%.Asthiscontinuousvariablehasa
+boundedrangeandisnon-normallydistributed,itsvaluesweredichotomisedto‘present’if
+�medianscoreand‘absent’if<median.Additionally,participants’mainreasonatage17
+yearsaboutgoingornotgoingtouniversitywereanalysedforcontext.SeeS1TableintheSup-
+plementfordetailedcodingofoutcomes.
+Confounders/covariates
+Duetothesociodemographicpatterninginamblyopiariskandeducationaloutcomes,impor-
+tantconfoundersatbaselineweresex,ethnicity,pretermbirth,maternaleducation,household
+income[5,11,15–17].Possibleconfoundersforeducationaltrajectories[5,15,28,29]
+includedspecialeducationneeds(SEN)foranyreasonincludingvision(ateachKeyStage),
+academicself-conceptasthelevelofagreementinbeinggoodatthemandatorysubjects(ages
+11and14),andparents’expectationsfortheirchildtogotouniversity(ages14and17).SeeS1
+Tablefordetailedcodingofcovariates.
+Statisticalanalyses
+AnalyseswereconductedusingRversion4.1.0[30].Samplingweightswereusedtoadjustfor
+theMillenniumCohortStudysurveydesignandattritionovertime[21].Logisticregression
+modelswerefittedtounderstandpotentialselectionbiasduetonon-consenttodatalinkage
+ofeducationresultsandmissingdatainuniversityintentions[31].Non-consentintheout-
+comeswasdealtwithbypairwisedeletiontomaximisethesamplesizeforeachoutcomeof
+interest.Ofthecohort,27%didnothavelinkededucationalrecordsduetonoconsentfor
+linkageormovingabroad,whichresultedinastudysamplewithhigherrepresentationof
+thosefromotherthanwhitebackgroundsandmoreaffluentfamilies(S2Table).Therewere
+28%missingobservationsofuniversityintentionswithhigheroddsofmissingintentions
+amongthosefromlowereducated,poorerfamiliesorwhofailedtheirGCSE(S2Table).This
+supportsthehypothesisthatthosewhohadmissinguniversityintentionswereeitherunlikely
+toplantogotouniversityorwereuncertainaboutgoing.Therefore,missingnessinsuch
+intentionswasinformative[31]andcodedas‘absent’.Asasensitivityanalysis,acomplete-
+caseanalysiswasalsoperformed(i.e.excludingthosewithmissinguniversityintentions).
+Missingdatawereminimalincovariates(<2%),thereforethesesubjectswereexcludedfrom
+analyses[32].
+Chi-squaredtestsassesseddifferencesbyamblyopiastatusincovariatesandreasonsfor
+universityintentions.LogisticregressionmodelsofpassingEnglish,Maths,andScienceat
+eachKeyStage,passingGCSEatKeyStage4,andhavinguniversityintentionsatages14and
+17werefittedtoassessassociationswithamblyopia.Fixed-effectsmodelsassessedtheperfor-
+mancelevelsofeducationaloutcomes,whereasmixed-effectsmodelsassessedtheirage-related
+trajectoriesandincludedarandomeffectonparticipanttoaccountforrepeatedmeasures.The
+modelswereadjustedforallbaselinecovariatesandthoseeducationalcovariates(i.e.special
+educationneeds,academic-selfconcept,andparents’universityexpectations)thatwere
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 4/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+significantatα=0.05toobtainparsimoniousmodels.Additionally,significantinteractions
+betweenamblyopiaandsex,age,andparents’universityexpectationswereincludedinthe
+finalmodels.Collinearitywasassessedviavarianceinflationfactors.Allmodels’assumptions
+weresatisfied.Inourpreviousstudy[11]wedidnotfindamediatingeffectofageoftreatment
+onschoolreadinessorearlycognitivetrajectories,thereforetreatmentwasnotconsidered
+here.
+Results
+Studypopulation
+Thecohortconsistedof9989singletonsagedsevenyearsoldwhowerefollowed-uptoage17
+(Table1).Theproportionofthestudysamplewithahistoryofrefractiveamblyopiawas7per
+1000children,21per1000forstrabismicormixedamblyopiaand28per1000forstrabismus
+alone.Theproportionsvariedsignificantlybypretermbirthandsocioeconomicbackground,
+aswellaswithahistoryofspecialeducationneedsandparents’universityexpectations
+(Table2).TherewerenodifferencesinfindingoneselftobegoodatEnglish,mathematics,
+andsciencebyamblyopiastatus(resultsnotshowntoavoidpotentialstatisticaldisclosure),
+thusthesewerenotadjustedforintheregressionmodelsforeducationaltrajectoriesanduni-
+versityintentions.
+Keystageperformancelevelsandtrajectories(Table3andS3–S6Tables)
+Inorderofdecreasingeffectsize,thefollowingfactorsweresignificantlyassociatedwithlower
+performance/attainments(S3–S6Tables):havingspecialeducationneeds,lowermaternaledu-
+cationlevel,andlowerhouseholdincome.Furthermore,boysperformedsignificantlylowerin
+EnglishandoverallGCSE,whereasgirlsinmathematics.Childrenfromanethnicminority
+backgrounddidnotperformsignificantlyworsethanthosefromawhiteethnicbackground,
+infactthosefromblack/African/CaribbeanorSouthAsianbackgroundperformedbetterin
+English,scienceandGCSE,andthosefromaSouthAsianbackgroundadditionallyin
+mathematics.
+TherewerenosignificantdifferencesintheperformancelevelsofEnglish,mathematics,
+andscienceatanygivenKeyStagebetweenthosetreatedforamblyopiaandthosewithouteye
+conditionsstatus(p-valuesrange,0.228–0.883),noranydifferencesinperformanceleveltra-
+jectoriesofthesecoresubjectsacrossKeyStages(0.208–0.636)(adjustedOR’spresentedin
+Table3).Similarly,GCSEperformanceattheendofstatutoryschoolingdidnotdifferby
+amblyopiastatus(p,0.212)(Table3).Thisabsenceofanassociationbetweenamblyopiastatus
+andperformanceofcoresubjectsandGCSEwasthesameforboysandgirls(0.236–0.904).
+Table1. Studypopulationofsingletons.
+Excluded MCSsweep Linkededucationalrecord Universityintentions
+Total,n=431 MCS4~7yearsn=9989(100%) KS1n=7321(73%)
+•Othereyeconditionsthanamblyopiaandstrabismus(n=120)
+•Neurologicalor-developmentalconditions(n=65)
+•Missingbaselinecharacteristics(n=195)
+Attritionn=1235(12%) MCS5~11yearsn=8754(88%) KS2n=7225(72%)
+Attritionn=872(9%) MCS6~14yearsn=7882(79%) n=7882(79%)
+Attritionn=675(7%) MCS7~17yearsn=7207(72%) KS4n=7415(74%) n=7207(72%)
+KS,KeyStage;MCS,MillenniumCohortStudy.
+https://doi.org/10.1371/journal.pone.0283786.t001
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 5/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+Table2. Baselineandeducationcharacteristicsofstudypopulationbyhistoryofamblyopiaand/orstrabismusatage7years.
+Covariate Category Noeyecondition Strabismusalone Refractiveamblyopia Strabismicormixed χ2(weighted)p-
+(weighted%) (weighted%) (weighted%) amblyopia(weighted%) valuea
+Baseline(observed/unweightedn=9989)
+Sex Boys 4777(51) 141(51) 100(53) 39(58) 0.752
+Girls 4635(49) 144(49) 106(47) 29(42)
+Pretermbirth No 8829(94) 247(86) 182(89) b <0.001
+Yes 601(6) 38(14) 24(11) b
+Maternaleducation A-levelsor 3316(34) 80(27) 59(25) 16(23) <0.001
+higher
+O-levels 3240(36) 107(36) 62(30) 21(33)
+None 2874(30) 98(37) 85(45) 31(44)
+Householdincomequintile 1Richest 1953(21) 44(16) 35(17) b 0.141
+2 1850(20) 56(20) 34(15) b
+3 1873(20) 66(24) 37(20) b
+4 1822(19) 61(21) 49(24) b
+5Poorest 1932(20) 58(19) 51(24) b
+Education(observed/unweightednvariableduetoattritionandlinkededucationrecords,rangingbetween5820–7491)
+Specialeducationneeds KeyStage No 5685(81) 127(65) 124(76) 41(80) <0.001
+(SEN)history 1
+Yes 1334(19) 68(35) 39(24) 10(20)
+KeyStage Same 5098(73) 105(54) 109(67) 34(67) <0.001
+2
+BecameSEN 1921(27) 90(46) 54(33) 17(33)
+KeyStage Same 4881(70) 98(50) 98(60) 31(61) <0.001
+4
+BecameSEN 2138(30) 97(50) 65(40) 20(39)
+Parents’university Age14 Unlikely 1598(22) 74(37) 40(30) 19(35) <0.001
+expectationsforchild
+Likely 5505(78) 126(63) 94(70) 35(65)
+Age14 Nolonger 1385(25) 32(21) 30(29) 12(28) 0.537
+!17 likely
+Same/likely 4135(75) 120(79) 75(71) 31(72)
+ap<0.05inbold;
+bNotprovidedtoavoidpotentialdisclosure.
+https://doi.org/10.1371/journal.pone.0283786.t002
+Universityintentions,trajectories,andreasons(Table3andS7Table)
+Atages14and17years,halfofstudyparticipantsreportedthatthoughttheywere80%and
+75%,respectively,likelytogotouniversity.Participantsreportingtheseprobabilitiesorhigher
+werecategorisedasintendingtogotouniversity.Thefactorsmoststronglyassociatedwith
+universityintentionofanadolescentweretheirparents’expectationsthattheywerelikelyto
+doso(adjustedOR,7.75;95%CI,6.68–9.02)and,inorderofdecreasingeffectsize,maternal
+education,sex,specialeducationneeds,ethnicity,Englishandmathematicsperformances,
+householdincome,andage(S7Table).
+Therewerenosignificantdifferencesbybetweenthosetreatedforamblyopiaandthose
+withouteyeconditionsinuniversityintentionatages14and17years(p,0.860and0.717,
+respectively)norwerethereanydifferencesintheirage-relatedtrajectories(0.959)(Table3).
+Theseresultswerethesamewhensplitbysex(0.377)orparents’universityexpectationsfor
+theirchild(0.405).
+Totestthesensitivityoftheresultsinhandlingthemissingdata,acomplete-caseanalysis
+wascarriedout,whichestimatedverysimilaraORandtheirstandarderrorsofuniversity
+intentionsassociatedwithamblyopiastatus.Theconclusionsofnosignificantdifferencedid
+notchange(S8Table).
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 6/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+Table3. Adjustedoddsratiosofsubject-specificKeyStage(KS)attainmentlevelsandage-relatedtrajectories,GCSEattainment,anduniversityintentions.
+Outcomea Eyestatus KS1aOR(95%CI) KS2aOR(95%CI) KS4aOR(95%CI) AcrossKSaOR(95%CI)
+English(perKS,n=6972) Noeyecondition 1.00 1.00 1.00 1.00
+Strabismusalone 0.71(0.47–1.07) 0.78(0.52–1.20) 1.16(0.81–1.67) 0.91(0.73–1.15)
+Refractiveamblyopia 1.10(0.69–1.80) 0.75(0.47–1.24) 0.88(0.61–1.29) 1.04(0.80–1.36)
+Strabismic/mixedamblyopia 0.61(0.29–1.38) 1.03(0.43–2.78) 1.28(0.64–2.60) 1.00(0.63–1.60)
+Mathematics(perKS,n=6989) Noeyecondition 1.00 1.00 1.00 1.00
+Strabismusalone 0.75(0.47–1.23) 0.78(0.52–1.20) 1.02(0.72–1.45) 0.86(0.68–1.10)
+Refractiveamblyopia 1.03(0.57–1.96) 0.75(0.47–1.24) 0.86(0.59–1.26) 0.86(0.66–1.13)
+Strabismic/mixedamblyopia 0.54(0.21–1.62) 1.03(0.43–2.78) 0.95(0.48–1.93) 0.87(0.54–1.44)
+Science(perKS,n=6935) Noeyecondition 1.00 1.00 1.00 1.00
+Strabismusalone 0.74(0.47–1.19) 0.79(0.51–1.25) 0.87(0.61–1.25) 0.81(0.64–1.03)
+Refractiveamblyopia 1.23(0.69–2.33) 0.65(0.39–1.11) 0.78(0.54–1.14) 0.84(0.64–1.10)
+Strabismic/mixedamblyopia 0.66(0.26–1.93) 0.59(0.25–1.54) 1.25(0.63–2.55) 0.89(0.55–1.47)
+GCSE(n=7422) Noeyecondition 1.00
+Strabismusalone 1.07(0.76–1.49)
+Refractiveamblyopia 0.73(0.51–1.06)
+Strabismic/mixedamblyopia 1.52(0.79–2.97)
+Universityintentions(perKS,n=6581) Noeyecondition 1.00 1.00 1.00
+Strabismusalone 0.84(0.54–1.30) 1.14(0.69–1.85) 0.95(0.68–1.31)
+Refractiveamblyopia 1.06(0.66–1.68) 0.79(0.42–1.42) 0.93(0.64–1.33)
+Strabismic/mixedamblyopia 1.14(0.47–2.70) 0.69(0.22–1.95) 0.92(0.46–1.78)
+aIndependentoutcomeswiththeirownregressionmodel.Alloddsratios(OR)adjustedforsex,ethnicity,pretermbirth,maternaleducation,householdincome,special
+educationneeds,andsurveyweights.Age-relatedtrajectoriesinEnglish,mathematicsandscienceacrossKeyStages(KS)additionallyadjustedforageandmulti-level
+onparticipant.Age-relatedtrajectoriesinuniversityintentionsadditionallyadjustedforage,Englishandmathematicsperformances,andparents’university
+expectations,andmulti-levelonparticipant.P<0.05inbold.Allvarianceinflationfactorswerebetween1.01and1.92,indicatingnomulticollinearity.
+https://doi.org/10.1371/journal.pone.0283786.t003
+Thosetreatedforamblyopiadidnotdifferfromthosewithouteyeconditionsinthemain
+reasonforreportingtheywereorwerenotlikelytoattenduniversity(p,0.966and0.780,
+respectively).Themostcommonreasonsforintendingtogotouniversitywerebetterjobpros-
+pects(71%)andlearningmore(9%)(Fig1).Themostcommonreasonsfornotintendingto
+gotouniversitywerebeinglikelynottogettheschoolexamgradesrequired(30%),followed
+bypreferringtogetajob(25%),feelingitwastooearlytodecide(13%),andnotbeingableto
+affordit(12%)(Fig2).
+Discussion
+Fromapopulation-basedcohortstudy,nodifferenceswerefoundbetweenchildrentreatedfor
+amblyopiaandthosewithoutanyeyeconditionsinperformancelevelsortrajectoriesofper-
+formanceinthecoresubjectsfromage7yearsandacrossthekeystagesofstatutoryschooling
+intheUK.Therewerealsonodifferencesbyamblyopiastatusinoverallperformanceatthe
+endofstatutoryschoolingnorinthesubsequentplansaboutgoingtouniversityandthe
+underlyingreasonsfortheirchoices.
+TheMillenniumCohortStudyprovidedparticularadvantagesforthisinvestigationbecause
+ofitsoverallsizeandover-samplingofsubgroupsknowntobeatgreaterriskofbothambly-
+opiaandstrabismus[22]andpooreducationaloutcomes[5].Performancethroughoutcom-
+pulsoryschoolingwereobservedinthesamechildren,enabling,ournovelinvestigationof
+trajectories.Self-andparent-reporteduniversityintentionsallowedinvestigationofboth
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 7/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+Fig1.17-year-olds’mainreasonwhylikelytogotouniversitybyamblyopiaand/orstrabismusstatus(n=4275).
+Weightedpercentagespresented.Category‘other’includedreasonsoffamilyrecommendsit,teachersrecommendit,
+enjoysociallife,getawayfromhome,andother.Noonereportedasmainreasonbecausefriendswillgo.Therewere
+nosignificantdifferencesinreasonforhavinguniversityintentionsbyamblyopiaand/orstrabismusstatus(p=0.966).
+https://doi.org/10.1371/journal.pone.0283786.g001
+parties’perceivedimpactofpriorhistoryofamblyopiaoneducationgivenobjectiveeduca-
+tionalperformance,andhowthesethreeinterrelate.Restrictionofthestudysamplebyexclud-
+ingthosewitheyeconditionsotherthanamblyopiaorstrabismusalsowithneurologicalor
+-developmentaldisorderspermittedaspecificinvestigationoftheimpactofamblyopiastatus.
+Studylimitationsincludethepossibilityofmisclassificationofamblyopiaandstrabismus
+basedonparentalreportsofeyeconditionsandtreatment,althoughthisriskislow,withprior
+validationandapplicationofthisapproach[11,24,25],includingageattreatmentinitiation
+bytypeofamblyopiafollowingclinicalexpectationsinaconsistentpattern[11],andassup-
+portedbytheproportionsofamblyopiaandstrabismusfoundinthisstudywhichalignclosely
+withsimilarpopulationstudiesintheUK[22].Bydefinition,allparticipantswithamblyopia
+hadreceivedtreatment–thereforeourstudydoesnotaddresswhetherthereisanassociation
+Fig2.17-year-olds’mainreasonwhyunlikelytogotouniversitybyamblyopiaand/orstrabismus(n=3953).
+Weightedpercentagespresented.Category‘other’includedreasonsofstartingafamilyandother.Noonereportedas
+mainreasonbecausefamilyrecommendsitandfriendsplantoleave.Therewerenosignificantdifferencesinreason
+forhavingnouniversityintentionsbyamblyopiaand/orstrabismusstatus(p=0.780).
+https://doi.org/10.1371/journal.pone.0283786.g002
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 8/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+betweenundiagnosedandthereforeuntreatedamblyopiaandeducationaloutcomes,whichis
+animportantquestion.Biasthroughnotconsentingtoeducationaldatalinkageresultedina
+studysamplewithhigherrepresentationofthosefromotherthanwhitebackgroundsand
+moreaffluentfamilies.Attritionandmissingdataarecommonproblemsincohortstudies.
+Attritionwashandledusingsampleweights[21]inthisstudy,whereasmissingobservationsin
+baselinecharacteristicswerenegligibleandmissingobservationsforuniversityintentions
+werethoroughlyexaminedbydescriptiveandregressionanalyses,andappropriatelydealt
+withbycombiningittotheinformedcategoryandcarryingoutasensitivityanalysis[31].
+Althoughregressionmodelswereadjustedforkeyknownconfounders[5,11,15–17,28,29],
+asinanyobservationalstudypotentialresidualconfoundingcannotberuledout.Regression
+modelsacrosskeystagesweremorerobustthanthoseataspecifickeystage,asevidencedby
+thewidthoftheconfidenceinterval,yetmoderateassociationsifpresentwouldhavebeen
+pickedupbythelongitudinalmodels,thereforeourconclusionsstillhold.TheMillennium
+CohortStudydoesnotcontaindataonteachers’expectationsfortheirpupilstoattenduniver-
+sityoranycareercounsellingoffered.Finally,asourstudyinvestigatedassociationsatthepop-
+ulationratherthanindividuallevel(asisappropriateforconsideringthebenefitsofauniversal
+populationscreeningprogramme),wearereportingassociations‘onaverage’andassuchitis
+possiblethatsomepupilswithamblyopiahadadverseorpositiveeducationaloutcomesthat
+arenotcapturedinthesummarystatistics.
+Therearenodirectlycomparablelongitudinalstudieswithwhichtocompareourfindings.
+Howeverourfindingofanabsenceofassociationbetweenahistoryoftreatmentforeither
+amblyopiaorstrabismusandeducationalachievementsincoresubjectsfromage7years
+onwardsalignswithourpreviousresearchonearlyschoolinguptoage7yearsinthesame
+individuals[11]aswellaswithothercross-sectionalstudiesofeducationalperformance
+betweenages7and16years[15,16].
+Studiesinvestigatingassociationsbetweenamblyopiaanddiverseoutcomesintoadultlife
+haveconflictingfindings:anassociationwithlowerlifetimeeducationalattainmenthasbeen
+reportedinolder[18,19]ratherthanmorerecentcohorts[16–18],whichisconsistentwith
+changingmitigatingfactorsratherthanachangeinthedirectimpactofamblyopiaitself.Our
+contemporarycohortshowed,reassuringly,thatneitherattainmentitselfnorintentionsoffur-
+thereducation(university)differedbyamblyopiastatus.Itwouldbereasonabletoexpect
+thereforethateducationalattainmentlaterinlifewouldnotdiffer.Thesefindingsshouldbe
+encouragingtocurrentandfuturepopulationsofaffectedchildrenandtheirparents.Despite
+priorstudiesreportingthatchildrenwithamblyopiaorstrabismusaremorelikelytobebullied
+[33,34]andhavelowerscholasticself-perception[12],itisimportanttonotethatwithinour
+contemporarycohort,thosetreatedforamblyopiadidnothavelowerconfidenceonaverage
+intheirperformanceincoresubjectsnordifferintheirassessmentoftheirprospectsforfur-
+thereducationthanthosewithoutanyeyeconditions.Parentalexpectationshighlyinfluence
+children’sintentionsregardinghighereducation[5–8]butwefoundnosynergisticeffect
+betweenparentsexpectationsfortheirchildrenandtheirchild’samblyopiastatus,whichis
+alsoencouraging.
+Conclusions
+Ourstudyfoundnoassociationbetweenhavingbeentreatedforamblyopiaandeducational
+performanceduringstatutoryschoolingnorintentionsforfurthereducation.Thesefindings
+shouldreassurefamilies,teachers,andcliniciansandpolicymakersthathavingamblyopia
+neednotbeconsideredabarriertoeducationaloutcomesorambitions.
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 9/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+Supportinginformation
+S1Checklist.STROBEstatement—Checklistofitemsthatshouldbeincludedinreportsof
+cohortstudies.
+(DOCX)
+S1Table.Codingofcovariatesandoutcomes.
+(DOCX)
+S2Table.Adjustedoddsofnon-consenteducationdatalinkageandmissingdatainuni-
+versityintentions(n=9989).
+(DOCX)
+S3Table.TrajectoriesofachievingKeyStage(KS)levelsofEnglish.
+(DOCX)
+S4Table.TrajectoriesofachievingKeyStage(KS)levelsofmathematics.
+(DOCX)
+S5Table.TrajectoriesofachievingKeyStage(KS)levelsofscience.
+(DOCX)
+S6Table.AdjustedeffectsassociatedwithpassingGCSE(n=7422).
+(DOCX)
+S7Table.Trajectoriesofadolescents’universityintentions.
+(DOCX)
+S8Table.Completecaseanalysisofadolescents’universityintentions.
+(DOCX)
+AuthorContributions
+Conceptualization:LisanneAndraHorvat-Gitsels,JugnooSangeetaRahi.
+Datacuration:LisanneAndraHorvat-Gitsels,JugnooSangeetaRahi.
+Formalanalysis:LisanneAndraHorvat-Gitsels.
+Fundingacquisition:JugnooSangeetaRahi.
+Investigation:LisanneAndraHorvat-Gitsels,MarioCortina-Borja,JugnooSangeetaRahi.
+Methodology:LisanneAndraHorvat-Gitsels,MarioCortina-Borja.
+Projectadministration:JugnooSangeetaRahi.
+Resources:JugnooSangeetaRahi.
+Software:LisanneAndraHorvat-Gitsels,MarioCortina-Borja.
+Supervision:MarioCortina-Borja,JugnooSangeetaRahi.
+Visualization:LisanneAndraHorvat-Gitsels,MarioCortina-Borja.
+Writing–originaldraft:LisanneAndraHorvat-Gitsels.
+Writing–review&editing:LisanneAndraHorvat-Gitsels,MarioCortina-Borja,JugnooSan-
+geetaRahi.
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 10/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+References
+1. BrooksF.Thelinkbetweenpupilhealthandwellbeingandattainment:Abriefingforheadteachers,gov-
+ernorsandstaffineducationsettings.PublicHealthEngland.London;2014.http://dera.ioe.ac.uk/id/
+eprint/23008
+2. PublicHealthEngland.Healthmatters:Prevention—alifecourseapproach[Internet].2019[cited2021
+Mar2].https://www.gov.uk/government/publications/health-matters-life-course-approach-to-
+prevention/health-matters-prevention-a-life-course-approach
+3. WHO.Synergybetweensectors:fosteringbettereducationandhealthoutcomes[Internet].Copenha-
+gen;2015.http://www.euro.who.int/__data/assets/pdf_file/0007/324619/Health-2020-Education-and-
+health-through-the-life-course-en.pdf?ua=1
+4. MarmotM,AllenJ,BoyceT,GoldblattP,MorrisonJ.HealthEquityinEngland:TheMarmotReview10
+YearsOn.London;2020.
+5. GoodmanA,GreggPA,WashbrookEV.Children’seducationalattainmentandtheaspirations,atti-
+tudesandbehavioursofparentsandchildrenthroughchildhood.LongitLifeCourseStud.2011;2(1):1–
+18.
+6. HuatSeeB,GorardS.Theroleofparentsinyoungpeople’seducation—acriticalreviewofthecausal
+evidence.OxfordRevEduc.2015;41(3):346–66.
+7. FlouriE.Parentalinterestinchildren’seducation,children’sself-esteemandlocusofcontrol,andlater
+educationalattainment:Twenty-sixyearfollow-upofthe1970BritishBirthCohort.BrJEducPsychol.
+2006;76(1):41–55.https://doi.org/10.1348/000709905X52508PMID:16573978
+8. GordonMS,CuiM.PositiveParentingDuringAdolescenceandCareerSuccessinYoungAdulthood.J
+ChildFamStud.2015;24(3):762–71.
+9. SoleboAL,CumberlandPM,RahiJS.Whole-populationvisionscreeninginchildrenaged4–5yearsto
+detectamblyopia.Lancet.2015Jun;385(9984):2308–19.https://doi.org/10.1016/S0140-6736(14)
+60522-5PMID:25499167
+10. SlootF,HoeveHLJ,deKroonMLA,GoedegebureA,CarltonJ,GriffithsHJ,etal.Inventoryofcurrent
+EUpaediatricvisionandhearingscreeningprogrammes.JMedScreen.2015;22(2):55–64.https://doi.
+org/10.1177/0969141315572403PMID:25742803
+11. GitselsLA,Cortina-BorjaM,RahiJS.Isamblyopiaassociatedwithschoolreadinessandcognitiveper-
+formanceduringearlyschooling?FindingsfromtheMillenniumCohortStudy.PLoSONE.2020Jun19;
+15(6):e0234414.https://doi.org/10.1371/journal.pone.0234414PMID:32559208
+12. BirchEE,CastañedaYS,Cheng-PatelCS,MoraleSE,KellyKR,BeauchampCL,etal.Self-perception
+ofSchool-agedChildrenwithAmblyopiaandItsAssociationwithReadingSpeedandMotorSkills.JAMA
+Ophthalmol.2019;137(2):167–73.https://doi.org/10.1001/jamaophthalmol.2018.5527PMID:30452518
+13. StifterE,BurggasserG,HirmannE,ThalerA,RadnerW.Monocularandbinocularreadingperformance
+inchildrenwithmicrostrabismicamblyopia.BrJOphthalmol.2005;89(10):1324–9.https://doi.org/10.
+1136/bjo.2005.066688PMID:16170125
+14. KellyKR,JostRM,DeLaCruzA,BirchEE.Amblyopicchildrenreadmoreslowlythancontrolsunder
+natural,binocularreadingconditions.JAmAssocPediatrOphthalmolStrabismus.2015Dec;19
+(6):515–20.
+15. HillM,HallA,WilliamsC,EmondAM.Impactofco-occurringhearingandvisualdifficultiesinchildhood
+oneducationaloutcomes:Alongitudinalcohortstudy.BMJPaediatrOpen.2019;3(1):1–8.https://doi.
+org/10.1136/bmjpo-2018-000389PMID:31206071
+16. RahiJS,CumberlandPM,PeckhamCS.Doesamblyopiaaffecteducational,health,andsocialout-
+comes?Findingsfrom1958Britishbirthcohort.BMJ.2006Apr8;332(7545):820–5.https://doi.org/10.
+1136/bmj.38751.597963.AEPMID:16520328
+17. WilsonGA,WelchD.Doesamblyopiahaveafunctionalimpact?FindingsfromtheDunedinMultidisci-
+plinaryHealthandDevelopmentStudy.ClinExpOphthalmol.2013;41(2):127–34.https://doi.org/10.
+1111/j.1442-9071.2012.02842.xPMID:22712767
+18. BountzioukaV,CumberlandPM,RahiJS.ImpactofPersistingAmblyopiaonSocioeconomic,Health,
+andWell-BeingOutcomesinAdultLife:FindingsFromtheUKBiobank.ValueHeal[Internet].2021;24
+(11):1603–11.https://doi.org/10.1016/j.jval.2021.05.010PMID:34711360
+19. ChuaB,MitchellP.Consequencesofamblyopiaoneducation,occupation,andlongtermvisionloss.Br
+JOphthalmol.2004;88(9):1119–21.https://doi.org/10.1136/bjo.2004.041863PMID:15317699
+20. HansenK,editor.MillenniumCohortStudy:AGuidetotheDatasets. 8thed. London: CentreforLongi-
+tudinalStudies;2014.
+21. PlewisI,editor.TheMillenniumCohortStudy:TechnicalReportonSampling. 4thed. London: Centre
+forLongitudinalStudies;2007.
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 11/12
+PLOS ONE Doesamblyopiaaffecteducationalattainmentandtrajectories?
+22. WilliamsC,NorthstoneK,HowardM,HarveyI,HarradRA,SparrowJM.Prevalenceandriskfactorsfor
+commonvisionproblemsinchildren:DatafromtheALSPACstudy.BrJOphthalmol.2008;92(7):959–
+64.https://doi.org/10.1136/bjo.2007.134700PMID:18480306
+23. CentreforLongitudinalStudies.MillenniumCohortStudyAguidetotheLinkedAdministrativeDatasets.
+2015;(May).https://cls.ucl.ac.uk/wp-content/uploads/2019/07/User-guide-to-the-Linked-Education-
+Datasets-2019-Version2_May2019.pdf
+24. PathaiS,CumberlandPM,RahiJS.Prevalenceofandearly-lifeinfluencesonchildhoodstrabismus:
+Findingsfromthemillenniumcohortstudy.ArchPediatrAdolescMed.2010;164(3):250–7.https://doi.
+org/10.1001/archpediatrics.2009.297PMID:20194258
+25. CumberlandPM,PathaiS,RahiJS.Prevalenceofeyediseaseinearlychildhoodandassociatedfac-
+tors:Findingsfromthemillenniumcohortstudy.Ophthalmology.2010;117(11):2184–2190.e3.https://
+doi.org/10.1016/j.ophtha.2010.03.004PMID:20561688
+26. RahiJS,CableN.SeverevisualimpairmentandblindnessinchildrenintheUK.Lancet.2003Oct25;
+362(9393):1359–65.https://doi.org/10.1016/S0140-6736(03)14631-4PMID:14585637
+27. DepartmentforEducation.Nationalcurriculum[Internet].Crown.2013[cited2021Mar19].https://
+www.gov.uk/government/collections/national-curriculum
+28. OddD,EvansD,EmondAM.Predictionofschooloutcomeafterpretermbirth:acohortstudy.ArchDis
+Child.2019;104:348–53.https://doi.org/10.1136/archdischild-2018-315441PMID:30297444
+29. AndrewsJ,RobinsonD,HutchinsonJ.ClosingtheGap?TrendsinEducationalAttainmentandDisad-
+vantage.London,UK;2017.
+30. RCoreTeam.Rversion4.1.0:Alanguageandenvironmentforstatisticalcomputing[Internet].Vienna,
+Austria:RFoundationforStatisticalComputing;2021.https://www.r-project.org/
+31. Moreno-BetancurM,LeeKJ,LeacyFP,WhiteIR,SimpsonJA,CarlinJB.Canonicalcausaldiagramsto
+guidethetreatmentofmissingdatainepidemiologicstudies.AmJEpidemiol.2018;187(12):2705–15.
+https://doi.org/10.1093/aje/kwy173PMID:30124749
+32. SterneJAC,WhiteIR,CarlinJB,SprattM,RoystonP,KenwardMG,etal.Multipleimputationformiss-
+ingdatainepidemiologicalandclinicalresearch:potentialandpitfalls.BMJBrMedJ.2009;338:157–
+60.https://doi.org/10.1136/bmj.b2393PMID:19564179
+33. HorwoodJ,WaylenA,HerrickD,WilliamsC,WolkeD.Commonvisualdefectsandpeervictimizationin
+children.InvestigOphthalmolVisSci.2005;46(4):1177–81.https://doi.org/10.1167/iovs.04-0597
+PMID:15790876
+34. WilliamsC,HorwoodJ,NorthstoneK,HerrickD,WaylenA,WolkeD,etal.Thetimingofpatchingtreat-
+mentandachild’swellbeing.BrJOphthalmol.2006Jun1;90(6):670–1.https://doi.org/10.1136/bjo.
+2006.091082PMID:16714262
+PLOSONE|https://doi.org/10.1371/journal.pone.0283786 March30,2023 12/12

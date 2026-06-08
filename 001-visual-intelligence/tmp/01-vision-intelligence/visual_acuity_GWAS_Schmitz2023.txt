@@ -1,0 +1,698 @@
+www.nature.com/npjscilearn
+ARTICLE OPEN
+fi
+Identi cation of loci involved in childhood visual acuity and
+associations with cognitive skills and educational attainment
+✉
+JudithSchmitz 1,2, FilippoAbbondanza1,Krzysztof Marianski1, Michelle Luciano 3and Silvia Paracchini 1
+Visualacuitysignificantlycontributestoqualityoflife.Deficitsinchildhoodareassociatedwithreadingdifficulties,whichcanhave
+detrimentaleffectsoneducationoutcomes.Inadults,ithasbeenobservedthatvisiondefectssuchasmyopiaareassociatedwith
+highereducationalattainment(EA).Understandinggeneticfactorscontributingtovisualacuitycouldhelptodissectitslinkswith
+cognitive skills, neurodevelopmental conditions, andeducation. Weexamined associations betweendistance visualacuity,
+cognitive measures including school grades,and neurodevelopmental conditions ina longitudinalcohort of British children
+(ALSPAC,n=6807,Mage=11.8).Weperformedagenome-wideassociationstudy(GWAS,n=5571)onvisualacuityandtested
+forgeneticassociationswithrelevantphenotypesusingpolygenicscores(PGS)andgeneticcorrelationanalyses.Visualacuitywas
+associatedwithbettercognitiveperformanceandschoolgrades,andreducedinindividualswithreadingdifficultiescomparedto
+controls.GWASrevealedgeneticassociationsattheNPLOC4locusandhighlightedothergenesinvolvedinsensoryfunction.Inline
+withpositivegenetic correlations between visual acuityand cognitive measures,EA PGSwere positivelyassociated with visual
+acuity,whiletherewasalessrobustnegativeassociationwithmyopiaPGS.Inconclusion,increasedvisualacuityisassociatedwith
+arangeof positiveoutcomes, including better school grades. Ourresults suggestan association between ahigherEA PGSand
+slightlyincreasedvisualacuityinchildhood.Thiscouldindicategene-environmentcorrelation,inwhichenvironmentalexposures
+linkedto higherEAmight havedetrimental effects on visionoffsetting theinitial positive effect.
+npjScience of Learning (2023) 8:25 ; https://doi.org/10.1038/s41539-023-00175-w
+INTRODUCTION to be associated with school grades after adjusting for sex,
+Visualfunctionhasasignificantimpactonperceivedqualityoflife, ethnicity, school, reading skill, IQ, and paternal education13
+which is expressed vividly in the finding that on average, elderly suggestingthatitsproximaleffectsareonreadingskill.
+subjects with reduced visual function (n=325) would trade 20% Understanding genetic factors contributing to visual function
+to 50% of remaining lifetime for perfect vision1. Visual acuity is couldhelptodissectitslinkswithneurodevelopmentalconditions
+defined as the visual system’s ability to resolve spatial detail and and reading skill. Several genome-wide association studies
+usually measured as distance visual acuity with the chart placed (GWAS)havebeenpublishedonrefractiveerrorasaquantitative
+20 feet or 6 metres away. The most common defect underlying phenotype (n≤542,934)14–20 or myopia in individuals of Asian
+reduced visual acuity is uncorrected refractive error. Refractive (n≤5030)21–27 and European descent (n≤191,843)28–31. These
+error is present when the light from an object of interest is not GWASidentified upto449 discrete loci (n=542,934)15.
+focussed accurately onto the retina and most commonly due to PreviousGWASonvisualfunctionhavealmostexclusivelybeen
+theeyeballbeinglongerorshorterthannormal2.Inchildren,the performed in older cohorts. However, the 39 lead single
+riskforsignificantuncorrectedmyopia(typicallydefinedas≤-8to nucleotide polymorphisms (SNPs) associated with refractive
+-5dioptres) isinversely related to visual acuity3. error28haveshowndifferenteffectsonrefractiveerrorindifferent
+Variationinvisualacuityhasbeentestedforanassociationwith age groups32,33 most likely due to gene-environment interac-
+neurodevelopmental conditions such as ADHD and autism tions16. For example, individuals at high genetic risk for myopia
+spectrumdisorder(ASD)withvariedresults4–7.Themagnocellular haveamuchmoreincreasedmyopiariskiftheyhaveaUniversity
+theory of dyslexia suggests that a large part of the variance in degree(OR~51comparedtothegeneralpopulation)thanifthey
+reading skill is determined by visual and auditory sensitivity8. only have primary schooling (OR~7)34. Using Mendelian rando-
+Several studies have focused on possible associations between misation, it has been shown that higher educational attainment
+visual acuity and reading skill. Among 1910 US school children, (EA) poses a causal risk factor for myopia (i.e., reduced visual
+students with poor visual acuity were equally likely to be above- function)ratherthanviceversa35.However,associationsbetween
+average, average or below-average readers9. In contrast, in a UK visual acuity and cognitive measures described above suggest
+sample (overall n=9545), children with bilateral deficits in near that visual and cognitive function are linked positively in
+visualacuity(butnotchildrenwith,e.g.,unilateralordistancevisual childhood.Thisdifferingpatterninchildhoodvs.adulthoodcould
+acuity deficits) were underachieving at reading after adjustment beexplainedbygene-environmentcorrelation.Thatistosay,the
+for socioeconomic status (SES), intelligence, and sex10. Moreover, genetic background contributing to adult EA is associated with
+childrenwithdyslexia(n=86)havebeenfoundtoperformworse better childhood visual acuity (given its positive effect on
+on near and distance visual acuity tests than sex-, age-, and IQ- cognitive skills), resulting in better school performance. This
+matchedcontrols11.Variationinvisualacuity hasbeenassociated mightleadtomoretimespentindoors,reading,andscreentime
+withearlyliteracyat4-5years(n=2025)12buthasnotbeenfound andeventuallyincreasedmyopiarisk.Ifthisisthecase,polygenic
+1School of Medicine, University of St Andrews, St Andrews, Scotland, UK. 2Biological Personality Psychology, Georg-August-University Goettingen, Goettingen, Germany.
+3DepartmentofPsychology,TheUniversityofEdinburgh,Edinburgh,Scotland,UK. ✉ email:sp58@st-andrews.ac.uk
+PublishedinpartnershipwithTheUniversityofQueensland
+;,:)(0987654321
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+2
+Fig.1 Associationsbetweenvisualacuity,cognitiveskills,andadultmyopia.Thereisanegativelinkbetweenvisualacuityandmyopiarisk
+inchildhood(notshown).Therefore,weexpectthatgeneticfactorsknowntoincreasemyopiarisk(myopiaPGS)arenegativelyassociated
+withvisualacuity(blackdottedarrow).However,visualacuityhasbeenassociatedwithincreasedcognitiveskills,contributingtomoreyears
+spentineducation,whichhavebeenshowntoincreasemyopiarisk(redsolidarrows).Therefore,weexpectapositiveassociationbetween
+thePGSforeducationalattainment(EA)andchildhoodvisualacuity(reddottedarrow).ThediscrepancyofEAPGSbeingassociatedpositively
+withchildhoodvisualfunctionandEAbeingassociatednegativelywithadultvisualfunction(inthatitincreasesmyopiarisk)suggestsgene-
+environmentcorrelation.Specifically,thesamefactorsassociatedwithbettervisionearlier(EAPGS)arealsoassociatedwithenvironmental
+exposureswithdetrimentaleffectsonvision.Arrowsrepresentapositiveassociationunlessotherwiseindicatedwithaminussymbol(-).
+Fig.2 Distributionofvisualacuity.aDistributionofvisualacuity(bettereye)intheoverallsample(n=6807),andbasafunctionofsex
+(n =3444;n =3356).
+females males
+scores (PGS) for EA should show a positive rather than negative d=0.07, p=.004 (Fig. 2b). Linear regression revealed a positive
+associationwithchildhoodvisualacuity(Fig.1,reddottedarrow). effectofageonvisualacuity(F =20.44,ß=0.02,SE=0.004,
+(1,6805)
+Instead, a PGS for myopia represents a biological mechanism adjustedR2=0.28, p=6.3×10−6).
+affectingvisualfunctionunrelatedtotheenvironmentandshould Partial correlation analyses adjusting for sex and age revealed
+thereforeshowanegativeassociationwithchildhoodvisualacuity positive correlations between visual acuity and cognitive perfor-
+(Fig.1,black dottedarrow). mance including General Certificate of Secondary Education
+Inthepresentstudy,weexaminedassociationsbetweenvisual (GCSE) scores (all p<3.0×10−7) (Fig. 3a, correlation plots in
+acuity at the age of 11.8 years and cognitive measures including Supplementary Fig. 2). Partial correlation analysis between visual
+readingskillandschoolgradesintheAvonLongitudinalStudyof acuity and GCSE adjusting for sex, age, reading skill, verbal IQ,
+ParentsandChildren(ALSPAC)cohort(n=6807).Weperformeda performance IQ, and SES revealed an attenuated, but significant
+GWAS on visual acuity in children (n=5571) and tested for association (r =0.05,95% CI= [0.02, 0.08],p=0.001).
+(5662)
+associations with various cognitive measures, neurodevelopmen- We previously also reported associations between hearing
+tal conditions, and visual phenotypes using PGS and genetic ability and cognitive and neurodevelopmental traits36. To ensure
+correlationanalyses. thatassociationsbetweenvisualacuityandcognitivetraitsarenot
+driven by associations of visual acuity with hearing ability, we
+performed bivariate Pearson correlations on visual acuity and
+RESULTS
+hearing threshold in the sample overlapping our previous study
+Visual acuity andcognitive abilities (n=4929). Partial Pearson correlation analysis adjusting for sex
+Visual acuity ranged from 85 to 120 (M=107.38, SD=3.93) and agedid not reveal evidence for acorrelation between visual
+(Fig. 2a; GWAS subset shown in Supplementary Figure 1). Boys acuity and hearing threshold (r =−0.02, 95% CI=[−0.05,
+(4927)
+showed slightly higher visual acuity (M=107.52, SD=3.97) than −0.005], p=0.104), suggesting independence of hearing and
+girls(M=107.24,SD=3.89),t =2.90,95%CI=[0.08,0.46], visionphenotypes.
+(6782.2)
+npjScienceofLearning(2023) 25 PublishedinpartnershipwithTheUniversityofQueensland
+;,:)(0987654321
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+3
+Fig. 3 Correlation coefficients for visual acuity and cognitive measures. a Behavioural correlations. b Genetic correlations in unrelated
+individuals.CorrelationsareshownifpassingtheBonferroni-correctedsignificancelevel(0.05/8=0.00625).
+Fig. 4 Visual acuity subgroup analyses. a grouped by SES and b grouped by neurodevelopmental conditions. Error bars of violin plots
+representstandarddeviations(s.d.).***p<0.001,**p<0.01,*p<0.05inTukeypost-hoctestsafteradjustmentformultiplecomparisons.
+One-way between-subjects ANOVA revealed a significant main difficulty (n=202, mean=106.81, SD=3.48) compared to
+effect of SES on visual acuity after adjusting for sex and age controls (n=2222, mean=107.99, SD=3.47, adjusted
+(F =17.78,η2=0.01,95%CI=[0.01,1.00],p=1.6×10−14). p=4.6×10−5) was stronger after excluding outliers.
+(4,6230)
+Post-hoc comparisons using the Tukey test indicated significant
+differences between most SES groups (Supplementary Tables 3 Withinsample genetic correlation
+and4),suggestingthathigherSESisassociatedwithbettervisual
+SNP-h2 for visual acuity (estimated using GCTA-GREML) was 0.26
+acuity (Fig. 4a). Moreover, there was a significant but small main (SE=0.07, p=4.5×10−5). Significant positive genetic correlation
+effect of neurodevelopmental condition on visual acuity after
+wasfoundwithlisteningcomprehension,shorttermmemory,and
+adjusting for sex and age (F =6.54, η2=0.01, 95% CI =
+(4,2666) GCSE scores (Fig. 3b, Supplementary Table 5). There was no
+[0.00, 1.00], p=3.1×10−5) with post-hoc comparisons indicating significant genetic correlation between visual acuity and hearing
+reduced visual acuity in the reading difficulty group (n=203,
+threshold (n=3833, r =−0.56, SE=0.73, p=0.181).
+mean=106.71, SD=3.77) compared to the control group g
+(n=2238, mean=107.89, SD=3.69, adjusted p=0.0001)
+(Fig.4b). GWAS
+To ensure that the effect of neurodevelopmental group on Twelve SNPs at the NPLOC4 locus on chromosome 17 reached
+visual acuity was not driven by outliers, the analysis was genome-wide significance (Fig. 5a, Supplementary Table 6, QQ
+repeated after excluding individuals with visual acuity smaller plot Supplementary Fig. 3). The strongest association was found
+than3standarddeviationsbelowthemean(16individualsfrom forrs11656126(p=2.1×10−8)witheachcopyofthemajorallele
+the control group and one individual each from the reading (G) (MAF=0.35) shifting an individual 0.11SD towards better
+difficulty, the language impairment, and the ADHD group). The visual acuity. The top marker on chromosome 5 (rs159195) is
+main effect of neurodevelopmental condition on visual acuity locatedinan intronof PDE4D.
+remained significant before (F =6.71, η2=0.01, 95% In the targeted replication analysis of SNPs derived from
+(4,2649)
+CI=[0.00, 1.00], p=2.3×10−5) and after adjusting for sex and previousliterature,twogenomiclocireachedBonferroni-corrected
+age (F =6.75, η2=0.01, 95% CI = [0.00, 1.00], significance (Supplementary Table 7). The first locus spanned 20
+(4,2647)
+p=2.1×10−5). Post-hoc comparisons for the unadjusted SNPs in the chromosomal region 17:79526821-17:79630941,
+ANOVAshowthattheeffectofreducedvisualacuityinreading including the NPLOC4 and the PDE6G gene. Among the 20 SNPs
+PublishedinpartnershipwithTheUniversityofQueensland npjScienceofLearning(2023) 25
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+4
+Fig.5 Manhattanplotsforvisualacuity.aSNP-basedandbgene-basedassociationpvaluesareplottedagainstchromosomeandposition.
+SNP-basedpvaluesoriginfromlinearmixedmodelsinBOLT-LMM.Gene-basedpvaluesoriginfromre-weightingofSNP-basedpvaluesin
+MAGMA. The solid line represents the genome-wide significance level (a: p=5×10−8, b: p=2.7×10−6), the dotted line represents a
+suggestivesignificancelevel(a:p=1×10−5,b:p=1×10−4),respectively.
+wasrs6420484,forwhicheachcopyoftheAallelehaspreviously taste” (GO:0050909, p=3.2×10−6) reached the Bonferroni-
+been associated with reduced refractive error (ß=−5.94, corrected significancelevel.
+p=2.8×10−9)17.Likewise,inourstudy,eachcopyoftheAallele
+shifted an individual towards reduced visual acuity (MAF=0.35, Acrosssamplesgenetic correlation
+ß=−0.11,p=9.3×10−8).ThesecondlocusspannedfourSNPsin
+SNP-h2 for visual acuity (estimated using LDSC) was 0.18
+thechromosomalregion2:233372766-2:233385025,locatedinan (SE=0.09). Visual acuity showed significant genetic correlations
+intergenic region upstream of PRSS56 previously associated with with cognitive performance and EA, but no genetic correlation
+myopia28 and refractive error16. with visual phenotypes in the UK Biobank (Table 1). Of note,
+smaller logMAR values correspond to better visual acuity, so
+negative correlation coefficients are expected. Sample sizes for
+Post GWAS analysis visualphenotypesinUKBiobankarecomparablysmall,explaining
+Inline withSNP-based analysis, NPLOC4 wasthe tophitin gene- the large standard errors. It is of note that SNP-h2 for logMAR
+based analysis (Fig. 5b, QQ plot Supplementary Fig. 4, values in the UK Biobank are considerably smaller (0.03 and 0.02
+p=1.2×10−6). FUMA revealed that SNPs in the NPLOC4 locus for the left and right eye, respectively) than for ALSPAC children
+have been previously linked to sensory phenotypes such as (0.18),suggestingthat,inspiteofamuchsmallersample,analysis
+advancedage-relatedmaculardegeneration,sphericalequivalent in individuals at young age might facilitate the detection of
+(i.e., refractive error), and refractive astigmatism (GWAS catalog, geneticeffects.
+Supplementary Table 8). The significant locus spans multi-tissue
+eQTLS influencing the expression of genes at the NPLOC4 locus PGS
+including PDE6G and TSPAN10 (Supplementary Table 9). FINDOR EA PGS showed a robust positive association with visual acuity
+re-weighted p values resulted in an uplift of the signals at (Table2)acrossmultiplepvaluethresholds(SupplementaryFig.6,
+chromosome 17 and 14 (Supplementary Fig. 5, Supplementary Supplementary Table 11), indicating that genetic propensity
+Table10).Ingenesetenrichmentanalysis,“sensoryperceptionof towards higher EA is associated with better visual acuity in
+npjScienceofLearning(2023) 25 PublishedinpartnershipwithTheUniversityofQueensland
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+5
+Table1. Acrosssamplesgeneticcorrelation(LDScoreregression)ofvisualacuitywithcognitiveandvisualtraits.
+Trait n SNP-h2 r withvisualacuity SE p
+g
+Cognitiveperformancea 257,841 0.20 0.32 0.11 0.005
+Educationalattainmenta 766,000 0.11 0.25 0.09 0.006
+logMAR(left) 79,239 0.03 −0.68 0.35 0.052
+logMAR(right) 79,293 0.02 −0.34 0.31 0.281
+Sphericalpower(left) 77,739 0.27 −0.04 0.10 0.699
+Sphericalpower(right) 77,983 0.27 −0.03 0.11 0.769
+Cylindricalpower(left) 77,739 0.03 −0.34 0.25 0.183
+Cylindricalpower(right) 77,983 0.03 −0.25 0.23 0.291
+asignificantafterBonferronicorrectionforeightcomparisons(p=0.00625)
+Table2. ResultsofPGSanalysisonvisualacuity(linearregressionanalyseswithvisualacuityastheoutcome,PGSandcovariatesaspredictors).
+Unstandardised Standardised
+Trait pvaluethresholdb nincludedSNPs ß SE ß SE PGSR2(%) FullR2(%) p
+ADHD 0.0036 3105 −86.60 39.83 −0.03 0.01 0.09% 2.01% 0.0297
+Autismspectrumdisorder 0.0390 13397 150.33 99.95 0.02 0.01 0.04% 1.96% 0.1326
+Bipolardisorder 0.2306 52725 381.60 305.29 0.02 0.01 0.03% 1.95% 0.2114
+Dyslexia 0.0002 1296 −124.84 40.19 −0.04 0.01 0.18% 2.10% 0.0019
+Schizophrenia 5×10-8 349 8.56 4.84 0.03 0.01 0.06% 1.98% 0.0772
+Educationalattainmenta 0.0276 26404 2723.68 713.55 0.05 0.01 0.28% 2.20% 0.0001
+Intelligence 0.0074 11381 769.36 310.68 0.03 0.01 0.12% 2.04% 0.0133
+Myopiaa 0.0062 6072 −359.92 97.43 −0.05 0.01 0.26% 2.18% 0.0002
+Refractiveerror 5×10-8 648 0.19 0.11 0.02 0.01 0.06% 1.98% 0.0790
+asignificantafterBonferronicorrection(p=0.00062)andindicatedinbold.
+bpvaluethresholdwiththehighestpredictivepowerforvisualacuity.Forothertestedpvaluethresholds,seeSupplementaryTable11.
+childhood. The standardised beta coefficient indicates that an were associated with better visual acuity in children before the
+increaseof1SDinEAPGSisassociatedwithanincreaseof0.05SD end of compulsory education. These findings are consistent with
+invisualacuity.Thisassociation stillholdsafterincludingmyopia theories that emphasise the importance of the senses in higher
+PGS, refractive error PGS, or intelligence PGS as additional ordercognition38.
+covariates to the PGS analysis (Supplementary Table 12). In Overall, 26% of the variance in visual acuity was attributed to
+contrast, myopia PGS showed a negative association with visual geneticvariationascapturedbyageneticrelationshipmatrix.The
+acuitywith1SDincreaseinmyopiaPGSassociatedwitha0.05SD 12SNPsreachinggenome-widesignificanceinvisualacuityGWAS
+decreaseinvisualacuity(Table2).Therewasnoassociationwith wereannotatedtoNPLOC4,whichhasbeenimplicatedinseveral
+PGSforneurodevelopmental outcomes. GWAS on visual phenotypes previously. Gene-based analysis
+confirmed the NPLOC4 association. The top marker on chromo-
+some5(rs159195)islocatedinanintronofPDE4D,whichshows
+DISCUSSION
+abundantexpressionintherodentretina39andcommonvariants
+We report behavioural and genetic associations of visual acuity
+in PDE4D have been reported in GWAS on sudden sensorineural
+withcognitivemeasuresincludingreadingskillandschoolgrades
+hearingloss40.Targetedanalysisformarkersreportedinprevious
+in children. We found that better visual acuity is associated with
+GWAS for myopia and refractive error highlighted two loci in
+higher SES, higher IQ scores, and increased language-related
+NPLOC4 and PDE6G. PDE6G is expressed in photoreceptors and
+cognitive skills. Increased visual acuity at 11.8 years is associated
+encodesforkeyenzymesofvisualphototransductionsignallingin
+with higher GCSE scores after adjusting for sex, reading skill, IQ,
+theretina41.
+and SES, suggesting long-lasting effects of visual acuity on
+Despite the small sample size, we both identified associations
+academic achievement.
+with genes involved in sensory function and replicated top hits
+Given the association with language-related skills, we investi-
+from previous vision GWAS in adults. The direction of genetic
+gated visual acuity in language-related neurodevelopmental
+conditions and found an association specifically with reading
+correlationcoefficientsbetweenlogMARvaluesintheUKBiobank
+difficulty with behavioural data, in line with previous research12. (r g =−0.68 and −0.34 for the left and right eye, respectively)
+According to the magnocellular theory dyslexia may result from further suggests that our analysis captured similar genetics as
+the destabilisation of visual fixation37. The association between previous relevant GWAS. The LDSC SNP-h2 estimate in our study
+visualacuityandreadingabilitieswasalsoobservedintheoverall (SNP-h2=0.18) is considerably higher than the ones in UK
+sampleregardlessofareadingdifficultydiagnosis.Wedidnotfind Biobank (0.03 and 0.02 for the same phenotype) despite a much
+associationsbetween PGSforneurodevelopmental disordersand smallersamplesize.Thisindicates,consistentwithourmodel,that
+visual acuity when controlling for SES. However, higher EA PGS over the course of development, environmental factors play
+PublishedinpartnershipwithTheUniversityofQueensland npjScienceofLearning(2023) 25
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+6
+increasingly larger effects on visual function, resulting in less METHODS
+phenotypic varianceexplained by geneticfactors. Cohort
+Since both EA PGS42 and access to eye examinations43 are
+ALSPAC is a UK population-based longitudinal cohort. Pregnant
+associatedwithhigherSES,weranPGSanalyseswhilecontrolling womenresidentinthecountyofAvon,UK,withexpecteddatesof
+for SES. EA PGS showed a positive association with visual acuity, deliveryfrom1stApril1991to31stDecember1992wereinvited
+suggesting that the behavioural associations between visual totakepartinthestudy,resultingin14,062livebirthsand13,988
+acuityandcognitiveskillsareeithermediatedbysharedbiological children who were alive at 1 year of age46,47. When the oldest
+pathwaysorcanbeexplainedbycausalrelationships.Byincluding children were approximately 7 years of age, eligible cases who
+maternal education (used as a proxy measure for SES) as a had failed to join the study originally were contacted again,
+covariate, we confirm that the EA PGS is associated with visual resulting in an additional 913 children being enrolled. The total
+functionafteraccountingfordifferentialenvironmentsrelevantto sample size for data collected after the age of seven is therefore
+educationprovidedbythemothers.However,wecannotruleout 15,454 pregnancies, resulting in 15,589 foetuses. Of these 14,901
+residualconfounding by unmeasuredvariables. werealive at1 yearof age.
+In adults, it has been shown that a higher number of years Informed written consent was obtained from the mother for
+spent in education is a causal risk factor for myopia35. Since low analysisofherbiologicalsamplesforgeneticandotherpurposes,
+visualacuityisalsoariskfactorformyopia3thepositiveeffectof and by the accompanying parent for visual and other in person
+the EA PGS on childhood visual acuity is unexpected at first tests. Informed consent for the use of data collected via
+questionnairesandclinics wasobtainedfromparticipants follow-
+glance. However, as the children participating in this study have
+ing the recommendations of the ALSPAC Ethics and Law
+notyetreachedtheendofcompulsoryeducation,allhavehadthe
+Committee at the time. Parents were informed throughout that
+same number of educational years, suggesting that before
+they, or their children, could withdraw at any time48. At age 18,
+environmental exposures are amplified by different educational
+study children were sent ‘fair processing’ materials describing
+trajectories, EA PGS are positively related to visual function. The ALSPAC’sintendeduseoftheirhealthandadministrativerecords
+associationofhigherEAwithmyopiainadulthoodisthuslikelyto
+and were given clear means to consent or object via a written
+reflect gene-environment correlation. Specifically, genetic factors
+form. Data were not extracted for participants who objected, or
+associatedwithhigherEAmightpredisposetomorereadingand
+whowerenotsent fair processing materials.
+nearworkwhichincreasesmyopiarisk(Fig.1).Thisisinlinewitha Ethical approval for the present study was obtained from the
+previous study confirming that EA PGS was not predictive for ALSPACLawandEthicsCommitteeandtheLocalResearchEthics
+visualfunctioninALSPACmothers(PGSR2=0.14%)44.Incontrast,
+Committees.Detailsabouttheethicscommitteesandinstitutional
+wefoundalessrobustnegativeassociationbetweenmyopiaPGS reviewboardsthatapprovedaspectsofthestudyareavailableon
+and childhood visual acuity and overall confirm the model the ALSPAC study website (http://www.bristol.ac.uk/alspac/
+introduced in Fig. 1. That being said, while our interpretation is researchers/research-ethics/).
+that the effect of visual acuity on educational outcomes is
+mediated by cognitive abilities, we cannot exclude a reversed Phenotypes
+effect ofeducation on cognition45.
+The ALSPAC study website contains details of all the data that is
+A limitation of our study is that we used a single variable, i.e.,
+available through a fully searchable data dictionary (http://
+maternal education, as a proxy measure for SES, rather than www.bris.ac.uk/alspac/researchers/data-access/data-dictionary/).
+capturingotherdimensionssuchasincome-basedSESmeasures.
+Thematernaleducationmeasurehassomeadvantagesinthatitis Assessmentofvisualacuity. Visualexaminationswereconducted
+abettercontrolofgeneticconfounding,thatis,itismoreheritable inashadedroomunderartificiallight.Visualacuitywasmeasured
+andmorelikelytobepredictiveofoffspringachievementthanan usingthelogarithmoftheminimumangleofresolution(logMAR)
+income-basedmeasure.However,weacknowledgethatitalsohas visualacuitytestwithglassesorcontactlensesifprescribedunless
+somelimitations,namely,itmaybelesssensitivetoconfounding they had not been worn for at least six months. The order of
+fromwealthwhichmightincreaseaccesstoastimulatinglearning testingwasrandomisedbetweentheleftandrighteye.Thechild
+environment and to healthcare such as optometry services and wasaskedtoread(ormatch)thefirstletteroneachrowandtogo
+aids.Anotherlimitationregardingthechoiceofphenotypeisthat as far down the chart as possible. When they reached the point
+vision and education have only been assessed at a single time wheretheywereunsureormadeamistake,theyweretakenback
+pointandthecorrectedvisualacuitypreventedusdistinguishing uptworowsandaskedtoreadacrosstherow,letterbyletter,with
+theexaminermarkingoffeachletterseenonthedatasheet.Ifthe
+thechildrenwearingglassesorcontactlensesduringassessment
+child did not read the whole row correctly then the next row up
+or determine whether uncorrected refractive error was the
+was tested until there was one line fully correct. The child was
+underlying reason for reduced visual acuity. Future work will
+benefit from the use of longitudinal approaches and more thenaskedtocontinuereadingdownthechart.Ifthechildreada
+letter incorrectly the examiner could check with a large letter
+distinguished visual phenotypes.
+whetherthechildknewthecorrectnameforthatletter,otherwise
+In summary, we confirm a positive association between
+anyerrorswerenotedbynotcrossingoffthatletter.Ifoneletter
+childhood visual acuity and cognitive development. Specifically,
+onalinewasseen,alltherestwereattempted.Ifachildsaidthat
+we show that visual acuity is reduced in children with reading
+they were not sure, they were encouraged to guess. Testing
+difficulty comparedto controls. Weconducted aGWAS forvisual
+continued until they read a whole line wrong. The test was then
+acuity and report a statistically significant association at the
+repeated using the same chart but with the child holding up a
+NPLOC4locus,implicatedinvisionphenotypesinpreviousstudies pinhole.Afterabreakusedforanothertask,theETDRSchart2was
+conductedinlargeradultcohorts.IntheALSPACchildren,thePGS used for the second eye and the whole testing procedure
+foreducationalattainment,whichisknowntobeassociatedwith repeated, including the pinhole. The number of letters in each
+myopia in adults, is instead associated with a slight increase in columnnotseen,belowthelowestfullycorrectline,werecounted
+visual acuity. This observation is in line with the assumption that and visual acuity for each test (without and with pinhole) was
+the initial positive effect of EA PGS on vision is reversed by calculated according to the formula: logMAR=−0.3× (total
+environmentalexposures,e.g.,morenearworkexposure,increas- errors×0.02). For each eye, the best corrected visual acuity was
+ingmyopiarisk. determined as the best result from both tests (without and with
+npjScienceofLearning(2023) 25 PublishedinpartnershipwithTheUniversityofQueensland
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+7
+pinhole).ThelogMARvaluecanadaptvaluesfrom1.00(indicating knowledge, similarities, mental arithmetics, vocabulary,
+poor vision) to −0.30 (indicating very good vision). We used the comprehension).
+smallestvaluefromthebettereyeasanindicatorofvisualacuity.
+To make the results more intuitive so that larger values refer to Communication skills. Communication skills were measured
+better visual acuity, we transformed logMAR to the Visual Acuity using the children’s communication checklist (CCC)55 at target
+Rating (VAR) scale according to the formula visual age 9. The CCC consists of 70 items grouped into 9 subscales
+acuity=100–50(logMAR). Therefore, visual acuity=100 refers to (intelligibility and fluency, syntax, appropriate initiation, coher-
+standard vision (logMAR= 0), while lower values indicate poorer ence, stereotyped conversation, use of conversational context,
+vision and higher values indicate above-standard vision49. conversational rapport). Higher scores indicate higher commu-
+Phenotypic data were available for n=6906 children. Children nication skills. Sumscores werecorrected for ageinweeks.
+with sensory impairments (n=26), visual acuity <85 (reduced
+visualacuitydefinedasvisualimpairment,n=1450)oranabsolute GCSE scores. Educational attainment (EA) was measured as
+differenceinvisualacuitybetweentheleftandrighteyeof>10(a cappedGeneralCertificateofSecondaryEducation(GCSE)scores.
+possible indicator for amblyopia, n=5350) were excluded from GCSEs arethemain qualificationtaken at theendof compulsory
+analysis, resulting in a sample of n=6807 that was available for educationintheUK.CappedGCSEscoresrepresentthebesteight
+phenotypic analysis (3444 females, 3356 males, 7 missing values gradesat GCSE.GCSEscores wereavailable for6773 children.
+forsex,meanage=11.81years,SD=0.23years),ofwhich~13%
+hadcorrected vision. SES. SES was assessed using maternal highest educational
+qualification during pregnancy (at 32 gestational weeks)56. SES
+Cognitive measures. In line with our previous study36 cognitive wasgroupedinto‘CSEandnoeducation’,‘Vocational’,‘Olevel’,‘A
+skillswereassessedintermsofreadingskill,communicationskills, level’and ‘University Degree’.
+listening comprehension, short-term memory, total IQ, verbal IQ
+and performance (nonverbal) IQ, and EA measured as General Hearing. We previously reported associations between hearing
+Certificateof Secondary Education(GCSE) scores. abilityandcognitiveandneurodevelopmentaltraits36.Theoverlap
+between the sample used for the current study and the sample
+Readingskill. Readingskillwasmeasuredusingthebasicreading used for the previous study was n=4929 (2490 females, 2439
+subtestoftheWechsler Objective ReadingDimensions(WORD)51 males). Detailed descriptions of the hearing phenotypes have
+at target age 7. Seven pictures were used for decoding and 48 beenreportedpreviously36.Briefly,airconductionthresholdswere
+words were used for word reading. The task was ended after six assessed using an audiometer at different frequencies and
+consecutiveerrors.Thefinalreadingskillscorewasderivedbythe averaged for each ear. Hearing threshold was defined as the
+numberof correctly read wordsand corrected for agein weeks. averageairconductionthresholdindecibel(dB)onthebetterear
+(note that lower values correspond to better hearing). We tested
+Shorttermmemory. Shorttermmemorywasmeasuredusingan forcorrelationsbetweenvisualacuityandhearingthresholdusing
+adaptationoftheNonwordRepetitionTest52attargetage8.The Pearson correlation.
+childwasaskedtolistentoandrepeatnonsensewordspresented
+viaanaudiocassetterecorder.Twelvenonsensewords(consisting Subsample assignment
+ofeither3,4or5syllables)conformingtoEnglishrulesforsound
+Group assignment followed the strategy described previously57.
+combinationswereused.Itemswerescoredascorrectiftherewas
+Briefly,fromtheoverallALSPACsample(n=15,443)weexcluded
+nophonologicaldeviationfromthepresentedword.Thenumber
+individuals with incomplete data on measures used for sample
+of correctly repeated items was scored and corrected for age
+assignment and individuals not reporting white European
+inweeks.
+ethnicity. Next, individuals with a WISC performance IQ below
+85wereexcluded.Theremainingindividualswereassignedtothe
+Listening comprehension. The Wechsler Objective Language
+groups of reading difficulty (n=173), language impairment
+Dimensions(WOLD)53wasusedtomeasurelisteningcomprehen-
+(n=184), ADHD (n=26), comorbid combinations of these
+sion at target age 8. The tester reads aloud a paragraph about a
+disorders (language impairment + reading difficulty, n=47;
+picture that is shown to the child. Afterwards, the child verbally
+language impairment+ADHD, n=7, reading difficulty+ADHD,
+answers questions about that paragraph that require making
+n=5; reading difficulty+language impairment+ADHD, n=3) or
+inferencesaboutwhattheyheard.Thetaskwasendedafterthree
+unaffected(n=3305) according tothefollowing criteria.
+consecutiveerrors. Asum score was calculated fromthenumber
+of correct items (ranging from 2–15) and corrected for age
+Reading difficulty. Children scoring<−1 SD on tests of age-
+inweeks.
+adjusted single-word reading at 7 and 9 years were assigned to
+thereadingdifficultygroup.
+WISC performance IQ. The Wechsler Intelligence Scale for
+Children (WISC-III UK)54 was administered at target age 8. The
+Language impairment. An assignment of language impairment
+WISC comprises five performance subtests (picture completion,
+was given if an individual scored positive for at least two of the
+coding, picture arrangement, block design, object assembly).
+followingfour criteria,whichtargetdifferentaspectsoflanguage
+UsingtheWISCmanual,age-scaledscoreswereobtainedfromthe
+problems:
+raw scores and a total score was calculated for the WISC
+performance IQ. 1. CCCscore<−1SD
+2. NonwordRepetition<−1 SD
+WISCverbalIQ. TheWISCincludesfiveverbalsubtests(informa- 3. WOLD score<−1 SD
+tion/knowledge,similarities,mentalarithmetics,vocabulary,com- 4. positive response on speech/language therapy
+prehension).Age-scaledscoreswereobtainedasdescribedabove questionnaire
+anda totalscore was calculated fortheWISC verbalIQ.
+ASD. AnassignmenttoASDwasbasedonmaternalreport(Have
+WISCtotalIQ. ThetotalWISCIQscorewascalculatedasthesum
+you ever been told that your child has autism, Asperger’s
+of all 10 age-scaled WISC subtests (picture completion, coding,
+syndrome orautistic spectrum disorder?) at theageof9 years.
+picturearrangement,blockdesign,object assembly,information/
+PublishedinpartnershipwithTheUniversityofQueensland npjScienceofLearning(2023) 25
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+8
+ADHD. AnassignmentofADHDwasbasedonaDAWBADSM-IV We also tested for genetic correlation between visual acuity and
+clinicaldiagnosis. hearing threshold in n=3833 unrelated children with genotypes
+Numbers of participants were slightly different from previous andphenotypicdataforbothvisualacuityandhearingthreshold.
+publications given updates in the most recent release of the
+ALSPACdata. GWAS. Associationtestingforvisualacuitywasperformedusing
+The sample used in the present study (n=6807) included 392 alinearmixedmodel(LMM)inBOLT-LMMv2.3.461.GWASwasrun
+affected (language impairment, n=159; reading difficulty, on the whole available sample with phenotypes and genotypes
+n=155;languageimpairment+readingdifficulty,n=40,ADHD, using sex, age, and the first two PCs (see above) as covariates
+n=26, language impairment+ADHD, n=4, reading difficulty (n=5571).
++ADHD, n=5, reading difficulty +language impairment+ADHD,
+n=3)and2953unaffectedindividuals.Sincewewerespecifically Replication of previous studies. We tested for replication of SNPs
+interestedinreadingdifficulty,childrenwithreadingdifficultyand associated with refractive error [p<5×10−815–17,20] or myopia
+comorbiddisorderswereassignedtothereadingdifficultygroup [p<5×10−828] in previous large-scale GWAS. We selected the
+(reading difficulty+language impairment, n=40; reading diffi- resulting 1,033 SNPs as pre-defined lead SNPs in FUMA, which
+culty+ADHD, n=5; reading difficulty+language impairment identified 661 independent SNPs (r2≤0.6). Independent SNPs
++ADHD, n=3), resulting in a reading difficulty subgroup of were used to determine boundaries of LD blocks that encom-
+n=203. passed a total of 94 loci including 2,110 SNPs (r2≥0.6). Among
+Thecontrolgroupwassex-matchedtomaintainthesameM/F these 2,110 SNPs, 743 (representing all 94 loci) were available in
+rationof1.57observedinthecases,resultinginacontrolsample our study (Bonferroni-corrected significance level: 0.05/
+matchedfor sexof n=2238 (Table 3). 94=5.32×10−4).
+LD score regression. We applied LD score regression (LDSC)62
+Genomicanalyses
+implemented in the Complex Traits Genetics Virtual Lab (CTG-VL
+Genome-widegenotypedatawereavailableforn=5571children
+0.4-beta)63totheGWASsummarystatisticsforvisualacuity.Mean
+with phenotypes (2749 males, 2822 females). Visual acuity was
+χ2 was 1.03 and the small LDSC intercept (1.01, SE=0.007)
+inverserank-transformed for genomic analyses.
+indicates negligible bias contributing to the signal. The genomic
+inflation factor revealed no evidence of population structure
+Genotype quality control and imputation. Genotypes were
+(λ=1.05). Genetic correlation analyses64 were performed with
+generated on the Illumina HumanHap550-quad array at the
+traits of interest from publicly available GWASsummary statistics
+Wellcome Trust Sanger Institute, Cambridge, UK and the
+(SupplementaryTable1).
+Laboratory Corporation of America, Burlington, NC, US. Standard
+quality control was performed as described elsewhere58. Popula-
+PostGWASanalysis. WeappliedFUMAv1.3.765andFINDOR66on
+tion stratification was assessed by multidimensional scaling
+theGWASsummarystatistics forvisualacuity.FUMAimplements
+analysis and compared with Hapmap II (release 22) European
+MAGMA v1.0867 to perform gene-based analysis and gene set
+descent, Han Chinese, Japanese and Yoruba reference popula-
+analysis. Functional consequences of SNPs were obtained by
+tions. All individuals with non-European ancestry were removed.
+performing ANNOVAR68 using Ensembl genes (build 92). Func-
+In total, 9115 subjects and 500,527 SNPs passed quality control
+tionally annotated SNPs were mapped to genes based on
+filtering.HaplotypeswereestimatedusingShapeIT(v2.r644)which
+positional mapping. Intergenic SNPs were annotated to the
+utilises relatedness during phasing. Quality control-filtered auto-
+closest genes upstream and downstream. Input SNPs were
+somal SNPs were imputed using Impute v3 using the HRC 1.1
+mapped to 18,360 protein-coding genes. Genome-wide signifi-
+reference data panel. Poorly imputed SNPs (Info score<0.8) and
+cance for gene-based GWAS was defined as p=0.05/
+SNPswithlowminorallelefrequency(MAF<0.05)wereexcluded 18,360=2.7×10−6. Gene set p values were computed for 7343
+fromfurtheranalysis.Overall,5,305,352SNPswithMAF>0.05that
+geneontology(GO)termsforbiologicalprocessesobtainedfrom
+were either directly genotyped or imputed and passed quality
+MsigDB v5.2. The Bonferroni-corrected significance level was set
+controlweretested forassociation withvisual acuity. to 0.05/7343=6.8×10−6. FUMA was also used to link indepen-
+dentsignificantSNPstoresultsfrompreviousGWASviatheGWAS
+SNP-h2 and genetic correlations. A genetic-relationship matrix
+catalog.Thevisualacuitysummarystatistics werereweightedfor
+was created for unrelated individuals (n=5153; identity by
+functionalannotations using FINDOR.
+descent (IBD)<0.05) based on directly genotyped SNPs. SNP-h2
+wasestimatedusingsex,ageinweeks,andthefirsttwoprincipal
+PGS. PGS analyses were carried out using PRSice 2.3.369. We
+components (PCs) as covariates using GREML analysis in GCTA
+tested for associations of PGS for neurodevelopmental disorders
+1.94.059. PCs were calculated using genotyped (MAF>0.05) and
+(ASD, bipolar disorder, ADHD, schizophrenia, dyslexia), education
+LDpruned(r2<0.01withina50kbwindow)SNPs(excludinghigh
+(intelligence,EA),andvisualfunction(refractiveerror,myopia)on
+LDregions)usingPlinkv260.WeusedbivariateGREMLtoestimate
+visualacuity(Supplementary Table2).After LD-clumping(r2<0.1
+geneticcorrelations(r )betweenvisualacuityandcognitiveskills.
+g withina250kbwindow),PGSwerederivedastheweightedsum
+of risk alleles according to test statistics from the base GWAS
+Table3. Samplesizesofneurodevelopmentalsubgroups. summarystatistics.Weperformedlinearregression analyseswith
+visualacuityastheoutcomeandtherespectivePGSaspredictor.
+Subgroup n nmale n Ratiomale: BasedonaneffectofSESonvisualacuityonthebehaviourallevel,
+female female SES,sex,age,andtwoPCswereincludedascovariates,resultingin
+a sample size of n=5160 for PGS analyses. The Bonferroni-
+Unaffected 2238 1366 872 1.57
+corrected significance threshold for nine base GWAS and nine
+Affected 435 266 169 1.57 pvaluethresholds(thethresholdexplainingmaximalphenotypic
+Languageimpairment 159 80 79 1.01 varianceaswellas0.001,0.05,0.1,0.2,0.3,0.4,0.5,and1)wasset
+Readingdifficulty 203 130 73 1.78
+to0.05/81=0.00062.
+Data preparation and visualization was performed using R
+ASD 47 31 16 1.94
+v.4.1.2. All analysis scripts are available through Github (https://
+ADHD 26 25 <5 25.00 github.com/Judith-Schmitz/vision_gwas).
+npjScienceofLearning(2023) 25 PublishedinpartnershipwithTheUniversityofQueensland
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+9
+Reporting summary 20. Verhoeven,V.J.M.etal.Genome-widemeta-analysesofmultiancestrycohorts
+Further information on research design is available in the Nature identify multiple new susceptibility loci for refractive error and myopia. Nat.
+ResearchReportingSummary linkedto this article.
+Genet.45,314–318(2013).
+21. Nakanishi,H.etal.Agenome-wideassociationanalysisidentifiedanovelsus-
+ceptible locus for pathological myopia at 11q24.1. PLoS Genet. 5, e1000660
+(2009).
+DATAAVAILABILITY
+22. Li,Y.-J.etal.Genome-wideassociationstudiesrevealgeneticvariantsinCTNND2
+Data used for this submission will be made available on request to the ALSPAC forhighmyopiainSingaporeChinese.Ophthalmology118,368–375(2011).
+Executive (alspac-exec@bristol.ac.uk). The ALSPAC data management plan (http:// 23. Li,Z.etal.Agenome-wideassociationstudyrevealsassociationbetweencom-
+www.bristol.ac.uk/alspac/researchers/data-access/documents/alspac-data- mon variants in an intergenic region of 4q25 and high-grade myopia in the
+management-plan.pdf)describesthedatasharingpolicy,whichisthroughasystem ChineseHanpopulation.Hum.Mol.Genet.20,2861–2868(2011).
+ofmanagedopenaccess. 24. Shi,Y.etal.Agenome-widemeta-analysisidentifiestwonovellociassociated
+with high myopia in the Han Chinese population. Hum. Mol. Genet. 22,
+2325–2333(2013).
+CODEAVAILABILITY 25. Shi,Y.etal.Geneticvariantsat13q12.12areassociatedwithhighmyopiainthe
+AllanalysisscriptsareavailablethroughGithub(https://github.com/Judith-Schmitz/ HanChinesepopulation.Am.J.Hum.Genet.88,805–813(2011).
+vision_gwas). 26. Hosoda, Y. et al. CCDC102B confers risk of low vision and blindness in high
+myopia.Nat.Commun.9,1782(2018).
+27. Khor, C. C. et al. Genome-wide association study identifies ZFHX1B as a sus-
+Received:31August2022; Accepted: 17July2023;
+ceptibilitylocusforseveremyopia.Hum.Mol.Genet.22,5288–5294(2013).
+28. Kiefer,A.K.etal.Genome-wideanalysispointstorolesforextracellularmatrix
+remodeling,thevisualcycle,andneuronaldevelopmentinmyopia.PLoSGenet.
+9,e1003299(2013).
+29. Meng,W.etal.Agenome-wideassociationstudyprovidesevidenceforasso-
+REFERENCES ciationofchromosome8p23(MYP10)and10q21.1(MYP15)withhighmyopiain
+1. Brown,G.C.Visionandquality-of-life.Trans.Am.Ophthalmol.Soc.97,473–511 theFrenchPopulation.InvestigativeOphthalmol.Vis.Sci.53,7983–7988(2012).
+(1999). 30. Simpson,C.L.etal.Genome-widemeta-analysisofmyopiaandhyperopiapro-
+2. Kempen,J.H.etal.TheprevalenceofrefractiveerrorsamongadultsintheUnited videsevidenceforreplicationof11loci.PloSone9,e107110(2014).
+States,WesternEurope,andAustralia.Arch.Ophthalmol.(Chic.,Ill.:1960)122, 31. Pickrell,J.K.etal.Detectionandinterpretationofsharedgeneticinfluenceson42
+495–505(2004). humantraits.Nat.Genet.48,709–717(2016).
+3. Zhang,M.etal.Validatingtheaccuracyofamodeltopredicttheonsetofmyopia 32. Tideman,J.W.L.etal.Whendomyopiageneshavetheireffect?Comparisonof
+inchildren.Investig.Ophthalmol.Vis.Sci.52,5836–5841(2011). geneticrisksbetweenchildrenandadults.Genet.Epidemiol.40,756–766(2016).
+4. Grönlund,M.A.,Aring,E.,Landgren,M.&Hellström,A.Visualfunctionandocular 33. Fan, Q. et al. Childhood gene-environment interactions and age-dependent
+featuresinchildrenandadolescentswithattentiondeficithyperactivitydisorder, effects of genetic variants associated with refractive error and myopia: The
+withandwithouttreatmentwithstimulants.Eye(Lond.,Engl.)21,494–502(2007). CREAMConsortium.Sci.Rep.6,25853(2016).
+5. Kim,S.,Chen,S.&Tannock,R.Visualfunctionandcolorvisioninadultswith 34. Verhoeven,V.J.M.etal.Educationinfluencestheroleofgeneticsinmyopia.Eur.
+Attention-Deficit/HyperactivityDisorder.J.Optom.7,22–36(2014). J.Epidemiol.28,973–980(2013).
+6. Ashwin,E.,Ashwin,C.,Rhydderch,D.,Howells,J.&Baron-Cohen,S.Eagle-eyed 35. Mountjoy,E.etal.Educationandmyopia:assessingthedirectionofcausalityby
+visualacuity:anexperimentalinvestigationofenhancedperceptioninautism. mendelianrandomisation.BMJ(Clin.Res.ed.)361,k2022(2018).
+Biol.Psych.65,17–21(2009). 36. Schmitz,J.,Abbondanza,F.&Paracchini,S.Genome-wideassociationstudyand
+7. Tavassoli,T.,Latham,K.,Bach,M.,Dakin,S.C.&Baron-Cohen,S.Psychophysical polygenic risk score analysis for hearing measures in children. Am. J. Med.
+measuresofvisualacuityinautismspectrumconditions.Vis.Res.51,1778–1780 Genetics.PartB,Neuropsychiatric Genetics;https://doi.org/10.1002/ajmg.b.32873
+(2011). (2021).
+8. Stein, J. F. The current status of the magnocellular theory of developmental 37. Stein,J.F.Toseebutnottoread;themagnocellulartheoryofdyslexia.Trends
+dyslexia.Neuropsychologia130,66–77(2019). Neurosci.20,147–152(1997).
+9. Helveston,E.M.etal.VisualFunctionandAcademicPerformance.Am.J.Oph- 38. Evans,R.B.&Deary,I.J.Sensorydiscriminationandintelligence:postmortemor
+thalmol.99,346–355(1985). resurrection?Am.J.Psychol.107,95–115(1994).
+10. Stewart-Brown,S.,Haslum,M.N.&Butler,N.Educationalattainmentof10-year- 39. Whitaker,C.M.&Cooper,N.G.F.Thenoveldistributionofphosphodiesterase-4
+oldchildrenwithtreatedanduntreatedvisualdefects.Dev.Med.ChildNeurol.27, subtypeswithintheratretina.Neuroscience163,1277–1291(2009).
+504–513(1985). 40. Mittal,R.etal.AnUpdateonPhosphodiesteraseMutationsUnderlyingGenetic
+11. Ygge,J.,Lennerstrand,G.,Axelsson,I.&Rydberg,A.VisualfunctionsinaSwedish EtiologyofHearingLossandRetinitisPigmentosa.Front.Genet.9,9(2018).
+populationofdyslexicandnormallyreadingchildren.ActaOphthalmol.71,1–9 41. Dvir,L.etal.Autosomal-recessiveearly-onsetretinitispigmentosacausedbya
+(1993). mutationinPDE6G,thegeneencodingthegammasubunitofrodcGMPphos-
+12. Bruce,A.,Fairley,L.,Chambers,B.,Wright,J.&Sheldon,T.A.Impactofvisual phodiesterase.Am.J.Hum.Genet.87,258–264(2010).
+acuityondevelopingliteracyatage4-5years:acohort-nestedcross-sectional 42. Abdellaoui,A.etal.GeneticcorrelatesofsocialstratificationinGreatBritain.Nat.
+study.BMJOpen6,e010434(2016). Hum.Behav.3,1332–1342(2019).
+13. Dirani,M.etal.Theroleofvisioninacademicschoolperformance.Ophthalmic 43. Majeed,M.,Williams,C.,Northstone,K.&Ben-Shlomo,Y.Arethereinequitiesin
+Epidemiol.17,18–24(2010). theutilisationofchildhoodeye-careservicesinrelationtosocio-economicsta-
+14. Solouki,A.M.etal.Agenome-wideassociationstudyidentifiesasusceptibility tus?EvidencefromtheALSPACcohort.Br.J.Ophthalmol.92,965–969(2008).
+locusforrefractiveerrorsandmyopiaat15q14.Nat.Genet.42,897–901(2010). 44. GhorbaniMojarrad,N.,Plotnikov,D.,Williams,C.&Guggenheim,J.A.Association
+15. Hysi,P.G.etal.Meta-analysisof542,934subjectsofEuropeanancestryidentifies Between Polygenic Risk Score and Risk of Myopia. JAMA ophthalmo.; https://
+newgenesandmechanismspredisposingtorefractiveerrorandmyopia.Nat. doi.org/10.1001/jamaophthalmol.2019.4421(2019).
+Genet.52,401–407(2020). 45. Ritchie, S. J. & Tucker-Drob, E. M. How Much Does Education Improve Intelli-
+16. Fan, Q. et al. Meta-analysis of gene-environment-wide association scans gence?AMeta-Analysis.Psychol.Sci.29,1358–1369(2018).
+accountingforeducationlevelidentifiesadditionallociforrefractiveerror.Nat. 46. Boyd,A.etal.CohortProfile:the’childrenofthe90s’-theindexoffspringofthe
+Commun.7,11008(2016). AvonLongitudinalStudyofParentsandChildren.Int.J.Epidemiol.42,111–127
+17. Tedja, M. S. et al. Genome-wide association meta-analysis highlights light- (2013).
+inducedsignalingasadriverforrefractiveerror.Nat.Genet.50,834–848(2018). 47. Fraser, A. et al. Cohort Profile: the Avon Longitudinal Study of Parents and
+18. Hysi,P.G.etal.Agenome-wideassociationstudyformyopiaandrefractiveerror Children:ALSPACmotherscohort.Int.J.Epidemiol.42,97–110(2013).
+identifiesasusceptibilitylocusat15q25.Nat.Genet.42,902–905(2010). 48. Birmingham,K.Pioneeringethicsinalongitudinalstudy(PolicyPress,2018).
+19. Stambolian,D.etal.Meta-analysisofgenome-wideassociationstudiesinfive 49. Bailey,I.L.&Lovie-Kitchin,J.E.Visualacuitytesting.Fromthelaboratorytothe
+cohorts reveals common variants in RBFOX1, a regulator of tissue-specific clinic.Vis.Res.90,2–9(2013).
+splicing, associated with refractive error. Hum. Mol. Genet. 22, 2754–2764 50. Williams, C. et al. Prevalence and risk factors for common vision problems in
+(2013). children:datafromtheALSPACstudy.Br.J.Ophthalmol.92,959–964(2008).
+PublishedinpartnershipwithTheUniversityofQueensland npjScienceofLearning(2023) 25
+
+--- PAGE BREAK ---
+
+J.Schmitzetal.
+10
+51. Rust,J.,Golombok,S.&Trickey,G.WORDWechslerObjectiveReadingDimensions ThispublicationistheworkoftheauthorsandS.P.andJ.S.willserveasguarantors
+Manual(PsychologicalCorp,1993). fortheanalysisoftheALSPACdatapresentedinthispaper.J.S.isfundedbythe
+52. Gathercole,S.E.,Willis,C.S.,Baddeley,A.D.&Emslie,H.TheChildren’sTestof DeutscheForschungsgemeinschaft(DFG,GermanResearchFoundation,418445085)
+NonwordRepetition:atestofphonologicalworkingmemory.Mem.(Hove,Engl.) and supported by the Wellcome Trust [Institutional Strategic Support fund, Grant
+2,103–127(1994). number204821/Z/16/Z].Forthepurposeofopenaccess,theauthorhasappliedaCC
+53. Rust, J. WOLD Wechsler Objective Language Dimensions Manual (Psychological BYpubliccopyrightlicencetoanyAuthorAcceptedManuscriptversionarisingfrom
+Corp,1996). this submission. S.P. is funded by the Royal Society (UF150663). Support to the
+54. Wechsler,D.,Golombok,S.&Rust,J.WechslerIntelligenceScaleforChildren-Third geneticanalysiswasprovidedbytheStAndrewsBioinformaticsUnitfundedbythe
+EditionUKManual(PsychologicalCorp,1991). WellcomeTrust[grant105621/Z/14/Z].
+55. Bishop,D.V.M.DevelopmentoftheChildren’sCommunicationChecklist(CCC):a
+methodforassessingqualitativeaspectsofcommunicativeimpairmentinchil-
+dren.J.ChildPsychol.Psych,AlliedDiscip.39,879–891(1998). AUTHORCONTRIBUTIONS
+56. Rashid,V.etal.Ethnicityandsocioeconomicstatusarerelatedtodietarypatterns
+Studyconception:J.S.andS.P.Study design:J.S.,M.L.,S.P.Analysis:J.S.,F.A.,K.M.
+atage5intheAmsterdambornchildrenandtheirdevelopment(ABCD)cohort.
+Interpretation:J.S.,M.L.,S.P.Originaldraft:J.S.Revision:J.S.,F.A.,K.M.,M.L.,S.P.All
+BMCPub.Health18,115(2018).
+authorsapprovedthesubmittedversionofthemanuscriptandagreedbothtobe
+57. Scerri,T.S.etal.DCDC2,KIAA0319andCMIPareassociatedwithreading-related
+personally accountable for their own contributions and to ensure that questions
+traits.Biol.Psych.70,237–245(2011).
+relatedtotheaccuracyorintegrityofanypartofthework,evenonesinwhichthey
+58. Brandler, W. M. et al. Common variants in left/right asymmetry genes and were not personally involved, are appropriately investigated, resolved, and the
+pathwaysareassociatedwithrelativehandskill.PLoSGenet.9,e1003751(2013).
+resolutiondocumentedintheliterature.
+59. Yang,J.,Lee,S.H.,Goddard,M.E.&Visscher,P.M.GCTA:atoolforgenome-wide
+complextraitanalysis.Am.J.Hum.Genet.88,76–82(2011).
+60. Chang,C.C.etal.Second-generationPLINK:risingtothechallengeoflargerand COMPETINGINTERESTS
+richerdatasets.GigaScience4,7(2015).
+61. Loh, P.-R. et al. Efficient Bayesian mixed-model analysis increases association Theauthorsdeclarenocompetinginterests.
+powerinlargecohorts.Nat.Genet.47,284–290(2015).
+62. Bulik-Sullivan, B. K. etal.LD Score regression distinguishesconfounding from
+polygenicityingenome-wideassociationstudies.Nat.Genet.47,291–295(2015). ADDITIONAL INFORMATION
+63. Cuellar-Partida,G.etal.Complex-TraitsGeneticsVirtualLab:Acommunity-driven Supplementary information The online version contains supplementary material
+webplatformforpost-GWASanalyses(2019). availableathttps://doi.org/10.1038/s41539-023-00175-w.
+64. Bulik-Sullivan,B.K.etal.Anatlasofgeneticcorrelationsacrosshumandiseases
+andtraits.Nat.Genet.47,1236–1241(2015). CorrespondenceandrequestsformaterialsshouldbeaddressedtoSilviaParacchini.
+65. Watanabe,K.,Taskesen,E.,vanBochoven,A.&Posthuma,D.Functionalmapping
+andannotationofgeneticassociationswithFUMA.Nat.Commun.8,1826(2017). Reprints and permission information is available at http://www.nature.com/
+66. Kichaev,G.etal.LeveragingPolygenicFunctionalEnrichmenttoImproveGWAS reprints
+Power.Am.J.Hum.Genet.104,65–75(2019).
+67. Leeuw,C.A.,de,Mooij,J.M.,Heskes,T.&Posthuma,D.MAGMA:generalized Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+gene-setanalysisofGWASdata.PLoSComput.Biol.11,e1004219(2015). inpublishedmapsandinstitutionalaffiliations.
+68. Wang,K.,Li,M.&Hakonarson,H.ANNOVAR:functionalannotationofgenetic
+variantsfromhigh-throughputsequencingdata.Nucl.AcidsRes.38,e164(2010).
+69. Choi,S.W.&O’Reilly,P.F.PRSice-2:PolygenicRiskScoresoftwareforbiobank-
+scaledata.GigaScience8,giz082(2019). Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+ACKNOWLEDGEMENTS appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+Weareextremelygratefultoallthefamilieswhotookpartinthisstudy,themidwives
+materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+for their help in recruiting them, and the whole ALSPAC team, which includes
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+interviewers, computer and laboratory technicians, clerical workers, research
+article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+scientists,volunteers,managers,receptionistsandnurses.Wealsothank23andMe,
+regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+Inc.researchparticipantsandemployeeswhomadethisresearchpossible.Weare
+from the copyright holder. To view a copy of this license, visit http://
+gratefultoAndrewBlaikieforcommentstothemanuscript.TheUKMedicalResearch
+creativecommons.org/licenses/by/4.0/.
+CouncilandWellcome(Grantref:217065/Z/19/Z)andtheUniversityofBristolprovide
+core support for ALSPAC. GWAS data were generated by Sample Logistics and
+Genotyping Facilities at Wellcome Sanger Institute and LabCorp (Laboratory
+©TheAuthor(s)2023
+CorporationofAmerica)usingsupportfrom23andMe.
+npjScienceofLearning(2023) 25 PublishedinpartnershipwithTheUniversityofQueensland

@@ -1,0 +1,401 @@
+www.nature.com/eye
+ARTICLE OPEN
+Association between eye disorders and the development of
+ADHD/ADD: a nationwide retrospective cohort study
+✉
+Asaf Israeli]]]1 and Eedy Mezer2,3,4
+© The Author(s) 2026
+OBJECTIVES: To study and assess the association of various eye disorders with the development of attention-deficit hyperactivity
+disorder (ADHD/ADD).
+METHODS: A nationwide, retrospective cohort-study, utilising anonymised electronic medical records (EMR) data on all insured
+individuals aged 5–30 in Maccabi Health Services (MHS), the second largest health maintenance organisation in Israel, during
+2010–2022.
+RESULTS: The final analysis included 665,121 individuals from an initial cohort of 1,686,128 after applying selection criteria and
+propensity score matching. Of these, 68,976 (10.4%) developed ADHD/ADD. ADHD/ADD was more common and developed faster
+in those with eye disorders (HR =∠1.40, 95% CI: 1.38–1.42 and 4.5 versus 4.9 years, p < 0.001, respectively). All evaluated eye
+disorders served as significant risk factors (strabismus: HR =∠1.64, 95% CI: 1.49–1.80; hyperopia: HR =∠1.52, 95% CI: 1.47–1.56;
+astigmatism: HR =∠1.52, 95% CI: 1.48–1.56; amblyopia: HR =∠1.40, 95% CI: 1.27–1.54; myopia: HR =∠1.30, 95% CI: 1.28–1.33). Similar
+findings were evident when assessing combinations of eye disorders. These associations were far more pronounced in females and
+the paediatric population (p < 0.001 and p =∠0.044, respectively).
+CONCLUSIONS: Eye disorders serve as risk factors for the development of ADHD/ADD, particularly in females and in the paediatric
+population.
+Eye (2026) 40:550–556; https://doi.org/10.1038/s41433-025-04227-w
+INTRODUCTION early interventions, which have also aided in decreasing
+Global prevalence of attention deficit hyperactivity disorder consequential blindness [13–15].
+(ADHD/ADD) is reported to be 2–7%, with an average of 5%. It Significant visual impairment can impair a child’s concentration
+varies substantially between different countries and is on the rise. and attentiveness at school. Previous studies have implied a
+For example, in the United States, approximately 27% of children possible connection between eye disorders and ADHD/ADD. A
+aged 6–17 are being diagnosed with ADHD/ADD, in the UK, cross-sectional study of 75,000 children utilising parent interviews
+children aged 5–15 have a reported prevalence of 3.62% and in showed a higher prevalence of ADHD/ADD among individuals
+Israel, the prevalence is 7.35–9.5% in children aged 7–9 and 3% in with vision problems, yet recall bias, publication bias, snapshot
+adolescents aged 14–17. ADHD/ADD is mostly a male-dominant bias and the inability to determine causality may limit the
+diagnosis, a phenomenon seen in Israel as well as in other applicability of these results [16].
+countries [1–6]. The goal of this study was to conduct a comprehensive
+Refractive errors are also extremely common worldwide and nationwide cohort study to assess the association between eye
+vary in different countries. The estimated global prevalence of disorders and the incidence of ADHD/ADD.
+myopia, hyperopia and astigmatism in children is high (11.7, 4.6
+and 14.9%, respectively) and even higher in adults (26.5, 30.9 and
+40.4%, respectively) [7]. The global prevalence of strabismus is MATERIALS AND METHODS
+estimated to be 1.93% and that of amblyopia is 1.36% [8, 9]. In This retrospective cohort study utilised Electronic Medical Records (EMR)
+Israel, myopia showed a recent increase from 20.4% to 26.2% over data from Maccabi Health Services (MHS) and encompassed 13 years
+a generation [10, 11], while astigmatism and hyperopia in Israel (2010–2022). Demographic variables included sex, age at eye diagnosis,
+age at ADHD/ADD diagnosis and ethnicity. Types of eye disorders
+are estimated to be 7.13 and 0.93%, respectively [12]. Strabismus
+included refractive errors (i.e. myopia, hyperopia, astigmatism), strabismus
+and amblyopia, in contrast, have decreased over recent decades
+(i.e. esotropia, exotropia, hypertropia, hypotropia) and amblyopia
+from 1.2 to 0.6% and from 1.2 to 0.8%, respectively. This decrease
+(Supplementary Table 1).
+was attributed to widespread national screening efforts as well as
+1Department of Ophthalmology, Vanderbilt Eye Institute, Vanderbilt University Medical Center, Nashville, TN, USA. 2The Ruth and Bruce Rappaport Faculty of Medicine,
+Technion-Israel Institute of Technology, Haifa, Israel. 3Department of Ophthalmology, Rambam Health Care Campus, Haifa, Israel. 4Maccabi Healthcare Services, Haifa, Israel.
+✉email: asaf.israeli@vumc.org
+Received: 16 September 2024 Revised: 5 December 2025 Accepted: 22 December 2025
+Published online: 9 January 2026
+:,;)(0987654321
+A. Israeli and E. Mezer
+551
+Table 1. Demographics, overall and by the presence of an eye disorder.
+Total N =∠665,121 Without eye diagnosis With eye diagnosis p-value
+N =∠443,414 N =∠221,707
+Age, mean ± SD 14.8 ± 7.5 14.8 ± 7.5 14.8 ± 7.5 1.000
+Sex (male), n (%) 273,255 (41.1) 182,170 (41.1) 91,085 (41.1) 1.000
+Country birth (Israel), n (%) 610,020 (91.7) 401,831 (90.6) 208,188 (93.9) <0.001
+Ethnicity (Jews), n (%) 601,761 (90.5) 392,511 (88.8) 209,250 (94.5) <0.001
+Socioeconomic Status
+1–4 181,489 (27.3) 119,710 (27.0) 61,779 (27.9) <0.001
+5–7 277,603 (41.8) 187,567 (42.4) 90,036 (40.7)
+8–10 204,990 (30.9) 135,323 (30.6) 69,667 (31.5)
+ADHD/ADD 68,976 (10.4) 41,028 (9.3) 27,948 (12.6) <0.001
+Follow-up time in years, 7.7 ± 3.6 7.8 ± 3.6 7.6 ± 3.7 <0.001
+mean ± SD
+Data collection and sample size following established clinical guidelines. ADHD/ADD diagnoses are made
+MHS has maintained a continuous nationwide EMR database for over 20 exclusively by board-certified paediatric psychiatrists or developmental
+years and is the second largest Health Maintenance Organization (HMO) in paediatric neurologists, generally following DSM-5 criteria, reflecting
+Israel, covering over 2.5 million members. The data was directly retrieved standard clinical practice and ensuring consistency across the cohort.
+from MHS to create an anonymised encoded database. This study
+included all insured patients in MHS between the ages of 5 and 30.
+Ethical issues
+Participants lacking a documented eye examination, rare comorbidities,
+Patients’ information was collected anonymously and encoded to ensure
+conditions limiting exam cooperation, diagnoses requiring frequent
+anonymity using MDClone software (MDClone®, MDClone Ltd., Be’er
+inpatient follow-ups, or diagnoses often associated with broader systemic
+Sheva, Israel). The study did not require informed consent and an
+or neurological involvement that limit isolating the direct impact of vision
+Institutional Review Board (IRB) approval was obtained from the MHS IRB,
+(e.g. chiasm disorders, CNS benign and malignant tumours, CNS
+Tel-Aviv, Israel (No. MHS 0017-23).
+involvement in systemic diseases, CVA, giant cell arteritis, inflammation,
+ocular trauma, optic neuritis, optic neuropathies, pathologies involving
+visual pathways, etc.) were excluded. This was done to avoid additional Statistical analysis
+confounding factors and heterogeneity. The full list of excluded diagnoses Data were analysed by SPSS Statistical Package (IBM, Version 29, Armonk,
+alongside their ICD-9 and Y codes (MHS-specific diagnostic codes) is NY, USA). Continuous variables were reported as mean ± SD or median
+shown in Supplementary Table 2 and the study design is shown in [Q1–Q3], as appropriate. Differences between groups were tested using a
+Supplementary Fig. 1. t-test or a Mann-Whitney test, as appropriate. Categorical data were
+From an initial cohort of 1,686,128 of all MHS members insured during reported as frequency and percentage and associations were tested using
+the study period (2010–2020), we implemented inclusion and exclusion the Chi-square test. Cox regression analysis was used to assess the hazard
+criteria, propensity score matching (PSM) and a wash-out period of at least ratios (HR) and 95% confidence intervals (CI) of ADHD/ADD risk associated
+one year between the index date (i.e. the date of the first eye diagnosis) with eye diagnoses. Analyses for general eye diagnosis were repeated
+and the diagnosis of ADHD/ADD. In the final analysis, 221,707 cases were while stratifying for age and sex and using a test for heterogeneity in
+matched to individuals without any eye disorders using a PSM based on order to compare between groups. P-values of 5% were considered
+sex and birth year at a 1:2 ratio, creating a final cohort of 665,121 statistically significant.
+participants. The washout period was implemented twice, pre- and post-
+matching, first to establish the temporal relationship as part of the initial
+research group creation and then to ensure that the matched controls
+RESULTS
+also do not have an ADHD/ADD diagnosis before the index date of their
+665,121 patients were evaluated in this study after inclusion and
+corresponding research group member. To increase internal validity, only
+exclusion criteria and after the matching process were imple-
+those diagnosed within one year of the index date were included when
+assessing combinations of eye diagnoses. mented (221,707 and 443,414, with and without an eye disorder,
+respectively). Of the total sample, 68,976 individuals (10.4%) were
+diagnosed with ADHD/ADD. This included 27,948 (12.6%) among
+Exposures, outcomes and model covariates
+those with an eye disorder, compared to 41,028 (9.3%) among
+The exposure was defined as having either of the following diagnoses:
+those without an eye disorder (p < 0.001). The mean age was
+refractive errors (myopia, hyperopia, astigmatism), strabismus (esotropia,
+exotropia, hypertropia, hypotropia) and amblyopia. The term ‘General eye 14.8 ± 7.5 years and 41.1% were male (Table 1).
+diagnosis’ indicates having at least one of these diagnoses. The outcome Overall, having an eye disorder was associated with ADHD/ADD
+was defined as the diagnosis of ADHD/ADD. Age and sex were accounted (HR =∠1.40, p < 0.001). Similarly strong association results were
+for through PSM. The reference group for all comparisons consisted of obtained regardless of either medication prescription or medica-
+matched individuals without any eye diagnoses (‘Without eye diagnosis’). tion dispensation (HR =∠1.41, p < 0.001 and HR =∠1.42, p < 0.001,
+respectively) (Supplementary Table 3). All evaluated eye diag-
+Disorder classification and diagnostic standards noses served as significant risk factors (strabismus: HR =∠1.64, 95%
+The diagnostic criteria for all eye disorders were applied uniformly across CI: 1.49–1.80; hyperopia: HR =∠1.52, 95% CI: 1.47–1.56; astigma-
+the study population. Specifically, refractive errors such as myopia, tism: HR =∠1.52, 95% CI: 1.48–1.56; amblyopia: HR =∠1.40, 95% CI:
+hyperopia and astigmatism were based on standardised refractive 1.27–1.54; myopia: HR =∠1.30, 95% CI: 1.28–1.33) (Table 2). Socio-
+assessments. The common practice in Israel is to perform manifest economic status differences were statistically significant but
+refraction using a phoropter in adults and an age-adjusted cycloplegic
+clinically insignificant. To validate this, a covariate sensitivity
+retinoscopy in children in order to neutralise accommodation and ensure
+analysis was employed and showed no effect on the results
+accurate refractive measurement. Strabismus was diagnosed through
+(Supplementary Table 4).
+clinical evaluation of eye misalignment and amblyopia was identified by
+best-corrected visual acuity not explained by structural abnormalities. All The mean time to develop ADHD/ADD was significantly shorter
+diagnoses are made by board-certified ophthalmologists or optometrists in individuals diagnosed with an eye disorder (4.5 versus 4.9
+Eye (2026) 40:550 – 556
+A. Israeli and E. Mezer
+552
+Table 2. Associations between eye disorders and ADHD/ADD.
+No ADHD/ADD ADHD/ADD HR [95% CI] p-value
+N % N %
+General eye diagnosis
+Without eye diagnosis (n =∠443,414) 402,386 67.5 41,028 59.5 1.40 [1.38–1.42] <0.001
+With the diagnosis (n =∠221,707) 193,759 32.5 27,948 40.5
+Strabismus
+Without eye diagnosis (n =∠8950) 8008 68.1 942 56.3 1.64 [1.49-1.80] <0.001
+With the diagnosis (n =∠4475) 3743 31.9 732 43.7
+Amblyopia
+Without eye diagnosis (n =∠9560) 8508 67.7 1052 59.6 1.40 [1.27–1.54] <0.001
+With the diagnosis (n =∠4780) 4068 32.3 712 40.4
+Myopia
+Without eye diagnosis (n =∠286,282) 262,582 67.2 23,700 61.0 1.30 [1.28–1.33] <0.001
+With the diagnosis (n =∠143,141) 127,966 32.8 15,175 39.0
+Hyperopia
+Without eye diagnosis (n =∠81,210) 71,179 68.1 10,031 57.9 1.52 [1.47–1.56] <0.001
+With the diagnosis (n =∠40,605) 33,313 31.9 7292 42.1
+Astigmatism
+Without eye diagnosis (n =∠118,814) 106,823 67.8 11,991 57.7 1.52 [1.48–1.56] <0.001
+With the diagnosis (n =∠59,407) 50,631 32.2 8776 42.3
+*n represents the number of matched cases and controls (in a 1:2 ratio) with the eye diagnosis in question and without an eye diagnosis, respectively.
+**N represents the number of participants in each cell defined by ADHD/ADD status and eye diagnosis category; % indicates the proportion within each ADHD/
+ADD group.
+Fig. 1 Comparison of time to ADHD/ADD diagnosis with and without an eye disorder.
+years, p < 0.001). This pattern was evident across all diagnoses Lastly, sex- and age-disparities were evaluated with regard to
+evaluated (p < 0.001), except for amblyopia, possibly due to a the association between eye diagnoses and ADHD/ADD through
+smaller sample size (4.3 versus 4.6 years, p =∠0.080) (Fig. 1 and subgroup analyses—using stratification and test for heterogene-
+Supplementary Table 5). ity. This association was notably stronger in females compared to
+Subsequently, several combinations of eye disorders were males (p < 0.001) and in the paediatric population compared to
+evaluated as well. The strongest significant association was adults (p =∠0.044) (Fig. 2and Supplementary Table 6).
+strabismus, hyperopia and astigmatism (HR =∠1.71, p =∠0.043),
+followed by strabismus and hyperopia (HR =∠1.56, p < 0.001),
+hyperopia and astigmatism (HR =∠1.53, p < 0.001) and strabismus DISCUSSION
+and myopia (HR =∠1.49, p < 0.001). Some combinations showed a In this comprehensive, nationwide, retrospective cohort study of
+strong association but did not reach statistical significance, most 665,121 patients drawn from an initial cohort of 1,686,128 over a
+likely due to smaller sample sizes (e.g. strabismus, amblyopia and 13-year period, we found a higher incidence of ADHD/ADD
+myopia with an HR =∠2.72, p =∠0.135) (Table 3). among patients with eye disorders—namely refractive errors,
+strabismus and amblyopia compared to those without any eye
+Eye (2026) 40:550 – 556
+A. Israeli and E. Mezer
+553
+Table 3. Associations between combinations of eye disorders and ADHD/ADD.
+No ADHD/ADD ADHD/ADD HR [95% CI] p-value
+N % N %
+Strabismus and amblyopia
+Without eye diagnosis (n =∠250) 216 67.9 34 59.6 1.41 [0.83–2.39] 0.283
+With the diagnosis (n =∠125) 102 32.1 23 40.4
+Strabismus and myopia
+Without eye diagnosis (n =∠1516) 1,370 67.7 146 58.2 1.49 [1.16–1.91] 0.002
+With the diagnosis (n =∠758) 653 32.3 105 41.8
+Strabismus and hyperopia
+Without eye diagnosis (n =∠1346) 1178 68.3 168 57.3 1.56 [1.24–1.96] <0.001
+With the diagnosis (n =∠673) 548 31.7 125 42.7
+Strabismus and astigmatism
+Without eye diagnosis (n =∠1036) 920 67.8 116 58.9 1.46 [1.10–1.94] 0.009
+With the diagnosis (n =∠518) 437 32.2 81 41.1
+Amblyopia and myopia
+Without eye diagnosis (n =∠1254) 1,138 67.5 116 59.5 1.40 [1.05–1.86] 0.022
+With the diagnosis (n =∠627) 548 32.5 79 40.5
+Amblyopia and hyperopia
+Without eye diagnosis (n =∠3042) 2619 67.3 423 62.8 1.22 [1.04–1.4542 0.015
+With the diagnosis (n =∠1521) 1,270 32.7 251 37.2
+Amblyopia and astigmatism
+Without eye diagnosis (n =∠2640) 2264 67.7 376 60.9 1.33 [1.13–1.56] 0.001
+With the diagnosis (n =∠1320) 1079 32.3 241 39.1
+Myopia and astigmatism
+Without eye diagnosis (n =∠40,806) 37,335 67.5 3581 59.0 1.43 [1.36–1.50] <0.001
+With the diagnosis (n =∠20,403) 17,913 32.5 2490 41.0
+Hyperopia and astigmatism
+Without eye diagnosis (n =∠19,072) 16,572 68.2 2500 57.8 1.53 [1.44–1.63] <0.001
+With the diagnosis (n =∠9536) 7710 31.8 1826 42.2
+Strabismus, amblyopia and myopia
+Without eye diagnosis (n =∠36) 32 71.1 4 44.4 2.72 [0.73–10.15] 0.135
+With the diagnosis (n =∠18) 13 28.9 5 55.6
+Strabismus, amblyopia and hyperopia
+Without eye diagnosis (n =∠98) 85 66.4 13 68.4 0.91 [0.34–2.38] 0.840
+With the diagnosis (n =∠49) 43 33.6 6 31.6
+Strabismus, amblyopia and astigmatism
+Without eye diagnosis (n =∠56) 47 65.3 9 75.0 0.67 [0.18–2.49] 0.554
+With the diagnosis (n =∠28) 25 34.7 3 25.0
+Strabismus, hyperopia and astigmatism
+Without eye diagnosis (n =∠288) 256 68.4 32 55.2 1.71 [1.02–2.87] 0.043
+With the diagnosis (n =∠144) 118 31.6 26 44.8
+Strabismus, amblyopia, myopia and astigmatism
+Without eye diagnosis (n =∠14) 12 70.6 2 50.0 2.41 [0.34–17.21] 0.379
+With the diagnosis (n =∠7) 5 29.4 2 50.0
+Strabismus, amblyopia, hyperopia and astigmatism
+Without eye diagnosis (n =∠26) 24 66.7 2 66.7 0.97 [0.09–10.72] 0.981
+With the diagnosis (n =∠13) 12 33.3 1 33.3
+*n represents the number of matched cases and controls (in a 1:2 ratio) with the eye diagnosis in question and without an eye diagnosis, respectively.
+**N represents the number of participants in each cell defined by ADHD/ADD status and eye diagnosis category; % indicates the proportion within each ADHD/
+ADD group.
+Eye (2026) 40:550 – 556
+A. Israeli and E. Mezer
+554
+Fig. 2 Associations between eye disorders and ADHD/ADD, by age group and sex.
+disorders. ADHD/ADD severity verified by proof of a prescription be related to biological, physiological, or socio-environmental
+on file, or documented medication dispensation, did not affect factors, as well as to differences in eye disorder types, with some
+this association. All these eye diagnoses showed a strong tending to present and/or be screened for in an earlier age, or
+association and served as significant risk factors. disease severity prompting sooner evaluation by an ophthalmol-
+Previous studies from Taiwan, Germany and Korea have shown ogist. Another possible explanation could stem from higher rates
+that children afflicted with ADHD/ADD have a higher prevalence of underdiagnosis of ADHD/ADD in the adult population [28].
+of vision impairment due to eye disorders [17–19] and children While vision disorders could cause ADHD/ADD symptoms,
+with significant eye disorders are more afflicted with ADHD/ADD conversely, it is also essential to consider that hyperactivity and
+than other children in Korea [20]. Two reports from Israel, both lack of concentration during various tasks, including visual acuity
+from a single paediatric ophthalmology clinic, have shown evaluations, might also masquerade as eye problems [29, 30]. These
+conflicting results. One showed a 20% prevalence of significant may pose possible biases and erroneous diagnoses of children, as
+hyperopia in children with ADHD/ADD, while the other reported well as cause a delay in treatment or lead to improper treatment.
+no association of ADHD/ADD with refractive errors; however, Notably, unlike strabismus and amblyopia, refractive error is
+selection bias and small sample sizes decrease the generalisation easily correctable and often underdiagnosed. This could poten-
+of the results in these 2 studies [21, 22]. tially decrease the effect size of our results. However, this is
+ADHD/ADD was also found to develop significantly earlier in minimised by several factors: Israel’s routine state-wide manda-
+patients with any of the aforementioned eye disorders, by tory ophthalmological assessments at young ages and during
+4.8 months (45.6 vs. 50.4 months), compared to those without eye military conscription processes, free universal healthcare with
+disorders. This was observed for individuals with refractive errors comprehensive documentation in Israeli HMOs and the age
+or strabismus, but not for those with amblyopia, possibly due to a limitations for this study [11, 14, 15, 31].
+smaller sample size. These findings could potentially indicate In that regard, it is also pertinent to distinguish between
+overlapping neurodevelopmental pathways, shared genetic correctable pathologies and permanent ones, as these may have
+culprits or, conversely, simply ascertainment bias [23]. It is different effects. Albeit beyond the scope of this study, future
+possible that early neurodevelopmental screening would be studies investigating this distinction further could better elucidate
+beneficial in children with eye disorders, but the clinical the impact of these differences.
+significance is yet to be determined at this point. This study has several limitations. Firstly, its retrospective nature
+Several combinations of eye disorders were also found to be may obscure confounding variables and limit the ability to establish
+significantly associated with ADHD/ADD, most notably strabis- a temporal relationship. However, this was mitigated by matching
+mus, hyperopia and astigmatism and pairings of these combina- for age and sex, as well as incorporating a one-year washout period
+tions’ components (strabismus and hyperopia, as well as to strengthen validity. Another limitation is its reliance on EMR,
+astigmatism and hyperopia). which is contingent upon physicians’ compliance and accuracy.
+Interestingly, combinations of these diagnoses were significantly Lastly, educational level and access to healthcare could not be
+associated with ADHD/ADD as well; however, no clear synergistic accounted for due to their absence from electronic records. That
+effects were observed. A possible explanation could be that the said, Israel’s free universal healthcare system, small geographic size
+association may derive from the direct impact of visual impairment and the legal obligation of all its residents to have HMO
+itself, rather than distinct underlying pathological mechanisms. memberships—all mitigate proper access to medicine, diminish
+Various eye disorders and ADHD/ADD are both principally this limitation and contribute to generalisability [31, 32]. This study
+related to and affected by sex and age. These differences could be also has other strengths, such as the nationwide comprehensive
+related to different pathophysiology or biases, such as referral database of the 2nd largest HMO in the country, the uniformity of
+bias [11, 14, 15, 24–27]. In this cohort, the association between data, the very large sample size, as well as previously reported
+eye disorders and ADHD/ADD was substantially more significant similarities to other Western countries [14, 15, 33].
+in females as opposed to males and far more pronounced in In conclusion, refractive disorders, strabismus and amblyopia
+children and teenagers compared to adults. This could potentially are significantly associated with ADHD/ADD, particularly in
+Eye (2026) 40:550 – 556
+A. Israeli and E. Mezer
+555
+children and teenagers. This association is also far more 9. Hu B, Liu Z, Zhao J, Zeng L, Hao G, Shui D, et al. The global prevalence of
+pronounced in females. These findings can set up a detailed amblyopia in children: a systematic review and meta-analysis. Front Pediatr.
+framework that may aid primary care providers and neurologists 2022;10:819998.
+with risk stratification and early detection and intervention of 10. Shapira Y, Mimouni M, Machluf Y, Chaiter Y, Saab H, Mezer E. The increasing
+ADHD/ADD, as well as guide ophthalmologists to refer high-risk burden of myopia in Israel among young adults over a generation: analysis of
+predisposing factors. Ophthalmology. 2019;126:1617–26.
+patients for proper evaluation. Additionally, these associations
+11. Machluf Y, Israeli A, Cohen E, Chaiter Y, Mezer E. Dissecting the complex sex-
+could prompt future research into specific conditions and their
+based associations of myopia with height and weight. Eye. 2024;19:1485–95.
+association with ADHD/ADD.
+12. Rosner M, Belkin M. A nation-wide study of myopia prevalence in Israel. Findings
+in a population of 312,149 young adults. Metab Pediatr Syst Ophthalmol.
+Disclaimer 1991;14:37–41.
+The authors take responsibility for all aspects of reliability and 13. Shapira Y, Machluf Y, Mimouni M, Chaiter Y, Mezer E. Amblyopia and strabismus:
+freedom from bias of the data presented and their discussed trends in prevalence and risk factors among young adults in Israel. Br J Oph-
+interpretation. thalmol. 2018;102:659–66.
+14. Israeli A, Peer H, Gleitman I, Falick Y, Mezer E. Time trends of etiologies of
+blindness in Israel 2009–2020: Have methods to decrease leading causes of
+blindness been exhausted? Am J Ophthalmol. 2022;240:149–58.
+SUMMARY
+15. Israeli A, Peer H, Gleitman I, Falick Y, Mezer E. Childhood blindness incidence and
+What is known about this topic aetiologies trends in Israel 2014–2020: what should we focus on? Eye. 2022;24:1–6.
+16. DeCarlo DK, Swanson M, McGwin G, Visscher K, Owsley C. ADHD and Vision
+Problems in the National Survey of Children’s Health. Optom Vis Sci. 2016;93:459.
+● Previous studies reported a higher prevalence of eye 17. Ho JD, Sheu JJ, Kao YW, Shia BC, Lin HC. Associations between attention-deficit/
+disorders among children diagnosed with ADHD/ADD. hyperactivity disorder and ocular abnormalities in children: a population-based
+● However, these studies were mostly cross-sectional, involved study. Ophthalmic Epidemiol. 2020;27:194–9.
+18. Tsai CY, Su CC, Liu YL, Tsai IJ, Tsai TH. High risk for attention-deficit hyperactivity
+small sample sizes and did not explore reverse associations or
+disorder in children with strabismus: a nationwide cohort study from the
+disparities by age or sex.
+National Health Insurance Research Database. Life. 2021;11:1139.
+19. Reimelt C, Wolff N, Hölling H, Mogwitz S, Ehrlich S, Roessner V. The Under-
+estimated role of refractive error (Hyperopia, Myopia, and Astigmatism) and
+What this study adds
+strabismus in children With ADHD. J Atten Disord. 2021;25:235–44.
+20. Kim M, Lee S, Lee JE, Kim JH, Ha EK, Han M, et al. A nationwide cohort study on
+● Eye disorders serve as risk factors for the development of the risk of ADHD in children with amblyopia mediated by fine motor skill
+impairment in East Asia. Sci Rep. 2022;12:6932.
+ADHD/ADD.
+21. Fabian ID, Kinori M, Ancri O, Spierer A, Tsinman A, Ben Simon GJ. The possible
+● These associations are particularly evident in females, as well
+association of attention deficit hyperactivity disorder with undiagnosed refrac-
+as in the paediatric population, compared to adults.
+tive errors. J AAPOS. 2013;17:507–11.
+● Primary care providers and neurologists may use the 22. Mezer E, Wygnanski-Jaffe T. Do children and adolescents with attention deficit
+presented risk stratification for early screening and interven- hyperactivity disorder have ocular abnormalities? Eur J Ophthalmol.
+tion of ADHD/ADD. Ophthalmologists should refer high-risk 2012;22:931–5.
+patients for proper evaluation. 23. Chen XN, Zhang Y, Kam KW, Au SCL, Zhang XJ, Ng MPH, et al. Genetic asso-
+ciation of attention-deficit/hyperactivity disorder with thirteen ocular disorders. J
+Affect Disord. 2025;385:119422.
+24. Israeli A, Hod K, Mezer E. Characteristics and differences of strabismus surgeries
+performed in private versus public settings: a national multicenter study. Int
+DATA AVAILABILITY
+Ophthalmol. 2023;43:3247–55.
+Data sharing will not be permitted due to confidentiality constraints from the Israeli
+25. Rucklidge JJ. Gender differences in attention-deficit/hyperactivity disorder. Psy-
+Ministry of Health. chiatr Clin North Am. 2010;33:357–73.
+26. Israeli A, Bar-Asher T, Mezer E. Characteristics and trends of strabismus surgeries
+at a tertiary hospital over 2 decades—What can be learned for years to come? J
+REFERENCES
+Binocul Vis Ocul Motil. 2024;74:84–90.
+1. Bitsko RH, Claussen AH, Lichstein J, Black LI, Jones SE, Danielson ML, et al. Mental 27. Israeli A, Wald M, Safuri S, Hod K, Cesarman AE, Shalabi F, et al. Characteristics of
+Health Surveillance Among Children-United States, 2013–2019. MMWR Suppl. pediatric ocular trauma in a tertiary hospital in Israel, 2011–2020—How can
+2022;71:1–42. public prevention policy be improved? Eur J Ophthalmol. 2023;34:852–8.
+2. CDC. Centers for Disease Control and Prevention. 2020 [cited 2022 Dec 19]. 28. Ginsberg Y, Quintero J, Anand E, Casillas M, Upadhyaya HP. Underdiagnosis of
+ADHD Throughout the Years | CDC. Available from: https://www.cdc.gov/ attention-deficit/hyperactivity disorder in adult patients: a review of the litera-
+ncbddd/adhd/timeline.html ture. Prim Care Companion CNS Disord. 2014;16:PCC.13r01600.
+3. Farbstein I, Mansbach-Kleinfeld I, Auerbach JG, Ponizovsky AM, Apter A. The 29. Bellato A, Perna J, Ganapathy PS, Solmi M, Zampieri A, Cortese S, et al. Asso-
+Israel Survey of Mental Health among Adolescents: prevalence of attention- ciation between ADHD and vision problems. A systematic review and meta-
+deficit/hyperactivity disorder, comorbidity, methylphenidate use and help- analysis. Mol Psychiatry. 2023;28:410–22.
+seeking patterns. 2014;16:568–73. 30. Grönlund MA, Aring E, Landgren M, Hellström A. Visual function and ocular
+4. Ornoy A, Ovadia M, Rivkin D, Milshtein E, Barlev L. Prevalence of ADHD among 7- features in children and adolescents with attention deficit hyperactivity disorder,
+9-Year-Old Children in Israel. A comparison between Jewish and Arab Popula- with and without treatment with stimulants. Eye. 2007;21:494–502.
+tions. Isr J Psychiatry Relat Sci. 2016;53:3–8. 31. Angel Y, Niv-Yagoda A, Gamzu R. Adapting the Israeli national health insurance
+5. Hire AJ, Ashcroft DM, Springate DA, Steinke DT. ADHD in the United Kingdom: law to the 21st century—a report from the 19th Dead Sea Conference. Isr J
+regional and socioeconomic variations in incidence rates amongst children and Health Policy Res. 2021;10:1.
+adolescents (2004–2013). J Atten Disord. 2018;22:134–42. 32. Arazi M, Zondervan M, Israeli A, Maoz H, Fanego CB. The Israeli eye care system
+6. Sayal K, Prasad V, Daley D, Ford T, Coghill D. ADHD in children and young through a public and global health lens. Isr J Health Policy Res. 2025;14:74.
+people: prevalence, care pathways, and service provision. Lancet Psychiatry. 33. Israeli A, Blumenthal EZ, Nemet A, Zayit-Soudry S, Pizem H, Mezer E. Have gender
+2018;5:175–86. and ethnic disparities in ophthalmology disappeared? Insights from a workforce-
+7. Hashemi H, Fotouhi A, Yekta A, Pakzad R, Ostadimoghaddam H, Khabazkhoob M. based study in Israel (2006–2021). Isr J Health Policy Res. 2025;14:2.
+Global and regional estimates of prevalence of refractive errors: systematic
+review and meta-analysis. J Curr Ophthalmol. 2017;30:3.
+8. Hashemi H, Pakzad R, Heydarian S, Yekta A, Aghamirsalim M, Shokrollahzadeh F, ACKNOWLEDGEMENTS
+et al. Global and regional prevalence of strabismus: a comprehensive systematic
+We thank Shiraz Vered, PhD, from The School of Public Health, University of Haifa, for
+review and meta-analysis. Strabismus. 2019;27:54–65.
+performing the statistical analyses for this study.
+Eye (2026) 40:550 – 556
+A. Israeli and E. Mezer
+556
+AUTHOR CONTRIBUTIONS Reprints and permission information is available at http://www.nature.com/
+AI: conceptualisation, planning and designing, data acquisition, data analysis, reprints
+interpreting results, preparing figures and tables, drafting and writing, critical
+appraisal. EM: conceptualisation, planning and designing, data acquisition, Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims
+interpreting results, critical appraisal, supervision. in published maps and institutional affiliations.
+FUNDING Open Access This article is licensed under a Creative Commons
+This research was funded by ‘Marom’—Maccabi Healthcare Services (MHS) research Attribution 4.0 International License, which permits use, sharing,
+program, Tel-Aviv. MHS is an Israeli state-mandated health maintenance organisa- adaptation, distribution and reproduction in any medium or format, as long as you give
+tion (HMO). The funding organisation had no role in the design or conduct of this appropriate credit to the original author(s) and the source, provide a link to the Creative
+research. Commons licence, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons licence, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons licence and your intended use is not permitted by statutory
+COMPETING INTERESTS
+regulation or exceeds the permitted use, you will need to obtain permission directly
+The authors declare no competing interests.
+from the copyright holder. To view a copy of this licence, visit http://creativecom-
+mons.org/licenses/by/4.0/.
+ADDITIONAL INFORMATION
+Supplementary informationThe online version contains supplementary material © The Author(s) 2026
+available at https://doi.org/10.1038/s41433-025-04227-w.
+Correspondence and requests for materials should be addressed to Asaf Israeli .
+Eye (2026) 40:550 – 556

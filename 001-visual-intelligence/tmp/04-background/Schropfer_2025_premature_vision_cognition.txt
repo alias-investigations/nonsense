@@ -1,0 +1,1065 @@
+European Child & Adolescent Psychiatry (2026) 35:1059–1078
+https://doi.org/10.1007/s00787-025-02937-w
+REVIEW
+The impact of premature birth and low birth weight on motor, visual,
+and cognitive skills and mental health in adolescence: a systematic
+review and meta-analysis
+Frederike Schröpfer1,2 · Emilia Greif1 · Sofia Eickhoff1,2 · Hannah Schewe4 · Jule Wiese1 · Nicole Derner1 ·
+Luise Heller1 · Christina Andreou1,2 · Katharina Röse3 · Jonas Obleser2,4 · Wolfgang Göpel2,5 ·
+Stefan Borgwardt1,2 · Léon Franzen1,2
+Received: 25 April 2025 / Accepted: 28 November 2025 / Published online: 14 January 2026
+© The Author(s) 2026
+Abstract
+Mental disorders represent a significant challenge for individuals and society. Many of them have a detectable onset during
+adolescence. Being born preterm or with low birth weight (PTB) has been emerging as a potential risk factor for develop-
+ing mental health disorders in adolescence. Since PTB infants are considered to be at an increased risk of cognitive and
+sensory difficulties and are at risk for visual impairments, this systematic review aims to explore (1) whether evidence for
+a possible interplay between PTB, cognitive, visual, and motor abilities exists in the literature, and (2) whether and how
+these factors may relate to mental health outcomes of PTB individuals in adolescence. We conducted a registered system-
+atic review following the PRISMA guidelines (PROSPERO #42024513150). The search strategy focused on the databases
+PubMed, Scopus, PsycINFO and the Cochrane Library and included publications sampling participants born in 1980 or
+later. Upon screening 499 studies, we analysed 17 studies including a total of 10,842 adolescents aged 11–20 (PTB = 8,813,
+control = 4,029) published between 2005 and 2022. PTB adolescents exhibited deficits in cognitive and motor domains
+compared to their full-term peers (≥ 37 gestational weeks; FT), including lower intelligence quotient (IQ), attention and
+executive function, and motor control. These effects can persist into adolescence and even adulthood. Importantly, several
+studies demonstrated that PTB adolescents receive diagnoses of psychiatric disorders more often and get diagnosed with
+more complex psychiatric disorders. Contrarily, evidence for subtle visual alterations and direct links between PTB, the
+reviewed domains and mental health outcomes remains scarce. These findings highlight that PTB adolescents can face
+challenges across multiple separate domains, including an elevated prevalence of psychiatric diagnoses. Clarifying the
+nature of these observational relationships shall provide insights that could improve early detection approaches and tar-
+geted intervention in the future.
+Keywords Preterm birth · Low birth weight · Adolescence · Cognition · Mental health · Neurodevelopmental outcomes
+Léon Franzen Introduction
+leon.franzen@mail.com
+Mental well-being among adolescents in the WHO Euro-
+1 Department of Psychiatry and Psychotherapy, University of
+Lübeck, Lübeck, Germany pean Region declines with increasing age: With most mental
+disorders having a detectable onset around age 15 [1], it is
+2 Center of Brain, Behavior and Metabolism (CBBM),
+University of Lübeck, Lübeck, Germany during late adolescence and early adulthood that most men-
+tal disorders become clinically detectable [2–4]. Their first
+3 Institute of Health Sciences, Department of Occupational
+Therapy, University of Lübeck, Lübeck, Germany signs, including subtle cognitive, psychological, and physi-
+cal changes, may already appear during prodromal phases
+4 Department of Psychology, University of Lübeck, Lübeck,
+Germany up to five years prior, as is the case with psychotic disorders
+[2]. Hence, prodromal phases may already fall into the early
+5 Department of Neonatology, University of Lübeck, Lübeck,
+Germany stages of adolescence. Mental ill-health contributes to at
+1 3
+1060 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+least 45% of the disease burden in adolescents and is often Regarding cognition, some studies have operationalised
+met with stigma and limited access to care. If a mental dis- cognitive outcomes as IQ scores. On average, PTB individ-
+order begins in early adulthood, affected individuals may uals tend to score lower on standardised IQ tests than their
+experience a reduction in life expectancy of 10–20 years [5]. FT peers, with mean differences of approximately 12 points
+Adolescence, defined by the WHO as ages 11 to 20 [3], reported in certain studies [20]. In some cases, cognitive dif-
+marks a critical transition from childhood to adulthood ficulties appear to persist into later childhood and adoles-
+and involves rapid biological, neural, and psychological cence, with up to 50% of affected children still exhibiting
+changes [4, 6]. Current literature suggests it to be a criti- such patterns at age 11 [9], and potentially extending into
+cal time period for the early detection of mental ill-health, adulthood [20]. The importance of IQ scores is underlined
+which increases the importance of the entire window from by scores from 2-year-olds being predictive of IQ outcomes
+conception to early adulthood for understanding potential in adulthood [21]. These differences are not surprising, since
+changes and risk factors. most of the brain development occurs in the third trimester
+Successful early detection of mental health problems of pregnancy [22]. Meaning that PTB individuals are born
+heavily depends on the identification of the most informa- during or before this important and vulnerable period for
+tive risk factors. One risk factor may be being born preterm brain development, which might give them a disadvantage
+(< 37 weeks of gestation) or with very low birth weight (< from the starting line.
+1500 g at birth), henceforth PTB. Globally, an estimated 15 Although researchers and clinicians are aware of the
+million babies—more than 1 in 10—are born preterm each outlined differences and factors related to PTB and specific
+year [7, 8]. PTB is increasingly recognised as a key factor birth circumstances, first studies report that the predictive
+that may influence later neurodevelopmental outcomes and accuracy of preterm events and factors favouring the devel-
+mental well-being [6]. PTB individuals face a 3- to 4-fold opment of a psychiatric disorder remains low [23, 24]. This
+risk of developing one mental disorder later in life [9]. For low predictive accuracy might be attributed to relying on
+example, schizophrenia is likely caused by an interplay of self-reports and examining already help-seeking individu-
+genetic and environmental factors that may include pre- and als, which is a common limitation of the indicated preven-
+perinatal adversity, suboptimal postnatal environments in tion paradigm [2]. The focus on proximal predictors, such
+infancy and childhood, biological, psychological, and social as functional decline and attenuated psychotic symptoms,
+stressors in adolescence [3, 10, 11]. may have led to an underrepresentation of distal risk factors
+PTB individuals are also at an increased risk of exhibit- like PTB [23].
+ing cognitive, neuromotor or visual deficits later in life [6, Clear evidence for the role of PTB in psychiatric vulner-
+12, 13]. For instance, there is a significant risk that these ability comes from birth cohort studies [25]. A study exam-
+individuals will suffer from reduced visual acuity. In severe ining adults born very premature (i.e., before 33 weeks of
+cases, this may result in the development of cerebral visual gestation) found higher rates of psychiatric symptomatol-
+impairment (CVI), or retinopathy of prematurity (ROP). ogy, including increased positive, negative, cognitive, and
+Those substantial visual impairments due to the latter have behavioural symptoms, compared to FT-born adults [24].
+been reported to contribute to psychomotor delays [14]. These individuals were significantly more likely to fall into
+In general, accurate vision and perception are paramount a high-risk psychopathology cluster, indicating a general
+for navigating daily life, as the visual modality provides psychiatric vulnerability rather than a disorder-specific risk
+the richest information of all our senses [15]. In sighted [24]. These findings align with the neurodevelopmental
+individuals, it provides context to all the other senses and model of psychiatric disorders, postulating that altered brain
+enables the construction of multi- or supramodal representa- connectivity in preterm individuals may contribute to their
+tions and predictions [15]. If this context is removed, it can increased susceptibility to develop mental ill-health later in
+elicit symptoms of psychosis, such as hallucinations, even life [24].
+in healthy individuals [16]. The visual sense also supports Current approaches to early detection are predominantly
+the development of motor abilities for navigating and inter- informed by indicated prevention, with limited consider-
+acting with our world [17]. ation given to the specific context of birth and psychometric
+In addition, PTB children show poorer development assessments of low-threshold markers, such as visual and
+of both fine and gross motor skills, which often persist motor function. Indicated prevention may overlook subtle
+into adulthood [18]. Poorer motor skills have been early signs in these low-threshold indicators, which can
+associated with higher levels of psychiatric symptoms and sometimes be observed well before help-seeking behaviour
+lower quality of life scores, underlining the importance begins. The integration of existing prevention paradigms,
+of examining both visual and motor skills in relation to namely indicated and selective prevention, might hold
+mental health [19]. potential for enhancing early detection and overall health
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1061
+outcomes for individuals with PTB [2]. However, to date, The search strategy was developed to capture studies
+a synthesis of potential concomitant developmental links linking PTB to mental health as well as motor, visual, and
+between visual, motor, and cognitive skills after PTB and cognitive abilities in adolescents. We operationalised mental
+the risk of developing mental health problems in adoles- health in accordance with the WHO as an inclusive state of
+cence is lacking [24]. Therefore, the present review aims to well-being [28] that goes beyond mere diagnostic categories
+address this gap by systematically examining (1) whether in established classification systems. Motor abilities encom-
+evidence for a possible interplay between preterm birth and passed gross and fine motor domains and visual abilities
+cognitive, visual, and motor abilities exists, and (2) whether focused predominantly on subtler functional aspects that
+and how these factors may relate to mental health outcomes excluded severe conditions such as CVI, ROP or blindness.
+of PTB individuals in adolescence. For instance, studies including participants with CVI were
+excluded because CVI represents a heterogeneous group of
+neuro-visual disorders that complicate the differentiation of
+Methods specific visual abilities and may mask subtler visual deficits.
+Inclusion and exclusion criteria were defined prior to data
+The present systematic review was conducted according to selection and extraction (Table 1). Articles were eligible
+the Preferred Reporting Items for Systematic Reviews and if all participants were born on the 1 st of January 1980 or
+Meta-Analysis (PRISMA) guidelines [26]. The protocol later, reflecting the impact of major advances in neonatal
+was registered in the International Prospective Register of care, including surfactant therapy [29, 30], improved ven-
+Systematic Reviews (PROSPERO) database on 6/04/2024 tilators and incubators [31], the adaption of family-centred
+(registration #42024513150). care models [32], and markedly increased survival rates for
+extremely preterm infants [31]. Further eligibility criteria
+Literature search were defined as being born preterm (< 37 weeks), and/or
+with low birth weight (< 2400 g), being at least 10 years
+A comprehensive literature search was conducted using mul- old at the time of testing, and exhibiting an IQ score > 70.
+tiple databases, including PubMed, Scopus, PsycINFO and Studies involving participants with conditions like down
+the Cochrane Library, with a cut-off date of 6th November syndrome or cerebral palsy or with prenatal exposure to
+2023. Handsearching of reference lists of relevant articles
+and systematic reviews supplemented the systematic search
+Table 1 Inclusion and exclusion criteria for study selection. The cri-
+(done by FS and LF). Filters ensured the inclusion of papers teria were applied to identify eligible studies assessing motor, visual,
+written in English. Our search included randomised and and/or cognitive abilities in PTB adolescents, in relation to mental
+health outcomes
+non-randomised trials, and observational studies (cohort and
+Criterion Inclusion Criteria Exclusion Criteria
+case-control) meeting the inclusion criteria. We excluded
+Sample birth Participants born in January —
+animal studies, dissertations, books and book chapters, and
+year 1980 or later
+opinion papers as well as articles without a representative
+Gestational Preterm (< 37 weeks —
+sample size of preterm and/or low birth weight participants age gestation)
+(N < 20). Duplicate records were removed. Preterm birth was Birth weight Low birth weight (< 2400 g) —
+defined as birth before 37 completed weeks of gestation, in Assessed Motor, visual, and/or cogni- —
+line with the World Health Organisation classification [27]. abilities or tive abilities, and/or mental
+outcomes health after PTB
+Age at testing ≥ 10 years old at the time of —
+Study selection
+testing
+Study types Observational studies (cohort, Reviews, book
+The study selection process was managed using Covi- case-control), randomised chapters, editori-
+dence (www.covidence.org). At all stages reviewers (FS trials, perspective articles als, opinion papers,
+small samples
+and LF) assessed articles for relevance to the research
+(< 20)
+question and eligibility criteria. A two-step screening pro-
+IQ threshold Absence of intellectual dis- —
+cess was conducted, beginning with a title and abstract ability (IQ > 70)
+screening, followed by a full-text review to assess eli- Excluded — Down syndrome,
+gibility based on the predefined inclusion and exclusion conditions cerebral palsy,
+PVL, grade IV IVH
+criteria. The reviewers examined the texts to make final
+Excluded — Maternal history of
+decisions based on predefined eligibility criteria. Dis-
+maternal frequent illicit drug
+agreements between reviewers during this process were factors or alcohol use dur-
+resolved by discussion amongst these two reviewers. ing pregnancy
+1 3
+1062 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+frequent illicit drug or alcohol use in undifferentiated sam- [36]). Additionally, for each publication, we extracted all
+ples were excluded, following a similar logic to that used for available data on cognitive, motor and/or visual abilities as
+CVI. To ensure methodological rigor, we focused on origi- well as on mental health.
+nal observational studies and excluded reviews, editorials,
+and small-sample studies (< 20). To consider maximum Data synthesis
+information, we also included studies reporting results of
+a subsample fulfilling these criteria (e.g., [33, 34];Table 2). The data synthesis included all relevant data from the sys-
+The initial literature search identified a total of 499 tematically identified and included studies. Given the wide
+studies across all databases (Fig. 1). Of these, we excluded variability in topics and data within the identified studies
+185 duplicates. The remaining 315 studies were screened and domains, all reported findings are presented and com-
+by two independent reviewers (F.S. and L.F.) using title pared in the context of the research question. We also con-
+and abstract screening, which resulted in the exclusion ducted meta-analyses of the IQ scores available from the
+of 205 studies. Subsequently, a total of 110 studies were studies included in this systematic review. Additionally, it is
+subjected to full-text screening. We excluded 93 studies at important to acknowledge that within the cognitive domain,
+this stage, as they did not meet all pre-registered inclusion we report findings from pen and paper tests alongside iso-
+criteria (Table 1). lated results from self-report questionnaires. The latter may
+This process resulted in a final sample of 17 articles include a subjective component.
+analysed in this systematic review (Fig. 1; Table 3). Most
+included studies report results from individuals who had to Meta analyses
+be born before 30 weeks of gestation, with one study report-
+ing on data obtained from younger preterms (23–25 weeks The R packages meta, metafor, and ggplot2 were used for
+of gestation; [33]), and two studies reporting on data from statistical analyses and visualisation. The figures illustrat-
+slightly older preterms (32–37 weeks of gestation; [34, 35]). ing the results of the meta-analyses (i.e., age-stratified com-
+The birth weight of sampled individuals ranged between < parisons of mean IQ scores and raincloud plot [37]) were
+1000 and < 1500 g across all studies. Since we could not created using RStudio (version 4.3.2) and MATLAB (ver-
+identify substantial differences in results relevant for our sion 2024b, The MathWorks Inc., Massachusetts, USA),
+findings, we synthesise all studies using the acronym PTB. respectively. Additional graphical adjustments were made
+for readability using Adobe Illustrator.
+Data extraction and quality assessment James et al. [35] provided no IQ value for the control
+group. To fill this gap in the meta-analyses, the missing
+The data extraction process involved the first author extract- values (i.e., means, standard deviations, sample sizes) were
+ing the following variables for each included publication, estimated by averaging across the available data for control
+if available: (1) name of the study; authors and publication groups in the rest of the reviewed studies. These estimates
+year; (2) study design; (3) population; (4) analysed assess- of a “general” control group were then used as a proxy for
+ments or diagnostics; (5) findings. To quantify a study’s the missing control group in the study [35]. This imputation
+quality, we conducted the Strengthening the Reporting of procedure is consistent with recommendations for handling
+Observational Studies in Epidemiology analyses (STROBE; missing data in meta-analyses when the number of missing
+values is small and the comparison groups can be assumed
+Table 2 Search string on PubMED to be sufficiently homogeneous [38, 39]. This imputation
+((“mental health“[MeSH Terms] OR “mental health“[All Fields] was performed for the control group exclusively.
+OR “mental disorder“[All Fields] OR “mental illness“[All Together, the amended control data and PTB data formed
+Fields] OR “mental disorders“[MeSH Terms] OR “psychotic
+the basis for two random effect models estimating (1) the
+disorders“[MeSH Terms] OR “psychosis“[All Fields])
+standardised mean difference in IQ scores and (2) Hedges’
+AND
+g as a measure of effect size. These random-effects meta-
+(“preterm birth“[All Fields] OR “premature birth“[MeSH Terms]
+OR “low birth weight“[All Fields] OR “low birth weight infant“[All analyses were conducted using the restricted maximum
+Fields]) likelihood (REML) estimator, based on k = 8 indepen-
+AND dent effect sizes. The meta-analyses were conducted on an
+(“motor skills“[MeSH Terms] OR (“motor“[All Fields] AND
+aarch64-apple-darwin20 in RStudio (version 4.3.3; 2024-
+“skill*“[All Fields]) OR “visual perception“[MeSH Terms] OR
+02-29, “Angel Food Cake”; [40]) using the metafor package
+(“visual“[All Fields] AND “skill*“[All Fields]) OR “cogniti*“[All
+Fields]) (version 4.8.0; [41]). The effect size model’s fit was slightly
+AND better (AIC = 52.07, BIC = 51.96; AIC = 40.58, BIC =
+IQ IQ g g
+“adolescen*“[All Fields]) 40.48). We report results from both models for transparency,
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1063
+Fig. 1 PRISMA-Flowchart of the study selection process. Flowchart of paediatric population (n = 12), adolescent data not available (n = 4),
+study selection based on PRISMA guidelines. Studies were excluded wrong patient population (n = 7), wrong outcomes (n = 2), missing key
+for the following reasons: cohort sampling years not matching criteria information (n = 2), wrong study design (n = 1) and wrong language
+(n = 25), wrong form of publication (n = 24), adult population (n = 15), (n = 1)
+1 3
+1064 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+Table 3 Table of findings
+Paper Type of Cohort N PTB Estimates Strobe
+Publication (Characteristics) (N Cognition Motor Visual Mental Health Score
+Controls) Function Function
+Brylka et Individual par- Millennium 3182 Hyperactivity/inatten- 77.27%.
+al. (2021) ticipant data Cohort Study (3137) tion p =.01
+[34] meta-analysis (MCS)
+of two studies (≤ 32 weeks of
+gestation)
+Basel Study of 99 (59)
+Preterm Children
+(BSPC)
+(≤ 32 weeks of
+gestation)
+Burnett et Longitudinal Victorian Infant 394 (166) CogState detec- Attentional control 81.82%
+al. (2015) cohort study Collaborative tion p =.09 (HSCT) time p =.002
+[48] Study (VICS) Cognitive flexibility
+(< 28 weeks of p =.001
+gestation)
+CogState identifi- Goal setting (RCF)
+cation p =.19 copy accuracy
+p =.001
+Goal setting (RCF)
+organization score
+p =.001
+Frazier et Longitudinal Extremely Low 670 (none) ♀:♂ p <.05 major 86.3%
+al. (2022) cohort study Gestational depressive disorder,
+[11] Age Newborns ADHD hyperactivity
+(ELGAN) Study ♀:♂ p <.01 gen-
+(< 28 weeks of eralised anxiety
+gestation) disorder, separation
+anxiety disorder,
+social anxiety
+disorder
+♀:♂ p <.001
+agoraphobia
+Ganella et Longitudinal Ganella 341 (147) IQ Score (age Any mood disorder 81.82%
+al. (2015) cohort study Population 18): 96.8, 95% n = 32 (16%), p =.20
+[51] (GANE-P) CI [6.0, 16.2], Any psychiatric diag-
+(< 28 weeks of p <.001 nosis past or current
+gestation) n = 58 (30%), p =.10
+Any ADHD diagnosis
+n = 29 (15%), p =.01
+Haebich et Longitudinal Victorian Infant 238 (77) Tower Test total Copy raw 90.91%
+al. (2018) cohort study Brain Study achievement raw score -2.39,
+[50] (VIBeS) score p <.001 95% CI
+(< 30 weeks IQ Score (age [-3.61,
+of gestation; 13): 100.2, -1.17],
+< 1250 g birth SD = 18.3 p <.001
+weight)
+Holsti et Longitudinal Holsti Population 237 (103) Major cognitive Poor motor Severe or ADHD/ADD p =.002 95.45%
+al. (2017) cohort study (HOLS-P) impairment skills moder- Autism spectrum
+[33] (23–25 weeks of p <.001 p <.001 ate visual disorders p =.06
+gestation) impairment
+p =.09
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1065
+T able 3 (continued)
+Paper Type of Cohort N PTB Estimates Strobe
+Publication (Characteristics) (N Cognition Motor Visual Mental Health Score
+Controls) Function Function
+Indreda- Cross-sectional Indredavik 199 (83) Relative risk for 87.1%
+vik et al. study (group -Population psychiatric disorders
+(2005) [52] comparison) (INDR-P) compared to controls
+(≤ 1500 g birth VLBW mother
+weight) reported OR = 6.1,
+95% CI [2.3, 16.7]
+VLBW father rep.
+OR = 3.9, 95% CI
+[1.3, 11.3]
+SGA mother rep.
+OR = 3.2, 95% CI
+[1.1, 9.6]
+SGA father rep.
+OR = 1.0, 95% CI
+[0.3, 3.8]
+James et al. Longitudinal Jame-Population 104 (104) IQ Score (age ADHD symptoms 82.82%
+(2019) [35] cohort study (JAME-P) 15): 104.72, p =.04
+(< 37 weeks of SD = 12.36 (within sibling
+gestation) (within sibling comparison ß=0.32,
+comparison 95% CI [−0.05, 0.58],
+ß=−0.20, p =.04, p =.01; compared
+95% CI [−0.40, to unrelated control
+−0.01], compared ß=0.64, 95% CI
+to unrelated con- [0.17, 2.05], p =.04)
+trol ß=−0.35, 95%
+CI [-0.64, −0.06],
+p =.02)
+Johnson et Longitudinal EPICure 460 (153) Any DSM-IV clinical 86.36%
+al. (2010) cohort study (≤ 26 weeks of diagnosis p =.0001
+[9] gestation) Any ADHD diagnosis
+p =.005
+Any autism spectrum
+disorder diagnosis
+p =.0001
+Joseph et Longitudinal Extremely Low 889 (none) DAS-II verbal Visuomotor Precision 72.73%
+al. (2016) cohort study Gestational distribution distribution
+[42] Age Newborns (p <.001): (p <.001):
+(ELGAN) Study ≤ −2 SD 17% ≤ −2 SD 21%
+(23–27 weeks of > –2 and ≤ -1 SD > – 2 and ≤ −1 SD 35%
+gestation) 19% +/- 1 SD 38%
++/- 1 SD 57% > 1 SD = 7
+>1 SD 7%
+DAS-II nonverbal
+reasoning distri-
+bution (p <.001):
+≤ −2 SD 15%
+> – 2 and ≤ −1
+SD 24%
++/- 1 SD 56%
+> 1 SD 5%
+1 3
+1066 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+T able 3 (continued)
+Paper Type of Cohort N PTB Estimates Strobe
+Publication (Characteristics) (N Cognition Motor Visual Mental Health Score
+Controls) Function Function
+Kelly et Longitudinal Victorian Infant 187 (55) IQ score (age 13): Motor 100%
+al. (2022) cohort study Brain Study 97.8, SD = 17.0; score − 1.5,
+[44] (VIBeS) 95% CI [5.0, 95% CI
+(< 30 weeks of 15.0], p =.0003 [-2.5, -0.4],
+gestation) p =.006
+Paediatric Imag-
+ing, Neurocogni-
+tion, and Genetics
+(PING)
+(< 30 weeks of
+gestation)
+Linsell et Prospective EPICure 219 (153) IQ score (age 100%
+al. (2018) cohort study (< 26 weeks of 11): 83.4, 95% CI
+[46] gestation) [80.8, 85.9]
+127 (64) IQ score (age
+19): 85.7, 95% CI
+[82.7, 88.8]
+Linsell et Longitudinal EPICure 209 (148) Total difficulties 90.91%
+al. (2019) cohort study (< 26 weeks of score
+[47] gestation) (age 11): 11.1,
+95% CI [10.1, 12.1]
+134 (86) Total difficulties
+score
+(age 16): 11.9,
+95% CI [10.6, 13.2]
+117 (55) Total difficulties
+score
+(age 19): 12.2,
+95% CI [10.9, 13.5]
+Luu et al. Cross-sectional Multicentre 337 (102) Executive Func- Clinically signifi- 58.6%
+(2011) [53] study (group Randomised tion adj mean cant BRIEF scores
+comparison) Indomethacin difference OR = 4.2,
+Intraventricular −1.3 to −2.0 on 95% CI [1.6, 10.9]
+Haemorrhage D-KEFS
+Prevention Trial subscales;
+(IVHPT) memory adj
+(< 1250 g birth mean difference
+weight) − 0.8 to −7.1
+Marlow et Longitudinal Extremely Low Sample IQ score (age 11): Combined mod/ 100%
+al. (2021) cohort study Gestational 1996: 112 82.7, SD = 18.4 severe 51%
+[45] Age Newborns (153)
+(ELGAN) Study Sample IQ score (age 11): Combined mod/
+(< 26 weeks of 2006: 176 81.4, SD = 19.2 severe 47%
+gestation) (143) Neurodevelop- 2006 vs. 1996 p =.88
+mental impair-
+ment 2006 vs.
+1996 p =.32
+Reading impair-
+ment 2006 vs.
+1996
+unadjusted = 0.56,
+95% CI [0.32,
+0.97], p =.04
+Tilley et Longitudinal Extremely Low 43 (none) Six genes predict 90.91%
+al. (2017) cohort study Gestational neurocognitive
+[43] Age Newborns impairment
+(ELGAN) Study
+(< 28 weeks of
+gestation)
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1067
+T able 3 (continued)
+Paper Type of Cohort N PTB Estimates Strobe
+Publication (Characteristics) (N Cognition Motor Visual Mental Health Score
+Controls) Function Function
+Wilson- Longitudinal Victorian Infant 198 (153) Symbols correct 95.45%
+Ching et cohort study Collaborative p <.05, d = 0.24
+al. (2013) Study (VICS) Selective atten-
+[49] (< 28 weeks tion strings
+of gestation; correct
+< 1000 g birth p <.001, d = 0.56
+weight)
+Shifting attention
+strings correct
+p <.001, d = 0.56
+Divided attention
+score p <.05,
+d = 0.27
+as they may serve as a basis for future comparisons with Cognition
+alternative model specifications (e.g., fixed-effect models)
+and other studies reporting IQ scores. Eleven articles reported on cognitive abilities of PTB ado-
+To examine the robustness of our findings and assess lescents [33, 35, 42–46, 48, 50, 51, 53, 54]. Several studies
+potential heterogeneity, we conducted a leave-one-out sen- examined IQ as a more detailed proxy of cognitive abilities,
+sitivity analysis by iteratively excluding each study from the with IQ data included only once per cohort. The study by
+dataset used in the meta-analyses. The results indicated that Marlow et al. [45] reports on data from two EPICure cohorts
+no single case disproportionately influenced the overall con- collected at two distinct time points throughout adolescence
+clusion on IQ differences. while the study by Linsell et al. [46] reports on the same
+cohort at two distinct time points.
+Our meta-analysis of IQ raw scores revealed a mean IQ
+Results score of 92.5 points of PTB adolescents across studies, with
+a mean difference of −14.44 compared to FT control groups
+The present systematic review identified 17 eligible studies (k = 8, SE = 2.77, 95% CI [−19.63, −9.20], p <.0001; Fig.
+published between 2005 and 2022 (Fig. 2A). These stud- 3A). An additional random-effects model of effect sizes cor-
+ies included a total of 10,842 adolescents (PTB = 8,813, roborated this significant pooled reduction in IQ scores (k
+reported control = 4,029), three studies included no con- = 8, g = −2.56, SE = 1.16, 95% CI [−4.84, −0.28], p =.028;
+trol participants [11, 42, 43]. Visual inspection shows that Fig. 3B). Between-study heterogeneity was substantial (τ²
+publication frequency has been increasing in recent years = 10.80, SE = 5.79, τ = 3.28). Importantly, the I² value of
+(Fig. 2B). According to STROBE, almost all studies were of 99.83% indicates that nearly all observed variance is due
+excellent or good quality, with only one study receiving fair to true heterogeneity rather than sampling error. Cochran’s
+scores (Fig. 2C). These analysed data originate from several Q-test for heterogeneity was statistically significant (Q(7)
+separate cohort studies, complemented by a few single orig- = 889.47, p <.0001), providing more evidence for differ-
+inal datasets (for an overview, see Table 1; Fig. 2A). Some ences in reported IQ outcomes among preterm populations
+studies analysed data from separate cohorts within the same reflecting meaningful between-study differences rather than
+publication [34, 44]. random variation. Interestingly, the effect size of two PTB
+The included studies present a heterogeneous picture samples reported within the same study was substantially
+in terms of country of origin, participant age, and research larger than the remaining ones ([46]; Fig. 3B). Although this
+team. The extremely low gestational age newborns cohort study increases the observed overall effect, a clear reduction
+(ELGAN) appears in four included publications [11, 42, 43, in the IQ of PTB adolescents would be evident still, as only
+45]. The EPICure cohort is included in three publications [9, two studies report a non-significant reduction (Fig. 3A, B).
+46, 47]. The Victorian Infant Collaborative Study (VICS; Both meta-analyses show high heterogeneity between
+[48, 49]) and the Victorian Infant Brain Study (VIBeS; [44, studies. Leave-one-out analyses revealed that the studies
+50]) cohorts are each reported in two publications. Eight of by Linsell et al. [46] and James et al. [35] were the most
+the reviewed publications investigate a single cohort, or a influential. James et al. [35] increased the mean differ-
+cohort that is included in only one publication [33–35, 44, ences, while Linsell et al. [46] increased the differences in
+51–53]. Hedges’ g more than the other studies. The strongest effect
+1 3
+1068 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+Fig. 2 Number and cohort of included participants, temporal distri- analysing each cohort’s data. (B) Histogram depicting the distribu-
+bution, included publications. (A) Dual-axis plot displaying the num- tion of included studies by year of publication since 2005. These
+ber of participants and studies for each cohort, respectively (grey data indicate an increasing trend in the number of studies published
+bars, left y-axis; red dotted line, right y-axis). The plot highlights over time with a very recent uptick in 2022. (C) Pie chart illustrating
+differences between the cohorts’ sample size and the number of pub- the distribution of STROBE quality scores (n = 11) rated as “Excel-
+lications analysing their data. Bars represent the accumulated sample lent” (≥ 85%), (n = 5) rated as “Good” (70–85%), (n = 1) classified as
+size per cohort. The red dotted line indicates the number of studies “Fair” (< 70%)
+was observed for the younger sample reported by Linsell et IQ differences between PTB and their FT peers decrease
+al. (Est = −2.56, Est = −1.61; [46]). However, most towards mid-adolescence at age 13 (Δ = −10.0 points, M
+with without PTB
+importantly, the overall result of substantial reductions in IQ = 100.2, 95% CI [97.50, 102.90]; [44, 50] and 15 (Δ = −4.33
+scores did not change after excluding these studies one-by- points, M = 104.72, 95% CI [103.04, 106.40.]; [55]).
+PTB
+one and heterogeneity remained high across analyses (I² Several studies also examined specific cognitive abilities,
+min
+= 97.66). Changes in general IQ average over time due to such as executive functions and attention. PTB adolescents
+improvements in education and medicine are a conceivable exhibited intact planning skills at age 13 with a score of 9.9
+explanation. However, we found no significant relationship out of 10 on the Delis-Kaplan Executive Function System
+between IQ differences and year of testing (tau = − 0.15, p (D-KEFS; [56]). On the contrary, adjusted mean differences
+=.75). on executive function tasks across all D-KEFS subscales
+Further analyses of the temporal evolution of IQ differ- indicated that deficits also exist in the PTB group, albeit at
+ences throughout adolescence illustrated that IQ score dif- varying levels. On the one hand, the smallest deficit was
+ferences follow a U-shape, with PTB individuals exhibiting observed in the Category Fluency subtest (M = 9.7, SD =
+larger reductions at age 11 (Fig. 3D, Δ = −18.87 points, 3.7), with 6.3% of children scoring two standard deviations
+M = 83.4, 95% CI [83.0, 83.8] [13, 46]), and 19 (Δ = below the norm (aMD = −1.3, 95% CI [−2.1, −0.5]). On the
+PTB
+−18.2 points, M = 85.7, 95% CI [82.7, 88.8]; [46]). other hand, the most significant impairment was observed
+PTB
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1069
+on the Colour-Word Inhibition subtest (M = 7.9, SD = 3.8), the Basel Study of Preterm Children or the Millennium
+where 17.6% of children scored two standard deviations Cohort Study samples (p =.563, p =.197, respectively; [34]).
+below the norm (aMD = −2.0, 95% CI [−2.8, −1.2]; [53]). Importantly, these PTB cohorts comprise fewer attentional
+As well, PTB adolescents exhibited significant planning and and peer problems than expected, while particularly the
+organisation difficulties on the self-rating-based Behaviour Millenium Cohort Study comprises considerably more FT
+Rating Inventory of Executive Function (BRIEF; β = 2.5, births simply to increase statistical power [34]. Together,
+95% CI [1.2, 5.1]; [48, 57]). More cognitive performance this specific compilation of experimental groups may have
+measures showed significant impairments in selective, reduced the likelihood of detecting true effects of motor
+shifting, and divided attention (p <.001, p <.001, p <.05, impairments and biased results due to potentially unequal
+respectively; [49]). Neurocognitive impairment could even variances of the groups.
+be predicted by six genes, as observed in a study involving In sum, the analysed studies provide evidence for an
+preterm-born individuals [43]. increased prevalence of motor deficits and less physical
+Taken together, these studies highlight cognitive chal- activity in PTB adolescents. Though, the evidence for an
+lenges including general IQ, executive function, and atten- increased risk of neurosensory impairments in the reviewed
+tion in PTB adolescents [50, 58]. These are particularly studies is not unequivocal.
+prominent in the beginning and end of adolescence, and
+may persist in adulthood. Visual function
+Motor function Three of the included studies investigated the effects of PTB
+on functional visual abilities including visual perception,
+Motor functioning relies on integrating neurosensory input visuo-motor control and visuo-spatial planning in adoles-
+to interpret environmental cues and generate appropriate cence [33, 42, 50]. Subtler deficits in these visual abilities
+responses. Four included studies examined motor func- are not as salient and compromising as CVI or ROP and have
+tion with a sample size of more than 20 participants [33, received limited attention in the literature. The reviewed
+34, 42, 50]. Two studies found a considerable prevalence of studies show that PTB adolescents have an increased risk
+general motor impairment in adolescence [33, 42]. Specifi- of scoring between one and two standard deviations below
+cally, during earlier adolescence (i.e., age 10–15), one study the FT population mean on most visual tests [42]. Devel-
+showed a generally higher prevalence of poor motor skills oping proficient visual abilities, such as visual perception
+in PTB adolescents without neurosensory difficulties using and mental flexibility, are particularly challenging for PTB
+the M-ABC [33]. Also in early adolescence, the majority of adolescents [42]. One study observed a significant trend
+PTB individuals aged 10 showed performance considerably towards the need of glasses in PTB adolescents (aOR = 3.4,
+below average on the visuo-motor precision task (21% of 95% CI = [1.7, 6.8], p <.001), with a few exhibiting visual
+participants scored ≤ (−2) SD; 35% scored between > (−2) acuity below 20/200 without correction in their better eye
+and ≤ (−1) SD; 38% scored between > (−1) and ≤ 1 SD; 7% [33]. Lastly, PTB adolescents were less likely to improve
+scored > 1 SD; [42]), evidencing deficits in fine motor con- their visual conceptual organisation, even after adjusting
+trol. As well at age 13, visuo-constructive abilities, which for baseline group differences. This skill, originating from
+require fine motor sketching skills amongst visual integra- the RCFT [59], requires substantial visuo-spatial perception
+tion, indexed by the Rey Complex Figure Test (RCFT; [59]), and planning abilities during copying of a complex figure
+showed a significant reduction in the raw copy score (M [42, 60]. A gender difference was reported for visuo-spatial
+PTB
+= 24.94, SD = 4.93, M = 27.28, SD = 3.80; Δ = −2.39, 95% organisation skills, where especially PTB males showed
+FT
+CI [−3.61, −1.17], p <.001; [50]). inferior performance [50].
+As a proxy of general motor issues, PTB adolescents The evidence, albeit preliminary due to the small num-
+demonstrated consistently lower levels of physical activity, ber of studies, suggests that PTB adolescents may also be at
+reporting an average of 10 min less activity per day than increased risk of suffering from subtler visual impairments
+their FT counterparts [34]. More specifically, a group of in visual perception and visuo-spatial organisation com-
+PTB adolescents without neurosensory impairment (NSI) pared to their age-matched FT peers.
+was significantly more likely to receive physical/occupa-
+tional therapy, which indicates difficulties (aOR = 11.1, Mental health
+95% CI = [1.4, 87.7], p =.02; [33]).
+It is noteworthy that not all studies report motor deficits. Eleven studies have investigated neurodevelopmental disor-
+Brylka and colleagues [34] did not find a higher likelihood ders, cognitive impairment and mental health in PTB ado-
+of NSI, which includes severe motor impairments, in either lescents [9, 11, 33–35, 46–48, 51–53]. These studies cover
+1 3
+1070 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1071
+Fig. 3 Meta-analyses of mean differences (MD) in cognitive IQ test
+attentional problems were reported by 25% of the PTB
+scores and Hedges’ g across the reviewed studies. (A) Forest plot illus-
+trating the MD in IQ test scores with their corresponding 95% con- adolescents aged 14, ADHD was diagnosed in only 7%
+fidence intervals for each examined study. Sorted by ascending age. of the included PTB adolescents [52]. In addition, at age
+Pooled effect sizes based on a random-effects model (k = 8; REML 15, 18% of the PTB adolescents met criteria for ADHD,
+estimator). The overall reduction was statistically significant (g =
+with a significant sex difference in the combined subtype (p
+−14.41, SE = 2.66, 95% CI [−19.63, −9.19], p <.0001). Between-study
+heterogeneity was substantial (τ² = 66.89; I² = 99.12%; Q(7) = 518.45, =.004), characterised by both inattentive and hyperactive-
+p <.0001), indicating considerable variation in effect sizes across stud- impulsive symptoms and the hyperactive subtype being
+ies. Model fit indices: AIC = 52.07, BIC = 51.96. Two studies report more common in boys than girls (p <.001; [11]). Among
+on two separate samples indicated by lower case superscript letters.
+those diagnosed with autism spectrum disorders at age
+Linsell et al., 2018ª assessed children at age 11, whereas Linsell et al.,
+2018ᵇ reported outcomes from the same cohort at age 19. Meanwhile, 10, 46.2% also met criteria for ADHD [11]. Interestingly,
+Marlow et al., 2021ª and Marlow et al., 2021ᵇ assessed two different 61.5% of girls with autism spectrum disorder had comorbid
+samples of children both at age 11. (B) Forest plot illustrating Hedges’ anxiety disorders—more than double the rate compared to
+g across reviewed studies with their corresponding 95% confidence
+girls without ASD (26.7%; [11]).
+intervals for each examined study. This list is sorted by ascending age.
+Pooled effect sizes based on a random-effects model (k = 8; REML Comparing PTB and family vulnerability hypotheses of
+estimator). Model fit indices: AIC = 40.58, BIC = 40.48. (C) Rain- attention deficits, we find a higher prevalence of ADHD in
+cloud plot [37] of mean IQ scores depicted in panel A, and boxplots unrelated individuals (β = 0.64, 95% CI [0.17, 2.05], p =.04;
+comparing scores between PTB (blue) and FT control samples (yel-
+[55]) compared to siblings (β = 0.32, 95% CI [0.05, 0.58], p
+low) independent of age. (D) Comparison of mean IQ scores between
+PTB (blue) and FT control samples (yellow) sorted by age at the time =.01; [55]). This result suggests that shared genetic or famil-
+of testing. Where no FT control data was available [13], we used the ial factors may not account for the observed comorbidity.
+mean of the available control groups as a comparator Similarly, PTB individuals were more likely to receive an
+ADHD diagnosis than their siblings (p =.01), providing evi-
+mild to severe mental health issues. In accordance with the dence for a specific vulnerability due to PTB circumstances
+broad definitions provided by the World Health Organiza- [35].
+tion [28] and Keyes [61], we use the term “mental health” While attention deficits and hyperactivity are prevalent
+to denote assessments ranging from well-being to psychiat- in PTB adolescents, engaging in physical activity might
+ric symptoms without exclusively referring to diagnosable play a protective role in their mental health. Specifically,
+disorders. PTB adolescents exhibit a higher prevalence of increased physical activity was linked to greater psycholog-
+developing psychiatric disorders suggesting increased emo- ical well-being (β = 0.05, 95% CI [0.019, 0.087]; [34]) and
+tional and psychological vulnerability. Frazier et al. [11] more favourable self-perception (β = 0.06, 95% CI [0.028,
+reported that 15% of PTB adolescents had received a diag- 0.094]; [34]).
+nosis of one psychiatric disorder, 9% had been diagnosed The findings emphasise the considerably increased risk
+with two co-occurring disorders, and 8% with three or more of PTB adolescents to develop neurodevelopmental or psy-
+diagnoses, resulting in a total of 33% of PTB adolescents chiatric disorders, evidenced by elevated rates of psychiatric
+having been diagnosed with at least one psychiatric disor- diagnoses and comorbidities. Pronounced gender disparities
+der. This prevalence exceeds global estimates for diagnoses are also noteworthy. Of note is the high prevalence of atten-
+of psychiatric disorders in the general population of chil- tion deficits and hyperactivity in PTB individuals, which
+dren and adolescents considerably, which range between frequently co-occur with other neurodevelopmental condi-
+10 and 20% [62]. Furthermore, significant sex differences tions. This overlap complicates isolating the specific devel-
+were reported, with girls being more frequently diagnosed opmental pathways and contributions to mental ill-health.
+with major depressive disorder (6% vs. 2%; OR = 3.33, p Thereby, it constitutes a potential confounding factor in
+<.05), generalised anxiety disorder (11% vs. 5%; OR = 2.5, studies aiming to assess the long-term impact of prematu-
+p <.01), agoraphobia (7% vs. 1%; OR = 5, p <.001), separa- rity on cognitive and psychiatric outcomes that warrants
+tion anxiety disorder (6% vs. 2%; OR = 3.33, p <.01), and attention.
+social anxiety disorder (8% vs. 3%; OR = 3.33, p <.01), but
+less often with the hyperactive subtype of ADHD (1% vs.
+4%; OR = 0.24, p <.05; [11]). Discussion
+Attention deficits and hyperactivity deserve specific
+attention within PTB adolescents, with ADHD being The present systematic review aimed to investigate (1)
+particularly prevalent (7–23%) and clinically relevant [11]. whether evidence for a possible interplay between preterm
+Research findings indicate that parent and teacher reports birth and cognitive, visual, and motor abilities exists, and (2)
+support the presence of more frequent ADHD symptoms whether and how these factors may relate to mental health
+in PTB compared to FT peers. Furthermore, while outcomes of PTB individuals in adolescence. The reviewed
+1 3
+1072 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+findings provide evidence for PTB individuals exhibiting We also identified evidence for reduced motor skills
+independent differences in some of the reviewed domains. in PTB adolescents. For instance, fine motor impairments
+Specifically, we found lower performance on cognitive tests are pronounced in PTBs, with adolescents showing lower
+in early adolescence, which re-appear in late adolescence as performance on tasks such as the RCFT [50]. The major-
+individuals approach adulthood. As well, the results reveal a ity of PTB individuals aged 10 also showed performance
+higher prevalence of psychiatric disorders, such as ADHD, considerably below average in visuo-motor precision—
+anxiety, and autism, in PTB populations [9, 11, 33, 34, 55]. another fine motor task [42]. Although cerebral palsy, a
+Evidence for general motor difficulties, excluding NSI and condition we excluded, was part of some reviewed stud-
+cerebral palsy, and subtle visual aberrancies, excluding ies’ definition of NSI [33, 34], reduced motor skills also
+ROP and CVI, is less ubiquitous. Direct links between all hold for the substantial proportion of PTB adolescents
+reviewed domains and mental health are scarce. The only without NSI [33]. These differences in addition to more
+identified study links cognition to mental health [11]. severe functional limitations, including NSI [70] and
+The presented meta-analyses demonstrate comparable cerebral palsy [71], underline the motor challenges faced
+reductions in IQ in the beginning and end of adolescence, by PTB adolescents. Reduced motor skills in PTB indi-
+with little difference in cognitive performance during the viduals may be explained by partially altered cerebellar
+height of neural rewiring in mid-adolescence [35]. This sug- development [72, 73]. These alterations likely result from
+gests that cognitive abilities are significantly reduced at two the disrupted neuronal proliferation and differentiation,
+time points with major life changes (i.e., start of adolescence particularly in this brain region, during the last trimester
+and reaching legal adult age). Importantly, increasing differ- of pregnancy [74], and can persist into adolescence and
+ences from age 15 to 19 may be suggestive of persisting adulthood [50, 58].
+differences in cognitive functioning going into adulthood Large-scale cohort studies [34], however, indicate that
+[44, 47]. More specific cognitive aspects showing deficits in motor deficits are not universal among PTB individuals,
+PTB adolescents include executive functions, attention, and highlighting the heterogeneity of outcomes in this group.
+planning. These specific difficulties became evident in stan- This variability in motor outcomes may stem from the het-
+dardised testing and parental reports, and can significantly erogeneous nature of PTB populations and the individual
+impact everyday executive functioning [50, 53]. Similar birth insults and negative factors they experience. Although
+cognitive deficits in 11-year-old PTB individuals, observed many studies report the number of PTB participants with
+across two separate samples born a decade apart, indicate NSI or cerebral palsy, they only present group-level results,
+that these impairments persist despite advancements in neo- which makes differentiation impossible. This limitation
+natal care in the meantime [45]. hinders our ability to draw more generalisable conclusions
+From a mental health perspective, we found a substan- about the nature of motor deficits across the diverse PTB
+tially increased prevalence of psychiatric disorders in PTB population.
+populations [3, 11, 24, 33–35, 47, 48, 54, 63]. Across pub- Similar to the literature on motor abilities, PTB samples
+lications ADHD, anxiety, and autism were most elevated are often heterogeneous. Therefore, we took a closer look at
+[9, 11, 33, 34, 55]. These findings on prevalence receive study quality and heterogeneity across outcomes. The qual-
+support from recent WHO reports showing an increased ity assessment based on the STROBE criteria confirmed
+risk of developing similar psychiatric disorders including good to excellent methodological rigor across the included
+ADHD, anxiety, and affective disorders by PTB individu- studies. Differences in gestational age between samples may
+als [6, 9, 55]. A potential driver of more frequent internalis- systematically drive heterogeneity, as the particular influ-
+ing problems may be found in increasing screen use (i.e., ence of two studies in leave-one-out analyses of IQ scores
+social media and smartphones) of adolescents [64, 65]. It suggested [35, 47]. The stronger deficits reported by Linsell
+may even be conceivable that gender plays a role for the and colleagues [47] likely reflect their focus on extremely
+level of internalising problems, as one of the reviewed stud- preterm adolescents (< 26 weeks), whereas James et al.
+ies [11] reports a higher risk for female PTBs to develop [35] found smaller deficits in a study including late preterm
+internalising problems. Gender differences are supported by participants (up to 37 weeks). The observed heterogeneity
+general trends of increased needs for mental health care by within both IQ meta-analyses also indicates a multifactorial
+US girls [66] and elevated internalising problems in female nature of heterogeneity across studies, given that the num-
+adolescents [64]. It is also conceivable that environmental ber of studies included in these meta-analyses was small,
+[67], genetic [68], and familial factors [69] contribute to the the age range of participants at birth and testing wide (cap-
+increased vulnerability of PTB individuals to develop psy- turing almost all preterm and adolescent age groups), and
+chiatric disorders. Though, a detailed analysis and discus- the variation in study settings, countries, and assessment
+sion of these aspects was out of scope for the present review. tools considerable.
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1073
+We also considered potential cohort effects related to visual deficits including ROP or CVI is substantial and may
+advances in medical care or education. When ordering stud- have drawn most of the attention and resources in the PTB
+ies by birth and sampling year, we find no significant cor- context.
+relative relations with IQ differences over time. This result More generally speaking, accurate visual functioning is
+suggests that cohort effects are unlikely to account for the assigned importance, since its absence may have enduring
+observed variability alone. Thus, no single factor can be effects on academic performance, daily life, and overall
+pinpointed as the driver of the observed heterogeneity in IQ mental health [81, 82]. For instance, elevated rates of anxi-
+scores between studies. The core finding of reduced cog- ety and depression have been reported among people with
+nitive performance in PTB adolescents remains consistent visual impairments [83] and links between developmental
+across analyses and robust to sensitivity testing. self-regulation and visuo-spatial skills [83, 84]. These gen-
+Similar to cognitive outcomes, heterogeneity in mental eral aspects suggest the importance of ongoing monitoring
+health and visual or visuo-motor outcomes is likely driven of the full spectrum of visual functioning in childhood and
+by the use of a variety of assessment tools, including self- adolescence [78, 82, 83].
+and parent-reports, routine clinical data, and measures based Whilst the present review provides separate evidence for
+on clinical diagnosis or screening. Most of these data are cognitive and motor impairments and an increased risk of
+typically derived from help-seeking populations. Despite psychiatric disorders in PTB adolescents, the direct inves-
+this variety in methods, the available evidence converges tigation of the interplay between these functional domains
+on indicating a substantial prevalence of mental health diag- and mental health outcomes remains scarce in the literature
+noses in a considerable number of adolescents after PTB. A [85]. Nevertheless, several studies have yielded indirect
+meaningful investigation of heterogeneity in subtle visual evidence in support of such associations. For instance, the
+outcomes will require more future research. ELGAN cohort study revealed that participants with mul-
+Here, we intended to focus on investigating functional tiple psychiatric disorders were more likely to encounter
+visual abilities with rather less severe consequences that cognitive impairments and academic challenges [11]. In
+have not received much attention, due to the known early addition, Brylka et al. [34] found that physical activity was
+visual alterations manifesting in CVI in preterm popula- associated with enhanced self-perception and a reduction in
+tions, and may not differ at first sight. The identified studies peer-problems among PTB and FT adolescents. Similarly,
+investigating visual skills in PTB adolescents without CVI Morris et al. [86] showed that PTB individuals aged 9 with
+show subtle deficits in visual abilities. These include visual anxiety disorders often present with comorbid motor, social,
+perception, visuo-motor control, and visuo-spatial planning, and cognitive difficulties. These observations align with
+and can become more pronounced during adolescence [42, global estimates indicating that preterm birth is linked not
+75]. An effect on academic [76] and psychosocial function- only to separate cognitive and motor impairments but also
+ing [77] in children and adolescents with visual impairments to a wide spectrum of neurodevelopmental and psychiatric
+is possible as well. While these findings provide preliminary challenges [87]. This suggests that psychiatric symptoms
+suggestive evidence for aberrant functional visual abilities may be part of broader neurodevelopmental vulnerabilities
+in PTB individuals born without CVI, the small number of in PTB individuals.
+three reviewed studies indicates a clear gap in the literature. Together these links and the general cognitive challenges
+This gap underscores the need for future research on subtle we identified in this review hint at a relation to mental ill-
+visual-perceptual difficulties beyond ROP and CVI. health. Supporting evidence comes from lower cognitive
+The limited evidence on visual abilities reviewed herein performance being associated with elevated psychopathol-
+might have its reasons in excluding publications with par- ogy in the general population [62], with greater cognitive
+ticipants suffering from CVI. We excluded these studies, deficits in severe, long-lasting disorders such as schizo-
+since CVI encompasses a broad range of neuro-visual dis- phrenia and bipolar disorder [2, 88, 89]. In adults, this
+orders [78], which complicates a clear differentiation of relationship appears to transcend boundaries of individual
+visual abilities in such studies. In this respect, many studies psychiatric diagnoses [90], which suggests that cognitive
+do not differentiate between more subtle and severe cases. deficits are not confined to specific disorders but rather
+For example, some have included a substantial number of reflect a broader transdiagnostic phenomenon. This transdi-
+PTB individuals with comorbid CVI or cerebral palsy [79] agnostic view is endorsed by child and adolescent clinicians
+or more severe intraventricular haemorrhage (≥ grade III) engaging with adolescent patients [91], which points to its
+in the same group analyses. Further, it is important to note potential for the heterogeneous group of PTB adolescents. It
+that subtle visual-perceptual difficulties may go undiag- is important to note, however, that psychiatric outcomes in
+nosed, inadequately assessed or undercorrected into ado- PTB adolescents are influenced by multiple factors beyond
+lescence [80], as the prevalence of suffering from severe prematurity itself. Environmental influences [92], familial
+1 3
+1074 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+context [25], and genetic predisposition all contribute to the studies were excluded as they do not differentiate samples
+emergence of psychiatric symptoms [93], and PTB should into adolescents with more and less severe comorbid condi-
+be considered as one of several interacting risk factors rather tions. Hence, we aimed to capture samples with less severe
+than a sole causal agent. impairments that have previously received little attention.
+Interestingly, deficits in motor skills can also negatively Finally, most studies reviewed herein present evidence
+impact cognitive functioning and psychosocial factors in of differences in one domain, with direct links remaining
+non-PTB populations. In school-age children up to 13 years, limited. While this scarcity does not allow for causal con-
+gross motor deficits have been associated with greater cog- clusions on direct links in PTB populations, it should be
+nitive challenges and may impact academic performance considered as suggestive evidence underlining the need for
+[94–96]. Similarly, fine motor skills have been linked to more validating research. Additionally, it should be noted
+cognitive performance [81], as they predicted higher aca- that most of the included studies were observational in
+demic achievement [97]. Moreover, language and motor nature, which also limits the ability to draw causal infer-
+function disorders have been associated with long-term ences and underlines the need for future longitudinal and
+effects on mental health and overall functioning that can experimental research to validate these associations.
+persist well into adulthood [98, 99]. Finally, motor difficul- Overall, the evidence for separate differences in the
+ties have been linked to psychosocial adjustment, emotional reviewed domains in PTB groups, in combination with
+well-being, and reduced social engagement [87, 100, 101]. bivariate links between these domains in individuals from
+While the present systematic review offers valuable the general population, addresses the aims of the present
+insights, some limitations warrant consideration. Firstly, review. The findings have implications for research and
+limiting inclusion to cohorts born on the 1 st of January clinical practice. Research on PTB adolescents should focus
+1980 or later may have introduced selection bias. This time- on the interactions between mental health, motor skills, and
+frame, however, helps to capture extensive evidence on how physical activity to clarify underlying mechanisms [34, 97,
+preterm birth relates to the reviewed domains while reflect- 102]. Investigations of visual and visua-motor functioning,
+ing advances in neonatal care. Thereby, it remains highly even in the absence of CVI, should be incorporated, given
+relevant to contemporary clinical and developmental con- the central role of vision in neural development and its influ-
+texts and strengthens the applicability of the conclusions ence on cognitive and psychiatric outcomes [15, 16, 103].
+to current PTB populations. Secondly, while heterogeneity This addition could elucidate the full spectrum of poten-
+in assessment methods and diagnostic criteria across the tial challenges in visual functioning. For more mechanistic
+included studies complicates direct comparisons and more insights on the degree of motor difficulties and contribut-
+extensive meta-analyses, the review’s systematic methodol- ing factors, such as gestational age, birth complications,
+ogy, incorporating small meta-analyses of studies of mostly and variations in postnatal care, we recommend considering
+excellent quality, enabled the most meaningful integration these aspects in future studies and dissociate results accord-
+and synthesis of findings. Thirdly, our meta-analysis of IQ ingly [103]. Longitudinal, multimodal studies combining
+effect sizes shows one study reporting two substantially cognitive, motor, visual, and neuroimaging data could be
+more reduced effect sizes. This could have biased the out- particularly valuable for mapping developmental trajecto-
+come of this meta-analysis. A complementary leave-one- ries and uncovering the mechanisms underlying long-term
+out meta-analysis, however, showed consistent substantial challenges in PTB individuals [58, 104]. Integrating genetic
+reductions in IQ even without this study. As well, this study and neurobiological markers, such as prenatal gene expres-
+does not stand out in our complementary analysis of mean sion and genetic risk scores, in future studies could further
+IQ differences either. These findings provide evidence improve prediction of psychiatric outcomes [43, 105].
+against an exaggeration of the observed results. Fourthly, Clinical practice could benefit from the presented results
+in the interpretation of findings on mental health outcomes by implementing routine screening of cognitive, motor,
+one needs to keep in mind that data have been acquired visual, and psychiatric domains in follow-up care and early
+through varying methods including self- and parent-reports, detection programs. In this context, it may be valuable to
+and routine clinical data. Most of these data may have been include comprehensive evaluations of motor coordination
+sourced from help-seeking populations and by using vary- and visual-perceptual abilities, allowing for the early identi-
+ing instruments for diagnostics. Fifthly, we excluded studies fication of subtle neurodevelopmental difficulties that could
+involving individuals with CVI or ROP. This criterion may precede or co-occur with psychosocial challenges in pre-
+have inadvertently resulted in an underrepresentation of term-born adolescents. This recommendation is supported
+visual-perceptual difficulties in the literature. Several pub- by PTB adolescents being at an increased risk for psychi-
+lications report worse visual outcomes in relation to CVI atric conditions and these frequently show early signs dur-
+and ROP, which can present in many ways. However, these ing adolescence [2, 4, 34, 51]. Cognitive and visuo-motor
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1075
+source, provide a link to the Creative Commons licence, and indicate
+evaluations could be included in screenings to support aca-
+if changes were made. The images or other third party material in this
+demic and functional outcomes due to enduring difficulties article are included in the article’s Creative Commons licence, unless
+in cognition [53, 106]. To improve long-term outcomes, indicated otherwise in a credit line to the material. If material is not
+included in the article’s Creative Commons licence and your intended
+drawing on and potentially merging established preven-
+use is not permitted by statutory regulation or exceeds the permitted
+tion frameworks, such as selective and indicated prevention
+use, you will need to obtain permission directly from the copyright
+[55, 106], may offer valuable opportunities to strengthen holder. To view a copy of this licence, visit h t t p : / / c r e a t i v e c o m m o n s . o
+early detection efforts. Although our results inevitably raise r g / l i c e n s e s / b y / 4 . 0 /.
+the question of how much redundancy exists between the
+reviewed abilities that could be exploited in future screen-
+References
+ing approaches, tailoring early interventions to individual
+multidomain profiles might address the complexity of PTB
+1. Health TLC& A (2024) Course-correcting youth mental health
+profiles and serve those with overlapping difficulties in care. Lancet Child Adolesc Health 8:707. h t t p s : / / d oi . o r g / 1 0 . 1 0 1
+particular. 6 / S 2 3 5 2 - 4 6 4 2 ( 2 4 ) 0 0 2 3 8 - 4
+2. Fusar-Poli P, Correll CU, Arango C et al (2021) Preventive psy-
+In conclusion, this systematic review highlights that PTB
+chiatry: a blueprint for improving the mental health of young
+adolescents face mental health challenges more often. We
+people. World Psychiatry 20:200–221. h t t p s : / / d oi . o r g / 1 0 . 1 0 0 2 / w
+also show that cognitive and motor development are likely p s . 2 0 8 6 9
+impacted by being born PTB, with differences persisting 3. Paus T, Keshavan M, Giedd JN (2008) Why do many psychiatric
+disorders emerge during adolescence? Nat Rev Neurosci 9:947–
+into adolescence and even adulthood. Notably, research on
+957. h t t p s : / / d oi . o r g / 1 0 . 1 0 3 8 / n r n 2 5 1 3
+long-term subtle functional visual abilities in PTB adoles-
+4. Uhlhaas PJ, Davey CG, Mehta UM et al (2023) Towards a youth
+cents, beyond ROP and CVI, and on direct links between the mental health paradigm: a perspective and roadmap. Mol Psy-
+reviewed domains is still limited. More studies are needed chiatry 28:3171–3181. h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 3 8 0 - 0 2 3 - 0 2 2 0
+2 - z
+that systematically address visual functioning and motor
+5. Chesney E, Goodwin GM, Fazel S (2014) Risks of all-cause and
+outcomes, and their interplay with mental health, to better
+suicide mortality in mental disorders: a meta-review. World Psy-
+understand developmental mechanisms and inform future chiatry Off J World Psychiatr Assoc WPA 13:153–160. h t t p s : / / d o
+screening and intervention approaches. i . o r g / 1 0 . 1 0 0 2 / w p s . 2 0 1 2 8
+6. Olsen EM, Rask CU, Elberling H et al (2020) Cohort profile: the
+Copenhagen Child Cohort Study (CCC2000). Int J Epidemiol
+Acknowledgements This work was supported by the University of
+49:370–371l. h t t p s : / / d o i . o r g / 1 0 . 1 0 9 3 / i j e / d y z 2 5 6
+Lübeck’s Faculty of Medicine’s grant for junior scientists (J15-2024
+7. Ohuma EO, Moller A-B, Bradley E et al (2023) National, regional,
+to L.F.).
+and global estimates of preterm birth in 2020, with trends from
+2010: a systematic analysis. Lancet 402:1261–1271. h t t p s : / / d o i . o
+Author contributions Conceptualisation: F.S., K.R., J.O., W.G., S.B.,
+r g / 1 0 . 1 0 1 6 / S 0 1 4 0 - 6 7 3 6 ( 2 3 ) 0 0 8 7 8 - 4
+and L.F. Data curation: F.S., H.S., J.W., N.D., L.H., and L.F. Formal
+8. Perin J, Mulick A, Yeung D et al (2022) Global, regional, and
+analysis: F.S. and L.F. Funding acquisition: C.A., S.B., and L.F.
+national causes of under-5 mortality in 2000–19: an updated sys-
+Investigation: F.S. and L.F. Methodology: F.S., K.R., and L.F. Project
+tematic analysis with implications for the Sustainable Develop-
+administration: K.R., S.B., and L.F. Resources: C.A., S.B., and L.F.
+ment Goals. The Lancet Child & Adolescent Health 6:106–115. h
+Software: F.S. and L.F. Supervision: K.R. and L.F. Validation: F.S.
+t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / S 2 3 5 2 - 4 6 4 2 ( 2 1 ) 0 0 3 1 1 - 4
+Visualisation: F.S. and L.F. Writing - original draft: F.S. and L.F.
+9. Johnson S, Hollis C, Kochhar P et al (2010) Psychiatric disor-
+Writing - review & editing: F.S., E.G., S.E., C.A., K.R., J.O., W.G.,
+ders in extremely preterm children: longitudinal finding at age 11
+S.B., and L.F.
+years in the EPICure study. J Am Acad Child Adolesc Psychiatry
+49:453-463.e1. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . j a a c . 2 0 1 0 . 0 2 . 0 0 2
+Funding Open Access funding enabled and organized by Projekt 10. Birnbaum R, Weinberger DR (2017) Genetic insights into the
+DEAL. neurodevelopmental origins of schizophrenia. Nat Rev Neurosci
+18:727–740. h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / n r n . 2 0 1 7 . 1 2 5
+Data availability All data generated or analysed during this study are 11. Frazier JA, Cochran D, Kim S et al (2022) Psychiatric outcomes,
+included in this published article. Additional materials related to the functioning, and participation in extremely low gestational age
+meta-analyses (e.g., extracted data tables, risk of bias assessments, and newborns at age 15 years. J Am Acad Child Adolesc Psychiatry
+supplementary analyses) are available via the Open Science Frame- 61:892-904.e2. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . j a a c . 2 0 2 1 . 1 2 . 0 0 8
+work repository: https:/osf.io/me2d6. 12. Farooqi A, Hägglöf B, Sedin G et al (2006) Chronic conditions,
+functional limitations, and special health care needs in 10- to
+Declarations 12-year-old children born at 23 to 25 weeks’ gestation in the
+1990s: a Swedish National prospective follow-up study. Pediat-
+rics 118:e1466–1477. h t t p s : / / d o i . o r g / 1 0 . 1 5 4 2 / p e d s . 2 0 0 6 - 1 0 7 0
+Competing interests The authors declare no competing interests.
+13. Marlow N, Johnson S, Hurst JR (2022) The extremely pre-
+term young adult - state of the art. Semin Fetal Neonatal Med
+Open Access This article is licensed under a Creative Commons 27:101365. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . s i n y . 2 0 2 2 . 1 0 1 3 6 5
+Attribution 4.0 International License, which permits use, sharing, 14. Zepeda-Romero LC, Barrera-de-Leon JC, Camacho-Choza C et
+adaptation, distribution and reproduction in any medium or format, al (2011) Retinopathy of prematurity as a major cause of severe
+as long as you give appropriate credit to the original author(s) and the visual impairment and blindness in children in schools for the
+1 3
+1076 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+blind in Guadalajara city, Mexico. Br J Ophthalmol 95:1502– 32. Ramezani T, Hadian Shirazi Z, Sabet Sarvestani R, Moattari
+1505. h t t p s : / / d o i . o r g / 1 0 . 1 1 3 6 / b j o p h t h a l m o l - 2 0 1 1 - 3 0 0 0 1 5 M (2014) Family-centered care in neonatal intensive care unit:
+15. Pollak TA, Corlett PR (2020) Blindness, psychosis, and the visual a concept analysis. Int J Community Based Nurs Midwifery
+construction of the world. Schizophr Bull 46:1418–1425. h t t p s : / / 2:268–278
+d o i . o r g / 1 0 . 1 0 9 3 / s c h b u l / s b z 0 9 8 33. Holsti A, Adamsson M, Hägglöf B et al (2017) Chronic condi-
+16. Merabet LB, Maguire D, Warde A et al (2004) Visual hallucina- tions and health care needs of adolescents born at 23 to 25 weeks’
+tions during prolonged blindfolding in sighted subjects. J Neuro- gestation. Pediatrics 139:e20162215. h t t p s : / / d o i . o r g / 1 0 . 1 5 4 2 / p e d
+Ophthalmol 24:109–113. h t t p s : / / d o i . o r g / 1 0 . 1 0 9 7 / 0 0 0 4 1 3 2 7 - 2 0 0 4 s . 2 0 1 6 - 2 2 1 5
+0 6 0 0 0 - 0 0 0 0 3 34. Brylka A, Wolke D, Ludyga S et al (2021) Physical activity,
+17. Candy TR (2019) The importance of the interaction between ocu- mental health, and well-being in very pre-term and term born
+lar motor function and vision during human infancy. Annu Rev adolescents: an individual participant data meta-analysis of two
+Vis Sci 5:201–221. h t t p s : / / d o i . o r g / 1 0 . 1 1 4 6 / a n n u r e v - v i s i o n - 0 9 1 7 accelerometry studies. Int J Environ Res Public Health 18:1735.
+1 8 - 0 1 4 7 4 1 h t t p s : / / d o i . o r g / 1 0 . 3 3 9 0 / i j e r p h 1 8 0 4 1 7 3 5
+18. Husby IM, Stray KM-T, Olsen A et al (2016) Long-term follow- 35. James S-N, Rommel A-S, Rijsdijk F et al (2020) Is association
+up of mental health, health-related quality of life and associations of preterm birth with cognitive-neurophysiological impairments
+with motor skills in young adults born preterm with very low and ADHD symptoms consistent with a causal inference or due
+birth weight. Health Qual Life Outcomes 14:56. h t t p s : / / d o i . o r g / to familial confounds? Psychol Med 50:1278–1284.. h t t p s : / / d o i . o
+1 0 . 1 1 8 6 / s 1 2 9 5 5 - 0 1 6 - 0 4 5 8 - y r g / 1 0 . 1 0 1 7 / S 0 0 3 3 2 9 1 7 1 9 0 0 1 2 1 1
+19. Mancini VO, Rigoli D, Heritage B et al (2016) The relationship 36. von Elm E, Altman DG, Egger M et al (2008) The strengthening
+between motor skills, perceived social support, and internaliz- the reporting of observational studies in epidemiology (STROBE)
+ing problems in a community adolescent sample. Front Psychol statement: guidelines for reporting observational studies. J Clin
+7:543. h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 / f p s y g . 2 0 1 6 . 0 0 5 4 3 Epidemiol 61:344–349. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . j c l i n e p i . 2 0 0 7 . 1
+20. Fernández de Gamarra-Oca L, Zubiaurre-Elorza L, Junqué C et al 1 . 0 0 8
+(2021) Reduced hippocampal subfield volumes and memory per- 37. Allen M, Poggiali D, Whitaker K et al (2021) Raincloud plots: a
+formance in preterm children with and without germinal matrix- multi-platform tool for robust data visualization. Wellcome Open
+intraventricular hemorrhage. Sci Rep 11:2420. h t t p s : / / d o i . o r g / 1 0 . Res 4:63. h t t p s : / / d o i . o r g / 1 0 . 1 2 6 8 8 / w e l l c o m e o p e n r e s . 1 5 1 9 1 . 2
+1 0 3 8 / s 4 1 5 9 8 - 0 2 1 - 8 1 8 0 2 - 7 38. Jakobsen JC, Gluud C, Wetterslev J, Winkel P (2017) When and
+21. Breeman LD, Jaekel J, Baumann N et al (2017) Neonatal predic- how should multiple imputation be used for handling missing
+tors of cognitive ability in adults born very preterm: a prospective data in randomised clinical trials – a practical guide with flow-
+cohort study. Dev Med Child Neurol 59:477–483. h t t p s : / / d o i . o r g / charts. BMC Med Res Methodol 17:162. h t t p s : / / d oi . o r g / 1 0 . 1 1 8 6 /
+1 0 . 1 1 1 1 / d m c n . 1 3 3 8 0 s 1 2 8 7 4 - 0 1 7 - 0 4 4 2 - 1
+22. Andescavage NN, du Plessis A, McCarter R et al (2017) Complex 39. Pigott TD, Polanin JR (2020) Methodological guidance paper:
+trajectories of brain development in the healthy human fetus. Cereb high-quality meta-analysis in a systematic review. Rev Educ Res
+Cortex 27:5274–5283. h t t p s : / / d o i . o r g / 1 0 . 1 0 9 3 / c e r c o r / b h w 3 0 6 90:24–46. h t t p s : / / d o i . o r g / 1 0 . 3 1 0 2 / 0 0 3 4 6 5 4 3 1 9 8 7 7 1 5 3
+23. Andreou C, Eickhoff S, Heide M et al (2023) Predictors of transi- 40. R Core Team (2024) R: A Language and environment for statisti-
+tion in patients with clinical high risk for psychosis: an umbrella cal Computing. R Foundation for Statistical Computing, Vienna,
+review. Transl Psychiatry 13:286. h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 3 9 Austria
+8 - 0 2 3 - 0 2 5 8 6 - 0 41. Viechtbauer W (2010) Conducting Meta-Analyses in R with the
+24. Kroll J, Froudist-Walsh S, Brittain PJ et al (2018) A dimensional metafor package. J Stat Softw 36. h t t p s : / / d o i . o r g / 1 0 . 1 8 6 3 7 / j s s . v 0
+approach to assessing psychiatric risk in adults born very preterm. 3 6 . i 0 3
+Psychol Med 48:1738–1744. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 7 / S 0 0 3 3 2 9 1 7 42. Joseph RM, O’Shea TM, Allred EN et al (2016) Neurocognitive
+1 7 0 0 3 8 0 4 and academic outcomes at age 10 years of extremely preterm
+25. Yin W, Ludvigsson JF, Åden U et al (2023) Paternal and mater- newborns. Pediatrics 137:e20154343. h t t p s : / / d o i . o r g / 1 0 . 1 5 4 2 / p e
+nal psychiatric history and risk of preterm and early term d s . 2 0 1 5 - 4 3 4 3
+birth: a nationwide study using Swedish registers. PLoS Med 43. Tilley SK, Joseph RM, Kuban KCK et al (2017) Genomic bio-
+20:e1004256. h t t p s : / / d o i . o r g / 1 0 . 1 3 7 1 / j o u r n a l . p m e d . 1 0 0 4 2 5 6 markers of prenatal intrauterine inflammation in umbilical cord
+26. Page MJ, McKenzie JE, Bossuyt PM et al (2021) The PRISMA tissue predict later life neurological outcomes. PLoS ONE
+2020 statement: an updated guideline for reporting systematic 12:e0176953. h t t p s : / / d o i . o r g / 1 0 . 1 3 7 1 / j o u r n a l . p o n e . 0 1 7 6 9 5 3
+reviews. BMJ 372:n71. h t t p s : / / d o i . o r g / 1 0 . 1 1 3 6 / b m j . n 7 1 44. Kelly C, Ball G, Matthews LG et al (2022) Investigating brain
+27. World Health Organization (2025) European health report 2024: structural maturation in children and adolescents born very pre-
+keeping health high on the agenda. WHO Regional Office for term using the brain age framework. Neuroimage 247:118828. h t
+Europe, Copenhagen } h t t p s : / / w w w . w h o . i n t / e u r o p e / p u b l i c a t i o n s t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . n e u r o i m a g e . 2 0 2 1 . 1 1 8 8 2 8
+/ i / i t e m / W H O - E U R O - 2 0 2 5 - 1 0 6 6 8 - 5 0 4 4 0 - 7 6 1 8 3} 45. Marlow N, Ni Y, Lancaster R et al (2021) No change in neuro-
+28. World Health Organization (2022) World mental health report: development at 11 years after extremely preterm birth. Arch Dis
+transforming mental health for all, 1st ed. World Health Organization, Child Fetal Neonatal Ed 106:418–424. h t t p s : / / d o i . o r g / 1 0 . 1 1 3 6 / a r
+Geneva h t t p s : / / w w w . w h o . i n t / p u b l i c a t i o n s / i / i t e m / 9 7 8 9 2 4 0 0 4 9} 3 3 8 c h d i s c h i l d - 2 0 2 0 - 3 2 0 6 5 0
+29. Herting E (2013) Less invasive surfactant administration (LISA) 46. Linsell L, Johnson S, Wolke D et al (2018) Cognitive trajectories
+- ways to deliver surfactant in spontaneously breathing infants. from infancy to early adulthood following birth before 26 weeks
+Early Hum Dev 89:875–880. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . e a r l h u m d of gestation: a prospective, population-based cohort study. Arch
+e v . 2 0 1 3 . 0 8 . 0 2 3 Dis Child 103:363–370. h t t p s : / / d o i . o r g / 1 0 . 1 1 3 6 / a r c h d i s c h i l d - 2 0 1
+30. Noble L (2003) Developments in neonatal technology continue to 7 - 3 1 3 4 1 4
+improve infant outcomes. Pediatr Ann 32:595–603. h t t p s : / / d o i . o r 47. Linsell L, Johnson S, Wolke D et al (2019) Trajectories of behav-
+g / 1 0 . 3 9 2 8 / 0 0 9 0 - 4 4 8 1 - 2 0 0 3 0 9 0 1 - 0 8 ior, attention, social and emotional problems from childhood to
+31. Glass HC, Costarino AT, Stayer SA et al (2015) Outcomes for early adulthood following extremely preterm birth: a prospective
+extremely premature infants. Anesth Analg 120:1337–1351. h t t p s cohort study. Eur Child Adolesc Psychiatry 28:531–542. h t t p s : / / d
+: / / d o i . o r g / 1 0 . 1 2 1 3 / A N E . 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 5 o i . o r g / 1 0 . 1 0 0 7 / s 0 0 7 8 7 - 0 1 8 - 1 2 1 9 - 8
+1 3
+European Child & Adolescent Psychiatry (2026) 35:1059–1078 1077
+48. Burnett AC, Scratch SE, Lee KJ et al (2015) Executive function century – trends, causes, consequences. J Child Psychol Psychia-
+in adolescents born <1000 g or <28 weeks: a prospective cohort try 65:384–407. h t t p s : / / d o i . o r g / 1 0 . 1 1 1 1 / j c p p . 1 3 8 6 4
+study. Pediatrics 135:e826–e834. h t t p s : / / d o i . o r g / 1 0 . 1 5 4 2 / p e d s . 2 0 65. Riehm KE, Feder KA, Tormohlen KN et al (2019) Associa-
+1 4 - 3 1 8 8 tions between time spent using social media and internalizing
+49. Wilson-Ching M, Molloy CS, Anderson VA et al (2013) Attention and externalizing problems among US youth. JAMA Psychiatr
+difficulties in a contemporary geographic cohort of adolescents 76:1266. h t t p s : / / d o i . o r g / 1 0 . 1 0 0 1 / j a m a p s y c h i a t r y . 2 0 1 9 . 2 3 2 5
+born extremely preterm/extremely low birth weight. J Int Neuro- 66. Mojtabai R, Olfson M (2020) National trends in mental health
+psychol Soc 19:1097–1108. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 7 / S 1 3 5 5 6 1 7 7 1 care for US adolescents. JAMA Psychiatr 77:703. h t t p s : / / d o i . o r g /
+3 0 0 1 0 5 7 1 0 . 1 0 0 1 / j a m a p s y c h i a t r y . 2 0 2 0 . 0 2 7 9
+50. Haebich KM, Willmott C, Ellis R et al (2018) Goal setting deficits 67. Whittle S, Zhang L, Rakesh D (2025) Environmental and neu-
+at 13 years in very preterm born children. J Int Neuropsychol Soc rodevelopmental contributors to youth mental illness. Neuropsy-
+24:372–381. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 7 / S 1 3 5 5 6 1 7 7 1 7 0 0 1 1 3 8 chopharmacology 50:201–210. h t t p s : / / d oi . o r g / 1 0 . 1 0 3 8 / s 4 1 3 8 6 - 0
+51. Ganella EP, Burnett A, Cheong J et al (2015) Abnormalities in 2 4 - 0 1 9 2 6 - y
+orbitofrontal cortex gyrification and mental health outcomes in 68. Cullen H, Selzam S, Dimitrakopoulou K et al (2021) Greater
+adolescents born extremely preterm and/or at an extremely low genetic risk for adult psychiatric diseases increases vulnerability
+birth weight. Hum Brain Mapp 36:1138–1150. h t t p s : / / d o i . o r g / 1 0 . to adverse outcome after preterm birth. Sci Rep 11:11443. h t t p s : /
+1 0 0 2 / h b m . 2 2 6 9 2 / d o i . o r g / 1 0 . 1 0 3 8 / s 4 1 5 9 8 - 0 2 1 - 9 0 0 4 5 - 5
+52. Indredavik MS, Vik T, Heyerdahl S et al (2005) Psychiatric symp- 69. Shaw RJ, Givrad S, Poe C et al (2023) Neurodevelopmental,
+toms in low birth weight adolescents, assessed by screening ques- mental health, and parenting issues in preterm infants. Children
+tionnaires. Eur Child Adolesc Psychiatry 14:226–236. h t t p s : / / d o i 10:1565. h t t p s : / / d o i . o r g / 1 0 . 3 3 9 0 / c h i l d r e n 1 0 0 9 1 5 6 5
+. o r g / 1 0 . 1 0 0 7 / s 0 0 7 8 7 - 0 0 5 - 0 4 5 9 - 6 70. Chevallier M, Debillon T, Darlow BA et al (2022) Mortality and
+53. Luu TM, Ment L, Allan W et al (2011) Executive and memory significant neurosensory impairment in preterm infants: an inter-
+function in adolescents born very preterm. Pediatrics 127:e639– national comparison. Arch Dis Child Fetal Neonatal Ed 107:317–
+e646. h t t p s : / / d oi . o r g / 1 0 . 1 5 4 2 / p e d s . 2 0 1 0 - 1 4 2 1 323. h t t p s : / / d oi . o r g / 1 0 . 1 1 3 6 / a r c h d i s c h i l d - 2 0 2 1 - 3 2 2 2 8 8
+54. Johnson S, Fawke J, Hennessy E et al (2009) Neurodevelopmen- 71. Chen R, Sjölander A, Johansson S et al (2021) Impact of gesta-
+tal disability through 11 years of age in children born before 26 tional age on risk of cerebral palsy: unravelling the role of neona-
+weeks of gestation. Pediatrics 124:e249–257. h t t p s : / / d o i . o r g / 1 0 . 1 tal morbidity. Int J Epidemiol 50:1852–1863. h t t p s : / / d oi . o r g / 1 0 . 1
+5 4 2 / p e d s . 2 0 0 8 - 3 7 4 3 0 9 3 / i j e / d y a b 1 3 1
+55. James S-N, Rommel A-S, Rijsdijk F et al (2020) Is association 72. Matthews LG, Inder TE, Pascoe L et al (2018) Longitudinal pre-
+of preterm birth with cognitive-neurophysiological impairments term cerebellar volume: perinatal and neurodevelopmental out-
+and ADHD symptoms consistent with a causal inference or due come associations. Cerebellum 17:610–627. h t t p s : / / d oi . o r g / 1 0 . 1
+to familial confounds? Psychol Med 50:1278–1284. h t t p s : / / d o i . o r 0 0 7 / s 1 2 3 1 1 - 0 1 8 - 0 9 4 6 - 1
+g / 1 0 . 1 0 1 7 / S 0 0 3 3 2 9 1 7 1 9 0 0 1 2 1 1 73. Messerschmidt A, Fuiko R, Prayer D et al (2008) Disrupted cere-
+56. Homack S, Lee D, Riccio CA (2005) Test review: Delis-Kaplan bellar development in preterm infants is associated with impaired
+executive function system. J Clin Exp Neuropsychol 27:599–609. neurodevelopmental outcome. Eur J Pediatr 167:1141–1147. h t t p
+h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 1 3 8 0 3 3 9 0 4 9 0 9 1 8 4 4 4 s : / / d o i . o r g / 1 0 . 1 0 0 7 / s 0 0 4 3 1 - 0 0 7 - 0 6 4 7 - 0
+57. Gioia GA, Isquith PK, Retzlaff PD, Espy KA (2002) Confirma- 74. Iskusnykh IY, Chizhikov VV (2022) Cerebellar development
+tory factor analysis of the behavior rating inventory of executive after preterm birth. Front Cell Dev Biol 10:1068288. h t t p s : / / d o i . o
+function (BRIEF) in a clinical sample. Child Neuropsychol J r g / 1 0 . 3 3 8 9 / f c e l l . 2 0 2 2 . 1 0 6 8 2 8 8
+Norm Abnorm Dev Child Adolesc 8:249–257. h t t p s : / / d o i . o r g / 1 0 . 75. O’Connor AR, Wilson CM, Fielder AR (2007) Ophthalmological
+1 0 7 6 / c h i n . 8 . 4 . 2 4 9 . 1 3 5 1 3 problems associated with preterm birth. Eye 21:1254–1260. h t t p s
+58. Meng C, Bäuml JG, Daamen M et al (2016) Extensive and inter- : / / d o i . o r g / 1 0 . 1 0 3 8 / s j . e y e . 6 7 0 2 8 3 8
+related subcortical white and gray matter alterations in preterm- 76. Liu S, Wei W, Chen Y et al (2021) Visual–spatial ability predicts
+born adults. Brain Struct Funct 221:2109–2121. h t t p s : / / d o i . o r g / 1 academic achievement through arithmetic and reading abilities.
+0 . 1 0 0 7 / s 0 0 4 2 9 - 0 1 5 - 1 0 3 2 - 9 Front Psychol 11:591308. h t t p s : / / d oi . o r g / 1 0 . 3 3 8 9 / f p s y g . 2 0 2 0 . 5 9
+59. Merten T, Blaskewitz N (2008) The Rey complex figure test and 1 3 0 8
+recognition trial in clinical neuropsychological assessment. Neu- 77. Huurre TM, Aro HM (1998) Psychosocial development among
+rorehabil 14:195–202 adolescents with visual impairment. Eur Child Adolesc Psychia-
+60. Singh LJ, Floyd RG, Reynolds MR et al (2025) What does the try 7:73–78. h t t p s : / / d oi . o r g / 1 0 . 1 0 0 7 / s 0 0 7 8 7 0 0 5 0 0 5 0
+developmental neuropsychological assessment–II (NEPSY-II) 78. Chokron S, Kovarski K, Dutton GN (2021) Cortical visual impair-
+measure in children ages 7 to 12? A structural and psychometric ments and learning disabilities. Front Hum Neurosci 15:713316.
+analysis. Child Neuropsychol 31:197–228. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 h t t p s : / / d oi . o r g / 1 0 . 3 3 8 9 / f n h u m . 2 0 2 1 . 7 1 3 3 1 6
+0 / 0 9 2 9 7 0 4 9 . 2 0 2 4 . 2 3 5 7 3 7 6 79. Chang MY, Borchert MS (2020) Advances in the evaluation and
+61. Keyes CLM (2002) The mental health continuum: from languish- management of cortical/cerebral visual impairment in children.
+ing to flourishing in life. J Health Soc Behav 43:207–222. h t t p s : / Surv Ophthalmol 65:708–724. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . s u r v o p h
+/ d o i . o r g / 1 0 . 2 3 0 7 / 3 0 9 0 1 9 7 t h a l . 2 0 2 0 . 0 3 . 0 0 1
+62. Kieling C, Baker-Henningham H, Belfer M et al (2011) Child and 80. Ibrahimi D, Mendiola Santibañez JD, Rodríguez-Reséndiz J
+adolescent mental health worldwide: evidence for action. Lancet (2023) Visual performance and perceptual–motor skills of late
+378:1515–1525. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / S 0 1 4 0 - 6 7 3 6 ( 1 1 ) 6 0 8 2 7 - 1 preterm children and healthy controls using the TVPS-3rd and
+63. Vanes LD, Murray RM, Nosarti C (2022) Adult outcome of pre- VMI-6th editions. Technologies 11:53. h t t p s : / / d oi . o r g / 1 0 . 3 3 9 0 / t e
+term birth: implications for neurodevelopmental theories of psy- c h n o l o g i e s 1 1 0 2 0 0 5 3
+chosis. Schizophr Res 247:41–54. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . s c h r e 81. De Waal E, Pienaar AE, Coetzee D (2018) Influence of differ-
+s . 2 0 2 1 . 0 4 . 0 0 7 ent visual perceptual constructs on academic achievement among
+64. Keyes KM, Platt JM (2024) Annual research review: sex, gen- learners in the NW-CHILD study. Percept Mot Skills 125:966–
+der, and internalizing conditions among adolescents in the 21st 988. h t t p s : / / d oi . o r g / 1 0 . 1 1 7 7 / 0 0 3 1 5 1 2 5 1 8 7 8 6 8 0 6
+1 3
+1078 European Child & Adolescent Psychiatry (2026) 35:1059–1078
+82. Molloy C, Battista A, Anderson V et al (2015) The contribution 95. Katagiri M, Ito H, Murayama Y et al (2021) Fine and gross motor
+of visual processing to academic achievement in adolescents born skills predict later psychosocial maladaptation and academic
+extremely preterm or extremely low birth weight. Child Neuro- achievement. Brain Dev 43:605–615. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . b
+psychol accepted, in press. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 0 9 2 9 7 0 4 9 . 2 0 1 r a i n d e v . 2 0 2 1 . 0 1 . 0 0 3
+5 . 1 1 1 8 0 2 4 96. Westendorp M, Hartman E, Houwen S et al (2011) The relation-
+83. Demmin DL, Silverstein SM (2020) Visual impairment and men- ship between gross motor skills and academic achievement in
+tal health: unmet needs and treatment options. Clin Ophthalmol children with learning disabilities. Res Dev Disabil 32:2773–
+14:4229–4251. h t t p s : / / d o i . o r g / 1 0 . 2 1 4 7 / O P T H . S 2 5 8 7 8 3 2779. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . r i d d . 2 0 1 1 . 0 5 . 0 3 2
+84. Cameron CE, Cottone EA, Murrah WM, Grissmer DW (2016) 97. Zhou Y, Tolmie A (2024) Associations between gross and fine
+How are motor skills linked to children’s school performance and motor Skills, physical Activity, executive Function, and academic
+academic achievement? Child Dev Perspect 10:93–98. h t t p s : / / d o i achievement: longitudinal findings from the UK millennium
+. o r g / 1 0 . 1 1 1 1 / c d e p . 1 2 1 6 8 cohort study. Brain Sci 14:121. h t t p s : / / d o i . o r g / 1 0 . 3 3 9 0 / b r a i n s c i 1
+85. Fitzallen GC, Taylor HG, Bora S (2020) What do we know about 4 0 2 0 1 2 1
+the preterm behavioral phenotype? A narrative review. Front Psy- 98. Schiavon M, Burton BK, Hemager N et al (2025) Environmen-
+chiatry 11. h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 / f p s y t . 2 0 2 0 . 0 0 1 5 4 tal and genetic influences on developmental outcomes across the
+86. Morris AR, Bora S, Austin NC, Woodward LJ (2021) Mental health, domains of Language, Cognition, motor Function, and social
+neurodevelopmental, and family psychosocial profiles of children behavior. Eur J Neurosci 61:e70163. h t t p s : / / d o i . o r g / 1 0 . 1 1 1 1 / e j n
+born very preterm at risk of an early-onset anxiety disorder. Dev Med . 7 0 1 6 3
+Child Neurol 63:954–962. h t t p s : / / d o i . o g r / 1 0 . 1 1 1 1 / d m c n . 1 4 8 5 9 99. Bishop DVM (2014) Ten questions about terminology for chil-
+87. Blencowe H, Lee AC, Cousens S et al (2013) Preterm birth–asso- dren with unexplained language problems. Int J Lang Commun
+ciated neurodevelopmental impairment estimates at regional and Disord 49:381–415. h t t p s : / / d oi . o r g / 1 0 . 1 1 1 1 / 1 4 6 0 - 6 9 8 4 . 1 2 1 0 1
+global levels for 2010. Pediatr Res 74:17–34. h t t p s : / / d o i . o r g / 1 0 . 1 100. Piek JP, Dawson L, Smith LM, Gasson N (2008) The role of early
+0 3 8 / p r . 2 0 1 3 . 2 0 4 fine and gross motor development on later motor and cognitive
+88. Fusar-Poli P, Deste G, Smieskova R et al (2012) Cognitive function- ability. Hum Mov Sci 27:668–681. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . h u m
+ing in prodromal psychosis: a meta-analysis. Arch Gen Psychiatry o v . 2 0 0 7 . 1 1 . 0 0 2
+69:562–571. h t t p s : / / d o i . o g r / 1 0 . 1 0 0 1 / a r c h g e n p s y c h i a t .r 2 y 0 1 1 . 1 5 9 2 101. Cairney J, Hay JA, Veldhuizen S et al (2010) Developmental
+89. Keefe RSE, Fox KH, Harvey PD et al (2011) Characteristics of coordination disorder, sex, and activity deficit over time: a longi-
+the MATRICS consensus cognitive battery in a 29-site antipsy- tudinal analysis of participation trajectories in children with and
+chotic schizophrenia clinical trial. Schizophr Res 125:161–168. h without coordination difficulties. Dev Med Child Neurol 52:e67–
+t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . s c h r e s . 2 0 1 0 . 0 9 . 0 1 5 e72. h t t p s : / / d o i . o r g / 1 0 . 1 1 1 1 / j . 1 4 6 9 - 8 7 4 9 . 2 0 0 9 . 0 3 5 2 0 . x
+90. McCutcheon RA, Keefe RSE, McGuire PK (2023) Cognitive 102. Stöcker N, Gaser D, Oberhoffer-Fritz R, Sitzberger C (2024)
+impairment in schizophrenia: aetiology, pathophysiology, and KidsTUMove—a holistic program for children with chronic Dis-
+treatment. Mol Psychiatry 28:1902–1918. h t t p s : / / d o i . o r g / 1 0 . 1 0 3 eases, increasing physical activity and mental health. J Clin Med
+8 / s 4 1 3 8 0 - 0 2 3 - 0 1 9 4 9 - 9 13:3791. h t t p s : / / d o i . o r g / 1 0 . 3 3 9 0 / j c m 1 3 1 3 3 7 9 1
+91. Crider C, Calder C, Lee Bunting K, Forwell S (2014) An inte- 103. Tcheang L, Bülthoff HH, Burgess N (2011) Visual influence on
+grative review of occupational science and theoretical literature path integration in darkness indicates a multimodal representa-
+exploring transition. J Occup Sci 22. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 1 4 4 tion of large-scale space. Proc Natl Acad Sci U S A 108:1152–
+2 7 5 9 1 . 2 0 1 4 . 9 2 2 9 1 3 1157. ht t p s : / / d o i . o r g / 1 0 . 1 0 7 3 / p n a s . 1 0 1 1 8 4 3 1 0 8
+92. Bills SE, Johnston JD, Shi D, Bradshaw J (2021) Social-envi- 104. Licari MK, Reynolds JE, Tidman S et al (2018) Visual tracking
+ronmental moderators of neurodevelopmental outcomes in youth behaviour of two-handed catching in boys with developmental
+born preterm: a systematic review. Child Neuropsychol J Norm coordination disorder. Res Dev Disabil 83:280–286. h t t p s : / / d o i . o
+Abnorm Dev Child Adolesc 27:351–370. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / r g / 1 0 . 1 0 1 6 / j . r i d d . 2 0 1 8 . 0 7 . 0 0 5
+0 9 2 9 7 0 4 9 . 2 0 2 0 . 1 8 6 1 2 2 9 105. Ursini G, Punzi G, Langworthy BW et al (2021) Placental
+93. Assary E, Vincent JP, Keers R, Pluess M (2018) Gene-environ- genomic risk scores and early neurodevelopmental outcomes.
+ment interaction and psychiatric disorders: review and future Proc Natl Acad Sci 118:e2019789118. h t t p s : / / d oi . o r g / 1 0 . 1 0 7 3 / p
+directions. Semin Cell Dev Biol 77:133–143. h t t p s : / / d o i . o r g / 1 0 . n a s . 2 0 1 9 7 8 9 1 1 8
+1 0 1 6 / j . s e m c d b . 2 0 1 7 . 1 0 . 0 1 6 106. Bolk J, Padilla N, Forsman L et al (2018) Visual-motor integra-
+94. Holloway JM, Long TM, Biasini F (2018) Relationships between tion and fine motor skills at 6½ years of age and associations with
+gross motor skills and social function in young boys with autism neonatal brain volumes in children born extremely preterm in
+spectrum disorder. Pediatr Phys Ther Off Publ Sect Pediatr Am Sweden: a population-based cohort study. BMJ Open 8:e020478.
+Phys Ther Assoc 30:184–190. h t t p s : / / d o i . o r g / 1 0 . 1 0 9 7 / P E P . 0 0 0 0 0 h t t p s : / / d o i . o r g / 1 0 . 1 1 3 6 / b m j o p e n - 2 0 1 7 - 0 2 0 4 7 8
+0 0 0 0 0 0 0 0 5 0 5
+1 3

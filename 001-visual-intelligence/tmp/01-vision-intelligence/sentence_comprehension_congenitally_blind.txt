@@ -1,0 +1,1170 @@
+HHS Public Access
+Author manuscript
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Published in final edited form as:
+Lang Cogn Neurosci. 2020 ; 35(8): 1010–1023. doi:10.1080/23273798.2019.1706753.
+Enhanced performance on a sentence comprehension task in
+congenitally blind adults
+Rita Loiotile, Connor Lane, Akira Omaki, Marina Bedny
+Department of Psychological and Brain Sciences, Johns Hopkins University, 3400 N. Charles
+Street, Baltimore, MD 21218
+Abstract
+People born blind habitually experience linguistic utterances in the absence of visual cues and
+activate “visual” cortices during sentence comprehension. Do blind individuals show superior
+performance on sentence processing tasks? Congenitally blind (n=25) and age and education
+matched sighted (n=52) participants answered yes/no who-did-what-to-whom questions for
+auditorily-presented sentences, some of which contained a grammatical complexity manipulation
+(long-distance movement dependency or garden path). Short-term memory was measured with a
+forward and backward letter-spans. A battery of control tasks included two speeded math tasks and
+vocabulary and reading tasks from Woodcock Johnson III. The blind group outperformed the
+sighted on the sentence comprehension task, particularly for garden-path sentences, and on short-
+term memory span tasks, but performed similar to the sighted on control tasks. Sentence
+comprehension performance was not correlated with span performance, suggesting independent
+enhancements.
+Keywords
+Sentence processing; blindness; garden path; plasticity; practice
+Introduction
+Humans adapt flexibly to changes in experience. A key example of this adaptability comes
+from studies of sensory loss, such as in blindness and deafness. The loss of one modality is
+associated with selective improvements in other senses. Individuals who are blind from birth
+are better than sighted controls at judging whether an auditory pitch is falling or rising,
+localizing sounds in the horizontal plane and detecting orientations of tactually-presented
+gratings (Lessard, Pare, Lepore, & Lassonde, 1998; Goldreich & Kanics, 2003).
+Improvements are thought to result, in part, from practice in relying on and extracting
+information from non-visual senses.
+Behavioral improvements associated with blindness may further be enabled by availability
+of extra cortical real-estate. Neuroimaging studies with blind and deaf individuals find that
+deprived sensory cortices—i.e., visual and auditory cortices, respectively—participate in
+Corresponding Author: Marina Bedny, marina.bedny@jhu.edu.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 2
+new cognitive functions (e.g. Sadato, et al., 1996; Bavelier & Neville, 2002; Kupers & Ptito,
+2014; Merabet & Pascual-Leone, 2009; Noppeney, 2007). In blindness, “visual” cortices are
+active during auditory and tactile tasks. Although not all “visual” cortex plasticity is
+associated with behavioral benefits (e.g. Kanjlia et al., 2016), some of the tasks associated
+with “visual” cortex activity are the very ones on which blind individuals outperform the
+sighted e.g. auditory localization and fine-grained tactile discrimination (Collignon,
+Vandewalle, & Voss, 2011; Collignon, Voss, Lassonde, & Lepore, 2008; Gougoux, Zatorre,
+Lassonde, Voss, & Lepore, 2005; Kujala, Alho, Paavilainen, Summala, & Näätänen, 1992;
+Roder, Teder-Sälejärvi, Sterr, & Rösler, 1999; Voss, Gougoux, Zatorre, Lassonde, & Lepore,
+2008; Weeks et al., 2000).
+Blindness-related repurposing of “visual” cortex is not restricted to sensory processes. In
+congenitally blind individuals, a large subset of “visual” cortices is recruited during
+language tasks. Visual cortices are active during spoken sentence comprehension and the
+amount of activity varies as a function of meaning and syntactic structure: “visual” cortices
+respond more to sentences than lists of unconnected words, more to sentences than
+grammatical but meaningless “Jabberwocky”, and more to Jabberwocky than to lists of non-
+words (e.g., glorf, blig, marp, …) (Abboud & Cohen, 2019; Bedny, Pascual-Leone, Dodell-
+Feder, Fedorenko, & Saxe, 2011; Burton, Diamond, & McDermott, 2003; Röder, Stock,
+Bien, Neville, & Rösler, 2002). Larger “visual” cortex responses are observed for
+grammatically complex sentences with a syntactic long-distance dependency (e.g., “The girl,
+that the boy admires, is vacationing in Spain”) (Lane, Kanjlia, Omaki, & Bedny, 2015;
+Röder et al., 2002).
+Language-responsive parts of visual cortex augment, rather than replace the classic fronto-
+temporal language regions, which show similar functional profiles across blind and sighted
+groups. Language-responsive “visual” cortex areas are co-lateralized with inferior frontal
+language regions across blind individuals and correlated with fronto-temporal language
+networks, even at rest (Bedny et al., 2011; Lane et al., 2015; Watkins et al., 2012). These
+results suggest that parts of “visual” cortex are incorporated into the language network in
+blindness (see Tomasello et al., 2019 for modeling on the neurobiological mechanisms
+mediating plasticity). The behavioral relevance of this language-related plasticity remains
+unclear. Studies using transcranial magnetic stimulation (TMS), show that interfering with
+“visual” cortex function impairs performance on verb generation and Braille reading tasks
+(Amedi, Floel, Knecht, Zohary, & Cohen, 2004; Cohen, Celnik, Pascual-Leone, & Corwell,
+1997). However, behavioral relevance to core language functions, such as sentence
+processing, remains uncertain. In one fMRI study blind participants who showed larger
+“visual” cortex responses to grammatically complex sentences also show superior
+performance at answering comprehension questions (Lane et al., 2015). In this experiment
+blind participants as a group were marginally better than the sighted at answering
+comprehension questions for all sentence types. However, behavior was measured in a noisy
+fMRI environment and the sample was relatively small and heterogenous (e.g. including
+individuals who are blind due to premature birth and a wide age range), potentially
+obscuring benefits associated with blindness.
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 3
+Apart from “visual” cortex responses to language, another reason blindness could benefit
+sentence comprehension performance is by increased practice in relying on language
+internal cues to extract meaning. Vision and language often provide analogous information
+about the identity of objects and agents and about who did what to whom. Sighted listeners
+rapidly integrate linguistic and visual information during online comprehension to build
+situation models. According to constraint-based models of sentence processing,
+comprehension occurs by integrating various sources of information, including not only
+syntactic and lexical information, but also extra-linguistic cues such as what objects are
+present in the environment (Bader, 1998; Bailey & Ferreira, 2003; Chambers, Tanenhaus,
+Eberhard, Filip, & Carlson, 2002; MacDonald, Pearlmutter, & Seidenberg, 1994; McRae,
+Spivey-Knowlton, & Tanenhaus, 1998; Nagel, Shapiro, & Nawy, 1994; Tanenhaus,
+Magnuson, Dahan, & Chambers, 2000; Tanenhaus, Spivey-Knowlton, Eberhard, & Sedivy,
+1995; Trueswell & Gleitman, 2004; Trueswell, Tanenhaus, & Garnsey, 1994; Tyler &
+Marslen-Wilson, 1977). Sighted listeners rapidly use visual cues to disambiguate
+temporarily ambiguous garden-path sentences, for example, using the number and location
+of objects present to determine whether a propositional phrase indicates a destination or a
+modifier of the preceding noun “put the frog on the napkin, into the box” (Chambers,
+Tanenhaus, & Magnuson, 2004; Farmer, Anderson, & Spivey, 2007; Huettig, Rommers, &
+Meyer, 2011; Spivey, Tanenhaus, Eberhard, & Sedivy, 2002; Tanenhaus et al., 1995).
+Although audition and touch also contain relevant contextual information, vision may be a
+particularly efficient source of information about the types of things that language refers to:
+object and agent identity, their location and the events in which they participate. While
+sighted individuals habitually make use of extralinguistic information during
+comprehension, blind individuals may conversely develop better abilities to use language-
+internal information during sentence comprehension. Such practice-based enhancements
+could be thought of as analogous to better attention to, and extraction of, information from
+audition and touch (Fieger, Röder, Teder-Sälejärvi, Goldreich & Kanics, 2003; Hillyard, &
+Neville, 2006; Lessard, Pare, Lepore, & Lassonde, 1998; Van Boven, Hamilton, Kauffman,
+Keenan, & Leone, 2000; Voss et al., 2004; Wan, Wood, Reutens, & Wilson, 2010; Wong,
+Gnanakumaran, & Goldreich, 2011). Such practice could lead blind listeners to outperform
+the sighted on sentence comprehension tasks, when extralinguistic cues are absent. The goal
+of the current study was to test this hypothesis.
+Previous studies of language in blindness have focused on whether blind individuals have
+superior speech perception and word recognition abilities but have not examined higher-
+order aspects of language (i.e. syntax and semantics). Blind adults are, indeed, better than
+the sighted at identifying syllables in a task of dichotic listening (Hugdahl et al., 2004) and
+at identifying words under high-noise conditions (Muchnik, Efrati, Nemeth, Malin, &
+Hildesheimer, 1991). Two studies also suggest faster lexical access among individuals who
+are blind. One study found faster lexical decision times for spoken words and non-words
+among blind individuals (Röder, Demuth, Streb, & Rösler, 2003). Blind individuals also
+show a faster onset of the N400 component upon encountering an incongruent word at the
+end of a sentence—e.g. “Tomorrow Bobby will be ten years hill” (Roder, Rösler, & Neville,
+2000). Traditionally these results have been interpreted as evidence for more efficient
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 4
+perceptual speech processing. However, an open question is whether blind individuals also
+show superior high-level linguistic abilities, such as enhancements in sentence processing.
+One higher-cognitive domain in which blind individuals are known to show an advantage is
+memory. Blind children and adults recall larger numbers of words, letters and digits over
+both short and long delays and more accurately reproduce the serial order of encoded words
+(Amedi, Raz, Pianka, Malach, & Zohary, 2003; Dormal, Crollen, Baumans, Lepore, &
+Collignon, 2016; Hull & Mason, 1995; Pasqualotto, Lam, & Proulx, 2013; Raz, Striem,
+Pundak, Orlov, & Zohary, 2007; Roder, Rösler, & Neville, 2001; Rokem & Ahissar, 2009;
+Swanson & Luxenberg, 2009; Tillman & Bashaw, 1968; Withagen, Kappers, Vervloed,
+Knoors, & Verhoeven, 2013). Analogous to improvements observed in audition and touch,
+improvement in memory may result from compensatory reliance on memory in the absence
+of visual cues together with availability of extra “visual” cortex wetware (Raz, Striem,
+Pundak, Orlov, & Zohary, 2007). There is evidence that verbal memory tasks activate visual
+cortex and amount of activity predicts memory performance among blind individuals
+(Amedi et al., 2003; Raz, Amedi, & Zohary, 2005).
+The goal of the current study was to ask whether blind individuals develop superior spoken
+sentence processing abilities and, if so, whether these improvements are related to
+previously reported advantages in verbal short-term memory among blind individuals. We
+measured accuracy and reaction time while blind individuals answered yes/no
+comprehension questions based on spoken sentences that varied in syntactic complexity.
+Syntactic complexity was manipulated in two independent ways, by introducing syntactic
+movement and using garden paths (See Table 1 for example stimuli). Sentences with
+syntactic movement displace referents with respect to their modifying phrase. For example,
+in “The actress that the creator of the gritty HBO crime series admires often improvises her
+lines,” the object “actress” is displaced from the verb “admires.” Garden path sentences are a
+form of temporary syntactic ambiguity in which the listener is lead to a syntactic parse that
+later turns out to be incorrect. For example, in “While the little girl dressed the doll that she
+was playing with sat on the floor of her bedroom,” the initial interpretation that the girl
+dressed the doll turns out to be incorrect, rather the girl dressed herself. The verb “dressed”
+is most often followed by its object, but in this particular case is being used reflexively.
+Performance of blind and sighted participants on syntactically complex sentences was
+compared to matched control sentences. We hypothesized that blind individuals would show
+superior sentence-comprehension ability relative to the sighted and that this advantage
+would be most pronounced for syntactically complex sentences.
+We measured short term memory for spoken letters, in blind and sighted participants. The
+goal was to replicate the previous finding that blind participants show enhancements in
+verbal working memory and to determine whether these enhancements are related to
+improvements in sentence comprehension performance (Amedi et al., 2003; Hull & Mason,
+1995).
+Blind and sighted participants were also tested on a series of control tasks, including two
+symbolic math tasks and verbal portions of the Woodcock-Johnson III, which test
+vocabulary and reading ability. These tasks enabled us to test the specificity of sentence
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 5
+comprehension performance. We predicted that sentence-comprehension advantages and
+working memory advantages in blind individuals would persist, even when blind and sighted
+groups are matched on other cognitive abilities.
+Methods
+Participants.
+25 congenitally blind individuals (15 female) and 52 sighted age and educated matched
+controls (36 female) took part in the study (age: blind mean=32.64, SD=9.86; sighted
+mean=33.31, SD=11.51; blind vs. sighted t(75)=−0.25, p=0.80; years of education: blind
+mean=16.68, SD=2.61, sighted mean=16.59, SD=2.20; blind vs. sighted t(75)=0.15,
+p=0.88). All but one blind and one sighted participant completed all of the experimental
+tasks. One blind participant was not tested on the Analogies and Division portions of WJIII
+and one sighted participant did not perform the working memory task. An addition 2 blind
+and 2 sighted participants were tested but excluded for poor performance on the Woodcock-
+Johnson III (outliers on any individual measure, defined according to Rosner’s extreme
+studentized deviate test for multiple outliers, two-sided, p < 0.05, maximal 10 (Rosner,
+1975)). Reported numbers of blind and sighted participants do not include these excluded
+participants.
+All participants were native English speakers, majority having spoken only English since
+birth. 1 (of 25) blind and 3 (of 52) sighted learned English through immersion between 3 and
+4 years of age. We collected data from blind participants at two separate conventions of the
+National Federation for the Blind (2014 and 2016). Sighted participants were tested at Johns
+Hopkins University. Blind participants had minimal-to-no light perception since birth, due to
+pathologies in or anterior to the optic chiasm (see Table 2 for cause of blindness). Since
+premature birth can be associated with cognitive disabilities, participants who were blind
+due to retinopathy of prematurity (ROP) were not recruited for this study (Dann, Levine, &
+New, 1964). All participants reported no cognitive or neurological disabilities.
+To match visual conditions across groups, sighted participants were blindfolded for all tasks
+except for the participant-read portions of the Woodcock Johnson-III (WJ-III). Participants
+listened to all auditory tasks via headphones. Volume was adjusted for each participant,
+according to their own comfortable listening volume. All experiments were run using either
+PsychoPy or Matlab’s Psychtoolbox (Brainard, 1997; Peirce, 2007).
+Sentence Processing Task: Materials and Procedure
+Each participant listened to 180 sentences and answered a yes/no comprehension question
+for each sentence (see Appendix 1). Participants had 6 seconds from the onset of the
+question to make a button press.
+The syntactic complexity of sentences was manipulated in two ways: by introducing a long-
+distance movement dependency or a garden path syntactic ambiguity (described in detail
+below). Each of these two conditions was paired to a matched, control condition that lacked
+the critical syntactic manipulation—i.e. no-move and non-garden path sentences (see Table
+1). In addition to the critical sentences, we included filler sentences to reduce syntactic
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 6
+priming. Fillers varied in their grammatical constructions and did not contain either long-
+distance dependencies or garden paths. Overall there were 120 move/no-move sentence pairs
+(every participant heard 60 of each version), 10 garden path, 10 non-garden path, and 40
+filler sentences. A subset of initial participants (5 blind and 13 sighted; proportion of total
+approximately matched across groups) received a longer version of the paradigm with 248
+total questions, consisting of 84 move, 84 no-move, 10 garden path, 10 non-garden path, and
+60 filler trials. The experiment was subsequently shortened to reduce testing time. To control
+for item effects, only the items that appeared in the short-form were analyzed— i.e., 60 of 84
+move and 60 of 84 non-move— even for those participants who received the longer version
+of the paradigm.
+Sentences with syntactic movement contain words or phrases that are displaced, or “moved,”
+with respect to their modifying phrases (See Table 1 for example sentences). Syntactic
+movement was achieved via object-extracted relative clauses. For example, in “The actress
+that the creator of the gritty HBO crime series admires often improvises her lines,” “actress,”
+as the object of the verb “admires,” is extracted from its normal position after the transitive
+verb and moved to the head of the relative clause. The non-movement counterpart used a
+sentential complement clause structure, which was similar in meaning to the relative clause
+version and contained nearly identical words but did not include a long-distance movement
+dependency. Matched movement and non-movement sentences were counterbalanced across
+two lists, such that each participant heard only one version of the sentence. Comprehension
+questions required participants to attend to thematic relations of words in the sentence (i.e.,
+who did what to whom), and could not be answered based on recognition of individual
+words. Half of the move and half of the non-move stimuli had comprehension questions in
+which “yes” was the correct response. The stimuli were a subset of those used in a
+previously published study (Lane et al., 2015).
+The second type of syntactic complexity manipulation was garden path, i.e. temporary
+syntactic ambiguities, where the listener is led down a “garden-path” in which an initially
+favored sentence parse turns out to be irreconcilable with subsequent words in the sentence.
+(Garden path and non-garden-path control sentences were adapted from a published set of
+stimuli (Christianson et al., 2001)). For example, in “While the little girl dressed the doll that
+she was playing with sat on the floor of her bedroom.,” “dressed” could either be used
+transitively with “the doll” as the direct object (i.e. the little girl dressed the doll) or
+reflexively (i.e. the little girl dressed herself). The former interpretation is favored because
+the verb “dressed” is more frequently used transitively (i.e. this use has a higher
+subcategorization frequency), but the subsequent verb “sat” requires “the doll” to be its
+subject, and hence disambiguates the two alternatives in favor of the reflexive form. A
+relative clause modifier was added to the critical, ambiguous noun phrase in order to amplify
+the garden-path effect (Christianson, Hollingworth, Halliwell, & Ferreira, 2001; Ferreira &
+Henderson, 1991). Thus, all garden path sentences were of the following form: While [Noun
+Phrase 1] [Reflexive Verb] [Noun Phrase 2] [Verb Phrase]. Non-garden path control
+sentences were formatted as follows: While [Noun Phrase 1] [Transitive Verb] [Noun Phrase
+2] [Noun Phrase 3] [Verb Phrase]. In the control sentences, the additional [Noun Phrase 3]
+requires the ambiguous verb to be transitive, consistent with the listener’s initial parse. The
+non-garden-path control sentences were not yoked to their garden path counterparts (i.e. had
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 7
+different words), but followed the same structure templates, with the exception of the
+additional Noun Phrase in non-garden path sentences. All questions tested correct
+comprehension of the verb, in the format: Did [Noun Phrase 1] [Reflexive/Transitive Verb]
+[Noun Phrase 2]? For example, “Did the little girl/nanny dress the doll/baby?” Therefore, the
+correct response for garden path and non-garden path control questions was always “no” and
+“yes,” respectively. All subjects heard all garden-paths and non-garden-path control
+sentences.
+Condition ordering, across trials, was pseudo-randomized such that each condition could not
+appear in more than 2 contiguous trials, and the conditions were evenly dispersed across
+each 1/8th block of the experiment. Altogether, for half of the trials the correct response was
+“yes.” Before starting, all participants performed a set of 10 practice trials with feedback.
+Sentences were pre-recorded and spoken by a male voice in a flat intonation, in order to
+minimize cues to correct syntactic parsing.
+We removed all trials in which a participant either failed to respond or false started (i.e.
+responded in < 150 MS). On average, blind and sighted participants missed fewer than 1
+question per each condition (overall misses: mean blind 1.48 items; mean sighted 1.92
+items; n.s. difference between groups t(75)=0.92, p =0.36). Sighted participants had more
+missed responses than blind participants, but this difference was not significant (move:
+t(75)=0.66, p>0.5; non-move: t(75)=1.25, p=0.21; garden-path: t(75)=1.75, p=0.08; non-
+garden path: t(75)=0.61, p>0.5). The dependent measure was accuracy (binary success or
+failure on each trial) and speed (reaction-time, from question onset, for correct trials only).
+Working Memory Tasks
+Forward and Backward Letter Span tasks were adapted from the Forward and Backward
+Digit Span components of the Wechsler Adult Intelligence Scale (WAIS) by mapping the
+digits 1–9 to the letters A-I. For both letter span tasks, participants listened to a recording of
+a female speaking a series of letters. After the last presented letter, participants were asked to
+repeat all letters back to the experimenter in either the exact order (Forward) or the exact
+opposite order (Backward). Trials were presented according to span-length, starting with a
+length of 2 and going up to 9 (for Forward) and 8 (for Backward), with 2 trials for each span
+length. Failure to get two trials of a given span length correct terminated the task. Accuracy
+was calculated as a percentage correct out of all possible trials, with incorrect recall assumed
+for un-tested spans. All participants did the Forward Letter Span followed immediately by
+the Backward Letter Span.
+Woodcock-Johnson III (Control)
+We collected control measures to ensure that blind and sighted groups did not differ on
+general cognitive abilities. Participants were tested on 5 sections of the Woodcock-Johnson
+III (WJ-III). Blind participants completed the WJIII in printed Braille. The following
+sections were tested: Letter-Word Identification in which the participant are asked to read
+and correctly pronounce 60 English words (e.g. “bouquet”); Word Attack in which the
+participant read and correctly pronounce 33 nonsense words (e.g. “paraphonity”); Oral
+Vocabulary-Synonyms in which the participant read each of 12 words and generate a
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 8
+synonym (e.g. “wild” → “untamed”); Oral Vocabulary-Antonym in which the participant
+read each of 13 words and generated an antonym (e.g. “authentic” → “fake”); and Oral
+Vocabulary-Analogies in which participants read each of 12 incomplete analogies and
+generate a word analogous to the unpaired word according to the relationship established by
+the first word pair (e.g. “Wrist is to shoulder, as ankle is to …” → “hip”). Participants were
+allowed to skip any items they could not complete but were not allowed to go back.
+Responses were considered correct if they matched one of the words designated by the WJ-
+III. Accuracy for each section was scored as percentage correct of all trials. All participants
+performed the WJ-III sections in the order listed above.
+Arithmetic (Control)
+Participants were tested on speeded arithmetic calculations in 2 separate tasks: subtraction
+and division. All problems contained 2 operands, with the following digit lengths: minuends
+and subtrahends (2), divisors (1), and dividends (2–3). For each task, participants were given
+4 minutes to accurately complete as many problems as possible. (Participants were allowed
+to complete any problems begun before the 4 minutes had expired.) Problems were pre-
+recorded to minimize differences in presentation between participants. Participants pressed a
+button to initiate auditory presentation of each problem and had to state their answer to the
+researcher. Participants could choose to skip problems and to repeat auditory presentation of
+the current problem but were not allowed to go back to skipped problems. Participants were
+not allowed to use writing devices to solve the problems. The subtraction and division
+sections contained 30 and 33 problems, respectively. Accuracy was scored as percentage
+correct of all trials, regardless of whether they were attempted. All participants performed
+the subtraction task immediately before the division task. Problems were taken from the Kit
+of Factor-Referenced Cognitive Tests (Ekstrom, French, Harman, & Dermen, 1976).
+Results
+Sentence Comprehension
+We compared performance across groups for the movement and garden path manipulations.
+For all accuracy analyses, we used a mixed-effect generalized-linear (logit) model with
+participant and item included as random effects (Baayen, Davidson, & Bates, 2008; Clark,
+1973; Jaeger, 2008). For all reaction time analyses, we used a mixed-effect general linear
+model with participant and item included as random effects. Due to differing numbers of
+trials across movement and garden-path sentences, we analyzed them separately and
+compared each to their respective control sentences. Filler data were modeled separately.
+Blind participants were overall more accurate for both move and non-move control
+sentences (sighted non-move mean=86.61%, SD=8.74%; sighted move mean=74.53%,
+SD=11.63%; blind non-move mean=90.16%, SD=6.69%; blind move mean=80.91%,
+SD=8.91%; group X complexity ANOVA, main effect of group, log-odds coefficient B=0.39
+(SE=0.16), p=0.014; corresponding odds coefficient eB=1.48). For both blind and sighted
+participants, accuracy was worse for move sentences than for non-move sentences (main
+effect of complexity, log-odds coefficient B=0.90 (SE=0.12), p<0.001; corresponding odds
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 9
+coefficient eB=2.46, n.s. group X complexity interaction, log-odds coefficient B=−0.06
+(SE=0.13), p>0.5; corresponding odds coefficient eB=0.94) (Figure 1, left panel).
+Better accuracy of the blind group for move and non-move sentences was not driven by a
+speed-accuracy tradeoff (Figure 1, right panel) (sighted non-move mean=3.37 s, SD=0.27 s;
+sighted move mean=3.48 s, SD=0.26 s; blind non-move mean=3.29 s, SD=0.26 s; blind
+move mean=3.42 s, SD=0.30 s; group X complexity ANOVA: n.s. main effect of group, B=
+−0.07 (SE=0.06), p=0.28, n.s. group X complexity interaction, B=0.1 (SE=0.03), p>0.5).
+Both groups responded to move sentences more slowly than to non-move sentences (main
+effect of sentence-type, B=−0.12 (SE=0.03), p=0.001).
+Blind participants were overall more accurate across garden-path (blind mean=76.00%,
+SD=27.08%; sighted mean=56.99%, SD=30.18%) and control sentences (blind
+mean=96.00%, SD=7.07%; sighted mean=91.80%, SD=8.43%; group X complexity
+ANOVA: main effect of group, log-odds coefficient B=1.03 (SE=0.39), p=0.008,
+corresponding odds coefficient eB=2.79). Although the group difference was numerically
+more pronounced for the garden-path sentences, the group-by-sentence type interaction did
+not reach significance (group X complexity interaction, log-odds coefficient B=−0.28
+(SE=0.43), p>0.5; corresponding odds coefficient eB=0.75). Accuracy was worse for garden
+path than non-garden path control sentences for both groups (main effect of complexity, log-
+odds coefficient B=2.74 (SE=0.47), p<0.001; corresponding odds coefficient eB=15.49).
+Blind participants were overall faster than the sighted at answering questions about garden-
+path and non-garden path control sentences and in this case the main effect of group was
+qualified by a group-by-condition interaction: While sighted participants were slower to
+respond to garden-path than non-garden path sentences, blind participants responded with
+equal speed to both sentence types (sighted non-garden path mean=2.87 s, SD=0.22 s;
+sighted garden path mean=3.09 s, SD=0.42 s; blind non-garden path mean=2.84 s, SD=0.20
+s; blind garden path mean=2.84 s, SD=0.44 s; group X complexity ANOVA, main effect of
+group, B=−0.14 (SE=0.06), p=0.03, group X complexity interaction, B=0.22 (SE=0.06),
+p=0.001; n.s. main effect of sentence-type, B=−0.07 (SE=0.14), p> 0.5).
+Since all garden-path sentences required a “no” response, we checked if group differences in
+response-bias might have driven the observed difference in performance. We measured bias
+to respond “no” for difficult questions as the percentage of “no” responses on incorrect
+move, non-move, and filler items. Blind participants were not more biased to respond “no”
+(n.s. difference between groups: t(75)=1.01, p=0.31).
+Above movement and garden path sentences are analyzed separately due to large differences
+in the number of items in each of the conditions. Since we observed a more pronounced
+group difference in the garden-path sentence model, we additionally ran a joint model to test
+for three-way sentence type (movement/garden path) by grammatical complexity by group
+interactions in accuracy and reaction time, neither of which were significant (Accuracy
+vision group X grammatical complexity X grammatical manipulation interaction, B=−0.15
+(SE=0.43), p>0.5; Reaction Time vision group X grammatical complexity X grammatical
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 10
+manipulation interaction, B=0.09 (SE=0.07), p=0.18). Differences between movement and
+garden path sentences should thus be interpreted with caution.
+Blind and sighted participants did not differ in their accuracy or reaction on filler trials
+(Accuracy: blind mean=88.38%, SD=7.01%; sighted mean=85.70%, SD=8.42%, effect of
+group log-odds coefficient B=−0.31 (SE=0.21), p=0.14; Reaction time: blind mean=3.27 S,
+SD=0.24 S; sighted mean=3.36 S, SD=0.21 S; effect of group B=0.08 (SE=0.05), t=1.47,
+p=0.15.)
+WJ-III & Arithmetic (Control)
+Blind and sighted participants performed equivalently on the WJ-III subsections (group X
+WJ-III measure ANOVA, main effect of group not significant, F(1,74)=0.05, p>0.5; group X
+measure interaction not significant, F(4,296)=0.49, p>0.5) (Figure 2). For the math tasks, a
+group by operation (division vs. subtraction) ANOVA revealed a main effect of math
+operation with division more difficult than subtraction, F(1,74)=185.81, p < 0.001). Overall,
+blind and sighted participants did not differ in their math performance (main effect of group
+not significant, F(1,74)=1.29, p=0.26). However, there was a significant interaction between
+group and math-operation with blind participants showing a bigger difference between
+subtraction and division tasks, and performing worse than the sighted only on the division
+task (F(1,74)=7.05, p=0.01) (Figure 2).
+Working Memory Span
+A group X direction (forward vs. backward) ANOVA, revealed a main effect of span
+direction, with forward span significantly easier than backward span (F(1,74)=13.70,
+p<0.001) (Figure 2, right-most columns). Across spans, blind participants had better
+working memory than sighted participants (main effect of group, F(1,74)=33.21, p<0.001;
+n.s. group X direction (forward vs. backward) interaction, F(1,74)=0.94, p=0.34).
+Relationship between Short-term Memory Span and Sentence Comprehension
+Short-term memory span did not significantly predict sentence comprehension performance
+in either the blind or the sighted groups for any sentence types (correlation with average
+forward & backward span: blind accuracy: move: r=0.31, p=0.13, non-move: r=0.31,
+p=0.12, garden path: r=0.28, p=0.17, non-garden path: r=0.33, p=0.10; sighted accuracy:
+move: r=0.17, p=0.23, non-move: r=0.17, p=0.23, garden path: r=0.17, p=0.24, non-garden
+path: r=0.16, p=0.28) (Figure 3).
+Short-term memory span also did not significantly predict sentence comprehension response
+times in either the blind or the sighted group for any sentence types (correlation with average
+forward & backward span: blind RT: move: r=−0.23, p=0.27, non-move: r=−0.20, p=0.35,
+garden path: r=−0.18, p=0.38, non-garden path: r=−0.04, p>0.5; sighted RT: move: r=−0.09,
+p>0.5, non-move: r=−0.26, p=0.07, garden path: r=0.11, p=0.45, non-garden path: r=0.02,
+p>0.5).
+However, performance on garden path and movement sentences was correlated across
+participants, both in the sighted r=.61, p<.0001 and in the blind r=.73, p<.0001 groups.
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 11
+Performance was also significantly correlated across forward and backward spans in the
+sighted r=.32, p<.05 and blind group r=.58, p<.005 (Figure 4).
+Discussion
+Blindness confers an advantage on a sentence comprehension task, how and why?
+We find that when presented with spoken sentences, congenitally blind individuals are more
+accurate than matched, sighted controls at answering who-did-what-to-whom questions. An
+accuracy advantage was observed for movement and garden path sentences and even for
+their control sentences (see also Lane et al., 2015). Blind participants are faster, particularly
+for garden-path sentences: Unlike sighted adults, blind individuals responded as quickly to
+questions about garden-path sentences as they do to matched, non-garden-path control
+sentences, showing no garden path cost in reaction time. Advantages on the sentence
+comprehension task cannot be explained by differences in general cognitive abilities across
+groups: blind participants performed no better than sighted participants on standardized
+tasks assessing reading, vocabulary, analogies, and arithmetic. Though blind participants
+outperformed the sighted on forward and backward letter span tasks, letter-span and
+sentence comprehension performance were not correlated. By contrast, performance on the
+sentence comprehension task was correlated across sentence types: those participants who
+performed well at answering who-did-what to whom questions for garden path sentences
+also performed better on movement sentences. Furthermore, forward and backward span
+performance was correlated.
+As noted in the introduction, unlike the sighted, congenitally blind individuals recruit
+“visual” cortices during sentence processing tasks and more so for syntactically complex
+sentences (Bedny et al., 2011; Lane et al., 2015; Röder et al., 2002). Larger “visual” cortex
+responses are associated with better sentence comprehension performance and better verbal
+memory across blind individuals (Lane et al., 2015, Amedi et al., 2003). TMS to “visual”
+cortex impairs verb-generation and Braille reading among blind individuals (Amedi et al.,
+2004, Cohen et al., 1997). Together with the present results, these findings are consistent
+with the hypothesis that in blindness “visual” cortex plasticity confers a behavioral
+advantage in language processing. However, further work using techniques such as TMS is
+needed to directly test the hypothesis that “visual” cortex is functionally relevant to
+sentence-processing per se. One interesting question that remains to be tested in future work
+is whether sentence comprehension improvements are specific to people born blind or also
+observed among individuals who lose their sight as adults. Some evidence suggests that
+“visual” cortex plasticity for language is either absent or substantially reduced in people who
+are adult-onset as opposed to congenitally blind (e.g. Bedny et al., 2012), leading to the
+prediction that any sentence comprehension benefits will be restricted to people born blind.
+It is important to point out that the relationship between increased cortical territory devoted
+to a particular function and performance is complex. While blind individuals show improved
+behavior on some tasks that activate “visual” cortices this is not uniformly the case. For
+example, blind individuals activate “visual” cortices when solving math equations and
+outperform the sighted on some memory intensive arithmetic tasks (Dormal et al., 2016).
+However, for many math tasks, including those that activate “visual” cortex in blindness,
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 12
+there are no blindness-related advantages (e.g. Crollen et al., 2019, Kanjlia et al., 2016,
+Kanjlia et al., 2018). In the current study, the blind group performed no different from the
+sighted on a timed subtraction task and less well than the sighted on a timed division task.
+Blindness could influence performance on a given task in multiple different and even
+opposing ways. For example, barriers to accessing mathematical education could produce
+disadvantages on some math tasks and “wash out” subtle benefits conferred by “visual”
+cortex plasticity. Further research is needed to determine how additional “visual” cortical
+territory influences performance on sentence-processing and other tasks.
+The availability of “visual” cortex territory is only one of several non-mutually exclusive
+explanations for why blindness enhanced performance on the current sentence
+comprehension task. Another possibility noted in the introduction is habitual practice
+interpreting spoken language in the absence of visual cues. Such a practice-based argument
+is not inconsistent with the hypothesis that “visual” cortex plasticity enables behavioral
+improvements. The availability of extra language wetware in the “visual” cortex could make
+behavioral improvements possible in the presence of environmental pressure to perform
+better. Conversely, reliance on language as a source of information may increase pressure for
+language (as opposed to other cognitive functions) to colonize available territory in the
+“visual” cortex.
+What cognitive mechanisms are responsible for the observed behavioral improvements in
+sentence comprehension? One logical possibility is that improvements are related to
+previously documented enhancements in short-term memory associated with blindness
+(Amedi, et al., 2003; Hull & Mason, 1995; Raz et al., 2007; Rokem & Ahissar, 2009;
+Tillman & Bashaw, 1968; Withagen et al., 2013). Consistent with prior work, in the current
+study blind participants performed significantly better than the sighted on forward and
+backward short-term memory span tasks. Working memory mechanisms are relevant to
+sentence processing. During sentence comprehension, as a sentence unfolds in time,
+listeners maintain previously heard linguistic information in working memory and blind
+listeners may maintain more of this information, with higher fidelity and perhaps for a
+longer amount of time. However, we found no evidence for a relationship between
+performance on sentence comprehension and span-based short-term memory tasks: those
+blind individuals that showed the best performance on the auditory sentence comprehension
+were not the same as those who showed maximal performance on the span tasks. This
+suggests that the sentence comprehension and span tasks in the current study may be
+measuring independent blindness-related improvements.
+Blindness-related improvements in short-term memory and sentence processing could,
+nevertheless, occur for analogous reasons. It has previously been suggested that the
+sentence-relevant short-term memory system is distinct from the one used during span tasks
+(e.g. Caplan & Waters, 1999). Blindness may therefore independently improve the capacity
+to maintain information online before it can be integrated into the sentence structure. For
+example, maintaining the matrix subject in memory across the intervening clause until the
+associated relative clause verb is encountered. In the case of garden path sentences, blind
+individuals may maintain the initially dis-preferred sentence parse active to greater extent
+than sighted participants (Gibson, 1998; Hickok, 1993; Just & Carpenter, 1992; MacDonald
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 13
+et al., 1994; McRae et al., 1998; Stevenson, 1998). If so, when this dis-preferred parse turns
+out to be the correct one, blind individuals would show a reduced performance cost.
+An alternative to the memory based account is the possibility that blindness improves
+executive function mechanisms that are involved in selection of the preferred sentence
+interpretation in the context of syntactic ambiguity (January, Trueswell, & Thompson-Schill,
+2009; Novick et al., 2012; Novick, Trueswell, & Thompson-Schill, 2005; 2010; Thompson-
+Schill, Bedny, & Goldberg, 2005; Woodard, Pozzan, & Trueswell, 2016). This particular
+interpretation is consistent with the more pronounced advantage of blind participants on the
+garden-path as opposed the movement sentences. Although, future work is needed to
+determine whether blindness selectively enhances garden-path interpretation relative to other
+sentence types, since we did not find a significant three-way interaction (sentence type
+(movement vs. garden path) by complexity (complex vs. simple) by group (blind vs.
+sighted)). Future studies should also test whether blindness enhances performance on other
+tasks that involve ambiguity resolution. Although here we focused on sentence
+comprehension performance, advantages may or may not be specific to sentence-level
+syntax. Do blind individuals outperform the sighted on lexical ambiguity resolution (e.g.
+selecting context-appropriate meanings of homonymous words)? If sentence comprehension
+enhancements are mediated by sentence-specific memory mechanisms we would not expect
+advantages in lexical tasks, whether they involve ambiguity or not. By contrast, if ambiguity
+resolution mechanisms are involved then both lexical and grammatical ambiguity may be
+affected. In future studies it will also be important to replicate the current results using
+synthesized rather than recorded sentences to rule out the possibility that differences among
+blind and sighted groups are related to differential use of subtle prosodic cues. It is also
+possible that blindness independently enhances multiple different aspects of linguistic
+processing (e.g. sentence-relevant working memory and ambiguity resolution mechanisms).
+Testing blind and sighted participants on a comprehensive battery of linguistic tasks could
+uncover multiple distinct benefits.
+A further outstanding question is whether enhancements are mediated by domain-specific
+language mechanisms or domain general executive or memory mechanisms. Both domain
+specific and domain general mechanisms are involved in processing for complex sentences
+(January, Trueswell & Thompson-Schill, 2009; Just & Carpenter, 1992, Fedorenko, 2014).
+Previous work has shown that domain general executive processes, such as those involved in
+ambiguity resolution outside of language (e.g. in auditory STROOP tasks), play a role in
+ambiguous sentence comprehension. It will be important to test whether blind individuals
+show enhancements on non-linguistic ambiguity resolution tasks and if so whether such
+enhancements predict sentence comprehension performance. Similarly, although we did not
+find a relationship between span memory performance and sentence comprehension
+performance in the current study, future studies could examine other memory tasks (e.g.
+tasks with lists of words, complex span tasks) to see whether these predict sentence
+advantages among blind participants.
+The present results raise questions about whether other types of variation in experience,
+apart from blindness, could improve human capacity to make better use of language internal
+information and if so whether behavioral improvements would occur even in the absence of
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 14
+extra available “wetware” in visual cortex. Efforts to train sighted speaker to become better
+at parsing complex sentences in the laboratory have met with mixed success. One study
+reported that training on a demanding N-back task improved performance on syntactically
+ambiguous sentences (Novick, Hussey, Teubner-Rhodes, Harbison, & Bunting, 2012). Some
+studies suggest that experience with particular types of grammatical constructions enhances
+performance with those constructions (Fine, Jaeger, Farmer, & Qian, 2013; Long & Prat,
+2008; Roth, 1984; Wells, Christiansen, Race, Acheson, & MacDonald, 2009). However, the
+improvements are specific to the trained constructions (Long & Prat, 2008; Roth, 1984;
+Wells et al., 2009). Blindness-related improvements may be more general because blindness
+causes more extensive and varied “training” or because of extra “wetware” availability. In
+future work it would be interesting to test whether other naturalistic experiences, such as
+extensive reading or extensive listening to audiobooks, also improves aspects of sentence
+processing.
+Conclusions
+We observed independent advantages in sentence comprehension and short-term memory
+tasks in blind participants. These improvements may be analogous to previously reported
+blindness-related advantages in audition and touch (Fieger et al., 2006; Lessard et al., 1998;
+Rice, 2017; Roder et al., 1999; Voss et al., 2004). According to this hypothesis, lack of
+visual experience enhances not only perception through other senses, but also higher
+cognitive abilities that can be used to achieve similar behavioral goals, including language.
+These results suggest that individual variation in non-linguistic experience can enhance the
+capacity of the language system to function in the absence of extrinsic cues.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgements
+We thank the study participants for giving their time to make this research possible. A special thank you to the blind
+community and the National Federation for the Blind. This work was supported by the Science of Learning Institute
+at Johns Hopkins University (M.B. and A.O), the National Institute of Health (NEI, R01 EY027352-01) (M.B), the
+Catalyst Award from Johns Hopkins University (M.B.) and a National Science Foundation Graduate Research
+Fellowship DGE-1232825 (R.E.L.). We would also like to thank the F. M. Kirby Research Center for Functional
+Brain Imaging at the Kennedy Krieger Institute.
+References
+Abboud S, & Cohen L. (2019) Distinctive Interaction Between Cognitive Networks and the Visual
+Cortex in Early Blind Individuals, Cerebral Cortex, 10.1093/cercor/bhz006
+Amedi A, Floel A, Knecht S, Zohary E, & Cohen LG (2004). Transcranial magnetic stimulation of the
+occipital pole interferes with verbal processing in blind subjects. Nature Neuroscience, 7(11), 1266–
+1270. 10.1038/nn1328 [PubMed: 15467719]
+Amedi A, Raz N, Pianka P, Malach R, & Zohary E. (2003). Early “visual” cortex activation correlates
+with superior verbal memory performance in the blind. Nature Neuroscience, 6(7), 758–766.
+10.1038/nn1072 [PubMed: 12808458]
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 15
+Baayen RH, Davidson DJ, & Bates DM (2008). Mixed-effects modeling with crossed random effects
+for subjects and items. Journal of Memory and Language, 59(4), 390–412. 10.1016/
+j.jml.2007.12.005
+Bader M. (1998). Prosodic Influences on Reading Syntactically Ambiguous Sentences In Reanalysis in
+Sentence Processing (Vol. 21, pp. 1–46). Dordrecht: Springer, Dordrecht.
+Bailey K, & Ferreira F. (2003). Disfluencies affect the parsing of garden-path sentences. Journal of
+Memory and Language, 49(2), 183–200. 10.1016/S0749-596X(03)00027-5
+Bavelier D, & Neville HJ (2002). Cross-modal plasticity: where and how? Nature Reviews:
+Neuroscience. 10.1038/nrn848
+Bedny M, Pascual-Leone A, Dodell-Feder D, Fedorenko E, & Saxe R. (2011). Language processing in
+the occipital cortex of congenitally blind adults. Proceedings of the National Academy of Sciences,
+108(11), 4429–4434. 10.1073/pnas.1014818108/-/DCSupplemental
+Brainard DH (1997). The Psychophysics Toolbox. Spatial Vision, 10(4), 433–436.
+10.1163/156856897X00357 [PubMed: 9176952]
+Burton H, Diamond JB, & McDermott KB (2003). Dissociating cortical regions activated by semantic
+and phonological tasks: a FMRI study in blind and sighted people. Journal of Neurophysiology.
+10.1152/jn.00279.2003
+Caplan D, & Waters GS (1999). Verbal working memory and sentence comprehension. Behavioral and
+Brain Sciences, 22(1), 77–94. [PubMed: 11301522]
+Chambers CG, Tanenhaus MK, & Magnuson JS (2004). Actions and Affordances in Syntactic
+Ambiguity Resolution. Journal of Experimental Psychology: Learning, Memory, and Cognition,
+30(3), 687–696. 10.1037/0278-7393.30.3.687
+Chambers CG, Tanenhaus MK, Eberhard KM, Filip H, & Carlson GN (2002). Circumscribing
+Referential Domains during Real-Time Language Comprehension. Journal of Memory and
+Language, 47(1), 30–49. 10.1006/jmla.2001.2832
+Christianson K, Hollingworth A, Halliwell JF, & Ferreira F. (2001). Thematic Roles Assigned along
+the Garden Path Linger. Cognitive Psychology, 42(4), 368–407. 10.1006/cogp.2001.0752
+[PubMed: 11368528]
+Clark HH (1973). The language-as-fixed-effect fallacy: A critique of language statistics in
+psychological research. Journal of Verbal Learning and Verbal Behavior, 12(4), 335–359. 10.1016/
+S0022-5371(73)80014-3
+Cohen LG, Celnik P, Pascual-Leone A, & Corwell B. (1997). Functional relevance of cross-modal
+plasticity in blind humans. Nature.
+Collignon O, Vandewalle G, & Voss P. (2011). Functional specialization for auditory–spatial
+processing in the occipital cortex of congenitally blind humans. Presented at the Proceedings of
+the National Academy of Sciences. 10.1073/pnas.1013928108/-/DCSupplemental/
+pnas.201013928SI.pdf
+Collignon O, Voss P, Lassonde M, & Lepore F. (2008). Cross-modal plasticity for the spatial
+processing of sounds in visually deprived subjects. Experimental Brain Research, 192(3), 343–
+358. 10.1007/s00221-008-1553-z [PubMed: 18762928]
+Crollen V, Lazzouni L, Rezk M, Bellemare A, Lepore F, Noël MP, … & Collignon O. (2019).
+Recruitment of the occipital cortex by arithmetic processing follows computational bias in the
+congenitally blind. Neuroimage, 186, 549–556. [PubMed: 30472373]
+Dann M, Levine SZ, & New EV (1964). A long term follow-up study of small premature infants.
+Pediatrics, 33(6), 945–955. [PubMed: 14169641]
+Dormal V, Crollen V, Baumans C, Lepore F, & Collignon O. (2016). Early but not late blindness leads
+to enhanced arithmetic and working memory abilities. Cortex, 83(C), 212–221. 10.1016/
+j.cortex.2016.07.016 [PubMed: 27580465]
+Ekstrom RB, French J, Harman HH, & Dermen D. (1976). Manual for kit of factor-referenced
+cognitive tests.
+Farmer TA, Anderson SE, & Spivey MJ (2007). Gradiency and visual context in syntactic garden-
+paths. Journal of Memory and Language, 57(4), 570–595. 10.1016/j.jml.2007.04.003 [PubMed:
+18037980]
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 16
+Ferreira F, & Henderson JM (1991). Recovery from misanalyses of garden-path sentences. Journal of
+Memory and Language, 30(6), 725–745. 10.1016/0749-596X(91)90034-H
+Fieger A, Röder B, Teder-Sälejärvi W, Hillyard SA, & Neville HJ (2006). Auditory spatial tuning in
+late-onset blindness in humans. Journal of Cognitive Neuroscience, 18(2), 149–157. 10.1162/
+jocn.2006.18.2.149 [PubMed: 16494677]
+Fine AB, Jaeger TF, Farmer TA, & Qian T. (2013). Rapid Expectation Adaptation during Syntactic
+Comprehension. PLoS ONE, 8(10), e77661. 10.1371/journal.pone.0077661
+Gibson E. (1998). Linguistic complexity: locality of syntactic dependencies. Cognition, 68(1), 1–76.
+[PubMed: 9775516]
+Goldreich D, & Kanics IM (2003). Tactile Acuity is Enhanced in Blindness. The Journal of
+Neuroscience, 23(8), 3439–3445. [PubMed: 12716952]
+Gougoux F, Zatorre RJ, Lassonde M, Voss P, & Lepore F. (2005). A Functional Neuroimaging Study
+of Sound Localization: Visual Cortex Activity Predicts Performance in Early-Blind Individuals.
+PLoS Biology, 3(2), e27–10. 10.1371/journal.pbio.0030027 [PubMed: 15678166]
+Hickok G. (1993). Parallel parsing: Evidence from reactivation in garden-path sentences. Journal of
+Psycholinguistic Research, 22(2), 239–250. 10.1007/BF01067832
+Huettig F, Rommers J, & Meyer AS (2011). Using the visual world paradigm to study language
+processing: A review and critical evaluation. Acta Psychologica, 137(2), 151–171. 10.1016/
+j.actpsy.2010.11.003 [PubMed: 21288498]
+Hugdahl K, Ek M, Takio F, Rintee T, Tuomainen J, Haarala C, & Hämäläinen H. (2004). Blind
+individuals show enhanced perceptual and attentional sensitivity for identification of speech
+sounds. Cognitive Brain Research, 19(1), 28–32. 10.1016/j.cogbrainres.2003.10.015 [PubMed:
+14972355]
+Hull T, & Mason H. (1995). Performance of blind children on digit-span tests. Journal of Visual
+Impairment Blindness.
+Jaeger TF (2008). Categorical data analysis: Away from ANOVAs (transformation or not) and towards
+logit mixed models. Journal of Memory and Language, 59(4), 434–446. 10.1016/j.jml.2007.11.007
+[PubMed: 19884961]
+January D, Trueswell JC, & Thompson-Schill SL (2009). Co-localization of stroop and syntactic
+ambiguity resolution in Broca’s area: implications for the neural basis of sentence processing.
+Cognitive Neuroscience, Journal of, 21(12), 2434–2444. 10.1162/jocn.2008.21179
+Just MA, & Carpenter PA (1992). A capacity theory of comprehension: individual differences in
+working memory. Psychological Review, 99(1), 122–149. 10.1037/0033-295X.99.1.122 [PubMed:
+1546114]
+Kanjlia S, Lane C, Feigenson L, Bedny M (2016) Absence of visual experience modifies the neural
+basis of numerical thinking. Proc Natl Acad Sci USA 113:11172–11177. [PubMed: 27638209]
+Kanjlia S, Feigenson L, & Bedny M. (2018). Numerical cognition is resilient to dramatic changes in
+early sensory experience. Cognition, 179, 111–120. [PubMed: 29935427]
+Klinge C, Röder B, & Büchel C. (2010). Increased amygdala activation to emotional auditory stimuli
+in the blind. Brain, 133(6), 1729–1736. [PubMed: 20453040]
+Kujala T, Alho K, Paavilainen P, Summala H, & Näätänen R. (1992). Neural plasticity in processing of
+sound location by the early blind: an event-related potential study. Electroencephalography and
+Clinical Neurophysiology/ Evoked Potentials, 84(5), 469–472. 10.1016/0168-5597(92)90034-9
+[PubMed: 1382956]
+Kupers R, & Ptito M. (2014). Compensatory plasticity and cross-modal reorganization following early
+visual deprivation. Neuroscience & Biobehavioral Reviews, 41, 36–52. 10.1016/
+j.neubiorev.2013.08.001 [PubMed: 23954750]
+Lane C, Kanjlia S, Omaki A, & Bedny M. (2015). “Visual” Cortex of Congenitally Blind Adults
+Responds to Syntactic Movement. The Journal of Neuroscience, 35(37), 12859–12868. 10.1523/
+JNEUROSCI.1256-15.2015
+Lane C, Kanjlia S, Richardson H, Fulton A, Omaki A, & Bedny M. (2017). Reduced Left
+Lateralization of Language in Congenitally Blind Individuals. Cognitive Neuroscience, Journal of,
+29(1), 65–78. 10.1162/jocn_a_01045
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 17
+Lessard N, Pare M, Lepore F, & Lassonde M. (1998). Early-blind human subjects localize sound
+sources better than sighted subjects. Nature, 395(6699), 278–280. 10.1038/26228 [PubMed:
+9751055]
+Long DL, & Prat CS (2008). Individual differences in syntactic ambiguity resolution: Readers vary in
+their use of plausibility information. Memory & Cognition, 36(2), 375–391. 10.3758/MC.36.2.375
+[PubMed: 18426067]
+MacDonald MC, Pearlmutter NJ, & Seidenberg MS (1994). The Lexical Nature of Syntactic
+Ambiguity Resolution. Psychological Review, 102(2), 245–245.
+McRae K, Spivey-Knowlton MJ, & Tanenhaus MK (1998). Modeling the influence of thematic fit (and
+other constraints) in on-line sentence comprehension. Journal of Memory and Language, 38(3),
+283–312. 10.1006/jmla.1997.2543
+Merabet LB, & Pascual-Leone A. (2009). Neural reorganization following sensory loss: the
+opportunity of change. Nature Reviews: Neuroscience, 11(1), 44–52. 10.1038/nrn2758 [PubMed:
+19935836]
+Muchnik C, Efrati M, Nemeth E, Malin M, & Hildesheimer M. (1991). Central Auditory Skills in
+Blind and Sighted Subjects. Scandinavian Audiology, 20(1), 19–23. 10.3109/01050399109070785
+[PubMed: 1842264]
+Nagel HN, Shapiro LP, & Nawy R. (1994). Prosody and the processing of filler-gap sentences. Journal
+of Psycholinguistic Research, 23(6), 473–485. [PubMed: 7996508]
+Neville HJ, & Lawson D. (1987). Attention to central and peripheral visual space in a movement
+detection task: an event-related potential and behavioral study. II. Congenitally deaf adults. Brain
+Research, 405(2), 268–283. 10.1016/0006-8993(87)90296-4 [PubMed: 3567605]
+Noppeney U. (2007). The effects of visual deprivation on functional and structural organization of the
+human brain. Neuroscience & Biobehavioral Reviews, 31(8), 1169–1180. 10.1016/
+j.neubiorev.2007.04.012 [PubMed: 17597210]
+Novick JM, Hussey E, Teubner-Rhodes S, Harbison JI, & Bunting MF (2012). Clearing the garden-
+path: improving sentence processing through cognitive control training. Language, Cognition and
+Neuroscience, 29(2), 186–217. 10.1080/01690965.2012.758297
+Novick JM, Trueswell JC, & Thompson-Schill SL (2005). Cognitive control and parsing: Reexamining
+the role of Broca’s area in sentence comprehension. Cognitive, Affective & Behavioral
+Neuroscience, 5(3), 263–281. 10.3758/CABN.5.3.263
+Novick JM, Trueswell JC, & Thompson-Schill SL (2010). Broca’s Area and Language Processing:
+Evidence for the Cognitive Control Connection. Language and Linguistics Compass, 4(10), 906–
+924. 10.1111/j.1749-818X.2010.00244.x
+Pasqualotto A, Lam JSY, & Proulx MJ (2013). Congenital blindness improves semantic and episodic
+memory. Behavioural Brain Research, 244, 162–165. 10.1016/j.bbr.2013.02.005 [PubMed:
+23416237]
+Peirce JW (2007). PsychoPy—Psychophysics software in Python. The Journal of Neuroscience,
+162(1–2), 8–13. 10.1016/j.jneumeth.2006.11.017
+Raz N, Amedi A, & Zohary E. (2005). V1 activation in congenitally blind humans is associated with
+episodic retrieval. Cerebral Cortex, 15(9), 1459–1468. 10.1093/cercor/bhi026 [PubMed:
+15647525]
+Raz N, Striem E, Pundak G, Orlov T, & Zohary E. (2007). Superior Serial Memory in the Blind: A
+Case of Cognitive Compensatory Adjustment. Current Biology, 17(13), 1129–1133. 10.1016/
+j.cub.2007.05.060 [PubMed: 17583507]
+Rice CE (2017). Perceptual Enhancement in the Early Blind? The Psychological Record, 19(1), 1–14.
+10.1007/BF03393822
+Roder B, Rösler F, & Neville HJ (2000). Event-related potentials during auditory language processing
+in congenitally blind and sighted people. Neuropsychologia, 38(11), 1482–1502. 10.1016/
+S0028-3932(00)00057-9 [PubMed: 10906374]
+Roder B, Rösler F, & Neville HJ (2001). Auditory memory in congenitally blind adults: a behavioral-
+electrophysiological investigation. Brain Research. Cognitive Brain Research, 11(2), 289–303.
+[PubMed: 11275490]
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 18
+Roder B, Teder-Sälejärvi W, Sterr A, & Rösler F. (1999). Improved auditory spatial tuning in blind
+humans. Nature. 10.2307/123747?ref=search-gateway:2823875b6eeeb53316771d552876b394
+Rokem A, & Ahissar M. (2009). Interactions of cognitive and auditory abilities in congenitally blind
+individuals. Neuropsychologia, 47(3), 843–848. 10.1016/j.neuropsychologia.2008.12.017
+[PubMed: 19138693]
+Rosner B. (1975). On the Detection of Many Outliers. Technometrics, 17(2), 221–227.
+10.2307/1268354?refreqid=search-gateway:dcc78f9166490b69958c740069ab00f1
+Roth FP (1984). Accelerating language learning in young children. Journal of Child Language, 11(1),
+89–107. 10.1017/S0305000900005602 [PubMed: 6699115]
+Röder B, Demuth L, Streb J, & Rösler F. (2003). Semantic and morpho-syntactic priming in auditory
+word recognition in congenitally blind adults. Language and Cognitive Processes, 18(1), 1–20.
+10.1080/01690960143000407
+Röder B, Stock O, Bien S, Neville H, & Rösler F. (2002). Speech processing activates visual cortex in
+congenitally blind humans. European Journal of Neuroscience, 16(5), 930–936. 10.1046/
+j.1460-9568.2002.02147.x [PubMed: 12372029]
+Sadato N. et al., 1996 Activation of the primary visual cortex by Braille reading in blind subjects.
+Nature, 380(6574), pp.526–528. 10.1038/380526a0 [PubMed: 8606771]
+Spivey MJ, Tanenhaus MK, Eberhard KM, & Sedivy JC (2002). Eye movements and spoken language
+comprehension: Effects of visual context on syntactic ambiguity resolution. Cognitive Psychology,
+45(4), 447–481. 10.1016/S0010-0285(02)00503-0 [PubMed: 12480476]
+Stevenson S. (1998). Parsing as Incremental Restructuring In Reanalysis in Sentence Processing (Vol.
+21, pp. 327–363). Dordrecht: Springer, Dordrecht.
+Swanson HL, & Luxenberg D. (2009). Short-Term Memory and Working Memory in Children with
+Blindness: Support for a Domain General or Domain Specific System? Child Neuropsychology,
+15(3), 280–294. 10.1080/09297040802524206 [PubMed: 19051074]
+Tanenhaus MK, Magnuson JS, Dahan D, & Chambers C. (2000). Eye movements and lexical access in
+spoken-language comprehension: evaluating a linking hypothesis between fixations and linguistic
+processing. Journal of Psycholinguistic Research, 29(6), 557–580. 10.1023/A:1026464108329
+[PubMed: 11196063]
+Tanenhaus MK, Spivey-Knowlton MJ, Eberhard KM, & Sedivy JC (1995). Integration of visual and
+linguistic information in spoken language comprehension. Science, 268(5217), 1632–1634.
+[PubMed: 7777863]
+Thompson-Schill SL, Bedny M, & Goldberg RF (2005). The frontal lobes and the regulation of mental
+activity. Current Opinion in Neurobiology, 15(2), 219–224. 10.1016/j.conb.2005.03.006 [PubMed:
+15831406]
+Tillman MH, & Bashaw WL (1968). Multivariate analysis of the WISC scales for blind and sighted
+children. Psychological Reports, 23(2), 523–526. 10.2466/pr0.1968.23.2.523 [PubMed: 5698798]
+Trueswell JC, & Gleitman L. (2004). Children’s Eye Movements during Listening: Developmental
+Evidence for a Constraint-Based Theory of Sentence Processing, 1–28.
+Trueswell JC, Tanenhaus MK, & Garnsey SM (1994). Semantic Influences On Parsing: Use of
+Thematic Role Information in Syntactic Ambiguity Resolution. Journal of Memory and Language,
+33(3), 285–318. 10.1006/jmla.1994.1014
+Tyler LK, & Marslen-Wilson WD (1977). The on-line effects of semantic context on syntactic
+processing. Journal of Verbal Learning and Verbal Behavior, 16(6), 683–692. 10.1016/
+S0022-5371(77)80027-3
+Van Boven RW, Hamilton RH, Kauffman T, Keenan JP, & Leone AP (2000). Tactile spatial resolution
+in blind Braille readers. Neurology, 54(12), 2230–2236. 10.1212/WNL.54.12.2230 [PubMed:
+10881245]
+Voss P, Gougoux F, Zatorre RJ, Lassonde M, & Lepore F. (2008). Differential occipital responses in
+early- and late-blind individuals during a sound-source discrimination task. NeuroImage, 40(2),
+746–758. 10.1016/j.neuroimage.2007.12.020 [PubMed: 18234523]
+Voss P, Lassonde M, Gougoux F, Fortin M, Guillemot J-P, & Lepore F. (2004). Early- and Late-Onset
+Blind Individuals Show Supra-Normal Auditory Abilities in Far-Space. Current Biology, 14(19),
+1734–1738. 10.1016/j.cub.2004.09.051 [PubMed: 15458644]
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 19
+Wan CY, Wood AG, Reutens DC, & Wilson SJ (2010). Congenital blindness leads to enhanced
+vibrotactile perception. Neuropsychologia, 48(2), 631–635. 10.1016/
+j.neuropsychologia.2009.10.001 [PubMed: 19819246]
+Watkins KE, Cowey A, Alexander I, Filippini N, Kennedy JM, Smith SM, et al. (2012). Language
+networks in anophthalmia: maintained hierarchy of processing in “visual” cortex. Brain : a Journal
+of Neurology, 135(5), 1566–1577. 10.1093/brain/aws067 [PubMed: 22427328]
+Weeks R, Horwitz B, Aziz-Sultan A, Tian B, Wessinger CM, Cohen LG, et al. (2000). A Positron
+Emission Tomographic Study of Auditory Localization in the Congenitally Blind. The Journal of
+Neuroscience, 20(7), 2664–2672. 10.1523/JNEUROSCI.20-07-02664.2000 [PubMed: 10729347]
+Wells JB, Christiansen MH, Race DS, Acheson DJ, & MacDonald MC (2009). Experience and
+sentence processing: Statistical learning and relative clause comprehension. Cognitive Psychology,
+58(2), 250–271. 10.1016/j.cogpsych.2008.08.002 [PubMed: 18922516]
+Withagen A, Kappers AML, Vervloed MPJ, Knoors H, & Verhoeven L. (2013). Short term memory
+and working memory in blind versus sighted children. Research in Developmental Disabilities,
+34(7), 2161–2172. 10.1016/j.ridd.2013.03.028 [PubMed: 23643769]
+Wong M, Gnanakumaran V, & Goldreich D. (2011). Tactile spatial acuity enhancement in blindness:
+evidence for experience-dependent mechanisms. The Journal of Neuroscience : the Official
+Journal of the Society for Neuroscience, 31(19), 7028–7037. 10.1523/JNEUROSCI.6461-10.2011
+[PubMed: 21562264]
+Woodard K, Pozzan L, & Trueswell JC (2016). Taking your own path: Individual differences in
+executive function and language processing skills in child learners. Journal of Experimental Child
+Psychology, 141(C), 187–209. 10.1016/j.jecp.2015.08.005 [PubMed: 26454180]
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 20
+Figure 1.
+Mean accuracy (left) and response times (right) for sighted and blind participants in
+syntactic movement (Move), matched non-movement (No-Move), garden path (GP) and
+matched non-garden path (No-GP) sentences. Error bars reflect SEM.
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 21
+Figure 2.
+Mean accuracy of sighted and blind participants in Woodcock-Johnson III measures—Word
+Letter Identification (WD-ID), Word Attack (WD-ATTCK), Synonyms (SYN), Antonyms
+(ANT), and Analogies (ANT), arithmetic—subtraction (SUB) and division (DIV), and short-
+term memory span—forward (FWD) and backward (BWD). Error bars reflect SEM.
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 22
+Figure 3.
+Correlation plots showing relationship between each participants’ mean performance on
+forward and backward letter span (% correct) and accuracy at answering comprehension
+questions for each of the sentence conditions (% correct, move, no move, garden path, no
+garden path). Sighted (top) and blind (bottom). No significant relationship between letter
+span and sentence processing performance was observed.
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Loiotile et al. Page 23
+Figure 4.
+Correlation plots showing significant relationship between each participants’ performance
+on garden-path sentences and movement sentences (left) and a significant relationship
+between each participants’ performance on forward and backward span tasks (right). Sighted
+(top) and blind (bottom).
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+--- PAGE BREAK ---
+
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Loiotile et al. Page 24
+Table 1.
+Sample stimuli
+Move The actress that the creator of the gritty HBO crime series admires often improvises her lines.
+No-Move The creator of the gritty HBO crime series admires that the actress often improvises her lines.
+Garden-Path While the little girl dressed the doll that she was playing with sat on the floor of her bedroom.
+No Garden-Path While the nanny dressed the baby that was small and cute the baby’s mother was in the kitchen preparing dinner.
+Filler The precocious child thought that that the rude waitress’s purple cotton dress and orange shoes clashed horribly.
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.
+
+--- PAGE BREAK ---
+
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Loiotile et al. Page 25
+Table 2.
+Number of participants per cause of blindness
+Blindness Etiology N N LP
+Leber Congenital Amaurosis 9 5
+Glaucoma 3 1
+Optic Nerve Hypoplasia 6 1
+Anopthalmia 3 0
+Micropthalmia 2 0
+Retinal Blastoma 1 1
+Septo-optic dysplasia 1 0
+Number of participants per cause of blindness (N) and with light perception (N LP).
+Lang Cogn Neurosci. Author manuscript; available in PMC 2021 January 01.

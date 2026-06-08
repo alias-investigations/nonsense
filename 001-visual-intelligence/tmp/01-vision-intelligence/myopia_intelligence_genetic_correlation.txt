@@ -1,0 +1,505 @@
+www.nature.com/scientificreports
+OPEN Phenotypic and genotypic
+correlation between myopia and
+intelligence
+Received: 30 November 2016 Katie M. Williams1,2, Pirro G. Hysi2, Ekaterina Yonova-Doing2, Omar A. Mahroo1,
+accepted: 07 March 2017 Harold Snieder3 & Christopher J. Hammond1,2
+Published: 06 April 2017
+Myopia, or near-sightedness, is our most common eye condition and the prevalence is increasing
+globally. Visual impairment will occur if uncorrected, whilst high myopia causes sight-threatening
+complications. Myopia is associated with higher intelligence. As both are heritable, we set out to
+examine whether there is a genetic correlation between myopia and intelligence in over 1,500 subjects
+(aged 14–18 years) from a twin birth cohort. The phenotypic correlation between refractive error and
+intelligence was −0.116 (p < 0.01) - the inverse correlation due to the fact that myopia is a negative
+refractive error. Bivariate twin modeling confirmed both traits were heritable (refractive error 85%,
+intelligence 47%) and the genetic correlation was −0.143 (95% CI −0.013 to −0.273). Of the small
+phenotypic correlation the majority (78%) was explained by genetic factors. Polygenic risk scores were
+constructed based on common genetic variants identified in previous genome-wide association studies
+of refractive error and intelligence. Genetic variants for intelligence and refractive error explain some
+of the reciprocal variance, suggesting genetic pleiotropy; in the best-fit model the polygenic score
+for intelligence explained 0.99% (p = 0.008) of refractive error variance. These novel findings indicate
+shared genetic factors contribute significantly to the covariance between myopia and intelligence.
+Myopia, or near-sightedness, occurs when a viewed object is focused in front of the retina resulting in the
+observer seeing a blurred image. This generally occurs a result of axial elongation, or lengthening, of the eyeball
+during childhood. Refractive correction in the form of glasses, contact lenses or refractive surgery is required in
+order for a clear image to be obtained. It is the most common ocular condition and the prevalence is increasing
+globally, most dramatically in urban East Asia1–4.
+Environmental factors are known to play a key role in myopia risk. There are well-established links between
+myopia and urbanization, lack of time outdoors, reduced light exposure, socio-economic status, prenatal factors,
+near work, and educational attainment5–12. The latter is particularly well replicated in populations around the
+world3,13–15 and may reflect a number of predisposing factors; less time outdoors whilst studying, more time on
+near work activities, or higher intelligence. Associations between higher intelligence quotients (IQ) and myopia
+have been reported since Cohn’s first observation in 188316, and subsequently in various studies internation-
+ally15,17–24. The relationship appears consistent in children and adults, across a range of IQ tests, and is independ-
+ent of years of education completed15,25. Recent prospective, pediatric studies have reported up to twice the risk of
+myopia for those in the highest IQ quartile18,26.
+However, the nature of the association between myopia and IQ remains poorly understood. While it may
+reflect inadequate adjustment for reading/time outdoors, one potential explanation is that myopic children, with
+their cumbersome glasses, may be less likely to play sports outdoors and more likely to spend time on their school
+studies27, thus attaining their full ‘potential’ in educational and IQ tests. Conversely, more intelligent children may
+spend more time reading and studying with less time in the protective outdoor environment, thereby increasing
+their chance of developing myopia. An alternative, but not mutually exclusive, hypothesis is that myopia and
+IQ may share a pleiotropic relationship28,29. Pleiotropy implies that a single gene may influence one or many
+1Department of Ophthalmology, King’s College London, 3rd Floor Block D South Wing, St Thomas’ Hospital,
+Westminster Bridge Road, London, SE1 7EH, UK. 2Department of Twin Research & Genetic Epidemiology, King’s
+College London, 3rd Floor Block D South Wing, St Thomas’ Hospital, Westminster Bridge Road, London, SE1 7EH,
+UK. 3Unit of Genetic Epidemiology & Bioinformatics, Department of Epidemiology, University Medical Center
+Groningen, University of Groningen, Hanzeplein 1, 9713 GZ, The Netherlands. Correspondence and requests for
+materials should be addressed to C.J.H. (email: chris.hammond@kcl.ac.uk)
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 1
+
+--- PAGE BREAK ---
+
+www.nature.com/scientificreports/
+Mean age at refraction Mean age at IQ Ethnicity, Academic Maternal education Mean time Mean
+measurement measurement Sex, % % White achievement (mean (mean highest spent reading refractive Mean IQ
+(years), SD (years), SD male European total GCSE score), SD education level), SD (hours), SD error (D), SD (g), SD
+MZ twins 16.5, 1.80 15.9, 1.04 36.6 94.9 90.5, 23.1 4.17, 1.96 5.09, 6.80 − 0.61, 1.79 0.00, 0.95
+(n = 564)
+DZ twins 16.4, 1.73 15.7, 1.27 41.2 96.2 90.2, 24.3 4.50, 2.13 4.55, 6.01 − 0.30, 1.77 0.12, 1.05
+(n = 965)
+Combined 16.4, 1.76 15.8, 1.20 39.5 95.7 90.3, 23.9 4.37, 2.07 4.75, 6.32 − 0.41, 1.78 0.07, 1.01
+(n = 1529)
+Participants
+with myopia 17.0, 0.82 15.9, 1.12 39.6 93.8 93.0, 24.2 4.64, 2.04 5.10, 7.50 − 2.42, 1.57 0.24, 1.02
+(n = 409)
+Participants
+without
+16.1, 1.92 15.7, 1.25 42.8 96.5 87.9, 23.8 4.16, 2.05 4.37, 5.63 0.37, 1.07 0.02, 1.00
+myopia
+(n = 1120)
+p value < 0.01 0.03 0.21 < 0.01 < 0.01 < 0.01 0.08 < 0.01 < 0.01
+Participants
+with 16.2, 1.79 15.8, 1.20 45.4 100 85.6, 24.1 4.00, 1.98 5.93, 8.94 − 0.38, 1.70 0.01, 0.98
+genotype
+data
+Table 1. Twin participant characteristics by zygosity, myopic status and genotype availability.
+Abbreviations: Standard deviation (SD), General Certificate of Secondary Education (GCSE), Diopters (D).
+Maternal educational levels graded 1–7 (none, primary school, secondary school, vocational certificate/
+diploma, undergraduate, postgraduate). IQ (Intelligent Quotient) score provided by g (general cognitive ability),
+which is a composite score of tests of verbal and non-verbal cognitive ability.
+Figure 1. Scatter plot of refrective error against IQ (both variables adjusted for age and sex) with linear
+regression line and 95% confidence region [n = 1529].
+apparently unrelated phenotypes, but to date this theory has not been tested in respect to myopia and IQ. Shared
+genetic factors pre-determining the risk for both traits is an interesting hypothesis made more plausible by the
+fact that both traits are significantly heritable; refractive error is 70–80% heritable30,31, whilst IQ is 30–60% her-
+itable, increasing with age32. Recent genome-wide association studies (GWAS) have identified genetic variants
+associated with refractive error and with childhood IQ33,34.
+The twin model provides the ‘perfect’ natural experiment to examine the relative effect of genes and environ-
+ment on trait variation. The technique allows global estimation of genetic and environmental effects regardless of
+underlying genes or specific environmental factors35. Previous twin research has suggested shared genetic factors
+between refractive error and axial length, and, albeit with limited power, myopia and educational attainment36,37.
+In this study we explore to what extent the genetic risk between IQ and myopia is shared, utilizing a longitudinal
+twin birth cohort, the Twins Early Development Study (TEDS). Additionally, using genome-wide genotyping
+data, we created polygenic risk scores from genome-wide association studies of myopia and of IQ to predict the
+variance of the alternate trait.
+Results
+Data on refractive error and IQ were available for 1529 twin subjects, summarized in Table 1. The prevalence of
+myopia (≤ − 0.75 Dioptres (D)) in the sample was 26.7%. Individuals with myopia were significantly older (17.0
+vs 16.1 years, p < 0.01) and had a greater proportion of non-white ethnicity (93.8% vs 96.5% white ethnicity,
+p < 0.01). The academic achievement (93.0 vs 87.9 mean total General Certificate of Secondary Education score,
+p < 0.01), IQ scores (0.24 vs 0.02 general cognitive ability ‘g’ score, p < 0.01), and maternal educational levels (4.64
+vs 4.16 mean highest educational level, p < 0.01) were all significantly higher in those with myopia.
+The phenotypic correlation between refractive error and IQ, adjusted for the effects of age and sex, was
+− 0.116 (p < 0.01) [Fig. 1] - the negative correlation is due to the fact that myopia constitutes a negative refrac-
+tive error. In a univariant linear model IQ was significantly associated with refractive error (beta coefficient (β )
+−0 .217 p < 0.01, adjusted for relatedness only) and explained 1.5% of the variance. In a multiple linear regression
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 2
+
+--- PAGE BREAK ---
+
+www.nature.com/scientificreports/
+Figure 2. Bivariate twin ACE model for refractive error and IQ. Path estimates with 95% confidence
+intervals; A = additive genetic factors, C = common environmental factors, E = unique environmental factors;
+†=significant path estimates [n = 1529].
+model incorporating known associations with myopia (namely age, sex, ethnicity, maternal education, academic
+achievement and time spent reading books) IQ remained a significant predictor (β − 0.145, p = 0.02). Logistic
+models (adjusted for significant associations in univariant analyses) revealed an odds ratio (OR) for myopia of
+1.18 with increasing IQ scores (p < 0.01, 95% Confidence Interval (CI) 1.02–1.37), and for those in the highest
+IQ quartile the risk of myopia was one and half times greater compared to those in the lowest quartile (OR 1.56,
+p = 0.02, 95% CI 1.08–2.25).
+Twin modeling. Bivariate twin modeling estimated the heritability of refractive error at 85% (95% CI 79.9–
+87.5) and at 47% (95% CI 36.7–57.8) for IQ [Fig. 2]. Shared environmental factors contributed significantly to
+IQ variance (13%, 95% CI 3.9–21.2) and a lesser extent to refractive error (0.5%, 95% CI < 0.01–5.0). Individual
+environmental factors accounted for 15% (95% CI 12.3–17.4) of refractive error variance and a greater proportion
+of IQ variance (40%, 95% CI 36.5–43.9).
+The genetic correlation (rA), that is the correlation between the genetic influences on refractive error and the
+genetic influences on intelligence, was −0 .143 (95% CI −0 .013 to −0 .273). Shared genetic effects can be estimated
+as follows: √A(Refractive Error) x rA x √A(IQ). This gives an estimate of 0.091. Therefore, it can be calculated that
+the proportion of phenotypic correlation between refractive error and IQ due to shared genetic effects is 78%.
+Polygenic Risk Scores. Polygenic risk scores (PRS) can be used to estimate the degree of phenotypic vari-
+ance explained by the contribution of thousands of common genetic variants (SNPs) previously associated with
+the trait of interest or, in this analysis, an alternate trait. PRS for childhood IQ were calculated for all unrelated
+individuals in TEDS with genome-wide association data using eight thresholds of significance for inclusion of
+variants (see Methods) from the results of a GWAS for child IQ, excluding TEDS33. In TEDS the IQ PRS explained
+1–3% of the variance of IQ (results not shown). In all PRS models, a higher IQ PRS was associated with lower
+refractive error (i.e. myopia). Refractive error variance predicted by the differing PRS threshold models in 696
+individuals are illustrated in Fig. 3(A); refractive error variance explained was approximately 0.5–1% across all
+models. In the best-fitting model, a PRS (consisting of 19,318 SNPs associated with IQ at the <0 .1 p-value thresh-
+old) explained 0.99% of the variance (uncorrected p = 0.008). For comparison 3.4% of refractive error variance
+was explained by SNPs directly associated with refractive error in a GWAS of adults34.
+Similarly, a polygenic risk score for refractive error was calculated on all genotyped participants using eight
+thresholds of significance from the results of a GWAS for refractive error in adults34. In TEDS the refractive error
+PRS explained 1–2.5% of refractive error variation (results not shown), comparative to the aforementioned fig-
+ure of 3.4% variance explained in adults34. Again, a lower refractive error PRS (ie. myopia) was associated with
+a higher IQ. The results of the different PRS threshold models in 1517 individuals are illustrated in Fig. 3(B);
+IQ variance explained was approximately 0.1–0.4% across the models. In the best-fitting model, 178 refractive
+error-associated SNPs explained 0.44% of IQ variance (uncorrected p = 0.01).
+Discussion
+Twin participants with high IQ (highest quartile) were one and a half times more likely to be myopic, com-
+parable to others18,26. IQ alone explained 1.5% of refractive error variance and remained a significant predic-
+tor when adjusted for educational attainment, contrary to others38. In twin modeling both traits were heritable
+(refractive error 85%, IQ 47%), and genetic factors explained the majority (78%) of the phenotypic correlation
+(r = 0.12) between IQ and refractive error. Reciprocal genome-wide PRS significantly predicted the variance of
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 3
+
+--- PAGE BREAK ---
+
+www.nature.com/scientificreports/
+Figure 3. Genome-wide polygenic scores for intelligence (A) and refractive error (B) respectively predict
+variance in refractive error and intelligence. Polygenic risk scores were created using different significance
+thresholds for inclusion of SNPs (< 0.001 to < 0.50). The uncorrected p-values above each bar indicate the
+statistical significance of the association between the polygenic score and the respective trait. (A) n = 696,
+adjusted for two principal components, age and sex. (B) n = 1517, adjusted for two principal components, age
+and sex.
+both refractive error (~1%) and IQ (~0.4%). These analyses provide evidence for genetic correlation between
+myopia and IQ, with shared genetic factors underlying a small proportion of variance in both traits.
+To our knowledge no previous study has examined the extent of shared genetic factors for myopia and IQ.
+Previous bivariate twin analyses for myopia have examined the relationship with axial length and with educa-
+tional attainment36,37. Dirani et al. reported that 76% of the phenotypic sharing between refractive error and
+educational attainment was due to shared genetic factors36, similar to the findings in this study, however their
+genetic correlation was not statistically significant. Genome-wide PRS for IQ and refractive error significantly
+predict variation in refractive error and IQ respectively. The reciprocal PRS identified genetic effects on both
+traits, thus indicating a degree of genetic pleiotropy without the implication of any causal direction of effect. The
+degree of trait variance explained was greatest for the IQ PRS and refractive error (0.99%). Interestingly only 3.4%
+of refractive error variance in adults is explained by genetic variants specifically associated with the refractive
+error in previous GWAS34, and in our analysis this figure was 1–2.5%, which is not incomparable to the variance
+explained by ‘IQ SNPs’.
+The argument that highly intelligent children, who may spend more time on near-work activities, increase
+their risk of developing myopia has long been favored8,9,39. However the association between near-work and
+myopia is inconsistent40,41, and importantly refraction in young children, prior to the experience of intensive
+education and near-work, can significantly predict those who will later become myopic42,43. The possibility that
+increased time studying can increase an individual’s IQ has been largely discounted; there is no robust evidence
+that a large effect on IQ can be achieved by such an intervention44. Shared genetic factors may play a role in both
+traits. Early proponents for this theory identified an association between myopia and IQ where the intellectual
+gain preceded the development of myopia, and differential status in siblings28,45,46. A single myopia gene that
+influenced brain development with evolutionary advantages for urbanized living was proposed28,29,47. The idea of
+a single gene controlling brain development and eye growth, in light of modern knowledge of the polygenicity of
+both traits, now appears implausible. However, the possibility of a number of genes of small effect, perhaps inher-
+ited simultaneously and linked, that control neural signaling influencing ocular growth and learning abilities
+remains interesting. Recent research has identified gene-environment interactions between educational attain-
+ment and myopia48, whilst PRS for educational attainment predict refractive error and when incorporated as an
+instrumental variable in Mendelian randomization (MR) analysis support the notion that educational attainment
+is causally related to refractive error49. The education PRS in the MR study only explained 0.25% of refractive
+error variance, comparatively less than the variance explained by IQ in our analysis. We would argue that IQ may
+be a ‘purer’ phenotype for analysis than educational attainment, which incorporates many underlying factors.
+In axial myopia, the commonest form of myopia, elongation of the eye results in a focused image falling in
+front of the retinal plane. The retina, together with a number of other ocular structures, including the ciliary body
+which controls accommodation (near focus), originate embryonically from the same tissue as the brain (neuro-
+ectoderm)50. Retinal signaling, through detection of focused light, influences scleral remodeling and ultimately
+ocular axial length51,52. Therefore, could the same genetic factors in the retina and brain theoretically be involved
+in the regulation of both structures? There is some evidence that people with high IQ have a ‘larger brain’, with
+correlations estimated at 0.38 to 0.4553,54. Brain size itself does not predict cognitive ability within families55,
+although incorporating other neuroimaging variables can provide a modest prediction of IQ variance56.
+Globally, myopia is becoming more common and IQ scores are rising1,57. Some have argued that an evolution-
+ary drive may have increased the human population frequency of pleiotropic genes for higher IQ and myopia58.
+The main limitation of this theory is the temporal relationship; evolutionary changes occur over multiple gener-
+ations whereas the increases in myopia and IQ scores have been observed within the last century. It is likely for
+myopia that aspects of modern day childhood are more attributable, but it is interesting to note the heritability
+of IQ increases over childhood and across the lifespan - this has been attributed to genetic amplification, most
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 4
+
+--- PAGE BREAK ---
+
+www.nature.com/scientificreports/
+likely through gene-environment effects rather than additional genetic influences, as the same genes appear to be
+involved in cognitive ability at different ages59,60.
+This analysis utilizes a powerful twin data set with phenotypic and molecular genetic data; for the IQ PRS
+comprising of SNPs over a significance threshold of 0.1, we have enough statistical power to detect a genetic
+covariance of 0.09 between IQ and refractive error61. Although the gold standard of cycloplegic autorefraction
+was not used, at age 14–18 the subjects were old enough for subjective refraction, using techniques to avoid
+excessive diagnosis of myopia such as use of the duochrome bar. In large epidemiological studies of adults this
+method introduces minimal bias62, whilst in younger populations it has been found that whilst there is a large
+degree of inaccuracy in children < 10 years, in older teenagers the degree of potential inaccuracy is less63. The
+association with IQ was examined using a composite variable (g); this composite score was comprised of verbal
+and non-verbal tests created to reliably measure general cognitive ability at each age. The technique of twin mod-
+eling provides an upper limit estimate of heritability and therefore genetic relationships, whilst it tends to under-
+estimate the effect of shared environmental factors31. Although an ADE twin model was marginally better-fitting
+than the ACE model for refractive error (providing the same heritability estimate of 86%), we elected to use
+matched ACE models for both traits as this enabled the examination of any potential differences in shared and
+unique environmental effects. Polygenic risk scores are limited to testing the effect of common genetic variation
+and the additive genetic model of inheritance, unlike twin modeling. This means the captured genetic contri-
+bution is an underestimate of the genetic contribution to trait variance, which may additionally include rare
+variants, gene-environment interactions and epigenetic effects. Polygenic risk scores are designed to test whether
+SNPs that do not reach genome-wide significance in a discovery GWAS explain a significant proportion of vari-
+ation in a trait in an independent sample. The fairly liberal thresholds used will mean many non-associated SNPs
+are in the score and for this reason the term ‘polygenic risk score’ rather than ‘genetic risk’ is used. The premise is
+that collectively these SNPs account for a substantial proportion of variation. Despite appropriate measures for
+adjusting for ancestry, genetic heterogeneity between TEDS and the discovery GWAS results used may influence
+the degree of association in polygenic risk scores, although we suspect observed differences in association are
+more likely to be due to the differing success of the discovery GWAS. Polygenic risk scores were also subject
+to limited power as the sample of genotyped twins was relatively small. The p values have not been corrected
+for the issue of multiple testing which is a limitation. GWAS for intelligence on larger sample sizes have been
+performed64,65; however, these were conducted on adult participants and explain a smaller amount of IQ variance
+in TEDS compared to that explained by the childhood IQ GWAS used for this study33. Finally, no directionality
+or causality can be inferred from these methods, and the complex effect of gene-environment interaction is not
+incorporated.
+In summary, our bivariate twin model suggests that shared genetic factors underlie the majority of the phe-
+notypic correlation between myopia and IQ. This was substantiated using molecular genetic data where approxi-
+mately 1% of refractive error variance was explained by genetic variants linked to IQ. This provides novel evidence
+for a modest but significant contribution of pleiotropic genetic factors contributing to the development of myopia
+and higher intelligence.
+Materials and Methods
+Participants. The Twins Early Development study (TEDS) is a longitudinal birth cohort of twins studied
+from a neurodevelopmental perspective using multivariate quantitative and molecular genetic techniques. In
+the initial TEDS study over 15,000 families of twins born in England and Wales in 1994, 1995 and 1996 were
+recruited. The sample remains representative of the UK population66. Ethical approval for all experimental pro-
+tocols TEDS and the TEDS myopia study has been provided by the Institute of Psychiatry ethics committee. All
+methods were carried out in accordance with relevant guidelines and regulations. A subset of 2625 families was
+selected for the TEDS Myopia study. This sample was selected to include families from TEDS where twins had
+completed a questionnaire that included eyesight questions, and additional families where twins had genotype
+data. We excluded from the analyses children with severe current medical problems and families who were not
+contactable or who lived overseas.
+Measures. Postal questionnaires were sent to 2625 families inviting participation in the myopia study and
+consent was requested from the parents, as well from the twins, to contact their optician for a recent refraction. A
+response rate of 51.7% of potential twin participants was achieved (n = 2715). Responders and non-responders
+were comparable in terms of ethnicity, gender, zygosity, and parental employment; however there was a slightly
+higher rate of twin and parental secondary school examinations achievement in the responders. Study ques-
+tionnaires were sent to the optometrists given by 2,283 twins, from whom informed consent was obtained,
+requesting a brief ophthalmic and refractive history together with a most recent refraction. Non-cycloplegic
+subjective refractive error measurements were obtained for 1996 individuals (majority 70% aged 16–18, 92%
+aged 14–18 at their most recent refraction). Spherical equivalent (SE) was calculated using the standard for-
+mula (SE = sphere + (cylinder/2)) and the mean of the two eyes was considered for each individual. Myopia was
+defined as SE ≤ − 0.75 diopters (D). Standardized residuals of mean spherical equivalent adjusted for age and sex
+were calculated (n = 1991).
+Multiple child and parent questionnaires, in addition to teacher questionnaires, web-based testing and home
+assessments, have been conducted over the twins’ life-course. General cognitive ability or g67 was assessed using
+a combination of parent-administered, phone- and web-based tests at ages 2, 3, 4, 7, 9, 10, 12, 14 and 16 years of
+age. At each age the twins completed at least two ability tests that enabled assessment of verbal and non-verbal
+intelligence. For this study the measurement of g factor, which is essentially a measure of IQ, was taken from the
+oldest ages of testing, as this was the age in closest approximation to the age of refraction. At these ages subjects
+completed a web-based adaptation of Raven’s Standard and Advanced Matrices, and the Mill-Hill Vocabulary
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 5
+
+--- PAGE BREAK ---
+
+www.nature.com/scientificreports/
+Scale68–70. Age and sex adjusted standardized residuals at age 16, imputed with age 14 if missing, were calculated
+for 1529 individuals. Time spent reading was asked on a child questionnaire at the age of 14, where enjoyment and
+hours spent per week on various hobbies and activities was assessed.
+Genotyping. Genotyping was performed on 3665 individuals (one twin per pair) on Affymetrix GeneChip
+6.0 single nucleotide polymorphisms (SNP) genotyping arrays (Affymetrix, Santa Clara, CA, USA) using stand-
+ard experimental protocols, as part of the WTCC2 project. Twins excluded from genotyping were children with
+serious medical or perinatal problems, non-white ethnic origin, and English spoken as a second language at
+home.” A total of 3152 DNA samples (1446 males and 1706 females) survived quality control for relatedness,
+hetereozygosity, ancestry and hybridization intensity outliers. Genotypes at untyped markers were imputed with
+HapMap phase II and III, and WTCCC2 controls using IMPUTE (v2). The quality control criteria used to select
+imputed SNPs were an information score of ≥ 0.90 for WTCCC2 controls and ≥ 0.98 for HapMap imputation.
+Zygosity was assigned using parental questionnaires of physical similarity; this has shown over 95% accuracy
+when compared to DNA testing71. DNA testing was performed when zygosity was unclear.
+Statistical Analysis. Correlation coefficients between refractive error and IQ, adjusted for age and sex, were
+calculated. The association and variance explained (r2 or coefficient of determination) for refractive error with IQ
+was observed in univariate and multiple linear regression models, adjusting for some of the known risk factors for
+myopia with refractive error considered as a continuous trait and myopia as a binary trait (≤ − 0.75 D). The asso-
+ciation between different quartiles of IQ and also non-verbal and verbal IQ were evaluated. In analyses p < 0.05
+was considered statistically significant.
+Bivariate twin Modeling. In twin modeling the phenotypic variance of a trait is partitioned into three factors:
+additive genetic effects (A), non-additive genetic effects (D) or the shared environment between siblings (C),
+and the individual-specific environment effects (E). Monozygotic pairs (MZ) have the same genetic and shared
+environmental effects, whereas in dizygotic twins (DZ) additive genetic effects are 50% correlated, but the shared
+environmental effects are the same. An ACE model, rather than an ADE model, was chosen based on the twin
+correlations for the traits and in an effort to examine any potential differences in shared and unique environmen-
+tal effects on the traits. We performed standard ACE model-fitting analysis using the OpenMx package (http://
+openmx.psyc.virginia.edu) in R (http://www.R-project.org). Heritability (or h2) is provided by the estimate for
+additive genetic effects. A bivariate Cholesky decomposition model for IQ and refractive error was constructed
+to assess the phenotypic variance and covariance attributable to genetic and environmental factors. There are two
+mathematically equivalent solutions to the bivariate model and for this analysis we selected the correlated factors
+solution which does not assume that the factors underlying the first variable influence the second variable and
+allows ascertainment of the proportion of phenotypic correlation due to A, C & E. Age and sex adjusted stand-
+ardized residuals were used for both traits. The degree of phenotypic correlation explained by genetic factors was
+calculated by dividing the estimate of the shared genetic effects by the phenotypic correlation.
+Polygenic Risk Scores. Polygenic risk scores (PRS) enable estimation en masse of the genetic contribution of
+thousands of common variants, generally of small individual effects, on the variation of a trait. In this study,
+estimation, at a participant level, of the degree of variance of one trait (eg refractive error) explained by the SNPs
+associated with a second trait (eg. IQ) from an unrelated sample was examined. The results from a large interna-
+tional meta-analysis GWAS for IQ33 in children of European ancestry were used to calculate an IQ PRS (results
+selected that did not include TEDS participants), whilst a similar GWAS for refractive error in adults (limited
+to those of European ancestry) was used to calculate a refractive error PRS34. From the GWAS results the SNP,
+reference allele, beta coefficient and p value were extracted. For each individual the quality controlled SNPs were
+pruned for linkage disequilibrium using a clumping approach in Plink v1.9 using a pairwise cut-off of r2 ≤ 0.25
+within 200 kB window, and a MAF cut-off of > 0.03. This resulted in 120481 SNPs. Individualized PRS, for both
+refractive error and IQ, were calculated with eight thresholds for inclusion of trait-associated SNPs, so that the
+effect of a range of SNPs on the alternate trait could be examined. The eight significance thresholds tested were:
+p value < 0.001, < 0.01, < 0.05, < 0.1, < 0.2, < 0.3, < 0.4 and < 0.5. General linear models were constructed for
+IQ-associated SNPs and refractive error with age, sex and the first two ancestry-informative principal compo-
+nents were included as covariates in 696 unrelated individuals (one twin per pair), and then vice versa in 1517
+individuals. In each model the significance of the PRS (assessed by an uncorrected p-value, with < 0.05 consid-
+ered significant) and variance explained (assessed by r2) was observed. Analysis was performed using Plink v1.972
+and Stata version 13.1 (StataCorp. 2013. Stata Statistical Software: Release 13. College Station, TX: StataCorp LP).
+References
+1. Vitale, S., Sperduto, R. D. & Ferris, F. L. I. Increased Prevalence of Myopia in the United States between 1971–1972 and 1999–2004.
+Archives of ophthalmology 127, 1632–1639 (2009).
+2. Morgan, I. G., Ohno-Matsui, K. & Saw, S.-M. Myopia. The Lancet 379, 1739–1748, doi: 10.1016/s0140-6736(12)60272-4 (2012).
+3. Williams, K. M. et al. Increasing Prevalence of Myopia in Europe and the Impact of Education. Ophthalmology 122, 1489–1497, doi:
+10.1016/j.ophtha.2015.03.018 (2015).
+4. Dolgin, E. The myopia boom. Nature 519, 276–278, doi: 10.1038/519276a (2015).
+5. Pan, C. W., Ramamurthy, D. & Saw, S. M. Worldwide prevalence and risk factors for myopia. Ophthalmic & physiological optics: the
+journal of the British College of Ophthalmic Opticians 32, 3–16, doi: 10.1111/j.1475-1313.2011.00884.x (2012).
+6. Morgan, I. & Rose, K. How genetic is school myopia? Progress in retinal and eye research 24, 1–38, doi: 10.1016/j.preteyeres.2004.06.004
+(2005).
+7. Young F. A., L. G., Baldwin, W. R., West, D. C., Box, R. A., Harris, E. & Johnson, C. The transmission of refractive errors within
+eskimo families. Am J Optom Arch Am Acad Optom. 46(9), 676–685 (1969).
+8. Saw, S. M. et al. Nearwork in Early-Onset Myopia. Invest Ophthalmol Vis Sci. 332–339 (2002).
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 6
+
+--- PAGE BREAK ---
+
+www.nature.com/scientificreports/
+9. Ip, J. M. et al. Role of near work in myopia: findings in a sample of Australian school children. Invest Ophthalmol Vis Sci 49,
+2903–2910, doi: 10.1167/iovs.07-0804 (2008).
+10. Sherwin, J. C. et al. The association between time spent outdoors and myopia in children and adolescents: a systematic review and
+meta-analysis. Ophthalmology 119, 2141–2151, doi: 10.1016/j.ophtha.2012.04.020 (2012).
+11. Wu, P. C., Tsai, C. L., Wu, H. L., Yang, Y. H. & Kuo, H. K. Outdoor activity during class recess reduces myopia onset and progression
+in school children. Ophthalmology 120, 1080–1085, doi: 10.1016/j.ophtha.2012.11.009 (2013).
+12. Rahi, J. S., Cumberland, P. M. & Peckham, C. S. Myopia over the lifecourse: prevalence and early life influences in the 1958 British
+birth cohort. Ophthalmology 118, 797–804, doi: 10.1016/j.ophtha.2010.09.025 (2011).
+13. Mirshahi, A. et al. Myopia and Level of Education: Results from the Gutenberg Health Study. Ophthalmology, doi: 10.1016/j.
+ophtha.2014.04.017 (2014).
+14. Mutti, D. O., Mitchell, G. L., Moeschberger, M. L., Jones, L. A. & Zadnik, K. Parental myopia, near work, school achievement, and
+children’s refractive error. Investigative ophthalmology & visual science 43, 3633–3640 (2002).
+15. Rosner, M. & Belkin, M. Intelligence, education, and myopia in males. Archives of ophthalmology 105, 1508–1511 (1987).
+16. Cohn, H. Die hygeine des auges in den schulen. (Urban & Schwarzenberg, 1883).
+17. Teasdale, T. W., Fuchs, J. & Goldschmidt, E. Degree of myopia in relation to intelligence and educational level. Lancet 2, 1351–1354
+(1988).
+18. Williams, C., Miller, L. L., Gazzard, G. & Saw, S. M. A comparison of measures of reading and intelligence as risk factors for the
+development of myopia in a UK cohort of children. The British journal of ophthalmology 92, 1117–1121, doi: 10.1136/
+bjo.2007.128256 (2008).
+19. Nadell, M. C. & Hirsch, M. J. The relationship between intelligence and the refractive state in a selected high school sample. Am J
+Optom Arch Am Acad Optom 35, 321–326 (1958).
+20. Hirsch, M. J. The relationship between refractive state of the eye and intelligence test scores. Am J Optom Arch Am Acad Optom 36,
+12–21 (1959).
+21. Young, F. A. Reading, measures of intelligence and refractive errors. Am J Optom Arch Am Acad Optom 40, 257–264 (1963).
+22. Grosvenor, T. Refractive state, intelligence test scores, and academic ability. Am J Optom Arch Am Acad Optom 47, 355–361 (1970).
+23. Williams, S. M., Sanderson, G. F., Share, D. L. & Silva, P. A. Refractive error, IQ and reading ability: a longitudinal study from age
+seven to 11. Dev Med Child Neurol 30, 735–742 (1988).
+24. Akrami, A. et al. The association between schoolchildren intelligence and refractive error. Eur Rev Med Pharmacol Sci 16, 908–911
+(2012).
+25. Young, F. A. Myopes versus nonmyopes-a comparison. Am J Optom Arch Am Acad Optom 32, 180–191 (1955).
+26. Saw, S. M. et al. IQ and the association with myopia in children. Investigative ophthalmology & visual science 45, 2943–2948, doi:
+10.1167/iovs.03-1296 (2004).
+27. French, A. N., Ashby, R. S., Morgan, I. G. & Rose, K. A. Time outdoors and the prevention of myopia. Exp Eye Res 114, 58–68, doi:
+10.1016/j.exer.2013.04.018 (2013).
+28. Cohn, S. J., Cohn, C. M. & Jensen, A. R. Myopia and intelligence: a pleiotropic relationship? Human genetics 80, 53–58 (1988).
+29. Karlsson, J. L. Influence of the myopia gene on brain development. Clinical genetics 8, 314–318 (1975).
+30. Hammond, C. J., Snieder, H., Gilbert, C. E. & Spector, T. D. Genes and environment in refractive error: the twin eye study.
+Investigative ophthalmology & visual science 42, 1232–1236 (2001).
+31. Lopes, M. C., Andrew, T., Carbonaro, F., Spector, T. D. & Hammond, C. J. Estimating heritability and shared environmental effects
+for refractive error in twin and family studies. Investigative ophthalmology & visual science 50, 126–131, doi: 10.1167/iovs.08-2385
+(2009).
+32. Deary, I. J., Johnson, W. & Houlihan, L. M. Genetic foundations of human intelligence. Human genetics 126, 215–232, doi: 10.1007/
+s00439-009-0655-4 (2009).
+33. Benyamin, B. et al. Childhood intelligence is heritable, highly polygenic and associated with FNBP1L. Molecular psychiatry 19,
+253–258, doi: 10.1038/mp.2012.184 (2014).
+34. Verhoeven, V. J. et al. Genome-wide meta-analyses of multiancestry cohorts identify multiple new susceptibility loci for refractive
+error and myopia. Nature genetics 45, 314–318, doi: 10.1038/ng.2554 (2013).
+35. Plomin, R., DeFries, J. C., Knopik, V. S. & Neiderhiser, J. M. Behavioral Genetics. 6h Edition edn, (Worth Publishers, 2013).
+36. Dirani, M., Shekar, S. N. & Baird, P. N. The role of educational attainment in refraction: the Genes in Myopia (GEM) twin study.
+Investigative ophthalmology & visual science 49, 534–538, doi: 10.1167/iovs.07-1123 (2008).
+37. Dirani, M., Shekar, S. N. & Baird, P. N. Evidence of shared genes in refraction and axial length: the Genes in Myopia (GEM) twin
+study. Investigative ophthalmology & visual science 49, 4336–4339, doi: 10.1167/iovs.07-1516 (2008).
+38. Mirshahi, A. et al. Myopia and Cognitive Performance: Results From the Gutenberg Health Study. Investigative ophthalmology &
+visual science 57, 5230–5236, doi: 10.1167/iovs.16-19507 (2016).
+39. Saw, S. M. et al. Academic achievement, close up work parameters, and myopia in Singapore military conscripts. The British journal
+of ophthalmology 85, 855–860 (2001).
+40. Jones-Jordan, L. A. et al. Visual activity before and after the onset of juvenile myopia. Investigative ophthalmology & visual science 52,
+1841–1850, doi: 10.1167/iovs.09-4997 (2011).
+41. Low, W. et al. Family history, near work, outdoor activity, and myopia in Singapore Chinese preschool children. The British journal
+of ophthalmology 94, 1012–1016, doi: 10.1136/bjo.2009.173187 (2010).
+42. Zadnik, K. et al. Prediction of Juvenile-Onset Myopia. JAMA Ophthalmol 133, 683–689, doi: 10.1001/jamaophthalmol.2015.0471
+(2015).
+43. Pacella, R. et al. Role of genetic factors in the etiology of juvenile-onset myopia based on a longitudinal study of refractive error.
+Optometry and vision science: official publication of the American Academy of Optometry 76, 381–386 (1999).
+44. Spitz, H. H. The raising of intelligence: a selected history of attempts to raise retarded intelligence. (L. Erlbaum Associates, 1986).
+45. Karlsson, J. L. Genetic relationship between giftedness and myopia. Hereditas 73, 85–88 (1973).
+46. Benbow, C. P. Physiological correlates of extreme intellectual precocity. Neuropsychologia 24, 719–725 (1986).
+47. Miller, E. M. On the Correlation of Myopia and Intelligence. Genet Soc Gen Psych 118, 361–& (1992).
+48. Fan, Q. et al. Childhood gene-environment interactions and age-dependent effects of genetic variants associated with refractive
+error and myopia: The CREAM Consortium. Sci Rep 6, 25853, doi: 10.1038/srep25853 (2016).
+49. Cuellar-Partida, G. et al. Assessing the Genetic Predisposition of Education on Myopia: A Mendelian Randomization Study. Genet
+Epidemiol 40, 66–72, doi: 10.1002/gepi.21936 (2016).
+50. Snell, R. S. & Lemp, M. A. Clinical anatomy of the eye. 2nd Edition edn, (Wiley-Blackwell, 1998).
+51. McFadden, S. A. Partial occlusion produces local form deprivation myopia in the guinea pig eye. Investigative ophthalmology &
+visual science 43, U34–U34 (2002).
+52. Smith, E. L. et al. Effects of Optical Defocus on Refractive Development in Monkeys: Evidence for Local, Regionally Selective
+Mechanisms. Investigative ophthalmology & visual science 51, 3864–3873, doi: 10.1167/iovs.09-4969 (2010).
+53. Posthuma, D. et al. Multivariate genetic analysis of brain structure in an extended twin design. Behav Genet 30, 311–319, doi:
+10.1023/A:1026501501434 (2000).
+54. Storfer, M. Myopia, intelligence, and the expanding human neocortex: Behavioral influences and evolutionary implications. Int J
+Neurosci 98, 153–+ , doi: 10.3109/00207459908997465 (1999).
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 7
+
+--- PAGE BREAK ---
+
+www.nature.com/scientificreports/
+55. Schoenemann, P. T., Budinger, T. F., Sarich, V. M. & Wang, W. S. Y. Brain size does not predict general cognitive ability within
+families. P Natl Acad Sci USA 97, 4932–4937, doi: 10.1073/pnas.97.9.4932 (2000).
+56. Ritchie, S. J. et al. Beyond a bigger brain: Multivariable structural brain imaging and intelligence. Intelligence 51, 47–56, doi:
+10.1016/j.intell.2015.05.001 (2015).
+57. Flynn, J. R. What is Intelligence: Beyond the Flynn Effect. (Cambridge University Press, 2009).
+58. Mak, W. et al. Myopia as a latent phenotype of a pleiotropic gene positively selected for facilitating neurocognitive development, and
+the effects of environmental factors in its expression. Med Hypotheses 66, 1209–1215, doi: DOI 10.1016/j.mehy.2005.11.037 (2006).
+59. Haworth, C. M. A. et al. The heritability of general cognitive ability increases linearly from childhood to young adulthood. Molecular
+psychiatry 15, 1112–1120, doi: DOI 10.1038/mp.2009.55 (2010).
+60. Plomin, R. & Deary, I. J. Genetics and intelligence differences: five special findings. Molecular psychiatry 20, 98–108, doi: 10.1038/
+mp.2014.105 (2015).
+61. Dudbridge, F. Power and predictive accuracy of polygenic risk scores. PLoS genetics 9, e1003348, doi: 10.1371/journal.pgen.1003348
+(2013).
+62. Krantz, E. M. et al. Measuring refraction in adults in epidemiological studies. Archives of ophthalmology 128, 88–92, doi: 10.1001/
+archophthalmol.2009.349 (2010).
+63. Hashemi, H. et al. Cycloplegic autorefraction versus subjective refraction: the Tehran Eye Study. The British journal of ophthalmology
+100, 1122–1127, doi: 10.1136/bjophthalmol-2015-307871 (2016).
+64. Davies, G. et al. Genetic contributions to variation in general cognitive function: a meta-analysis of genome-wide association studies
+in the CHARGE consortium (N = 53949). Molecular psychiatry 20, 183–192, doi: 10.1038/mp.2014.188 (2015).
+65. Davies, G. et al. Genome-wide association study of cognitive functions and educational attainment in UK Biobank (N = 112 151).
+Molecular psychiatry 21, 758–767, doi: 10.1038/mp.2016.45 (2016).
+66. Haworth, C. M. A., Davis, O. S. P. & Plomin, R. Twins Early Development Study (TEDS): A Genetically Sensitive Investigation of
+Cognitive and Behavioral Development From Childhood to Young Adulthood. Twin Research and Human Genetics 16, 117–125
+(2013).
+67. Spearman, C. “General intelligence’’ objectively determined and measured. American Journal of Psychology 15, 201–292, doi:
+10.2307/1412107 (1904).
+68. Raven, J., C. J. & Raven, J. Manual for Raven’s Progressive and Vocabulary Scales. (Oxford University Press, 1996).
+69. Raven, J., C. J. & Raven, J. Manual for Raven’s Progressive Matrices. (HK Lewis, 1998).
+70. Raven, J., R. J. & Court, J. Mill Hill Vocabulary Scale. (OPP, 1998).
+71. Price, T. S. et al. Infant zygosity can be assigned by parental report questionnaire data. Twin research: the official journal of the
+International Society for Twin Studies 3, 129–133 (2000).
+72. Purcell, S. et al. PLINK: a tool set for whole-genome association and population-based linkage analyses. Am J Hum Genet 81,
+559–575, doi: 10.1086/519795 (2007).
+Acknowledgements
+We gratefully acknowledge the ongoing contribution of the participants in TEDS and their families. TEDS is
+supported by a program grant to R.P from the UK Medical Research Council [MR/M021475/1; and previously
+G0901245], with additional support from the US National Institutes of Health [HD044454; AG046903] and the
+European Commission [602768]. RP is also supported by a Medical Research Council Research Professorship
+award [G19/2] and a European Research Council Advanced Investigator award [295366]. KMW is supported
+by a Medical Research Council Clinical Research Training Fellowship. OAM receives support from the National
+Institute of Health Research Biomedical Research Centre for Ophthalmology at Moorfields Eye Hospital and the
+UCL Institute of Ophthalmology. The funders had no role in study design, data collection and analysis, decision
+to publish or preparation of the manuscript. Presented in part as a paper at the Association for Research in Vision
+and Ophthalmology Meeting, 25th May 2015 and the Royal College of Ophthalmologists Congress, May 2016
+(awarded Foulds Trophy for best rapid fire presentation).
+Author Contributions
+K.W. designed and performed the research, performed data analysis, and wrote the paper; E.Y. & O.M. assisted
+with data analysis and writing the paper; P.H. & H.S. assisted with research design, data analysis and paper
+preparation; C.H. assisted with research design, data analysis and writing the paper.
+Additional Information
+Competing Interests: The authors declare no competing financial interests.
+How to cite this article: Williams, K. M. et al. Phenotypic and genotypic correlation between myopia and
+intelligence. Sci. Rep. 7, 45977; doi: 10.1038/srep45977 (2017).
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+This work is licensed under a Creative Commons Attribution 4.0 International License. The images
+or other third party material in this article are included in the article’s Creative Commons license,
+unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,
+users will need to obtain permission from the license holder to reproduce the material. To view a copy of this
+license, visit http://creativecommons.org/licenses/by/4.0/
+© The Author(s) 2017
+Scientific REPORtS | 7:45977 | DOI: 10.1038/srep45977 8

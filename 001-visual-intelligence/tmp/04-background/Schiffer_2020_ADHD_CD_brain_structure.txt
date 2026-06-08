@@ -1,0 +1,775 @@
+MolecularPsychiatry(2020)25:3020–3033
+https://doi.org/10.1038/s41380-018-0202-6
+ARTICLE
+Distinct brain structure and behavior related to ADHD and conduct
+disorder traits
+Frida Bayard1 ● Charlotte Nymberg Thunell1 ● Christoph Abé1 ● Rita Almeida2 ● Tobias Banaschewski3 ●
+Gareth Barker 4 ● Arun L. W. Bokde5 ● Uli Bromberg6 ● Christian Büchel6 ● Erin Burke Quinlan7 ●
+Sylvane Desrivières 7 ●HertaFlor8,9 ●VincentFrouin 10 ●HughGaravan11 ●Penny Gowland12 ●AndreasHeinz13 ●
+Bernd Ittermann14 ● Jean-Luc Martinot15 ● Marie-Laure Paillère Martinot16 ● Frauke Nees3,8 ●
+Dimitri Papadopoulos Orfanos 10 ● Tomáš Paus17 ● Luise Poustka18,19 ● Patricia Conrod20 ● Argyris Stringaris21 ●
+Maren Struve3 ● Jani Penttilä22 ● Viola Kappel23 ● Yvonne Grimmer3 ● Tahmine Fadai6 ● Betteke van Noort24 ●
+Michael N. Smolka 25 ● Nora C. Vetter25 ● Henrik Walter 13 ● Robert Whelan26 ● Gunter Schumann7 ●
+Predrag Petrovic1 ● the IMAGEN Consortium
+Received:16April2017/Revised:22March2018/Accepted:5April2018/Publishedonline:14August2018
+©SpringerNatureLimited2018
+Abstract
+Attention-Deficit/HyperactivityDisorder(ADHD)andconductdisorder(CD)exemplifytop-downdysregulationconditions
+that show a large comorbidity and shared genetics. At the same time, they entail two different types of symptomology
+involving mainly non-emotional or emotional dysregulation. Few studies have tried to separate the specific biology
+underlying these two dimensions. It has also been suggested that both types of conditions consist of extreme cases in the
+generalpopulationwherethesymptomsarewidelydistributed.Herewetestwhetherbrainstructureisspecificallyassociated
+to ADHD or CD symptoms in a general population of adolescents (n=1093) being part of the IMAGEN project. Both
+ADHD symptoms and CD symptoms were related to similar and overlapping MRI findings of a smaller structure in
+prefrontalandanteriorcingulatecortex.However,ourregionsofinterest(ROI)approachindicatedthatgraymattervolume
+(GMV) and surface area (SA) in dorsolateral/dorsomedial prefrontal cortex and caudal anterior cingulate cortex were
+negativelyassociatedtoADHDsymptomswhencontrollingforCDsymptomswhilerostralanteriorcingulatecortexGMV
+wasnegativelyassociatedtoCDsymptomswhencontrollingforADHDsymptoms.Thestructuralfindingsweremirroredin
+performance of neuropsychological tests dependent on prefrontal and anterior cingulate regions, showing that while
+performance on the Stop Signal test was specifically related to the ADHD trait, delayed discounting and working memory
+wererelatedtobothADHDandCDtraits.Theseresultspointtowardsapartiallydomainspecificanddimensionalcapacity
+in different top-down regulatory systems associated with ADHD and CD symptoms.
+Introduction example, in Attention-Deficit/Hyperactivity Disorder
+(ADHD)–defined mainly by non-emotional symptoms
+Top-downdysregulationofinformationprocessingisacore including impulsivity, hyperactivity, and inattention–a core
+mechanism underlying many psychiatric disorders. For theory has evolved around deficits in executive functions
+(EF) [1, 2]. EF consists of a set of cognitive control pro-
+cesses associated with top-down regulatory systems in the
+brain [1, 2]. In line with this hypothesis, reported ADHD-
+Theseauthorscontributedequally:FridaBayard,CharlotteNymberg.
+symptomshavebeenassociatedwithpoorresultsinEFtests
+ElectronicsupplementarymaterialTheonlineversionofthisarticle although the relation has been surprisingly weak and
+(https://doi.org/10.1038/s41380-018-0202-6)containssupplementary unspecific [3].
+material,whichisavailabletoauthorizedusers.
+In addition to ADHD, there are also a set of psychiatric
+* PredragPetrovic disorders which are characterized by top-down dysregula-
+predrag.petrovic@ki.se tion in emotional processing. These include Borderline
+Extendedauthorinformationavailableonthelastpageofthearticle. Personality Disorder (BPD) and Antisocial Personality
+:,;)(0987654321
+:,;)(0987654321
+
+--- PAGE BREAK ---
+
+DistinctbrainstructureandbehaviorrelatedtoADHDandconductdisordertraits 3021
+Disorder (ASPD) in adults, and Conduct Disorder (CD) in systems of non-emotional processes [2, 17, 18, 23]. Espe-
+children and adolescents [2, 4–7]. They all comprise emo- cially EF tests that measure inhibition, switching, set-
+tional instability symptoms (partially overlapping with the shifting, updating, and sustained attention (including Stop
+concept of emotional lability) such as rapidly shifting Signal test, Stroop test, Wisconsin Card Sorting Test and
+emotional states and affective behavior. Also, altered Continuous Performance Test) have been shown to be
+emotional processing and regulation have been noted in altered in ADHD [3]. Further, working memory (WM),
+thesestates[2].Collectively,thesedisordersmaythusserve which partially consists of several EF components, has
+as valuable models for studying emotional dysregulation. showntobesignificantlyaffectedinADHD[3].Functional
+ADHDandemotionalinstabilitydisordersshowsubstantial imaging studies have consistently revealed networks
+symptomoverlapandarehighlycomorbid[8–11].Ashared underlyingnon-emotionalor“cool”EFprocessesinvolving
+genetic contribution [12] has also been suggested. The dorsolateral and dorsomedial prefrontal cortex (dl/dmPFC),
+overlapping relation between ADHD and emotional ventrolateral PFC (vlPFC), and caudal anterior cingulate
+instability disorders has made it problematic to isolate cortex(cACC),whichworkinconjunctionwithparietaland
+behaviors and mechanisms specific to each condition. subcortical regions such as the striatum [24, 25]. These
+A model encompassing both ADHD and emotional networks interact with the dopamine system and other
+instability disorders has recently been proposed [2]. The specific neuromodulatory systems [2]. The aforementioned
+model builds conceptually on the research domain criteria brain regions (including dl/dmPFC, vlPFC, and cACC) are
+(RDoC) approach [2, 13] and suggests that both forms of known to be less activated during EF tasks in ADHD
+disordersincludesimilartop-downdysregulation—withthe patients vs. controls [26–29]. On a brain structure level it
+difference being whether non-emotional or emotional reg- has been shown that the “ADHD-brain” matures sig-
+ulatory processes are predominantly affected. An important nificantly slower than for healthy individuals–especially in
+aspect of the model is that both non-emotional and emo- the prefrontal and anterior cingulate areas–with an delay of
+tional regulatory capacities are likely to be dimensional approximately three years (when medians for the two
+and vary among individuals even on a subclinical level groups were comapred) [30]. Although some of these
+within a healthy population [14–16]. In addition, some structural differences seem to disappear in adulthood [31],
+forms of ADHD may show a strong degree of subclinical somestudiesindicatesmallerdl/dmPFCandcACCvolume
+emotional dysregulation in the absence of other comorbid- also in adults with ADHD [32]. Recent meta-analyses
+ities [2, 17–19]. [29,33,34]havealsoshowndecreasedgraymattervolume
+In children and adolescents, a clinical relation between (GMV) in insula, ventromedial prefrontal/medial orbito-
+ADHD and CD has been noted [6]. Although CD involves frontal cortex, rostral anterior cingulate cortex (rACC), and
+antisocial behaviors, which are not observed in pure occipital lobe and deep structures such as amygdala, basal
+ADHD, both disorders share common symptomatology ganglia (including nucleus accumbens), and hippocampus
+including problems with sustained attention, cognitive in individuals with ADHD. A major drawback in most
+switching, and inhibition [6]. The fact that these two dis- previous brain imaging studies on ADHD (including the
+orders are highly comorbid [11] has often not been con- abovementioned meta-analyses) isthatthey haveoftennot
+sideredandmighthaveconfoundedthefindingsofprevious controlled for other sub-clinical symptoms such as traits of
+studies. Thus, it is still not entirely clear which of the fea- CD.
+tures are specific to each disorder. Some studies have In analogy with ADHD, it has been suggested that
+compared patients with pure ADHD and CD (without co- emotional instability disorders show a lack of regulatory
+morbidities), proposing the presence of a few disorder- capacity for emotional processes including emotional
+specific behaviors and brain functional characteristics [6]. aspects of EF, i.e., “hot” EF [2, 4–7]. Although there is a
+However, it has been suggested that the degree of ADHD large overlap between emotional and non-emotional reg-
+symptomsisrelatedtothedegreeofCDsymptomsevenon ulatoryprocesses,thereseemstobesomespecificity,andit
+a sub-clinical level [2]. It is thus possible that studies on has been suggested that lateral orbitofrontal cortex (lOFC)
+ADHD still may be confounded by CD features and vice and rACC are more involved in the emotional sub-
+versa. It is therefore of importance to consider both symp- components of top-down regulation [2]. In line with this,
+tomdimensionssimultaneouslyevenonasub-clinicallevel it has been observed that these brain regions are less acti-
+in relation to behavioral and neurobiological features. An vated in emotional regulation and “hot” EF tasks in emo-
+effective approach to better understand the specific beha- tionalinstabilitydisordersascomparedtocontrols[35–41].
+vioralandneurobiologicalfeaturesinthesetwodimensions Moreover, several well-powered studies have indicated a
+is to study the different traits in community populations. smaller volume in lOFC and rACC in patients with these
+Impaired performance on several EF tests in ADHD disorders [42–44]. Specifically for CD, recent large single-
+[20–22] are associated with deficits in top-down regulatory site studies and meta-analyses suggest a smaller GMV in a
+
+--- PAGE BREAK ---
+
+3022 F.Bayardetal.
+number of prefrontal structures including lOFC, ven- analyzed in this study (Supplementary Fig. 1). Sample
+trolateral PFC (vlPFC), medial prefrontal extending into characteristics are described in Supplementary Table 1.
+rACC but also other structures involved in emotional pro-
+cessing such as insula and amygdala [45, 46]. However, ADHD and CD traits
+these studies have rarely controlled for non-emotional
+dysregulation or ADHD symptoms. ADHD and CD symptoms were measured using the
+In the present study, we analyzed data from a large Strength and Difficulties Questionnaire (SDQ) [51]. Its
+sample of adolescents (N=1093) from the IMAGEN pro- psychometric propertiesandreliabilityhavebeendescribed
+ject [47]. While the general relationship between brain by Goodman et al. [51]. SDQ consists of five subscales;
+structure and ADHD traits has been presented in a recent Emotional problems scale, Conduct problems scale,
+VBM analysis[48],here we aim tospecifically disentangle Hyperactivity/Inattention scale, Peer problems scale, and
+effects of ADHD and CD traits on both brain structure and Prosocialscale.WhiletheConductproblemsscalehasbeen
+behavioraldomains.WehypothesizedthatbothADHDand constructed to measure CD symptoms and mirrors the
+CDtraitsareinverselyrelatedtocommonoverlappingbrain categorical diagnosis of CD, the Hyperactivity/Inattention
+areas including PFC and ACC and in addition will show scale has been constructed to mirror hyperactivity, impul-
+specific structural signatures unique to the traits. We sivity, and inattention problems, i.e., core symptoms of
+expected: (1) that ADHD trait will be negatively related to ADHD.
+cortical volume in regions involved in non-emotional top- We used the Conduct problems scale (five questions),
+down regulation and cool EF (e.g., dl/dmPFC and cACC) referred to as CD scale in this study, to assess CD-like
+even when controlling for CD trait. (2) Negative correla- symptoms, and the Hyperactivity/Inattention scale (five
+tions between CD trait and cortical volume in regions questions), referred to as ADHD scale in this study, to
+involved in emotional regulation (e.g., lOFC and rACC) assessADHDsymptoms.Infollow-upanalyses,theADHD
+even after correcting for ADHD trait. We primarily used a scale was divided into Hyperactivity/Impulsivity subscale
+region of interest (ROI) approach in order to increase sen- (three questions) and Inattention subscale (two questions),
+sitivity (including ROIs of dl/dmPFC, cACC lOFC, as it has been in previous studies [52]. The CD scale—and
+and rACC). Other prefrontal areas, such as vlPFC, not the Emotion problems scale—was used because we
+have a less clear specificity, as they seem to be equally focused on the relation between ADHD and CD on a trait
+involved in emotional and non-emotional regulatory pro- level mirroring previous comparisons between the two
+cesses [24, 25, 49, 50]. The hypothesis and analysis plan phenotypes on a categorical diagnostic level [6]. Also, we
+were preregistered within IMAGEN before access to the argue that the CD scale better represents problems of
+data was granted. Although our hypothesis is based on emotionalinstability,ratherthanamoresustainedlowlevel
+cortical volume measures, surface-based methods provided ofmoodasintheEmotionproblemsscale—whichisbetter
+by FreeSurfer allowed the exploration of cortical thickness usedtoassesshighlyheterogeneousproblemsofdepression
+andsurfaceareameasures.Wealsotestedwhetherasimilar and anxiety.
+division between the traits was mirrored in behavioral tests EachquestionoftheSDQyieldsscoresfromzerototwo
+of EF and delay discounting. points. We combined self-rate and parent score (for the
+relationbetweenthescoresseeSupplementaryFig.2),since
+externalizing problems is assumed to be better assessed by
+Materials and methods
+parents,whileinternalizingproblemsmaybebetterassessed
+by the adolescent him/herself.
+Participants
+Magnetic resonance imaging
+Data was obtained from a community sample consisting of
+1969 adolescents from the European multi-center genetic- Full details of the magnetic resonance imaging acquisition
+neuroimaging IMAGEN study (https://imagen-europe.com) protocolsandqualitycontrolhavebeendescribedelsewhere
+[47].Ethicalapprovalhadbeenobtainedbythelocalethics [47, 53]. In addition to gray matter volume (GMV), we
+committees and written informed consent from all partici- measured cortical thickness (CT) and surface area (SA)
+pants and their legal guardians. Recruitment procedures as they independently build up the GMV measure and
+have been described in a previous review [47]. Participants follow separate and independent developmental trajectories
+completed neuropsychological, clinical, and personality [54, 55]. The structural measures were obtained from T1
+assessments online and at assessments sites. A total of weighted images using the semi-automated segmentation
+N=1093 participants (mean age: 14.47±0.39 years; 616 and cortical surface reconstruction methods provided by
+females) provided sufficient MRI data quality and were FreeSurfer v5. [47, 53, 56–61]. In brief, the procedure
+
+--- PAGE BREAK ---
+
+DistinctbrainstructureandbehaviorrelatedtoADHDandconductdisordertraits 3023
+includes intensity normalization, removal of non-brain tis- Memory(SWM)task[67–69],orwith“hot”EF,i.e.,Delay
+sue, segmentation of cortical gray, subcortical white, deep Discounting(DD)[70].Thestatisticalapproachisdescribed
+gray matter volumetric structures, as well as triangular in Supplementary Fig. 3.
+tessellation of the gray/white matter interface and white
+matter/cerebrospinal fluid boundary (pial surface). Free-
+Results
+Surferalsoallowstheautomatedparcellationofthecortical
+surfaces into anatomical regions of interest (ROI), 34 per
+hemisphere [62]. For each ROI cortical measures were Descriptive data of ADHD and CD scores
+obtained from subjects’ native space. Based on our
+hypothesis, we focussed on four different regions in the Residual error revealed normal distributions in all analyses
+main analysis: lateral orbitofrontal cortex (lOFC), rostral performed. Both the ADHD (mean 6.90±3.75) and CD
+and caudal anterior cingulate cortex (rACC and cACC), as (mean 3.70±2.60) trait scores displayed a wide, but left-
+well as dorsolateral/dorsomedial prefrontal cortex (dl/ skewed distribution (Fig. 1a, b). A correlational analysis
+dmPFC). The dl/dmPFC was constructed by combining disclosed a moderate correlation (r=0.55, p<0.001)
+average cortical volumes extracted from superior frontal, between the ADHD and the CD scores (Fig. 1c).
+caudal middle frontal and rostral middle frontal cortex, as
+doneinpreviousstudies[63].AlltheROIswerebilateralas MR data (ROI-analysis)
+we had no unilateral hypothesis.
+The statistical approach and discussion on dmPFC and Individual effects of ADHD and CD on brain structure
+vlPFC in relation to choice of ROIs is described in Sup-
+plementary Fig. 3. In brief, we controlled for sex and Both ADHD scores and CD scores correlated negatively
+imaging center in all structural analyses. We used ADHD withgraymattervolumes(GMVs)andsurfacearea(SA)in
+and CD scores separately to determine all variance in all ROIs (cACC, dl/dmPFC, lOFC, and rACC), while cor-
+structure that could account for each trait alone. We also ticalthickness(CT)didnotshowanycorrelationwiththese
+used both scores as independent variables in the same sta- traits (Table 1; Supplementary Fig. 4).
+tistical model to determine variance in structure that could
+beuniquelyexplainedbyeachoftheADHDandCDscores Specific effects of ADHD and CD on brain structure
+alone.
+Wedidnotcorrectforheadsize,sincewewereinterested GMV in dl/dmPFC and cACC correlated negatively with
+in a dysfunction of a variety of behaviors that depend on the ADHD scores after controlling for CD scores, however
+large scale prefrontal networks (as opposed to one specific thiseffect didnotreach significanceaftercorrection forthe
+function). In addition, wide spread cortical alterations number of tests (Table 2a). SA in dl/dmPFC and cACC
+associatedwithADHDinchildrenhavebeenshown[30].A correlated negatively with the ADHD scores after control-
+correctionofheadsizewouldthereforepartlycorrectforthe ling for CD scores (Table 2b). There was no significant
+measure of interest. Furthermore, in studies focusing on relation between ADHD scores and CT in any of the ROIs
+neurodevelopmentaldisorders,suchasADHD,acorrection (Table 2c).
+for IQ is not recommended, since it may also correct for There was a significant negative correlation between
+characteristics of the disorder [64]. This reasoning is also GMVinrACCandCDscoreswhencontrollingforADHD
+relevantforsubclinicalADHDtraits.Wehavethereforenot scores (Table 3a). No significant effect of CD scores was
+corrected for IQ in the main analyses. However, for com- observed in lOFC GMV when controlling for ADHD
+pleteness we provide the results obtained when correcting scores. There was a negative correlation between the SA
+forintra-cranialvolume(ICV)andIQintheSupplementary andCDscoresinrACCaftercontrollingforADHDscores
+Information. on a threshold-significant level (Table 3b). No significant
+A vertex-wise approach was used to explore more focal effect was observed between the CD scores and SA in
+associations between the behavioral data and cortical lOFC after controlling for ADHD scores. There was no
+volumethatmightnotbedetectablewiththeROIapproach significantrelationbetweenCTofthepredefinedROIsand
+within the predefined ROIs. In addition, we performed an CD scores (Table 3c). A 3D-representation of the rela-
+explorative vertex-wise analysis over the whole brain. tionships between the two behavioral dimensions (ADHD
+and CD trait) and GMV in the ACC ROIs is shown in
+Behavioral tasks Fig. 2.
+We had no hypotheses that there would be any specific
+We analyzed tests that were associated with either “cool” negative correlations between lOFC / rACC and ADHD
+EF, i.e., the Stop Signal Test [65, 66] and Spatial Working scores, or between cACC/dl/dmPFC and CD scores.
+
+--- PAGE BREAK ---
+
+3024 F.Bayardetal.
+Fig. 1 Description of SDQ distribution in our sample of the CD (Conduct) and ADHD (Hyperactivity/Inattention) scores (a and b) and the
+correlation(r=0.549,p<0.001)betweenthetwomainsubscales(c)
+However, the results of those analyses are shown in Sup- Hyperactivity/Impulsivity scores and Inattention scores.
+plementary Tables 2 and 3 for completeness. This analysis showed that both Hyperactivity/Impulsivity
+scores and Inattention scores contributed to the structural
+Exploratory analysis effects in cACC and dl/dmPFC (Supplementary Table 4).
+However,thiscontributionwaslargerfortheHyperactivity/
+A vertex-wise analysis within the ROIs under investigation Impulsivity scores.
+(Fig. 3) also suggests more focal/localized effects. More- Similar structural findings as in the main analysis, albeit
+over, it confirmed the extensive overlap between the effect to a lower significance level, were observed for ADHD
+ofADHDandtheeffectofCDonbrainstructuresuggested scores and for CD scores when controlling for ICV and IQ
+in the ROI-analysis (Fig. 3). (Supplementary Tables 5 and 6).
+In the whole brain analysis (vertex-wise approach, When studying only a sub-population of the subjects
+cluster-wise corrected) we observed similar significant with a low indication of a psychiatric diagnosis (n=860)
+and largely overlapping negative relations between (a) similar general result were observed for the ADHD trait
+the ADHD trait and GMV, and (b) CD trait and GMV in (Supplementary Table 7). The effects of the CD trait were
+ACC and prefrontal cortex (Fig. 4). We also observed weaker in this analysis with a border significant negative
+that the ADHD trait was significantly related to smaller correlationinthemainanalysisbetweenCDtraitandGMV
+GMV in several regions such as temporopolar and in rACC.
+orbitofrontal cortex after controlling for CD trait, while Our exploratory results also suggest that although both
+the CD trait was more related to smaller GMV in left higherADHDandCDscoresarerelatedtoasmallerGMV
+temporoparietaljunctionaftercontrollingforADHDtrait indmPFC,thiseffectstillremainsfortheADHDtraitwhen
+(Fig. 4). controllingfortheCDtrait(SupplementaryTable8;Fig.3).
+In order to understand whether hyperactivity or inatten- Moreover, neither the ADHD trait nor the CD trait was
+tion problems better explained the relation between ADHD significantly related to vlPFC morphology (Supplementary
+traits and brain structure we divided the ADHD scale into Table 8).
+
+--- PAGE BREAK ---
+
+DistinctbrainstructureandbehaviorrelatedtoADHDandconductdisordertraits 3025
+Table1 MaineffectsofADHD
+ADHDscore CDscore
+andCDscoresongraymatter
+volume(GMV;a),surfacearea
+ROIGMV(a)
+(SA;b)andcorticalthickness
+(CT;c)ofthepre-definedROIs cACC −0.104,p<0.001a,R2=0.088 −0.099,p<0.001a,R2=0.087
+whennotcontrollingforthe dl/dmPFC −0.086,p<0.001a,R2=0.326 −0.075,p=0.003a,R2=0.325
+othertraitdimension lOFC −0.108,p>0.001a,R2=0.295 −0.073,p=0.005a,R2=0.289
+rACC −0.095,p=0.001a,R2=0.117 −0.104,p<0.001a,R2=0.119
+ROISA(b)
+cACC −0.116,p<0.001a,R2=0.113 −0.100,p<0.001a,R2=0.110
+dl/dmPFC −0.097,p<0.001a,R2=0.338 −0.078,p=0.002a,R2=0.335
+lOFC −0.111,p<0.001a,R2=0.227 −0.067,p=0.013a,R2=0.220
+rACC −0.102,p<0.001a,R2=0.147 −0.099,p<0.001a,R2=0.147
+ROICT(c)
+cACC 0.009,p=0.748,R2=0.158 0.018,p=0.528,R2=0.158
+dl/dmPFC −0.017,p=0.554,R2=0.088 −0.013,p=0.668,R2=0.088
+lOFC −0.028,p=0.291,R2=0.245 −0.019,p=0.485,R2=0.244
+rACC 0.016,p=0.588,R2=0.129 0.005,p=0.857,R2=0.129
+Valuesarestandardizedβ-weights.N=1093
+GMV:Averageintra-correlationcoefficient=0.516,adjustedp-level=0.026.SA:Averageintra-correlation
+coefficient=0.633, adjusted p-level=0.030. CT: Average intra-correlation coefficient=0.275, adjusted
+p-level=0.019
+aindicates significance after correction for multiple comparisons, based on the average intra-correlation
+coefficientbetweenallfourROIs
+Table2 Testingspecific
+ADHDscore ADHDscorecontrollingforCDscore
+hypothesis1
+ROIGMV(a)
+cACC −0.104,p<0.001a,R2=0.088 −0.071,p=0.047b,R2=0.090
+dl/dmPFC −0.086,p<0.001a,R2=0.326 −0.064,p=0.037b,R2=0.327
+ROISA(b)
+cACC −0.116,p<0.001a,R2=0.113 −0.087,p=0.013a,R2=0.115
+dl/dmPFC −0.097,p<0.001a,R2=0.338 −0.077,p=0.011a,R2=0.339
+ROICT(c)
+cACC 0.009,p=0.748,R2=0.158 −0.001,p=0.972,R2=0.158
+dl/dmPFC −0.017,p=0.554,R2=0.088 −0.015,p=0.671,R2=0.088
+(a)ROIgraymattervolume(GMV)regressedonADHDscoreswithandwithoutcontrollingforCDscores.
+(b)ROIsurfacearea(SA)regressedonADHDscoreswithandwithoutcontrollingforCDscores.(c)ROI
+corticalthickness(CT)regressedonADHDscoreswithandwithoutcontrollingforCDscores.Therewere
+nosignificanteffectsforthecorticalthickness(CT)analysis.Valuesaregiveninstandardizedβ-weights
+GMV:Averageintra-correlationcoefficient=0.424,adjustedp-level=0.034.SA:Averageintra-correlation
+coefficient=0.594,adjustedp-level=0.038.CT:Averageintra-correlationcoefficient=0.115,adjustedp-
+level=0.027
+aindicates significance after correction for multiple comparisons, based on the average intra-correlation
+coefficientbetweencACCanddl/dmPFC
+bindicatessignificancep<0.05,notcorrectedformultiplecomparisons
+Behavioral results β=0.014, p=0.740). When controlling for CD score, the
+ADHDscoreuniquelyexplainedasignificantamountofthe
+Stop Signal Test–SDQ SSRT variance (standardized β=0.131, p=0.011).
+Exploratory analysis suggested that this correlation was
+ADHD score correlated with SSRT (standardized β= driven by the Inattention subscore, which uniquely
+0.099, p=0.021), while CD score did not (standardized explainedasignificantpartofthevariancewhencontrolling
+
+--- PAGE BREAK ---
+
+3026 F.Bayardetal.
+Table3 Testingspecific
+CDscore CDscorecontrollingforADHDscore
+hypothesis2
+ROIGMV(a)
+lOFC −0.073,p=0.005a,R2=0.289 −0.020,p=0.523,R2=0.295
+rACC −0.104,p<0.001a,R2=0.119 −0.076,p=0.029a,R2=0.121
+ROISA(b)
+lOFC −0.067,p=0.013a,R2=0.220 −0.009,p=0.782,R2=0.227
+rACC −0.099,p<0.001a,R2=0.147 −0.062,p=0.067,R2=0.150
+ROICT(c)
+lOFC −0.019,p=0.485,R2=0.244 −0.004,p=0.893,R2=0.245
+rACC 0.005,p=0.857,R2=0.129 −0.005,p=0.884,R2=0.129
+(a)ROIgraymattervolume(GMV)regressedonCDscoreswithandwithoutcontrollingforADHDscores.
+b)ROIsurfacearea(SA)regressedonCDscoreswithandwithoutcontrollingforADHDscores.(c)ROI
+corticalthickness(CT)regressedonCDscoreswithandwithoutcontrollingforADHDscores.Valuesgiven
+arestandardizedβ-weights
+aindicates significance after correction for multiple comparisons, based on the average intra-correlation
+coefficient between lOFC and rACC. GMV: Average intra-correlation coefficient=0.518, adjusted
+p-level=0.036. SA: Average intra-correlation coefficient=0.593, adjusted p-level=0.038. CT: Average
+intra-correlationcoefficient=0.249,adjustedp-level=0.030
+Fig. 2 3D-representationoftherelationships betweenthetwobehavioraldimensions—ADHD scores(x-axis)and CDscores(y-axis)—andthe
+residuals of the dependent variable GMV (z-axis), after adjusting for sex and center as obtained from the main analysis. Two representative
+examplesfortherACCvolume(bottom)andcACCvolume(top)areshown.Respectiveviewsalongthez-axis(ontothex–yplane),y-axis(onto
+x–zplane)andx-axis(ontox–zplane)areshown,displayingthemutualrelationshipsbetweentwomeasures.Forillustrativepurpose,the3D-data
+wasfittedwithatwo-dimensionallinearrobustregressionusingapolynomialaccordingtotheequation.Volume=a+b×ADHDscore+c×
+CDscore.Tobettervisualizetheangleoftheobtainedplane,itsheightalongthez-axis(volume)hasbeencolor-codedwithwarmcolors(yellow)
+indicatinglargervolumes,andcoldcolors(blue)representinglowervolumes.IncaseofcACC,thecolorgradientchangestowardstheADHD
+score dimension, whereas in case of rACC the gradient direction is more shifted towards the CD score dimension. This reflects the discussed
+associationsbetweencACCandADHDscoreaftercorrectingforCDscore,andbetweenrACCandCDscoresaftercorrectingforADHDscores
+aspresentedinthemainanalysis
+for Hyperactivity/Impulsivity subscore and CD score Spatial Working Memory task—SDQ
+(standardizedβ=0.158,p=0.003).NeithertheADHDnor
+CD scores correlated with GoRT (ADHD score: standar- Both ADHD and CD scores correlated with number
+dized β=0.040, p=0.343; CD score: standardized of errors in the SWM task (ADHD score: standardized
+β=0.028, p=0.494)). Results are shown in Table 4a. β=0.167, p<0.001; CD score: standardized β=0.149,
+
+--- PAGE BREAK ---
+
+DistinctbrainstructureandbehaviorrelatedtoADHDandconductdisordertraits 3027
+Fig.3 ROIsasdefinedbytheDesikanatlasthatareusedforthemainanalysisareshownintheleftcolumn.Theothercolumnscontainresultsof
+theexploratoryanalysisshowingcorrelationswithinthoseROIsonavertex-level.Incolumn2–3correlationsbetweenGMVandADHDandCD
+scores, respectively, are shown. Their regional overlap is shown in column 4 (purple areas). Both ADHD and CD score revealed negative
+correlationswithGMVwithinasub-regionoftheleftandrightdl/dmPFC.Thoseweremainlylocalizedinaclustercomprisingtherostralmiddle
+frontal and lateral superior frontal cortex, extending to medial portions of the prefrontal cortex. Similar focal associations were observed in
+posteriorandanteriorsub-regionsoftheleftandrightlOFC.CorrelationsobservedintheACCwerespreadoverrightcaudalandrostralACC
+ROIs,whereasacorrelationofmorefocalnaturewasobservedintheleftACC.WhencorrectingforCDtrait,theADHDscoreswerenegatively
+correlatedwiththeGMVinrightrostralmiddlefrontalcortex,rightrostraldmPFC,leftcACCandbilateralanteriorlOFC(column5).Incontrast,
+when correcting for ADHD trait, CD scores were negatively correlated with the GMV in right rACC (column 6). Moreover, right cACC and
+posteriorlOFCalsoshowedthisrelationtoacertainextent(column6).Thus,onavertex-levelthereseemedtobeamorecomplexandunique
+relationbetweenlocalGMVandthedifferenttraits:WhileGMVinleftcACCwasmorenegativelyrelatedtoADHDscores,GMVinrightcACC
+andrACCwasmorerelatedtoCDscores.Likewise,whilethenegativerelationbetweenADHDscoresinlOFCGMVwasmorewidespreadand
+anteriorwhen controllingforCD,thenegative relationbetween CDscoresinlOFCGMVwas moreventrolateral (spreadingintoventrolateral
+PFC).Overall,nopositivecorrelationswereobserved.Significanceisrepresentedonalog(p-value)scale,wherepositivevalues(warmcolors)are
+assignedtopositiveassociations,andnegativevalues(coldcolors)tonegativeassociations.Forexplorativereasonsthedisplaythresholdwassetto
+1.3,correspondingtop=.05(uncorrected)
+p<0.001).TheADHDscorecorrelated withthenumberof (standardized β=0.093, p=0.014). ADHD score also
+errors in the SWM task, when controlling for CD (stan- explainedauniquepartofthevariancewhencontrollingfor
+dardized β=0.120, p<0.001). This correlation seemed to CD score (standardized β=0.088, p=0.021). Results are
+be driven by the Inattention SDQ subscore (standardized shown in Table 4c.
+β=0.152, p<.001) when controlling for Hyperactivity/
+Impulsivity and CD score. The CD score still correlated Exploratory analysis
+withthenumberoferrorswhencontrollingforADHDscore
+(standardized β=0.083, p=0.021). Results are shown in In an exploratory analysis, we investigated whether infor-
+Table 4b. mation from brain structure could explain variability on
+ADHDandCDscoresbeyondthatexplainedbybehavioral
+Delay discounting–SDQ tests alone. The analysis showed that SSRT and brain
+structurerelatedtonon-emotionaltop-downcontrol(cACC
+Both ADHD and CD scores correlated with the log- and dl/dmPFC GMV, as well as SA) each uniquely
+transformed k-coefficient from the Delay discounting (DD) explained a part of the variance of the ADHD score
+task (ADHD score: standardized β=0.139, p<0.001; CD (Supplementary Table 9), while Delay discounting k-
+score: standardized β=0.140, p<0.001). The CD score coefficient and brain structure related to emotional top-
+correlated with k when controlling for ADHD score down control (rACC GMV, as well as SA) each uniquely
+
+--- PAGE BREAK ---
+
+3028 F.Bayardetal.
+a ROI approach. As hypothesized, there was a substantial
+overlapbetweentheeffectsoftheADHDandtheCDtraits
+on brain morphology (Fig. 3). Thus, investigating ADHD
+symptoms without considering CD symptoms, or vice
+versa, makes itdifficult todistinguish between theirunique
+effectsonbrainstructure.OuranalysesindicatedthatcACC
+and dl/dmPFC SA correlated negatively with ADHD score
+after controlling for CD score. Similar findings were
+observed for GMV, although these did not survive correc-
+tion for multiple comparisons. In contrast, CD score cor-
+related negatively with the GMV in rACC after controlling
+for ADHD score (SA results on trend-level). Our study
+suggests that, apart from the large overlap in structural
+relations, there are morphological characteristics that are
+specific to either ADHD symptoms or CD symptoms, and
+that those relations can be observed on trait level within a
+community sample.
+The current findings are in line with the idea that non-
+emotional ADHD symptoms are associated with a smaller
+structure [30–33] and lower function [26–29] of cACC
+and dl/dmPFC, areas that have been linked to "cool" EF
+[24, 25], while emotional instability and CD symptoms are
+associatedwith smaller structure [42–44,45,46]andlower
+Fig.4 Anexploratoryvertex-wiseanalysiswasperformedcalculating function [36, 37, 40, 41, 71, 72] of rACC and bordering
+correlations between GMV and ADHD/CD scores across the whole areas, that are linked to "hot" EF [73–77] and emotional
+brain.MultiplecomparisoncorrectionwasdoneusingaMonteCarlo
+cluster wise approach (cluster threshold p<0.05). Both ADHD and regulation [49, 78, 79]. While these findings corroborate
+CDscoresweresignificantlyrelatedtosmallerGMVinfrontalbrain several previous studies on ADHD and CD patients they
+regionclusters(dl/dmPFC,rostral/caudalACC,andlOFC).Additional also suggest that some structural differences are unique to
+clusters revealing significant negative correlations outside our ROI:s the two different traits. However, we could not find any
+werealsoobserved:ADHDscoreswerenegativelycorrelatedtoGMV
+evidence for the hypothesized relationship between lOFC
+inrightanteriorinsula,bilateralinferiorfrontalcortex(parsorbitalis),
+bilateral temporal cortex, bilateral precentral, and postcentral (motor/ morphologyandCDtraitscores,insteadweobservedmore
+sensory) cortex, right medial OFC, left medial and lateral occipital localized associations in the exploratory vertex-level ana-
+cortex,andbilateralfusiform.WhencorrectingforCDscoresclusters
+lysis (Fig. 3). One plausible explanation for this is that the
+in bilateral temporal/temporopolar regions, left medial and lateral
+lOFC is still under substantial development during adoles-
+occipitalcortex,rightprecentralandpostcentral,aswellasleftlOFC
+werestillpresent.CDscoresshowedadditionalnegativecorrelations cence [80] and that this relationship might be detectable
+inprecentralandpostcentralcortex,anteriortemporalcortex,bilateral only later in life.
+anterior insula, left fusiform cortex, and bilateral temporo-parietal
+Previous studies of inattention/hyperactivity and emo-
+junction (TPJ), which, except for the cluster in left TPJ, disappeared
+whencorrectingforADHDscores.Significanceisrepresentedonalog tional instability have typically focused on categorically
+(p-value) scale, where positive values (warm colors) are assigned to defined patient groups in the respective domains, such as
+positive associations, and negative values (cold colors) to negative ADHD or BPD, ASPD, and CD. However, it has been
+associations. Right hemisphere is shown on the top and left hemi-
+shownthatsubclinicalsymptomsassociatedwithinattention
+sphereisshownonthebottominthefigure
+oremotionalinstability also occur inthegeneralpopulation
+to a variable degree, often following a normal or semi-
+explained part of the CD score variance (Supplementary normaldistribution[2,14–16].Ithasbeenhypothesizedthat
+Table 10). patients represent extreme cases within this symptom dis-
+tribution [2]. This variability may occur due to different
+capacities in theunderlying regulatorysystems in thebrain,
+Discussion
+i.e., cognitive core capacities [2]. On a whole this model
+positsthatdisordersinvolvingtop-downdysregulation,such
+In the present study, we showed that both ADHD and CD as ADHD or BPD, ASPD, and CD, are better understood
+trait scores correlated negatively with gray matter volume using a dimensional model rather than a categorical model
+(GMV) and surface area (SA) in cACC, dl/dmPFC, rACC, [2]. Our findings that dimensional measures of ADHD-
+andlOFCinalargecommunitysampleofadolescentsusing symptoms and CD-symptoms in a general population are
+
+--- PAGE BREAK ---
+
+DistinctbrainstructureandbehaviorrelatedtoADHDandconductdisordertraits 3029
+Table4 Behavioraltestsandresults
+CorrelationwithSDQ ADHDscore ADHDscorecontrollingforCD CDscore CDscorecontrollingforADHD
+StopSignaltest(SSRT)(a) β=0.099 β=0.131 β=0.014 na
+p=0.021 p=0.011 p=0.740
+SpatialWorkingMemory β=0.167 β=0.120 β=0.149 β=0.083
+task(numberoferrors)(b) p<0.001 p<0.001 p<0.001 p=0.021
+Delaydiscounting(k- β=0.139 β=0.088 β=0.140 β=0.093
+coefficient)(c) p<0.001 p=0.021 p<0.001 p=0.014
+(a)TheStopSignalTest[66]wasusedtoassessimpulsivitycontrol.FromthisanestimatedStopSignalReactionTime(SSRT)wasobtained
+[65, 66]. A longer SSRT indicates higher impulsivity, and a difficulty to stop a response. An average baseline reaction time, GoRT, was also
+calculatedforeachsubject.Duetotechnicaldifficultiessufficientdatawasobtainedfrom563oftheselectedsubjects.Asignificantcorrelation
+betweenSSRTandADHDscoreswasobserved.ThisremainedsignificantwhencontrollingforCDscores.NocorrelationwithCDscoreswas
+found.(b)TheSpatialWorkingMemory(SWM)taskwasusedtoassessworkingmemory[67–69].Inthistask,anumberoferrorsisobtainedfor
+eachparticipant,whereahighernumberoferrorscorrespondstopoorerworkingmemoryperformance.Sufficientdatawasobtainedfrom1056of
+theselectedsubjects.BothADHDandCDscorescorrelatedwiththenumberoferrors,evenaftercontrollingfortheotherdimension(c).Delay
+discounting (DD) task was used to assess emotional impulsiveness [70] related to emotional dysregulation [2]. In DD an estimated “discount
+coefficient”kisobtained.Alargerk-coefficientreflectsalargerdelaydiscounting,meaningvaluingasmallimmediaterewardhigherthanalarger
+delayedreward.Theestimatedk-coefficientswerelogtransformedtogivemorenormallydistributeddata.Datawasobtainedfrom1088subjects.
+ThestatisticalapproachisdescribedinSupplementaryFig.3.BothADHDandCDscorescorrelatedwiththe“discountcoefficient”k,evenafter
+controllingfortheotherdimension.
+correlated to cognitive function and some of the brain observed that both the level of ADHD and CD problems
+morphologypreviouslyshowntobealteredintherespective uniquely explained part of the working memory perfor-
+disorders partially support this hypothesis. However, it is mance, making this task less specific to either problem
+importanttostressthatclinicaldisorderssuchasADHDand domain. Finally, we observed that both ADHD and CD
+CDtypicallyshowsignificantlylargerimpairmentandoften scoreswereuniquelyrelatedtodelaydiscountingtendency.
+include co-morbidities. This may be a reason why some This was expected, since performance on this task depends
+structuralfindingsobservedinlargemeta-analyseswerenot on both non-emotional general attentional control, as well
+presentonatraitlevel.Also,asthepresentstudyfocusedon as emotionally related regulation of reward processes. This
+cortical measures it is not known how the traits relate to result is in line with previous findings reporting that some
+subcorticalstructures.ItisnoteworthythatdmPFCshoweda ADHD subgroups show suboptimal results in “cool” EF
+relation to the ADHD trait in the present study although it tasks, such as Stop Signal Test and Stroop test, whereas
+hasnotbeenfoundtobealteredintworecentmeta-analysis other subgroups show deficits in “hot” EF tasks, such as
+on ADHD [29, 34]. However, in another meta-analysis a delay discounting [17]. Interestingly, our data suggests that
+region in cACC adjacent to and partly overlapping with brain structure explains unique aspects of ADHD and CD
+dmPFCwassmallerinadultADHDpatientsascomparedto traits,beyondwhatisexplainedbybehavioralresults.Thus,
+controls [33]. It should also be pointed out that dmPFC is a combination of both measurements may be the most
+related to the term “ADHD” in Neurosynth [81] based on optimal marker for these traits.
+fMRIdata.Apart fromthepresentstudy,tworecentstudies There are several limitations in the study. First, apart
+[48, 82] have used a dimensional approach and observed a from emotional instability, the CD trait also captures a less
+negativerelationbetweensub-clinicalADHDsymptomsand common phenotype that includes callous-unemotional and
+GMVinmedialprefrontalanndanteriorcinngulate regions. psychopathic behavior associated with different processing
+However,thesestudieshavenotdisentanglednon-emotional of emotional stimuli [4]. Second, although the structural
+ADHD traits from emotional instability or CD traits. findings related to the ADHD trait were mostly driven by
+The structural findings that arespecific to ADHD or CD hyperactivity/impulsiveness questions, the behavioral find-
+scores were assumed to be mirrored in the behavioral ings related to the ADHD trait were mostly driven by the
+measurements. We hypothesized that “cool” EF should be inattention questions. Thus, future studies should further
+associated specifically to ADHD traits, while “hot” EF investigate the inter-relationships between the specific
+should be more related to CD traits. In line with this sug- ADHD sub-traits, structural and cognitive characteristics.
+gestion, we showed a negative correlation between ADHD Third, ADHD has been associated with different types of
+score and motor impulse control in the Stop Signal Test, emotional dysregulation symptoms [19]. Future studies
+whichremainedsignificantwhencontrollingforCDscores. should investigate how such dysregulations are related to
+Impaired working memory capacity has also frequently more specific features of CD traits. Finally, as common in
+been linked to ADHD problems [3]. Surprisingly, we studies on hyperactivity, movement artefacts may have
+
+--- PAGE BREAK ---
+
+3030 F.Bayardetal.
+partlycontributedtothestructuralfindings.However,these 2. Petrovic P, Castellanos FX. Top-down dysregulation–from
+seem to be mediated by changes in cortical thickness [83] ADHD to emotional instability. Front Behav Neurosci.
+2016;10:1–25.
+where we did not observe any associations with ADHD
+3. Willcutt EG, Doyle AE, Nigg JT, Faraone SV, Pennington BF.
+traits. Validity of the executive function theory of attention-deficit/
+hyperactivity disorder: a meta-analytic review. Biol Psychiatry.
+Acknowledgements This work received support from the following 2005;57:1336–46.
+sources:theEuropeanUnion-fundedFP6IntegratedProjectIMAGEN 4. Blair RJ, Leibenluft E, Pine DS. Conduct disorder and callous-
+(Reinforcement-related behavior in normal brain function and psy- unemotionaltraitsinyouth.NEnglJMed.2014;371:2207–16.
+chopathology) (LSHM-CT- 2007-037286), the Horizon 2020 funded 5. GlennAL,JohnsonAK,RaineA.Antisocialpersonalitydisorder:
+ERC Advanced Grant ‘STRATIFY’ (Brain network based stratifica- acurrentreview.CurrPsychiatryRep.2013;15:427.
+tion of reinforcement-related disorders) (695313), ERANID (Under- 6. Rubia K. “Cool” inferior frontostriatal dysfunction in attention-
+standing the Interplay between Cultural, Biological and Subjective deficit/hyperactivity disorder versus “hot” ventromedial
+Factors in Drug Use Pathways) (PR-ST-0416-10004), BRIDGET orbitofrontal-limbic dysfunction in conduct disorder: a review.
+(JPND: BRain Imaging, cognition Dementia and next generation BiolPsychiatry.2011;69:e69–87.
+GEnomics) (MR/N027558/1), the FP7 projects IMAGEMEND 7. SebastianA,JungP,Krause-UtzA,LiebK,SchmahlC,Tuscher
+(602450; IMAging GEnetics for MENtal Disorders) and MATRICS O.Frontaldysfunctionsofimpulsecontrol-asystematicreview
+(603016), the Innovative Medicine Initiative Project EU-AIMS in borderline personality disorder and attention-deficit/hyper-
+(115300-2), the Medical Research Council Grant ‘c-VEDA’ (Con- activitydisorder.FrontHumNeurosci.2014;8:698.
+sortium on Vulnerability to Externalizing Disorders and Addictions) 8. AnckarsaterH,StahlbergO,LarsonT,HakanssonC,JutbladSB,
+(MR/N000390/1), the Swedish Research Council FORMAS, the Niklasson L, et al. The impact of ADHD and autism spectrum
+MedicalResearchCouncil,theNationalInstituteforHealthResearch disorders on temperament, character, and personality develop-
+(NIHR)BiomedicalResearchCentreatSouthLondonandMaudsley ment.AmJPsychiatry.2006;163:1239–44.
+NHS Foundation Trust and King’s College London, the Bundesmi- 9. Philipsen A, Limberger MF, Lieb K, Feige B, Kleindienst N,
+nisteriumfür Bildung und Forschung (BMBF grants 01GS08152; Ebner-PriemerU,etal.Attention-deficithyperactivitydisorderas
+01EV0711; eMED SysAlc01ZX1311A; Forschungsnetz AERIAL), apotentiallyaggravatingfactorinborderlinepersonalitydisorder.
+the Deutsche Forschungsgemeinschaft (DFG grants SM 80/7-1, SM BrJPsychiatry.2008;192:118–23.
+80/7-2, SFB 940/1). Further support was provided by grants from: 10. SemizUB,BasogluC,OnerO,MunirKM,AtesA,AlgulA,etal.
+ANR (project AF12-NEUR0008-01-WM2NA, and ANR-12-SAMA- Effects of diagnostic comorbidity and dimensional symptoms of
+0004), the Fondation de France, the Fondation pour la Recherche attention-deficit-hyperactivity disorder in men with antisocial
+Médicale, theMission Interministérielle de Lutte-contre-les-Drogues- personalitydisorder.AustNZJPsychiatry.2008;42:405–13.
+et-les-Conduites-Addictives (MILDECA), the Assistance-Publique- 11. Storebo OJ, Simonsen E. The association between ADHD and
+Hôpitaux-de-Paris and INSERM (interface grant), Paris Sud AntisocialPersonalityDisorder(ASPD):areview.JAttenDisord.
+University IDEX 2012; the National Institutes of Health, Science 2013;20:815–24.
+FoundationIreland(16/ERCD/3797),U.S.A.(Axon,Testosteroneand 12. Distel MA, Carlier A, Middeldorp CM, Derom CA, Lubke GH,
+Mental Health during Adolescence; RO1 MH085772-01A1), and by Boomsma DI. Borderline personality traits and adult attention-
+NIH Consortium grant U54 EB020403, supported by a cross-NIH deficit hyperactivity disorder symptoms: a genetic analysis of
+alliancethatfundsBigDatatoKnowledgeCentresofExcellence.Also comorbidity. Am J Med Genet B Neuropsychiatr Genet.
+grants from Karolinska Institutet, (Karolinska Institutet Strategic 2011;156B:817–25.
+Neuroscience Program, Clinical Scientist Training Programme 13. Insel T,Cuthbert B,Garvey M,HeinssenR, PineDS, QuinnK,
+(CSTP), Senior Researcher in Medical Science), Stockholm County etal.Researchdomaincriteria(RDoC):towardanewclassifica-
+Council (PPG project), Stockholm Swedish Society of Medicine, tionframeworkforresearchonmentaldisorders.AmJPsychiatry.
+Söderström-Königska Foundation and Osher Center for Integrative 2010;167:748–51.
+Medicinesupportedthisstudy. 14. CrosbieJ,ArnoldP,PatersonA,SwansonJ,DupuisA,LiX,etal.
+Response inhibition and ADHD traits: correlates and heritability
+Compliance with ethical standards in a community sample. J Abnorm Child Psychol.
+2013;41:497–507.
+Conflictofinterest Dr.TBservedinanadvisoryorconsultancyrole 15. Das D, Cherbuin N, Butterworth P, Anstey KJ, Easteal S. A
+population-based study of attention deficit/hyperactivity disorder
+forActelion,HexalPharma,Lilly,Lundbeck,Medice,Novartis,Shire.
+He received conference support or speaker’s fee by Lilly, Medice, symptomsandassociatedimpairmentinmiddle-agedadults.PLoS
+ONE.2012;7:e31500.
+Novartis,andShire.Hehasbeeninvolvedinclinicaltrialsconducted
+16. PetrovicP,EkmanCJ,KlahrJ,TigerstromL,RydenG,Johansson
+by Shire and Viforpharma. He received royalities from Hogrefe,
+AG, et al. Significant grey matter changes in a region of the
+Kohlhammer,CIPMedien,OxfordUniversityPress.Thepresentwork
+orbitofrontal cortex in healthy participants predicts emotional
+isunrelatedtotheabovegrantsandrelationships.Dr.GBhasreceived
+dysregulation.SocCognAffectNeurosci.2015;11:1041–9.
+funding for a PhD student and honoraria for teaching on scanner
+17. Castellanos FX, Sonuga-Barke EJ, Milham MP, Tannock R.
+programming courses from General Electric Healthcare; he acts as a
+Characterizing cognition in ADHD: beyond executive dysfunc-
+consultant for IXICO. Dr. HW received a speaker honorarium from
+Servier(2014).Theremainingauthorsdeclarenoconflictofinterest.
+tion.TrendsCognSci.2006;10:117–23.
+18. Castellanos FX, Tannock R. Neuroscience of attention-deficit/
+hyperactivity disorder: the search for endophenotypes. Nat Rev
+References Neurosci.2002;3:617–28.
+19. ShawP,StringarisA,NiggJ,LeibenluftE.Emotiondysregulation
+in attention deficit hyperactivity disorder. Am J Psychiatry.
+1. Barkley RA. Behavioral inhibition, sustained attention, and 2014;171:276–93.
+executive functions: constructing a unifying theory of ADHD. 20. Alderson RM, Rapport MD, Kofler MJ. Attention-deficit/hyper-
+PsycholBull.1997;121:65–94.
+activitydisorderandbehavioralinhibition:ameta-analyticreview
+
+--- PAGE BREAK ---
+
+DistinctbrainstructureandbehaviorrelatedtoADHDandconductdisordertraits 3031
+of the stop-signal paradigm. J Abnorm Child Psychol. 38. LangS,KotchoubeyB,FrickC,SpitzerC,GrabeHJ,BarnowS.
+2007;35:745–58. Cognitive reappraisal in trauma-exposed women with borderline
+21. Lansbergen MM, Kenemans JL, van Engeland H. Stroop inter- personalitydisorder.Neuroimage.2012;59:1727–34.
+ference and attention-deficit/hyperactivity disorder: a review and 39. SchulzeL,DomesG,KrugerA,BergerC,FleischerM,PrehnK,
+metaanalysis.Neuropsychology.2007;21:251–62. et al. Neuronal correlates of cognitive reappraisal in borderline
+22. Nichols SL, Waschbusch DA. A review of the validity of patients with affective instability. Biol Psychiatry.
+laboratory cognitive tasks used to assess symptoms of ADHD. 2011;69:564–73.
+ChildPsychiatryHumDev.2004;34:297–315. 40. SilbersweigD,ClarkinJF,GoldsteinM,KernbergOF,Tuescher
+23. Bush G. Cingulate, frontal, and parietal cortical dysfunction in O,LevyKN,etal.Failureoffrontolimbicinhibitory functionin
+attention-deficit/hyperactivity disorder. Biol Psychiatry. thecontextofnegativeemotioninborderlinepersonalitydisorder.
+2011;69:1160–7. AmJPsychiatry.2007;164:1832–41.
+24. Cieslik EC, Mueller VI, Eickhoff CR, Langner R, Eickhoff SB. 41. WingenfeldK,RullkoetterN,MensebachC,BebloT,MertensM,
+Three key regions for supervisory attentional control: evidence Kreisel S, et al. Neural correlates of the individual emotional
+from neuroimaging meta-analyses. Neurosci Biobehav Rev. Stroop in borderline personality disorder. Psychoneur-
+2015;48:22–34. oendocrinology.2009;34:571–86.
+25. Nee DE, Wager TD, Jonides J. Interference resolution: insights 42. Soloff P, Nutche J, Goradia D, Diwadkar V. Structural brain
+from ameta-analysis ofneuroimaging tasks.CognAffectBehav abnormalities in borderline personality disorder: a voxel-based
+Neurosci.2007;7:1–17. morphometrystudy.PsychiatryRes.2008;164:223–36.
+26. Cortese S, Kelly C,Chabernaud C, Proal E,DiMartino A, Mil- 43. Soloff PH, Pruitt P, Sharma M, Radwan J, White R, Diwadkar
+hamMP,etal.TowardsystemsneuroscienceofADHD:ameta- VA. Structural brain abnormalities and suicidal behavior in bor-
+analysisof55fMRIstudies.AmJPsychiatry.2012;169:1038–55. derlinepersonalitydisorder.JPsychiatrRes.2012;46:516–25.
+27. DicksteinSG,BannonK,CastellanosFX,MilhamMP.Theneural 44. YangY,RaineA.Prefrontalstructuralandfunctionalbrainima-
+correlatesofattentiondeficithyperactivitydisorder:anALEmeta- gingfindingsinantisocial,violent,andpsychopathicindividuals:
+analysis.JChildPsycholPsychiatry.2006;47:1051–62. ameta-analysis.PsychiatryRes.2009;174:81–8.
+28. Hart H, Radua J, Nakao T, Mataix-Cols D, Rubia K. Meta- 45. Rogers JC, De Brito SA. Cortical and subcortical gray matter
+analysis of functional magnetic resonance imaging studies of volumeinyouthswithconductproblems:ameta-analysis.JAMA
+inhibitionandattentioninattention-deficit/hyperactivitydisorder: Psychiatry.2016;73:64–72.
+exploring task-specific, stimulant medication, and age effects. 46. Sebastian CL, De Brito SA, McCrory EJ, Hyde ZH, Lockwood
+JAMAPsychiatry.2013;70:185–98. PL,CecilCA,etal.Greymattervolumesinchildrenwithconduct
+29. NormanLJ,CarlisiC,LukitoS,HartH,Mataix-ColsD,RaduaJ, problems and varying levels of callous-unemotional traits. J
+et al. Structural and functional brain abnormalities in attention- AbnormChildPsychol.2016;44:639–49.
+deficit/hyperactivity disorder and obsessive-compulsive disorder: 47. Schumann G, Loth E, Banaschewski T, Barbot A, Barker G,
+a comparative meta-analysis. JAMA Psychiatry. 2016;73: Buchel C, et al. The IMAGEN study: reinforcement-related
+815–25. behaviour in normal brain function and psychopathology. Mol
+30. ShawP,EckstrandK,SharpW,BlumenthalJ,LerchJP,Green- Psychiatry.2010;15:1128–39.
+stein D, et al. Attention-deficit/hyperactivity disorder is char- 48. AlbaughM,OrrC,ChaaraniB,AlthoffR,AllgaierN,D’Alberto
+acterized by a delay in cortical maturation. Proc Natl Acad Sci N, et al. Inattention and reaction time variability are linked to
+USA.2007;104:19649–54. ventromedial prefrontal volume in adolescents. Biol Psychiatry.
+31. ShawP,MalekM,WatsonB,GreensteinD,deRossiP,SharpW. 2017;82:660–8.
+Trajectories of cerebral cortical development in childhood and 49. Wager TD, Atlas LY. The neuroscience of placebo effects: con-
+adolescenceandadultattention-deficit/hyperactivitydisorder.Biol necting context, learning and health. Nat Rev Neurosci.
+Psychiatry.2013;74:599–606. 2015;16:403–18.
+32. SeidmanLJ,BiedermanJ,LiangL,ValeraEM,MonuteauxMC, 50. Wager TD, Davidson ML, Hughes BL, Lindquist MA, Ochsner
+Brown A, et al. Gray matter alterations in adults with attention- KN. Prefrontal-subcortical pathways mediating successful emo-
+deficit/hyperactivity disorder identified by voxel based morpho- tionregulation.Neuron.2008;59:1037–50.
+metry.BiolPsychiatry.2011;69:857–66. 51. Goodman R. Psychometric properties of the strengths and diffi-
+33. FrodlT,SkokauskasN.Meta-analysisofstructuralMRIstudiesin culties questionnaire. J Am Acad Child Adolesc Psychiatry.
+children and adults with attention deficit hyperactivity disorder 2001;40:1337–45.
+indicates treatment effects. Acta Psychiatr Scand. 52. Carroll JM, Maughan B, Goodman R, Meltzer H. Literacy diffi-
+2012;125:114–26. culties and psychiatric disorders: evidence for comorbidity. J
+34. NakaoT,RaduaJ,RubiaK,Mataix-ColsD.Graymattervolume ChildPsycholPsychiatry.2005;46:524–32.
+abnormalitiesinADHD:voxel-basedmeta-analysisexploringthe 53. Schilling C, Kuhn S, Paus T, Romanowski A, Banaschewski T,
+effects of age and stimulant medication. Am J Psychiatry. BarbotA,etal.Corticalthicknessofsuperiorfrontalcortexpre-
+2011;168:1154–63. dictsimpulsivenessandperceptualreasoninginadolescence.Mol
+35. Enzi B, Doering S, Faber C, Hinrichs J, Bahmer J, Northoff G. Psychiatry.2013;18:624–30.
+Reduced deactivation in reward circuitry and midline structures 54. Panizzon MS, Fennema-Notestine C, Eyler LT, Jernigan TL,
+during emotion processing in borderline personality disorder. Prom-Wormley E, Neale M,et al. Distinct genetic influences on
+WorldJBiolPsychiatry.2013;14:45–56. cortical surface area and cortical thickness. Cereb Cortex.
+36. Holtmann J, Herbort MC, Wustenberg T, Soch J, Richter S, 2009;19:2728–35.
+WalterH,etal.Traitanxietymodulatesfronto-limbicprocessing 55. WinklerAM,KochunovP,BlangeroJ,AlmasyL,ZillesK,Fox
+ofemotionalinterferenceinborderlinepersonalitydisorder.Front PT, et al. Cortical thickness or grey matter volume? The impor-
+HumNeurosci.2013;7:54. tance of selecting the phenotype for imaging genetics studies.
+37. Jacob GA, Zvonik K, Kamphausen S, Sebastian A, Maier S, Neuroimage.2010;53:1135–46.
+Philipsen A, et al. Emotional modulation of motor response 56. Reuter M, Schmansky NJ, Rosas HD, Fischl B. Within-subject
+inhibitioninwomenwithborderlinepersonalitydisorder:anfMRI template estimation for unbiased longitudinal image analysis.
+study.JPsychiatryNeurosci.2013;38:164–72. Neuroimage.2012;61:1402–18.
+
+--- PAGE BREAK ---
+
+3032 F.Bayardetal.
+57. FischlB,vanderKouweA,DestrieuxC,HalgrenE,SegonneF, 71. Krause-Utz A, Oei NY, Niedtfeld I, Bohus M, Spinhoven P,
+Salat DH, et al. Automatically parcellating the human cerebral Schmahl C, et al. Influence of emotional distraction on working
+cortex.CerebCortex.2004;14:11–22. memory performance in borderline personality disorder. Psychol
+58. FischlB,SerenoMI,DaleAM.Corticalsurface-basedanalysis.II: Med.2012;42:2181–92.
+Inflation, flattening, and a surface-based coordinate system. 72. PrehnK,SchulzeL,RossmannS,BergerC,VohsK,FleischerM,
+Neuroimage.1999;9:195–207. etal.Effectsofemotionalstimulionworkingmemoryprocesses
+59. Fischl B, Salat DH, van der Kouwe AJ, Makris N, Segonne F, in male criminal offenders with borderline and antisocial per-
+QuinnBT,etal.Sequence-independentsegmentationofmagnetic sonalitydisorder.WorldJBiolPsychiatry.2013;14:71–8.
+resonanceimages.Neuroimage.2004;23(Suppl1):S69–84. 73. Egner T, Etkin A, Gale S, Hirsch J. Dissociable neural systems
+60. FischlB,DaleAM.Measuringthethicknessofthehumancere- resolve conflict from emotional versus nonemotional distracters.
+bralcortexfrommagneticresonanceimages.ProcNatlAcadSci CerebCortex.2008;18:1475–84.
+USA.2000;97:11050–5. 74. Etkin A, Egner T, Peraza DM, Kandel ER, Hirsch J. Resolving
+61. DaleAM,FischlB,SerenoMI.Corticalsurface-basedanalysis.I. emotionalconflict:arolefortherostralanteriorcingulatecortexin
+Segmentation and surface reconstruction. Neuroimage. modulatingactivityintheamygdala.Neuron.2006;51:871–82.
+1999;9:179–94. 75. OchsnerKN,HughesB,RobertsonER,CooperJC,GabrieliJD.
+62. Desikan RS, Segonne F, Fischl B, Quinn BT, Dickerson BC, Neural systems supporting the control of affective and cognitive
+Blacker D, et al. An automated labeling system for subdividing conflicts.JCognNeurosci.2009;21:1842–55.
+thehumancerebralcortexonMRIscansintogyralbasedregions 76. RahmC,LibergB,Wiberg-KristoffersenM,AspelinP,Msghina
+ofinterest.Neuroimage.2006;31:968–80. M.Rostro-caudalanddorso-ventralgradientsinmedialandlateral
+63. AbeC,EkmanCJ,SellgrenC,PetrovicP,IngvarM,LandenM. prefrontalcortexduringcognitivecontrolofaffectiveandcogni-
+Manic episodes are related to changes in frontal cortex: a long- tiveinterference.ScandJPsychol.2013;54:66–71.
+itudinal neuroimaging study of bipolar disorder 1. Brain. 77. Whalen PJ, Bush G, McNally RJ, Wilhelm S, McInerney SC,
+2015;138(Pt11):3440–8. Jenike MA, et al. The emotional counting Stroop paradigm: a
+64. Dennis M, Francis DJ, Cirino PT, Schachar R, Barnes MA, functional magnetic resonance imaging probe of the anterior
+Fletcher JM. Why IQ is not a covariate in cognitive studies of cingulateaffectivedivision.BiolPsychiatry.1998;44:1219–28.
+neurodevelopmental disorders. J Int Neuropsychol Soc. 78. Petrovic P, Dietrich T, Fransson P, Andersson J, Carlsson K,
+2009;15:331–43. IngvarM.Placeboinemotionalprocessing--inducedexpectations
+65. Logan GD, Cowan WB, Davis KA. On the ability to inhibit of anxiety relief activate a generalized modulatory network.
+simpleandchoicereactiontimeresponses:amodelandamethod. Neuron.2005;46:957–69.
+JExpPsycholHumPerceptPerform.1984;10:276–91. 79. Schiller D, Delgado MR. Overlapping neural systems mediating
+66. Verbruggen F, Logan GD, Stevens MA. STOP-IT: Windows extinction, reversal and regulation of fear. Trends Cogn Sci.
+executable software for the stop-signal paradigm. Behav Res 2010;14:268–76.
+Methods.2008;40:479–83. 80. Gogtay N, Giedd JN, Lusk L, Hayashi KM, Greenstein D, Vai-
+67. CoullJT,MiddletonHC,RobbinsTW,SahakianBJ.Contrasting tuzisAC,etal.Dynamicmappingofhumancorticaldevelopment
+effectsofclonidineanddiazepamontestsofworkingmemoryand during childhood through early adulthood. Proc Natl Acad Sci
+planning.Psychopharmacology.1995;120:311–21. USA.2004;101:8174–9.
+68. Kempton S, Vance A, Maruff P, Luk E, Costin J, Pantelis C. 81. YarkoniT,PoldrackRA,NicholsTE,VanEssenDC,WagerTD.
+Executive function and attention deficit hyperactivity disorder: Large-scale automated synthesis of human functional neuroima-
+stimulantmedicationandbetterexecutivefunctionperformancein gingdata.NatMethods.2011;8:665–70.
+children.PsycholMed.1999;29:527–38. 82. MaierS,PerlovE,GrafE,DieterE,SobanskiE,RumpM,etal.
+69. Nymberg C, Banaschewski T, Bokde AL, Buchel C, Conrod P, Discrete global but no focal gray matter volume reductions in
+FlorH,etal.DRD2/ANKK1polymorphismmodulatestheeffect unmedicated adult patients with attention-deficit/hyperactivity
+of ventral striatal activation on working memory performance. disorder.BiolPsychiatry.2016;80:905–15.
+Neuropsychopharmacology.2014;39:2357–65. 83. ReuterM,TisdallMD,QureshiA,BucknerRL,vanderKouwe
+70. Kirby KN, Petry NM, Bickel WK. Heroin addicts have higher AJ,Fischl B. Headmotion duringMRI acquisition reduces gray
+discountratesfordelayedrewardsthannon-drug-usingcontrols.J matter volume and thickness estimates. Neuroimage.
+ExpPsycholGen.1999;128:78–87. 2015;107:107–15.
+Affiliations
+Frida Bayard1 ● Charlotte Nymberg Thunell1 ● Christoph Abé1 ● Rita Almeida2 ● Tobias Banaschewski3 ●
+Gareth Barker 4 ● Arun L. W. Bokde5 ● Uli Bromberg6 ● Christian Büchel6 ● Erin Burke Quinlan7 ●
+Sylvane Desrivières 7 ●HertaFlor8,9 ●VincentFrouin 10 ●HughGaravan11 ●Penny Gowland12 ●AndreasHeinz13 ●
+Bernd Ittermann14 ● Jean-Luc Martinot15 ● Marie-Laure Paillère Martinot16 ● Frauke Nees3,8 ●
+Dimitri Papadopoulos Orfanos 10 ● Tomáš Paus17 ● Luise Poustka18,19 ● Patricia Conrod20 ● Argyris Stringaris21 ●
+Maren Struve3 ● Jani Penttilä22 ● Viola Kappel23 ● Yvonne Grimmer3 ● Tahmine Fadai6 ● Betteke van Noort24 ●
+Michael N. Smolka 25 ● Nora C. Vetter25 ● Henrik Walter 13 ● Robert Whelan26 ● Gunter Schumann7 ●
+Predrag Petrovic1 the IMAGEN Consortium
+1 DepartmentofClinicalNeuroscience,KarolinskaInstitutet, Stockholm,Sweden
+Stockholm,Sweden
+3 DepartmentofChildandAdolescentPsychiatryand
+2 DepartmentofNeuroscience,KarolinskaInstitutet, Psychotherapy,CentralInstituteofMentalHealth,Medical
+
+--- PAGE BREAK ---
+
+DistinctbrainstructureandbehaviorrelatedtoADHDandconductdisordertraits 3033
+FacultyMannheim,HeidelbergUniversity,Mannheim,Germany HospitalierFrédéricJoliot,Orsay;andMaisondeSolenn,
+Paris,France
+4 CentreforNeuroimagingSciences,InstituteofPsychiatry
+PsychologyandNeuroscience,King’sCollegeLondon, 16 InstitutNationaldelaSantéetdelaRechercheMédicale,
+London,UK INSERMUnit1000“NeuroimagingandPsychiatry”,University
+ParisSud–ParisSaclay,UniversityParisDescartes;andAP-HP,
+5 DisciplineofPsychiatry,SchoolofMedicineandTrinityCollege DepartmentofAdolescentPsychopathologyandMedicine,
+InstituteofNeuroscience,TrinityCollegeDublin,Dublin,Ireland MaisondeSolenn,CochinHospital,Paris,France
+6 UniversityMedicalCentreHamburg-Eppendorf,HouseW34,3. 17 RotmanResearchInstitute,BaycrestandDepartmentsof
+OG,Martinistr.52,20246Hamburg,Germany PsychologyandPsychiatry,UniversityofToronto,Toronto,ON
+M6A2E1,Canada
+7 CentreforPopulationNeuroscienceandStratifiedMedicine
+(PONS)andMRC-SGDPCentre,InstituteofPsychiatry, 18 ClinicforChildandAdolescentPsychiatry,MedicalUniversityof
+PsychologyandNeuroscience,King’sCollegeLondon,
+Vienna,WähringerGürtel18-20,1090Vienna,Austria
+London,UK
+19 DepartmentofChildandAdolescentPsychiatryand
+8 DepartmentofCognitiveandClinicalNeuroscience,Central Psychotherapy,UniversityMedicalCentreGöttingen,von-
+InstituteofMentalHealth,MedicalFacultyMannheim, Siebold-Str.5,37075Göttingen,Germany
+HeidelbergUniversity,Mannheim,Germany
+20 DepartmentofPsychiatry,UniversitédeMontréal,CHUSte
+9 DepartmentofPsychology,SchoolofSocialSciences,University JustineHospital,Montréal,QC,Canada
+ofMannheim,68131Mannheim,Germany
+21 NationalInstituteofMentalHealth,NIH,Bethesda,MD20892,
+10 NeuroSpin,CEA,UniversitéParis-Saclay,F-91191Gif-sur- USA
+Yvette,France
+22 DepartmentofSocialandHealthCare,PsychosocialServices
+11 DepartmentsofPsychiatryandPsychology,Universityof AdolescentOutpatientClinicKauppakatu14,Lahti,Finland
+Vermont,Burlington,VT05405,USA
+23 DepartmentofChildandAdolescentPsychiatryPsychosomatics
+12 SirPeterMansfieldImagingCentreSchoolofPhysicsand
+andPsychotherapy,CampusCharitéMitte,Charité-
+Astronomy,UniversityofNottingham,UniversityPark, UniversitätsmedizinBerlin,Charitéplatz1,Berlin,Germany
+Nottingham,UK
+24 DepartmentofChildandAdolescentPsychiatryPsychosomatics
+13 DepartmentofPsychiatryandPsychotherapy,CampusCharité andPsychotherapy,CampusCharitéMitte,Charité-
+Mitte,Charité,UniversitätsmedizinBerlin,Charitéplatz1, UniversitätsmedizinBerlin,Charitéplatz1,Berlin,Germany
+Berlin,Germany
+25 DepartmentofPsychiatryandNeuroimagingCenter,Technische
+14 Physikalisch-TechnischeBundesanstalt(PTB),Braunschweigand UniversitätDresden,Dresden,Germany
+Berlin,Berlin,Germany
+26 SchoolofPsychologyandGlobalBrainHealthInstitute,Trinity
+15 InstitutNationaldelaSantéetdelaRechercheMédicale, CollegeDublin,Dublin,Ireland
+INSERMUnit1000“NeuroimagingandPsychiatry”,University
+ParisSud–ParisSaclay,UniversityParisDescartes;Service

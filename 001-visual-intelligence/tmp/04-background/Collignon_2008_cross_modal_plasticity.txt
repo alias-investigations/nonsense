@@ -1,0 +1,854 @@
+Exp Brain Res (2009) 192:343–358
+DOI 10.1007/s00221-008-1553-z
+REVIEW
+Cross-modal plasticity for the spatial processing of sounds
+in visually deprived subjects
+Olivier Collignon · Patrice Voss · Maryse Lassonde ·
+Franco Lepore
+Received: 18 June 2008 / Accepted: 15 August 2008 / Published online: 2 September 2008
+© Springer-Verlag 2008
+Abstract Until only a few decades ago, researchers still cuss that such cross-modal recruitment may, to some
+considered sensory cortices to be Wxed or “hardwired,” with extent, follow organizational principles similar to the func-
+speciWc cortical regions solely dedicated to the processing tional topography of the region observed in the sighted.
+of selective sensory inputs. But recent evidences have Even if such recruitment is especially present in individuals
+shown that the brain can rewire itself, showing an impres- having lost their sight in early infancy, occipital regions
+sive range of cross-modal plasticity. Visual deprivation is also show impressive plastic properties when vision is lost
+one of the rare human models that allow us to explore the at a later age. This observation will be related to recent
+role of experience-dependent plasticity of a sensory cortex results demonstrating that occipital regions play a more
+deprived of its natural inputs. The objective of this paper is important role than previously expected in the spatial pro-
+to describe recent results regarding the spatial processing of cessing of sounds, even in sighted subjects. Putative physi-
+sounds in blind subjects. These studies suggest that blind ological mechanisms underlying such cross-modal
+individuals may demonstrate exceptional abilities in audi- recruitment will then be discussed. All these results have
+tory spatial processing and that such enhanced perfor- important implications for understanding the role of visual
+mances may be intrinsically linked to the recruitment of experience in shaping the development of occipital regions
+occipital areas deprived of their normal visual inputs. Such and may guide the implementation of rehabilitative meth-
+results highlight the brain’s remarkable ability to rewire its ods such as sensory substitution or neural implants.
+components to compensate for the challenging neurological
+condition that is visual deprivation. Moreover, we shall dis- Keywords Blindness · Plasticity · Cross-modal ·
+Auditory · Spatial
+O. Collignon · P. Voss · M. Lassonde · F. Lepore
+Centre de Recherche en Neuropsychologie et
+Behavioral compensation for the spatial processing
+Cognition (CERNEC), Université de Montréal,
+Montreal, Canada of sounds
+e-mail: olivier.collignon@uclouvain.be
+Evolution has provided several sensory modalities to humans
+O. Collignon
+in order to capture distinct forms of energies, opening diVer-
+Neural Rehabilitation Engineering Laboratory,
+Centre for Research in Neurosciences (CRN), ent windows through which we can experience the world
+Université catholique de Louvain, Brussels, Belgium around us. The presence of these diVerent sensory systems
+paves the way for considerable behavioral Xexibility by
+M. Lassonde · F. Lepore
+allowing a system to supplement another following sensory
+Centre de Recherche CHU Sainte-Justine, Montreal, Canada
+deprivation (Stein and Meredith 1993). In this context, the
+F. Lepore (&) notion that vision loss is partly oVset by improved perfor-
+Département de Psychologie, CERNEC,
+mance in the remaining modalities has become very popular
+Université de Montréal, 90 Vincent d’Indy,
+and is often used to explain the development of some special
+CP 6128, succ. Centre-Ville, Montreal, QC H3C 3J7, Canada
+e-mail: franco.lepore@umontreal.ca abilities in blind people (Collignon etal. 2006).
+123
+344 Exp Brain Res (2009) 192:343–358
+The spatial processing of sounds has received consider- localization errors in blind subjects who previously per-
+able attention from researchers investigating putative sen- formed well in the monaural task. This Wnding conWrms the
+sory compensation resulting from blindness. This is view that enhanced localization performance observed in
+certainly due to the fundamental role that this ability plays some blind subjects may be related to a reWned use of subtle
+for blind people in navigating in their environment, which auditory cues, such as the spectral content of sounds.
+is a prerequisite to independent daily-life activities. This The studies described above examined spatial hearing in
+may also be related to the essential and dominant role that near space, a region where auditory representations can be
+vision normally plays in the analysis of space in sighted calibrated through sensory-motor feedback in blind subjects,
+subjects, which may lead to a greater susceptibility of reor- such as touching the source of the sound or through the use
+ganization for non-visual space processing in the case of of a cane, for example. The question remained, however,
+visual deprivation. Indeed, it has long been debated whether normal or supra-normal abilities would also be
+whether blind individuals have perceptual advantages or observed for sounds originating in far space, where no such
+disadvantages in processing auditory spatial information. calibration is possible. In a recent experiment using distal
+The fundamental question has been whether the lack of (3–4m) sound sources, we showed that blind individuals
+vision disrupts the proper development of auditory spatial properly map auditory space beyond their peri-personal
+skills or if, on the contrary, blindness results in above-nor- environment but also demonstrate supra-normal perfor-
+mal performance in the preserved modalities. It was Wrst mance when subtle acoustic cues for target location and dis-
+thought that visual deprivation might be detrimental to the tance discrimination are needed to carry out the task (Voss
+development of spatial abilities in the remaining modalities etal. 2004). Moreover, we examined whether late-onset
+since vision may be required to calibrate the other sensory blind subjects can manifest sensory compensation, since
+systems (Axelrod 1959; Locke 1954; Rock and Halper only a few studies have investigated this point. We thus car-
+1969; Warren and Cleaves 1971). Even if a few studies ried out the task in late blind subjects and showed that this
+gave some support to this notion (Lewald 2002a; Zwiers group could also develop above-normal spatial abilities
+etal. 2001), a number of recent results, including the ones (Voss etal. 2004). The latter result of enhanced auditory
+from our group, clearly demonstrate that vision is not spatial abilities in subjects with late onset blindness was
+essential for the calibration of auditory localization cues conWrmed in another recent study (Fieger etal. 2006). It is
+and that, under some circumstances, blind people show worth noting that in both cases (Voss etal. 2004; Fieger
+supra-normal abilities in auditory tasks. etal. 2006) the superiority of late blind subjects was only
+In a seminal study, we investigated the auditory spatial present when sounds were presented in peripheral space
+localization abilities of early blind individuals under binaural straddling the inter-aural plane. These results precisely
+and monaural listening conditions (Lessard etal. 1998). We reproduce what was observed with early blind subjects,
+Wrst demonstrated that blind subjects can localize binaurally whose supra-normal performances were mainly observed in
+presented sounds as well as sighted individuals, suggesting the periphery, where more subtle auditory cues (i.e., spec-
+that vision is not necessary for the construction of a three- tral) have to be exploited to eYciently resolve the task
+dimensional map of space (see Fig.1a, b). Moreover, it was (Roder etal. 1999; Voss etal. 2004; Fieger etal. 2006;
+found that under monaural localization, performances of Simon etal. 2002). Interestingly, when behavioral compen-
+blind subjects can surpass those of sighted participants. In sations are observed for the processing of visuo-spatial stim-
+fact, in all sighted subjects and in half of the blind ones, the uli in deaf subjects, they also mainly concern inputs
+obstruction of one ear induced a strong localization bias originating in the peripheral visual-Weld (Neville and Law-
+towards the unobstructed ear (see Fig.1c). However, half of son 1987; Bavelier etal. 2000). These compensations
+the blind subjects were able to correctly localize sounds ipsi- observed speciWcally for peripheral stimuli may be related to
+lateral to the obstructed ear in almost 100% of the trials the fact that they occur preferentially in conditions where
+(Fig.1d). This Wnding strongly suggests that some blind indi- the task is diYcult. If the processing at play is already
+viduals can use subtle spatial cues more eYciently than extremely precise in sighted subjects, as during binaural
+sighted controls, particularly the spectral content of the processing of central stimuli, the condition generally leads
+sound, which is one of the principal remaining cues for local- to ceiling eVects in both groups, and thus renders it diYcult
+izing a source under a monaural listening condition (Van to observe diVerences between groups (Lessard etal. 1998;
+Wanrooij and Van Opstal 2004). In order to further test this Voss etal. 2008; Roder etal. 1999). However, if the task
+hypothesis, we manipulated the spectral content of stimuli requiring the processing of a central source is suYciently
+either by frequency Wltering or by Wlling the cavities of the diYcult, one may also observe diVerences between the two
+open ear pinna with acoustical paste and examined how per- groups. This hypothesis is partially supported by studies
+formance under monaural testing was aVected (Doucet etal. demonstrating superior spatial hearing abilities in blind sub-
+2004). These manipulations induced a signiWcant increase in jects in complex tasks not relying on eccentricity, such as
+123
+Exp Brain Res (2009) 192:343–358 345
+Fig.1 Sound localization performances in the study of Lessard etal. condition only (left ear-obstructed) as the other condition (right ear-ob-
+(1998). a Sighted control subjects in the binaural condition of listening; structed) yielded identical results. The Wgure illustrates that in binaural
+b one representative early blind subject in the binaural condition of lis- condition of listening, early blind subjects localize sounds as well as
+tening; c sighted control subjects in the monaural condition of listen- sighted subjects. However, in monaural conditions, whereas all sighted
+ing; d one totally blind subject who correctly localized the sound with subjects localized sounds presented on the side of the obstructed ear to
+no directional bias. The dashed lines indicate the actual sound sources, the opposite side, half of the blind group did not show such a bias and
+whereas the dots refer to the perceived target locations with their thus showing supra-normal performance for spatial hearing. Adapted
+respective standard deviations. Results are shown for one monaural with permission from Lessard etal. (1998)
+inter-aural time diVerence discrimination (Yabe and Kaga sighted ones in localizing sounds in the vertical plane (ele-
+2005) or the use of echo-location cues (Dufour etal. 2005; vation). These Wndings led to the conclusion that visual
+Rice etal. 1965; Rice and Feinstein 1965; Strelow and Bra- feedback might be necessary to calibrate the vertical audi-
+byn 1982). Interestingly, in one of these echo-location stud- tory space in front of the subject. Such results may be
+ies, researchers demonstrated improved processing of echo related to the work of Knudsen (1988) who demonstrated
+information even in myopic (near-sighted) subjects (Despres that the optic tectum of the barn owls raised without sight,
+etal. 2005; Dufour and Gerard 2000), suggesting that an but with normal hearing, develop auditory space maps with
+increase in spatial acuity of the intact auditory system can degraded precision and with aspects of topography that are
+not only occur when the visual system undergoes a total abnormal (Knudsen 1988). These data put into question
+deprivation but also in the case of only partial deWcits. previous report of the representation of space and auditory
+All these studies point to the fact that visually deprived hyperacuity in the blind. Since our study reporting supra-
+listeners are fully able to use auditory cues for spatial hear- normal abilities have used constant sound intensity regard-
+ing and that vision is not a mandatory prerequisite for the less of the location of the sound source (Lessard etal.
+calibration of space. It seems likely that this calibration in 1998), Zwiers etal. (2001) argued that monaural intensity
+blind subjects comes from experiencing changes in sound- judgement may explain the better performance of blind
+localization cues arising from self-motion, such as turning individuals. Lewald (2002b) proposes an alternative inter-
+of the head, the body, or walking in the environment toward pretation by suggesting that the compensatory abilities that
+the sound sources (Ashmead etal. 1989, 1998). However, could be observed in some conditions in blind subjects may
+the assumption that vision is not necessary for the adequate be attributable to the enhanced processing of proprioceptive
+development of auditory spatial representation has also information (i.e., body position) rather than superior audi-
+been challenged. Zwiers and collaborators (2001) and tory capabilities per se. Evidently, further research is neces-
+Lewald (2002a, b) found that blind subjects were inferior to sary to disentangle which auditory localization cues are
+123
+346 Exp Brain Res (2009) 192:343–358
+better processed by the blind while others are less well cali- memory (Amedi etal. 2003; Roder etal. 2001; Roder and
+brated in the absence of vision during development. Rosler 2003) and language-related (Burton etal. 2002b;
+Roder etal. 2000) processing in early blind subjects.
+Of great relevance for the arguments advanced in the
+Cross-modal processing of spatial sounds present paper, Kujala etal. were among the Wrst to show
+in the occipital cortex that event-related potentials (ERPs) triggered by a change
+in the locus of origin of a repetitive sound was more poste-
+The visual system has served as a model for studies dealing riorly distributed on the scalp in early blind subjects as
+with neuronal development and plasticity for a long time. compared to sighted controls (Kujala etal. 1992). This sug-
+Since the seminal studies of Wiesel and Hubel on the devel- gested that the blind might use occipital brain areas to a
+opment of ocular dominance, we know that alterations in larger extent than sighted individuals in sound localization.
+visual experience can inXuence the normal development of In our laboratory, we also recorded auditory ERPs in blind
+the visual cortex (Wiesel and Hubel 1965, 1974). In fact, participants during a free-Weld sound localization paradigm
+extensive neuroplastic changes have been demonstrated in (Leclerc etal. 2000). The participants were the same con-
+intact sensory systems following diVerent training regimens genitally blind subjects who had previously shown a supra-
+(Elbert etal. 2002; Pascual-Leone and Torres 1993; Sterr normal performance in the sound localization task of Les-
+etal. 1998). It was further postulated that the functioning of sard etal. (1998). The results revealed that the N1 and the
+visual structures would be inXuenced in a dramatic fashion P3 components peaked at their usual positions in both
+following visual deprivation, and increasing evidence groups but were also found to be robust over occipital
+points to extensive cross-modal reorganizations in the regions in blind individuals only. The presence of a steeper
+deprived system. N1 deXection over the occipital pole of blind persons
+Rauschecker and collaborators were among the Wrst to (Fig.2) suggests that their occipital cortex may be involved
+clearly establish that early visual deprivation in cats leads to in early stages of auditory processing (at around 100ms
+cross-modal compensation at both the behavioral and neuro- after sound presentation). To further explore the relevance
+physiological levels (Rauschecker 1995). As was the case for of the N1 as a marker of cross-modal compensation, Lecl-
+the human subjects described above, they found that visually erc etal. (2005) analyzed these data for EEG coherence in a
+deprived animals showed superior sound localization abili- wide range of frequency bands to determine whether blind
+ties (Rauschecker and Kniepert 1994; see also King and Par- individuals would show enhanced coherence reXecting
+sons 1999). They also studied the physiological mechanisms increased connectivity between the central auditory and
+underlying this superior performance. They recorded neurons posterior cortical regions. It was found that oscillations in
+of the anterior ectosylvian area, which is normally a multi- the theta, alpha, and beta frequency bands in fronto-central
+modal area, and found not only that the sub-area responsive and occipital electrodes were linked during the task to a
+to auditory stimuli was signiWcantly expanded in the larger extent in early blind subjects compared to sighted
+deprived animals (Rauschecker and Korte 1993) but also that controls. This Wnding can be seen as an indicator of
+the neurons were more sharply tuned to auditory spatial loca- enhanced connectivity between auditory and visual brain
+tion (Korte and Rauschecker 1993). Similarly, in humans, a regions in the former group (Leclerc etal. 2005). Another
+number of laboratories have attempted to examine whether previous ERP study also demonstrated a posterior distribu-
+occipital areas deprived of their normal input could adapt to tion of the N1 during the spatial processing of laterally pre-
+process inputs from the remaining senses. In a pioneering sented sounds in early blind subjects (Roder etal. 1999),
+study using positron emission tomography (PET), Veraart supporting the hypothesis that early aspects of auditory pro-
+and collaborators demonstrated abnormally elevated meta- cessing are involved in the cross-modal recruitment of
+bolic activity in occipital areas of early blind individuals at occipital regions in the blind.
+rest, which was at about the same level as in sighted subjects As a complement to these electrophysiological tech-
+involved in a constraining visual task (Veraart etal. 1990; niques and their powerful temporal resolution, functional
+Wanet-Defalque etal. 1988). A further study showed that neuroimaging tools, like PET or functional magnetic reso-
+this elevated metabolic activity was not due to gliosis, but nance imaging (fMRI), provide much better spatial preci-
+indeed related to neural activity (De Volder etal. 1997). sion regarding the localization of cortical regions involved
+Since these preliminary works, a number of neuroimaging in cross-modal processing in the blind. Weeks and collabo-
+studies using various paradigms have now demonstrated rators (Weeks etal. 2000) used PET and reported that blind
+task-dependent activations of the occipital cortex (OC) dur- but not sighted subjects strongly activated association areas
+ing tactile (Buchel 1998; Burton etal. 2002a; Pietrini etal. in the right dorsal occipital cortex. This region was also
+2004; Sadato etal. 1996), auditory (Kujala etal. 1995; highly activated in early blind subjects using a sensory sub-
+Leclerc etal. 2000; Roder etal. 1999; Weeks etal. 2000), stitution prosthesis translating visual information into
+123
+Exp Brain Res (2009) 192:343–358 347
+Fig.2 a Grand average ERPs to
+auditory stimuli recorded over
+Oz site in four blind subjects
+with supra-normal auditory
+localization abilities and in 12
+sighted controls subjects. b
+Scalp distribution of the N1 with
+topographical maps of the mean
+voltage amplitudes ((cid:1)V) in the
+sighted (top) and blind (bottom)
+groups. The rightmost bar pre-
+sents negative activation in grad-
+uated fashion. The Wgure
+illustrates that the early auditory
+component N1 is prominent in
+blind subjects but almost absent
+in sighted ones. Adapted with
+permissions from Leclerc etal.
+(2000)
+sounds, in a task that mainly targeted auditory spatial pro- region is critical for a particular behavior. This method has
+cessing (Arno etal. 2001a). It is worth noting that this thus been used to prove the necessity of the occipital cortex
+region corresponds to regions that have previously been of the blind for Braille reading (Cohen etal. 1997; Kupers
+shown to be involved in visuo-spatial processing in sighted etal. 2007) and verbal (Amedi etal. 2004) processing. We
+subjects (Haxby etal. 1991, 1994). The similarity in the also demonstrated that TMS interfered with the use of a
+foci of activation between visuo-spatial processing in the prosthesis substituting vision by audition (PSVA) and with
+sighted and auditory spatial processing in the blind suggests the localization of sounds in blind subjects when applied
+that these areas may retain their functional and neuronal over the right dorsal extrastriate cortex (Collignon etal.
+coding ability, which would enable them to process input 2007), a region that was shown in PET to be highly acti-
+from a diVerent sensory modality. Reinforcing this notion, vated by these tasks in the blind (Arno etal. 2001a; Weeks
+some of us recently observed that auditory motion process- etal. 2000). By contrast, TMS targeting the same cortical
+ing in congenitally blind individuals activated the brain net- area had no eVect on any auditory performance in sighted
+work for auditory and visual motion processing classically subjects and did not interfere with pitch and intensity dis-
+observed in sighted subjects (Poirier etal. 2006b). Accord- criminations in the blind (see Fig.3). We thus concluded
+ingly, brain areas previously considered to be involved in that early visual deprivation leads to functional cerebral
+visual motion processing were speciWcally recruited in reorganization such that the right dorsal stream is recruited
+blind people by motion stimuli presented through the audi- for the spatial processing of sounds, a result which is in
+tory modality. In the same vein, a recent fMRI study clear agreement with previous neuroimaging studies on
+showed that region MT+/V5, that normally processes non-visual space processing in this population (Arno etal.
+visual motion in the sighted, selectively responded to both 2001a; Poirier etal. 2006b; Saenz etal. 2008; Vanlierde
+moving sounds and moving visual stimuli in two individu- etal. 2003). Here again, these results suggest that spatial
+als who had been blind since early childhood and whose hearing in the blind maps onto specialized sub-regions of
+vision had been partially recovered in adulthood (Saenz the occipital cortex known to be involved in the spatial pro-
+etal. 2008). cessing of visual input in sighted people. Interestingly, a
+It is, on the other hand, possible that these results may recent study reported activation of a sub-region of the lat-
+simply reXect an association between stimulus presentation eral-occipital complex (LOtv) normally responsive to
+and cortical activation, without actually proving that occip- visual and tactile object-related processing when blind sub-
+ital areas of the blind are functionally involved in non- jects extracted shape information from visual-to-auditory
+visual processing. These co-activations may simply result sensory substitution soundscapes (Amedi etal. 2007; see
+from non-functionally related connections between these also Pietrini etal. 2004 for ventral activations in tactile
+cortices. Transcranial magnetic stimulation (TMS), which shape recognition in the blind). In a similar manner, neuro-
+induces a focal and transient disruption of the proper func- imaging studies showed that mental imagery of object
+tioning of a targeted area, is therefore a useful approach to shape recruited more ventral occipital areas (De Volder
+determine whether and to what extent a speciWc brain etal. 2001), whereas mental imagery of object position
+123
+348 Exp Brain Res (2009) 192:343–358
+Fig.3 InXuence of TMS over the occipital cortex on performance in Wgure displays the average percentage of correct pattern recognition
+three auditory discrimination tasks and in a pattern recognition task us- (d) and the mean exploration time (e) taken to recognize patterns. The
+ing PSVA. The Wrst part of the Wgure denotes the average error rate in data indicate a signiWcant decrease of recognition score and a signiW-
+blind and sighted subjects after sham and real TMS targeting the dorsal cant increase of exploration time after real compared to sham TMS in
+occipital stream during auditory tasks involving discrimination of the blind group only. Panel f displays the projection of the site of TMS
+intensity (a), pitch (b) and spatial location (c). The data show a signiW- application on a 3-D reconstruction of a blind subject’s brain. This area
+cant increase of the error rate after real rTMS only in the blind group corresponds to the right dorsal extrastriate occipital cortex (BA 18).
+and selectively for the sound location task. The second part of the Adapted with permissions from Collignon etal. (2007)
+recruited more dorsal occipital regions (Vanlierde etal. (one ear plugged), the degree of activation of several foci
+2003) in the blind. It thus appears that a functional dissocia- in the striate and extrastriate cortex correlated with sound
+tion between a ventral “What” stream for the processing of localization accuracy (Gougoux etal. 2005) (see Fig.4b).
+object shape and a dorsal “Where” stream for the process- Among these foci, we found that a region of the right dor-
+ing of space also exists for auditory stimuli treated in the sal extrastriate cortex highly correlated with performance,
+occipital cortex of blind subjects. thus conWrming the implication of this region in spatial
+The demonstration that transient perturbation of occip- hearing in early blind subjects (Collignon etal. 2007;
+ital area with TMS selectively disrupted auditory spatial Weeks etal. 2000). Moreover, we found a correlation
+processing in the blind compared to sighted subjects illus- between performance and the right lingual gyrus, a region
+trates that this “visual” area is functionally involved in the known to form part of the ventral visual pathway, which is
+neural network that underlies auditory ability (Collignon important for identifying visual objects. If this region is
+etal. 2007). This functional relevance of occipital recruit- important for the processing of visual object features,
+ment thus explains how visual cortex activation may con- such as contour or texture (Kastner etal. 2000; Mendola
+tribute to superior hearing abilities observed in blind etal. 1999), it is possible that the same area is used in the
+people. We therefore examined whether occipital activity blind to process analogous features for auditory stimuli
+levels would predict diVerences in behavioral perfor- such as spectral contour, as elicited by the monaural local-
+mances. We used a speaker array that permitted pseudo- ization task. This result not only conWrms an enhanced
+free-Weld presentations of sounds during PET-scanning recruitment of occipital region in auditory spatial process-
+(Gougoux etal. 2005; Voss etal. 2006, 2008) (see ing in blind subjects but also suggests that such restructur-
+Fig.4a). In a Wrst study conducted in early blind individu- ing of the auditory circuit may underlie their superior
+als, we observed that during monaural sound localization abilities.
+123
+Exp Brain Res (2009) 192:343–358 349
+Although most researchers now agree that early blind tion in striate and extrastriate cortices of the left hemi-
+individuals beneWt from plastic changes involving the sphere). Overall, the current results indicate that the late
+occipital cortex, the debate is still open as to whether or not blind do show altered functioning of their deaVerented
+the same is true for late blind ones.1 Some studies have visual cortices. However, the age of onset appears to play
+shown that plastic changes can occur in the latter (Buchel an important role regarding the extent of plasticity and in
+etal. 1998; Kujala etal. 1997), whereas others have sug- determining the speciWc regions recruited by auditory tasks.
+gested the existence of a critical period beyond which little Similarly, the ERP paradigm used by Roder and collabora-
+or no cerebral reorganization is possible (Cohen etal. 1999; tors (1999)to demonstrate a posterior distribution of the N1
+Sadato etal. 2002). We thus designed two PET studies component in the early blind was recently used to test late
+using the same material described above (see Fig.4a) to blind subjects (Fieger etal. 2006). It was found that the lat-
+assess the eVects of the age of onset of blindness on audi- ter, like the former, demonstrate an enhanced capability for
+tory localization. In two separate studies (Voss etal. 2006, focusing auditory attention in the periphery. However,
+2008), we observed altered functioning of the deprived these supra-normal abilities seem to depend on diVerent
+visual cortices of late blind subjects. In a Wrst study using a mechanisms, since the early blind demonstrate a more
+sound localization task, we observed occipital activations in sharply tuned early attentional Wltering, manifested in the
+late blind subjects but not in sighted ones, without any N1 ERP component, whereas the late blind show reorgani-
+behavioral advantage of late blind participants over sighted zation in the later stages of target discrimination, indexed
+ones during both monaural and binaural conditions (Voss by the P3 (Fieger etal. 2006). Similarly, Munte and collab-
+etal. 2006) (see Fig. 5). A second experiment (Voss etal. orators (2001)carried out the same ERP paradigm and
+2008) was designed to use a less demanding spatial audi- found that experienced professional conductors displayed a
+tory task while sharing similarities with the one used in our sharper slope of the N1 gradient compared to pianists and
+previous behavioral study (Voss etal. 2004). The similari- non-musicians when spatially processing sounds in the
+ties with the tasks, however, did not produce similar results. periphery. However, in contrast to the results of early blind
+One subgroup of early blind subjects excelled in the mon- subjects (Roder etal. 1999), the scalp distribution of the N1
+aural task, whereas the late blinds (along with a second for conductors did not diVer from that of other musicians.
+group of early blind subjects) were no diVerent than sighted This distributional similarity of the two groups may be
+individuals. While behavioral enhancements in the late compared to the Wnding that the N1 distributions of sighted
+blinds were not observed within the context of the current and late blind adults did not diVer in the study of Fieger
+experiment, clear and novel plastic changes were on the etal. (2006). Taken together, all these results reinforce the
+other hand observed. Ventral visual areas of the occipito- hypothesis that improved sound localization is mediated by
+temporal cortices were recruited during the monaural task. diVerent reorganization mechanisms in developing and
+This contrasts with both what was observed in sighted indi- adult brains. More generally, they suggest that the human
+viduals (no activation in visual areas) and in early blind brain retains a high level of plasticity into adulthood,
+participants with superior performance (widespread activa- though not necessarily identical to that of the young brain,
+making it possible for adaptive changes which can possibly
+partially compensate for the visual handicap throughout the
+1 In all the cited papers, the upper limit for total blindness acquisition lifetime. However, the exact mechanisms underlying these
+in the early blind group vary between 2 and 10years and the lower lim- diVerential takeovers with respect to the age of onset of
+it for total blindness acquisition for the late blind group vary from 9 to
+blindness remain unclear.
+16years. Although some authors have suggested the existence of a pre-
+cise critical period (i.e., 14years) beyond which little or no behavioral Support for the existence of behavioral and cerebral
+compensation and no crossmodal recruitment of primary visual cortex reorganization and behavioral compensation in the adult
+is possible (Cohen etal. 1999; Sadato etal. 2002), we think that the
+resulting from visual deprivation can also be seen in studies
+determination of an exact age cut-oV between “early” and “late” blind
+subject is a diYcult exercise since it is inXuenced by the history of deW- with sighted subjects blindfolded for short periods of time.
+cit acquisition. Indeed, it is quite rare that blind subjects suVer from For example Boroojerdi and collaborators (2000) elegantly
+sudden and total blindness. Usually, blind subjects experience progres- showed using TMS and fMRI that short-term visual depri-
+sive visual impairment prior to the onset of complete blindness. We
+vation can induce substantial changes in the visual cortex’s
+thus think that functional criteria should also be added when separating
+excitability (see also Pitskel etal. 2007). These results are
+early and late blind subjects. Indeed, it is fundamental that early blind
+subjects, if not totally blind at birth, never had functional vision during compatible with the report of a signiWcant increase in
+the Wrst years of life which would have led to the normal development occipital responses to sounds in sighted subjects blind-
+of the visual system. At the contrary, late blind subjects only represent
+folded for 5days (Pascual-Leone etal. 2005). Other studies
+a good model for the observation of plasticity in adult if they had an
+intact visual system before the apparition of visual deWcits. For exam- have also shown enhanced perceptual acuity in sighted sub-
+ple, in our studies, all late blind subjects had been able to read print, jects after a short period of visual deprivation (Facchini and
+travel by themselves, etc., to be included in our sample. Aglioti 2003; KauVman etal. 2002). For example, simply
+123
+350 Exp Brain Res (2009) 192:343–358
+Fig.4 a Stimulus array used to
+present spatial sounds into the
+PET-scan, shown outside the
+scanner (left) and inside the
+scanner (right). b Data of the
+correlational analysis between
+performance (mean absolute er-
+ror) in pointing task to monau-
+rally presented sounds and CBF
+in a group of blind subjects. The
+two columns of brain images
+(left image series, sagittal sec-
+tions; right image series, coronal
+sections) illustrate regions in the
+ventral extrastriate (a), in the
+dorsal extrastriate (b) and striate
+(c) cortices that correlate with
+monaural sound location perfor-
+mance in early blind subjects.
+The red arrows in the coronal
+slices indicate the focus selected
+for the respective sagittal slices.
+The scattergram shows the indi-
+vidual values extracted from
+each of these regions; closed cir-
+cles indicate blind subjects; open
+circles indicate sighted controls.
+X and Y coordinates refer to stan-
+dardized stereotaxic space.
+Adapted with permissions from
+Gougoux etal. (2005)
+Fig.5 In the central portion of
+the Wgure are presented the
+behavioral results in a binaural
+localization task. The dashed
+lines indicate ideal performance
+and the solid lines represent the
+real localization performance.
+To the left and right of the graph
+are shown coronal and sagittal
+slices, respectively, of activated
+cortices in the binaural localiza-
+tion task. Despite identical
+behavioral performance, signiW-
+cant activation is observed in the
+visual cortex of the late-onset
+blind group (Panel b) but not in
+the sighted group (panel a)
+123
+Exp Brain Res (2009) 192:343–358 351
+blindfolding participants for 90min resulted in a reversible 1993, 1996; Huttenlocher 1966; Huttenlocher and de Court
+improvement in accuracy during sound localization 1987; Huttenlocher and Dabholkar 1997; Rakic etal.
+(Lewald 2007), similar, though smaller in magnitude, to the 1986). It was postulated that early synaptic contacts are
+previously observed eVect in blind subjects (Lewald largely random and it is the elimination of weaker, unused
+2002b). These Wndings indicate that short-term visual or redundant synapses that mediates the speciWcation of
+deprivation may reveal highly dynamic plastic interactions functional and modular neuronal networks (Changeux etal.
+between visual and auditory systems. It thus follows that 1973; Changeux and Danchin 1976). The human occipital
+visual deprivation at a later age may inXuence existing neu- cortex undergoes such changes in synaptic density during
+ronal circuits involved in processing auditory information its normal development (Huttenlocher and de Courten
+in visual areas of normal subjects. In fact, a number of stud- 1987). After a peak of development ending approximately
+ies, both in animals and humans, have demonstrated the at the age of 8months, about 40% of the synapses of the
+involvement of occipital cortex in the processing of spatial visual cortex are gradually removed to achieve a stable syn-
+sounds. In adult cats, Morrell (1972) found that up to 41% aptic density at approximately the age of 11years (Huttenl-
+of recorded neurons in extrastriate occipital areas could be ocher and de Court 1987). Experiments with cats have
+modulated by both visual and auditory stimuli and that the shown that during the synaptic pruning phase, projections
+receptive Welds for both responses typically overlapped in from the auditory cortex towards the occipital cortex are
+space (Morrell 1972; see also Fishman and Michael 1973 eliminated either through cell death or retraction of exuber-
+for comparable results). Recent studies in humans have also ant collaterals (Dehay etal. 1988; Innocenti and Clarke
+brought forth evidence of an occipital activation (Allman 1984; Innocenti etal. 1988; Kennedy etal. 1989), probably
+and Meredith 2007; Giard and Peronnet 1999; Molholm through Hebbian competition (synapses that participate in
+etal. 2002; Poirier etal. 2005; Zimmer etal. 2004) or driving a postsynaptic cell strengthen, while synapses that
+involvement (Lewald etal. 2004; Collignon etal. 2008) in fail to drive a postsynaptic cell weaken; Hebb 1949). How-
+auditory processing. Along these lines, recent anatomical ever, in kittens deprived of vision at birth, these extrinsic
+studies have provided evidence for direct projections from connections to the occipital cortex seem to remain (Berman
+the auditory cortex to the visual cortex in normal adult 1991; Yaka etal. 1999).
+monkeys (Falchier etal. 2002; Rockland and Ojima 2003). Even if auditory inputs to occipital regions are main-
+These data suggest that sound localization cues may be pro- tained in visually deprived subjects, is it possible that this
+cessed in the occipital cortex of sighted subjects, putatively area normally dedicated to visual inputs reverts to process-
+for multisensory purposes, such as the remapping of space ing auditory stimuli in a functional way? Experiments on
+across changes in posture to keep the external auditory and “rewired” animals may help answer the question. By mak-
+visual maps spatially aligned (Collignon etal. 2008). It is ing a series of brainstem lesions, it is possible to surgically
+thus plausible that the processing of sounds in occipital cor- re-route visual input toward primary somatosensory or
+tex of sighted subjects increases in the absence of the domi- auditory areas (Frost and Metin 1985; Roe etal. 1992,
+nant visual inputs, even after a short period of light 1990; Sur etal. 1988). Such experiments not only demon-
+deprivation. This mechanism of reinforcing pre-existing strated that these rewired regions share some structural and
+auditory aVerents to occipital regions may also underlie at functional similarities with cells recorded in the visual cor-
+least in part the cross-modal plasticity in late blindness. As tex of normally raised animals, but they also mediate some
+will be discussed below, this mechanism probably diVers visually-guided behavior (Frost etal. 2000; von Melchner
+from the one at play in early blind subjects because of the etal. 2000). These data therefore suggest that primary corti-
+absence of developmental and competitive visual inputs in cal areas can change their functional speciWcity depending
+the latter population. on which inputs they receive. It is thus possible that in the
+absence of competitive visual inputs during the synaptic
+stabilization phase, a signiWcant number of auditory con-
+Putative mechanisms and anatomical substrates nections to the occipital cortex persist due to their activity,
+underlying cross-modal plasticity which could explain the massive and functional interven-
+tion of this region for the processing of sounds in blind sub-
+While studies focusing on visual deprivation in animals and jects.
+humans have undoubtedly demonstrated cross-modal It is worth noting that besides changes in cortico-cortical
+recruitment of occipital regions, the mechanisms mediating connections from auditory to visual cortex, reorganization
+such a reorganization are still elusive. We know from of subcortical pathways has also been proposed to drive
+neuro-developmental studies in humans and primates that auditory information in the visual cortex of the blind.
+after a Wrst period of exuberant proliferation of synapses, Indeed, neuronal tracing studies in blind animals have
+their numbers are gradually reduced (Bourgeois and Rakic revealed that the inferior colliculus (an auditory relay) may
+123
+352 Exp Brain Res (2009) 192:343–358
+project to thalamic structures normally occupied by the inputs in visual cortex when comparing blind to sighted
+visual system (i.e., the lateral geniculate nucleus) (Chabot subjects might be due to a masking eVect of the dominant
+etal. 2008; Doron and Wollberg 1994; Izraeli etal. 2002; visual modality in this region. The cross-modal plasticity in
+Piche etal. 2004, 2007). It is possible that a combination of the case of late blindness may in fact rely on the strengthen-
+both cortical and subcortical connectivity changes explain ing of normally present subtle auditory connections within
+how the visually deprived occipital cortex receives auditory the occipital visual areas following the loss of vision. This
+inputs in cases of early blindness (Karlen etal. 2006). idea receives further support from studies using short-term
+While the maintenance of normally transient intermodal visual deprivation where the speed at which changes in
+connections may underlie, at least in part, the plastic occipital activity occur is not commensurate with the crea-
+changes observed with congenital loss of sight, this could tion of new connections (Pascual-Leone and Hamilton
+not account for the cerebral reorganization in the case of 2001; Pascual-Leone etal. 2005). In summary, these data
+late blindness since visual deprivation arises in a brain suggest that some of the transient auditory connections
+already wired for visual processing. Consequently, diVer- might not be pruned but rather silenced because of their rel-
+ences in the mechanisms mediating cross-modal plasticity atively low signal strength in a context of visual domi-
+in early and late blind subjects must explain the diVerent nance, but may gain greater functional relevance when the
+patterns of occipital recruitment observed between these visual cortex is challenged by visual deprivation.
+populations. For example, Veraart and collaborators (1990) Taken together, the results obtained in early and late
+showed, using PET-scan, that glucose utilization in the blind subjects clearly demonstrate the presence of cross-
+occipital cortex of early blind is elevated and comparable to modal plasticity, as cortical territories normally involved in
+the one of sighted subjects with eyes open. However, meta- visual processing are recruited for auditory functions. How-
+bolic activity in late blind was signiWcantly lower and com- ever, questions remain about the nature of the organization
+parable to sighted subjects with eyes closed. This was of the visual cortex in blind people. Does the recruited
+thought to reXect the persistence, in early blindness, of nor- occipital cortex process diVerent stimuli in a global manner
+mally transient connections between auditory and visual or does it do so using some functional modularity similar to
+centers. In late blindness, however, these extrinsic inputs that observed in sighted subjects, with precise regions
+would not escape the normal developmental synaptic prun- involved in speciWc cognitive functions? As pointed in the
+ing due to the presence of stabilizing visual input. In line last section, such cortical reorganization does not occur ran-
+with such an assumption, an elegant study combining PET- domly and formidable constraints are imposed on the way
+scan and TMS was carried out to probe the connection non-visual inputs are processed. An important characteris-
+between primary somatosensory cortex (S1) and early tic of visual cortex in sighted people is domain specializa-
+visual cortex (V1) in early blind, late blind and sighted sub- tion wherein speciWc functional activity has been found in
+jects (Wittenberg etal. 2004). They showed that the appli- anatomically identiWable regions (Grill-Spector and Malach
+cation of TMS over S1 induced signiWcant activation of V1 2004). If a speciWc domain dedicated to visual features,
+only in the early blind group. These results are again con- such as color or retinal disparity, is unlikely to function as
+sistent with the hypothesis of reinforced cortico-cortical such in blindness, it appears more probable that the func-
+connection in early- but not in late blind subjects, possibly tional specialization described for “object”-selective
+due to a lack of synaptic pruning in early blindness. regions in the ventral occipito-temporal region—and for
+However, even though it was assumed that cross-modal “position in space”-selective regions in the dorsal occipito-
+reorganization was absent in the late blind subjects due to parietal region—may persist in blind people. As described
+the fact that it occurred after a “critical period” for plastic above, certain results seem to indicate that the occipital cor-
+changes (Cohen etal. 1999), a number of studies do point tex of blind people could be organized in a modular way
+to functional changes in how their occipital cortex pro- similar to the one in sighted people. Adapting the neuronal
+cesses non-visual inputs (Buchel etal. 1998; Burton etal. “recycling” hypothesis (Dehaene and Cohen 2007) for
+2002a, b; Burton and McLaren 2006; Voss etal. 2006, cross-modal plasticity in the blind, we postulate that
+2008; see also Ghazanfar and Schroeder 2006 for a review). recruitments of occipital regions in the blind must Wnd their
+Moreover, these Wndings are supported by anatomical stud- “neuronal niche” into a set of circuits that are suYciently
+ies showing direct connections between auditory and visual close to the required function and suYciently plastic as to
+cortical regions in adult sighted monkeys (Cappe and reorient a signiWcant fraction of their neural resources for
+Barone 2005; Clavagnier etal. 2004; Falchier etal. 2002; this novel use. This is eloquently illustrated by the fact that
+Rockland and Ojima 2003), suggesting that some exuberant moving sounds seem to preferentially recruit area MT+/V5
+intermodal connections might not be pruned in early in blind subjects (Poirier etal. 2006a; Saenz etal. 2008), a
+infancy, even if their functional purpose remains elusive. region dedicated to the processing of visual movement in
+The absence of a systematic observation of such auditory the sighted (Tootell etal. 1995). Similarly, Ricciardi and
+123
+Exp Brain Res (2009) 192:343–358 353
+collaborators (2007) have found that tactile Xow perception sensory modality is used to accomplish a task, which is nor-
+activates MT+/V5 region in blind subjects. In summary, mally subserved primarily by another sensory modality. In
+these results suggest that cross-modal recruitment of visu- both cases, our understanding of neuroplastic changes in
+ally deprived occipital regions might depend on the compu- the blind, and in particular cross-modal plasticity, may
+tational contribution that a given region normally makes to guide the design of these methods which are currently
+visual inputs in sighted subjects. under experimental consideration, but are based on oppos-
+It is however also important to note that verbal-memory ing principles of rehabilitation.
+tasks generate robust activations in the visual cortex of con- The use of the plastic capacity of the brain is intuitively
+genitally blind subjects, even in the absence of any sensory exploited in numerous rehabilitation programs aiming at
+stimulation (Amedi etal. 2003). Accordingly, language promoting non-visual skills (i.e., echo-location). Since it
+task activate the same occipital regions in the blind, regard- was recently discovered that enrichment of the environment
+less of the input modality (Amedi etal. 2003; Burton etal., is an eVective means of dramatically enhancing cross-
+2002a). These results conWrm the presence of adaptation in modal plasticity associated with blindness (Piche etal.
+the visual cortex and suggest that some recruitment of 2004), and because such reorganization mechanisms may
+occipital region in blind subjects can be more likely underlie enhanced perceptual skills in the blind (Gougoux
+explained in terms of particular cognitive operations rather etal. 2005), orientation and mobility programs assume that
+than due to basic sensory processing. To associate these they can trigger supra-normal skills in blind subjects
+results to the present topic of the paper, we also consider though rehabilitation. Hence, an increasing number of labo-
+that the take-over of dorsal occipital areas of the blinds for ratories are currently engaged in developing and testing
+spatial processing is done regardless of the input modality. new sensory substitution prostheses to attenuate the eVects
+In fact, we know that the spatial processing of tactile stim- of visual deprivation (Amedi etal. 2007; Bach-y-Rita etal.
+uli (Ricciardi etal. 2007) or even spatial imagery without 1969; Capelle etal. 1998; Collignon etal. 2007; Meijer
+sensory stimulation recruits the same dorsal occipital areas 1992; Proulx etal. 2008; Poirier etal. 2007; Ptito etal.
+in the blind (Vanlierde etal. 2003). Moreover, studies 2005; Renier etal. 2005). All these systems are designed to
+exploring language-related activation in the occipital cortex make use of the residual intact senses to provide blind peo-
+of the blind found a strong left lateralization in blind sub- ple with coded information related to lost perception in a
+jects (Amedi etal. 2003; Burton etal. 2002b), in agreement rehabilitation paradigm (Veraart etal. 2004). Our group has
+with the left lateralization of language processing in sighted experimented one such system, namely a prosthesis for sub-
+subjects. Again, this result suggests that the recruitment of stitution of vision by audition (PSVA) (Capelle etal. 1998).
+occipital regions in blind subjects may be constrained by This system has proven its eYciency in blind individuals
+the normal functional organization of the brain observed in for the recognition of quite complex 2-dimensional shapes
+sighted subjects. It is thus likely that visual cortex of the (Arno etal. 1999). Moreover, the latter were found to be
+blinds may participate in linguistic (Amedi etal. 2003; Bur- more accurate when using the PSVA (Arno etal. 2001b)
+ton etal. 2002a, b; Roder etal. 2002), memory (Amedi and they recruited more the occipital cortex than the sighted
+2003) or attentional (Stevens etal. 2007; Weaver etal. when using the device in a pattern recognition task (Arno
+2007) tasks as well as in more basic sensory processing. etal. 2001a; Collignon etal. 2007). As stated previously,
+Whether these various functions are subserved by the same we postulate that occipital regions are recruited in a com-
+or segregated sets of neurons, as well as the neural pensatory cross-modal manner that may account for the
+mechanisms that mediate such plasticity (top-down pro- superior abilities seen when using the prosthesis. The sen-
+cessing from associative cortices or feed-forward connec- sory substitution devices, therefore, constitute interesting
+tions between primary sensory cortices), are still however new techniques that are non-invasive, and their working
+elusive and must be subjects for future research (Sathian principles follow the natural tendency of the brain to reor-
+2005). ganize itself through the other modalities. However, their
+principal drawbacks are that they are mainly dedicated to
+the fundamental study of cross-modal reorganization and
+Rehabilitation do not yet constitute, in their present form, realistic oppor-
+tunities for their introduction in the blind community. This
+When multifunctional visual rehabilitation is desired as a is generally related to the poor ergonomic quality of such
+treatment for blindness, invasive and non-invasive solu- human–machine interface. The coding scheme is quite
+tions can be investigated. Invasive neuroprostheses rely on complex, inducing an excessive cognitive load when using
+the integrity of visual cortex function for the generation of the device outside of laboratory settings, and the visual
+visual phosphenes through electrical stimulation. In con- information gathered by the camera is generally too com-
+trast, in sensory substitution, information acquired with one plex to be entirely recorded in the substitutive modality
+123
+354 Exp Brain Res (2009) 192:343–358
+without creating a “noisy” percept. Moreover, these devices tions based on the extent to which the deprived cortex is
+require the use of a remaining modality (most often audi- now reorganized.
+tion) that blind people already dedicate in a skilful way for
+their daily-life activities. As a good example that some-
+times “less is more”, and aside from the guide-dog, the only Conclusion
+substitutive systems widely in use in the blind community
+is the Braille reading system and the white cane, both rely- Sensory deprivation often leads to reorganization of cer-
+ing on a direct and “simple” coding scheme of information. tain neural networks in order to develop the most eVec-
+Consequently, it appears evident that more consideration tive possible adaptation in the remaining senses to cope
+needs to be dedicated in the designing of more ergonomet- with the deWcit. In this review, we explored recent views
+ric sensory substitution systems for visual rehabilitation on cross-modal plastic changes occurring in the occipital
+purposes. areas of blind subjects, with a special emphasis on the
+Visual prosthetic implants (see Merabet etal. 2005 or spatial processing of sounds. We have seen that the
+Veraart etal. 2004 for reviews), contrary to sensory sub- absence of visual inputs in the blind may lead to
+stitution systems do not take advantage of the natural improved perceptual skills and dramatic changes in the
+reorganization of the cortex of the blind since such inva- functional properties of the occipital cortex. Moreover,
+sive approaches attempt to stimulate the deWcient sensory it seems that these behavioral and cerebral adaptations
+system directly. As such, these prostheses are mainly ded- are intrinsically linked. We also pointed out that the
+icated to blindness acquired at a later age since the devel- mechanisms underlying occipital recruitment could con-
+opment of the visual system and previous visual siderably diVer in early and late blind. We postulated
+experience would be a prerequisite to trigger and interpret that early deprivation could favor the maintenance of
+the visual percept induced by the stimulation of neural tis- normally pruned intermodal connections between corti-
+sues. For example, a study demonstrated that the ability to ces while late blindness may induce the strengthening of
+elicit phosphenes with application of TMS over the occip- existing intermodal connections already present in
+ital area is dramatically reduced in subjects with a high sighted subjects. Moreover, we hypothesize that the
+degree of visual deaVerentation, especially in those with- recruitment of occipital regions by non-visual process-
+out history of visual experience (Gothe etal. 2002). Simi- ing in blind subjects may be constrained by the normal
+larly, studies exploring visual skills in individuals who functional specialization of this region. For example, the
+have recovered their sight after prolonged blindness (Fine spatial processing of sounds seems to recruit more
+etal. 2003; Gregory 1963) have shown that they presented extensively the dorsal occipital stream in blind subjects,
+marked visual deWciencies, especially when interpreting a region known to be involved in the processing of
+complex visual inputs or scenes, even if more basic visual visuo-spatial information in the sighted (Haxby etal.
+functions appeared to be intact (i.e., motion detection). 1991). We have now reached a point where it is no
+Indeed, the loss of visual abilities following early visual longer suYcient to simply show that the occipital cortex
+deprivation and consequent recruitment of occipital can be recruited by non-visual processing in the blind.
+regions by non-visual inputs might in fact hinder the re- Rather, the challenge we now face is to unravel how this
+acquisition of the original visual function via the pros- process could be related to normal development in
+thetic implant. For example, it was recently demonstrated sighted subjects and to what extent occipital coloniza-
+that individuals who had recovered their sight still had tion by a novel modality in the blind follow organiza-
+robust responses to auditory stimulation in their visual tional principles present in sighted subjects. Moreover,
+cortex many years after sight-recovery (Saenz etal. future studies will have to investigate how diVerences in
+2008). It thus seems that the cross-modal rewiring that cross-modal plasticity in congenitally and late blind peo-
+follows visual deprivation can be detrimental to the ple may be related to activation of the occipital cortex
+preservation of visual processing capabilities in the by non-visual input already present in sighted people.
+regions. A similar phenomenon can be observed in deaf The aim should be to provide a uniWed framework to
+individuals. It was demonstrated that because of cross- understand cross-modal processing in the occipital cor-
+modal plasticity, resulting in visual activation of the audi- tex of normal and visually deprived people, and reveal
+tory cortex, impaired the chances of a successful outcome the mechanisms that may facilitate network dynamics in
+to cochlear implantation (Doucet etal. 2006; Lee etal. order to improve the functional outcome.
+2001). These results suggest that pre-implantation neuro-
+imaging assessments could guide implementation of neu- Acknowledgments This work was supported by the FRSQ Rehabil-
+itation network (REPAR; ML, FL, OC), the FRSQ Group grant (ML,
+roprostheses, such as cochlear or visual implants, by
+FL), the Canada Research Chair Program (ML, FL), the Canadian
+allowing the prediction of the outcome of such interven-
+123
+Exp Brain Res (2009) 192:343–358 355
+Institutes of Health Research (ML, FL) and the Natural Sciences and Burton H, McLaren DG (2006) Visual cortex activation in late-onset,
+Engineering Research Council of Canada (ML, FL, PV). OC is a post- Braille naive blind individuals: an fMRI study during semantic and
+doctoral researcher at the Belgian National Funds for ScientiWc Re- phonological tasks with heard words. Neurosci Lett 392:38–42
+search (F.R.S.-FNRS). Burton H, Snyder AZ, Conturo TE, Akbudak E, Ollinger JM, Raichle
+ME (2002a) Adaptive changes in early and late blind: a fMRI
+study of Braille reading. J Neurophysiol 87:589–607
+Burton H, Snyder AZ, Diamond JB, Raichle ME (2002b) Adaptive
+References
+changes in early and late blind: a FMRI study of verb generation
+to heard nouns. J Neurophysiol 88:3359–3371
+Allman BL, Meredith MA (2007) Multisensory processing in “unimo- Cappe C, Barone P (2005) Heteromodal connections supporting mul-
+dal” neurons: cross-modal subthreshold auditory eVects in cat tisensory integration at low levels of cortical processing in the
+extrastriate visual cortex. J Neurophysiol 98:545–549 monkey. Eur J NeuroSci 22:2886–2902
+Amedi A, Raz N, Pianka P, Malach R, Zohary E (2003) Early ‘visual’ Capelle C, Trullemans C, Arno P, Veraart C (1998) A real-time exper-
+cortex activation correlates with superior verbal memory perfor- imental prototype for enhancement of vision rehabilitation using
+mance in the blind. Nat Neurosci 6:758–766 auditory substitution. IEEE Trans Biomed Eng 45:1279–1293
+Amedi A, Floel A, Knecht S, Zohary E, Cohen LG (2004) Transcranial Chabot N, Charbonneau V, Laramee ME, Tremblay R, Boire D, Bron-
+magnetic stimulation of the occipital pole interferes with verbal chti G (2008) Subcortical auditory input to the primary visual cor-
+processing in blind subjects. Nat Neurosci 7(11):1266–1270 tex in anophthalmic mice. Neurosci Lett 433:129–134
+Amedi A, Stern WM, Camprodon JA, Bermpohl F, Merabet L, Rotman Changeux JP, Danchin A (1976) Selective stabilisation of developing
+S, Hemond C, Meijer P, Pascual-Leone A (2007) Shape conveyed synapses as a mechanism for the speciWcation of neuronal net-
+by visual-to-auditory sensory substitution activates the lateral works. Nature 264:705–712
+occipital complex. Nat Neurosci 10:687–689 Changeux JP, Courrege P, Danchin A (1973) A theory of the epigene-
+Arno P, Capelle C, Wanet-Defalque MC, Catalan-Ahumada M, Vera- sis of neuronal networks by selective stabilization of synapses.
+art C (1999) Auditory coding of visual patterns for the blind. Per- Proc Natl Acad Sci USA 70:2974–2978
+ception 28:1013–1029 Clavagnier S, Falchier A, Kennedy H (2004) Long-distance feedback
+Arno P, De Volder AG, Vanlierde A, Wanet-Defalque MC, Streel E, projections to area V1: implications for multisensory integration,
+Robert A, Sanabria-Bohorquez S, Veraart C (2001a) Occipital spatial awareness, and visual consciousness. Cogn AVect Behav
+activation by pattern recognition in the early blind using auditory Neurosci 4:117–126
+substitution for vision. Neuroimage 13:632–645 Cohen LG, Celnik P, Pascual-Leone A, Corwell B, Falz L, Dambrosia
+Arno P, Vanlierde A, Streel E, Wanet-Defalque MC, Sanabria-Bohor- J, Honda M, Sadato N, GerloV C, Catala MD, Hallett M (1997)
+quez SM, Veraart C (2001b) Auditory substitution of vision : pat- Functional relevance of cross-modal plasticity in blind humans.
+tern recognition by blind. Appl Cogn Psychol 15:509–519 Nature 389:180–183
+Ashmead DH, Hill EW, Talor CR (1989) Obstacle perception by con- Cohen LG, Weeks RA, Sadato N, Celnik P, Ishii K, Hallett M (1999)
+genitally blind children. Percept Psychophys 46:425–433 Period of susceptibility for cross-modal plasticity in the blind.
+Ashmead DH, Wall RS, Ebinger KA, Eaton SB, Snook-Hill MM, Ann Neurol 45:451–460
+Yang X (1998) Spatial hearing in children with visual disabilities. Collignon O, Renier L, Bruyer R, Tranduy D, Veraart C (2006) Im-
+Perception 27:105–122 proved selective and divided spatial attention in early blind sub-
+Axelrod S (1959) EVect of early blindness: performance of blind and jects. Brain Res 1075(1):175–182
+sighted children on tactile and auditory tasks. American Founda- Collignon O, Lassonde M, Lepore F, Bastien D, Veraart C (2007)
+tion for the Blind, New York Functional cerebral reorganization for auditory spatial processing
+Bavelier D, Tomann A, Hutton C, Mitchell T, Corina D, Liu G, Neville and auditory substitution of vision in early blind subjects. Cereb
+H (2000) Visual attention to the periphery is enhanced in congen- Cortex 17:457–465
+itally deaf individuals. J Neurosci 20:RC93 Collignon O, Davare M, De Volder AG, Poirier C, Olivier E, Veraart C
+Bach-y-Rita P, Collins CC, Saunders FA, White B, Scadden L (1969) (2008) Time-course of posterior parietal and occipital cortex contri-
+Vision substitution by tactile image projection. Nature 221:963– bution to sound localization. J Cogn Neurosci 20(8):1454–1463
+964 De Volder AG, Bol A, Blin J, Robert A, Arno P, Grandin C, Michel C,
+Berman NE (1991) Alterations of visual cortical connections in cats Veraart C (1997) Brain energy metabolism in early blind subjects:
+following early removal of retinal input. Brain Res Dev Brain Res neural activity in the visual cortex. Brain Res 750:235–244
+63:163–180 De Volder AG, Toyama H, Kimura Y, Kiyosawa M, Nakano H, Van-
+Boroojerdi B, Bushara KO, Corwell B, Immisch I, Battaglia F, Muellb- lierde A, Wanet-Defalque MC, Mishina M, Oda K, Ishiwata K,
+acher W, Cohen LG (2000) Enhanced excitability of the human Senda M (2001) Auditory triggered mental imagery of shape in-
+visual cortex induced by short-term light deprivation. Cereb Cor- volves visual association areas in early blind humans. Neuroim-
+tex 10:529–534 age 14:129–139
+Bourgeois JP, Rakic P (1993) Changes of synaptic density in the pri- Dehaene S, Cohen L (2007) Cultural recycling of cortical maps. Neu-
+mary visual cortex of the macaque monkey from fetal to adult ron 56:384–398
+stage. J Neurosci 13:2801–2820 Dehay C, Kennedy H, Bullier J (1988) Characterization of transient
+Bourgeois JP, Rakic P (1996) Synaptogenesis in the occipital cortex of cortical projections from auditory, somatosensory, and motor cor-
+macaque monkey devoid of retinal input from early embryonic tices to visual areas 17, 18, and 19 in the kitten. J Comp Neurol
+stages. Eur J NeuroSci 8:942–950 272:68–89
+Buchel C (1998) Functional neuroimaging studies of Braille reading: Despres O, Candas V, Dufour A (2005) Auditory compensation in
+cross-modal reorganization and its implications. Brain 121(Pt myopic humans: involvement of binaural, monaural, or echo
+7):1193–1194 cues? Brain Res 1041:56–65
+Buchel C, Price C, Frackowiak RS, Friston K (1998) DiVerent activa- Doron N, Wollberg Z (1994) Cross-modal neuroplasticity in the blind
+tion patterns in the visual cortex of late and congenitally blind mole rat Spalax ehrenbergi: a WGA-HRP tracing study. Neurore-
+subjects. Brain 121(Pt 3):409–419 port 5:2697–2701
+123
+356 Exp Brain Res (2009) 192:343–358
+Doucet ME, Guillemot JP, Lassonde M, Gagne JP, Leclerc C, Lepore Innocenti GM, Berbel P, Clarke S (1988) Development of projections
+F (2004) Blind subjects process auditory spectral cues more eY- from auditory to visual areas in the cat. J Comp Neurol 272:242–
+ciently than sighted individuals. Exp Brain Res 160(2):194–202 259
+Doucet ME, Bergeron F, Lassonde M, Ferron P, Lepore F (2006) Izraeli R, Koay G, Lamish M, Heicklen-Klein AJ, HeVner HE, HeVner
+Cross-modal reorganization and speech perception in cochlear RS, Wollberg Z (2002) Cross-modal neuroplasticity in neonatally
+implant users. Brain 129:3376–3383 enucleated hamsters: structure, electrophysiology and behaviour.
+Dufour A, Gerard Y (2000) Improved auditory spatial sensitivity in Eur J NeuroSci 15:693–712
+near-sighted subjects. Brain Res Cogn Brain Res 10:159–165 Karlen SJ, Kahn DM, Krubitzer L (2006) Early blindness results in
+Dufour A, Despres O, Candas V (2005) Enhanced sensitivity to echo abnormal corticocortical and thalamocortical connections. Neuro-
+cues in blind subjects. Exp Brain Res 165:515–519 science 142:843–858
+Elbert T, Sterr A, Rockstroh B, Pantev C, Muller MM, Taub E (2002) Kastner S, De WP, Ungerleider LG (2000) Texture segregation in the
+Expansion of the tonotopic area in the auditory cortex of the blind. human visual cortex: a functional MRI study. J Neurophysiol
+J Neurosci 22:9941–9944 83:2453–2457
+Facchini S, Aglioti SM (2003) Short term light deprivation increases KauVman T, Theoret H, Pascual-Leone A (2002) Braille character dis-
+tactile spatial acuity in humans. Neurology 60:1998–1999 crimination in blindfolded human subjects. Neuroreport 13:571–
+Falchier A, Clavagnier S, Barone P, Kennedy H (2002) Anatomical 574
+evidence of multimodal integration in primate striate cortex. J Kennedy H, Bullier J, Dehay C (1989) Transient projection from the
+Neurosci 22:5749–5759 superior temporal sulcus to area 17 in the newborn macaque mon-
+Fieger A, Roder B, Teder-Salejarvi W, Hillyard SA, Neville HJ (2006) key. Proc Natl Acad Sci USA 86:8093–8097
+Auditory spatial tuning in late-onset blindness in humans. J Cogn King AJ, Parsons CH (1999) Improved auditory spatial acuity in visu-
+Neurosci 18:149–157 ally deprived ferrets. Eur J Neurosci 11:3945–3956
+Fine I, Wade AR, Brewer AA, May MG, Goodman DF, Boynton GM, Knudsen EI (1988) Early blindness results in a degraded auditory map
+Wandell BA, MacLeod DI (2003) Long-term deprivation aVects of space in the optic tectum of the barn owl. Proc Natl Acad Sci
+visual perception and cortex. Nat Neurosci 6:915–916 USA 85(16):6211–6214
+Fishman MC, Michael P (1973) Integration of auditory information in Korte M, Rauschecker JP (1993) Auditory spatial tuning of cortical
+the cat’s visual cortex. Vision Res 13:1415–1419 neurons is sharpened in cats with early blindness. J Neurophysiol
+Frost DO, Metin C (1985) Induction of functional retinal projections to 70:1717–1721
+the somatosensory system. Nature 317:162–164 Kujala T, Alho K, Paavilainen P, Summala H, Naatanen R (1992) Neu-
+Frost DO, Boire D, Gingras G, Ptito M (2000) Surgically created neu- ral plasticity in processing of sound location by the early blind: an
+ral pathways mediate visual pattern discrimination. Proc Natl event-related potential study. Electroencephalogr Clin Neuro-
+Acad Sci USA 97:11068–11073 physiol 84:469–472
+Ghazanfar AA, Schroeder CE (2006) Is neocortex essentially multi- Kujala T, Huotilainen M, Sinkkonen J, Ahonen AI, Alho K, Hamalai-
+sensory? Trends Cogn Sci 10:278–285 nen MS, Ilmoniemi RJ, Kajola M, Knuutila JE, Lavikainen J
+Giard MH, Peronnet F (1999) Auditory-visual integration during mul- (1995) Visual cortex activation in blind humans during sound dis-
+timodal object recognition in humans: a behavioral and electro- crimination. Neurosci Lett 183:143–146
+physiological study. J Cogn Neurosci 11:473–490 Kujala T, Alho K, Huotilainen M, Ilmoniemi RJ, Lehtokoski A, Lei-
+Gothe J, Brandt SA, Irlbacher K, Roricht S, Sabel BA, Meyer BU nonen A, Rinne T, Salonen O, Sinkkonen J, Standertskjold-Nor-
+(2002) Changes in visual cortex excitability in blind subjects as denstam CG, Naatanen R (1997) Electrophysiological evidence
+demonstrated by transcranial magnetic stimulation. Brain for cross-modal plasticity in humans with early- and late-onset
+125:479–490 blindness. Psychophysiology 34:213–216
+Gougoux F, Zatorre RJ, Lassonde M, Voss P, Lepore F (2005) A func- Kupers R, Pappens M, de Noordhout AM, Schoenen J, Ptito M, Fumal
+tional neuroimaging study of sound localization: visual cortex A (2007) rTMS of the occipital cortex abolishes Braille reading
+activity predicts performance in early-blind individuals. PLoS and repetition priming in blind subjects. Neurology 68:691–693
+Biol 3:e27 Leclerc C, Saint-Amour D, Lavoie ME, Lassonde M, Lepore F (2000)
+Gregory RL, Wallace JG (1963) Experimental psychological society Brain functional reorganization in early blind humans revealed by
+monograph. HeVer and Sons, Cambridge auditory event-related potentials. Neuroreport 11:545–550
+Grill-Spector K, Malach R (2004) The human visual cortex. Annu Rev Leclerc C, Segalowitz SJ, Desjardins J, Lassonde M, Lepore F (2005)
+Neurosci 27:649–677 EEG coherence in early-blind humans during sound localization.
+Haxby JV, Grady CL, Horwitz B, Ungerleider LG, Mishkin M, Carson Neurosci Lett 376:154–159
+RE, Herscovitch P, Schapiro MB, Rapoport SI (1991) Dissocia- Lee DS, Lee JS, Oh SH, Kim SK, Kim JW, Chung JK, Lee MC, Kim
+tion of object and spatial visual processing pathways in human ex- CS (2001) Cross-modal plasticity and cochlear implants. Nature
+trastriate cortex. Proc Natl Acad Sci USA 88:1621–1625 409:149–150
+Haxby JV, Horwitz B, Ungerleider LG, Maisog JM, Pietrini P, Grady Lessard N, Pare M, Lepore F, Lassonde M (1998) Early-blind human
+CL (1994) The functional organization of human extrastriate cor- subjects localize sound sources better than sighted subjects.
+tex: a PET-rCBF study of selective attention to faces and loca- Nature 395:278–280
+tions. J Neurosci 14:6336–6353 Lewald J (2002a) Vertical sound localization in blind humans. Neuro-
+Hebb DO (1949) The organization of behavior. John Wiley, New York psychologia 40:1868–1872
+Huttenlocher PR (1966) Development of neuronal activity in neocor- Lewald J (2002b) Opposing eVects of head position on sound localiza-
+tex of the kitten. Nature 211:91–92 tion in blind and sighted human subjects. Eur J Neurosci 15:1219–
+Huttenlocher PR, Court de (1987) The development of synapses in stri- 1224
+ate cortex of man. Hum Neurobiol 6:1–9 Lewald J (2007) More accurate sound localization induced by short-
+Huttenlocher PR, Dabholkar AS (1997) Regional diVerences in syna- term light deprivation. Neuropsychologia 45:1215–1222
+ptogenesis in human cerebral cortex. J Comp Neurol 387:167– Lewald J, Meister IG, Weidemann J, Topper R (2004) Involvement of
+178 the superior temporal cortex and the occipital cortex in spatial
+Innocenti GM, Clarke S (1984) Bilateral transitory projection to visual hearing: evidence from repetitive transcranial magnetic stimula-
+areas from auditory cortex in kittens. Brain Res 316:143–148 tion. J Cogn Neurosci 16:828–838
+123
+Exp Brain Res (2009) 192:343–358 357
+Locke JC (1954) Retrolental Wbroplasia deWnitive role of oxygen Rauschecker JP (1995) Compensatory plasticity and sensory substitu-
+administration in its etiology. AMA Arch Ophthalmol 51:73–79 tion in the cerebral cortex. Trends Neurosci 18:36–43
+Meijer PB (1992) An experimental system for auditory image repre- Rauschecker JP, Kniepert U (1994) Auditory localization behaviour in
+sentations. IEEE Trans Biomed Eng 39:112–121 visually deprived cats. Eur J Neurosci 6:149–160
+Mendola JD, Dale AM, Fischl B, Liu AK, Tootell RB (1999) The rep- Rauschecker JP, Korte M (1993) Auditory compensation for early
+resentation of illusory and real contours in human cortical visual blindness in cat cerebral cortex. J Neurosci 13:4538–4548
+areas revealed by functional magnetic resonance imaging. J Neu- Renier L, Collignon O, Poirier C, Tranduy D, Vanlierde A, Bol A,
+rosci 19:8560–8572 Veraart C, De Volder AG (2005) Cross-modal activation of visual
+Merabet LB, Rizzo JF, Amedi A, Somers DC, Pascual-Leone A (2005) cortex during depth perception using auditory substitution of
+What blindness can tell us about seeing again: merging neuroplas- vision. Neuroimage 26:573–580
+ticity and neuroprostheses. Nat Rev Neurosci 6:71–77 Ricciardi E, Vanello N, Sani L, Gentili C, Scilingo EP, Landini L,
+Molholm S, Ritter W, Murray MM, Javitt DC, Schroeder CE, Foxe JJ Guazzelli M, Bicchi A, Haxby JV, Pietrini P (2007) The eVect of
+(2002) Multisensory auditory-visual interactions during early visual experience on the development of functional architecture in
+sensory processing in humans: a high-density electrical mapping hMT+. Cereb Cortex 17:2933–2939
+study. Brain Res Cogn Brain Res 14:115–128 Rice CE, Feinstein SH (1965) Sonar system of the blind: size discrim-
+Morrell F (1972) Visual system’s view of acoustic space. Nature ination. Science 148:1107–1108
+238:44–46 Rice CE, Feinstein SH, Schusterman RJ (1965) Echo-detection ability
+Munte TF, Kohlmetz C, Nager W, Altenmuller E (2001) Neuropercep- of the blind: size and distance factors. J Exp Psychol 70:246–255
+tion. Superior auditory spatial tuning in conductors. Nature Rock I, Halper F (1969) Form perception without a retinal image. Am
+409:580 J Psychol 82:425–440
+Neville HJ, Lawson D (1987) Attention to central and peripheral visual Rockland KS, Ojima H (2003) Multisensory convergence in calcarine
+space in a movement detection task: an event-related potential visual areas in macaque monkey. Int J Psychophysiol 50:19–26
+and behavioral study. II. Congenitally deaf adults. Brain Res Roder B, Rosler F (2003) Memory for environmental sounds in sight-
+405:268–283 ed, congenitally blind and late blind adults: evidence for cross-
+Pascual-Leone A, Hamilton R (2001) The metamodal organization of modal compensation. Int J Psychophysiol 50:27–39
+the brain. Prog Brain Res 134:427–445 Roder B, Teder-Salejarvi W, Sterr A, Rosler F, Hillyard SA, Neville
+Pascual-Leone A, Torres F (1993) Plasticity of the sensorimotor cortex HJ (1999) Improved auditory spatial tuning in blind humans.
+representation of the reading Wnger in Braille readers. Brain Nature 400:162–166
+116(Pt 1):39–52 Roder B, Rosler F, Neville HJ (2000) Event-related potentials during
+Pascual-Leone A, Amedi A, Fregni F, Merabet LB (2005) The plastic auditory language processing in congenitally blind and sighted
+human brain cortex. Annu Rev Neurosci 28:377–401 people. Neuropsychologia 38:1482–1502
+Piche M, Robert S, Miceli D, Bronchti G (2004) Environmental enrich- Roder B, Rosler F, Neville HJ (2001) Auditory memory in congeni-
+ment enhances auditory takeover of the occipital cortex in anoph- tally blind adults: a behavioral-electrophysiological investigation.
+thalmic mice. Eur J Neurosci 20:3463–3472 Brain Res Cogn Brain Res 11:289–303
+Piche M, Chabot N, Bronchti G, Miceli D, Lepore F, Guillemot JP Röder B, Stock O, Bien S, Neville H, Rösler F (2002) Speech process-
+(2007) Auditory responses in the visual cortex of neonatally enu- ing activates visual cortex in congenitally blind humans. Eur J
+cleated rats. Neuroscience 145:1144–1156 Neurosci 16(5):930–936
+Pietrini P, Furey ML, Ricciardi E, Gobbini MI, Wu WH, Cohen L, Roe AW, Pallas SL, Hahm JO, Sur M (1990) A map of visual space
+Guazzelli M, Haxby JV (2004) Beyond sensory images: object- induced in primary auditory cortex. Science 250:818–820
+based representation in the human ventral pathway. Proc Natl Roe AW, Pallas SL, Kwon YH, Sur M (1992) Visual projections rout-
+Acad Sci USA 101:5658–5663 ed to the auditory pathway in ferrets: receptive Welds of visual
+Pitskel NB, Merabet LB, Ramos-Estebanez C, KauVman T, Pascual- neurons in primary auditory cortex. J Neurosci 12:3651–3664
+Leone A (2007) Time-dependent changes in cortical excitability Sadato N, Pascual-Leone A, Grafman J, Ibanez V, Deiber MP, Dold G,
+after prolonged visual deprivation. Neuroreport 18:1703–1707 Hallett M (1996) Activation of the primary visual cortex by
+Poirier C, Collignon O, Devolder AG, Renier L, Vanlierde A, Tranduy Braille reading in blind subjects. Nature 380:526–528
+D, Scheiber C (2005) SpeciWc activation of the V5 brain area by Sadato N, Okada T, Honda M, Yonekura Y (2002) Critical period for
+auditory motion processing: an fMRI study. Brain Res Cogn cross-modal plasticity in blind humans: a functional MRI study.
+Brain Res 25:650–658 Neuroimage 16:389–400
+Poirier C, Collignon O, Scheiber C, Renier L, Vanlierde A, Tranduy D, Saenz M, Lewis LB, Huth AG, Fine I, Koch C (2008) Visual motion
+Veraart C, De Volder AG (2006) Auditory motion perception area mt+/v5 responds to auditory motion in human sight-recovery
+activates visual motion areas in early blind subjects. Neuroimage subjects. J Neurosci 28:5141–5148
+31:279–285 Sathian K (2005) Visual cortical activity during tactile perception in
+Poirier C, De Volder AG, Scheiber C (2007) What neuroimaging tells the sighted and the visually deprived. Dev Psychobiol 46(3):279–
+us about sensory substitution. Neurosci Biobehav Rev 31:1064– 286
+1070 Simon HJ, Divenyi PL, Lotze A (2002) Lateralization of narrow-band
+Proulx MJ, Stoerig P, Ludowig E, Knoll I (2008) Seeing ‘where’ noise by blind and sighted listeners. Perception 31:855–873
+through the ears: eVects of learning-by-doing and long-term sen- Stein BE, Meredith MA (1993) The merging of the senses. MIT, Cam-
+sory deprivation on localization based on image-to-sound substi- bridge
+tution. PLoS ONE 3:e1840 Sterr A, Muller MM, Elbert T, Rockstroh B, Pantev C, Taub E (1998)
+Ptito M, Moesgaard SM, Gjedde A, Kupers R (2005) Cross-modal Perceptual correlates of changes in cortical representation of Wn-
+plasticity revealed by electrotactile stimulation of the tongue in gers in blind multiWnger Braille readers. J Neurosci 18:4417–
+the congenitally blind. Brain 128(Pt 3):606–614 4423
+Rakic P, Bourgeois JP, EckenhoV MF, Zecevic N, Goldman-Rakic PS Stevens AA, Snodgrass M, Schwartz D, Weaver K (2007) Preparatory
+(1986) Concurrent overproduction of synapses in diverse regions activity in occipital cortex in early blind humans predicts auditory
+of the primate cerebral cortex. Science 232:232–235 perceptual performance. J Neurosci 27(40):10734–10741
+123
+358 Exp Brain Res (2009) 192:343–358
+Strelow ER, Brabyn JA (1982) Locomotion of the blind controlled by during a sound-source discrimination task. Neuroimage 40:746–
+natural sound cues. Perception 11:635–640 758
+Sur M, Garraghty PE, Roe AW (1988) Experimentally induced visual pro- Wanet-Defalque MC, Veraart C, De Volder A, Metz R, Michel C,
+jections into auditory thalamus and cortex. Science 242:1437–1441 Dooms G, GoYnet A (1988) High metabolic activity in the visual
+Tootell RB, Reppas JB, Kwong KK, Malach R, Born RT, Brady TJ, cortex of early blind human subjects. Brain Res 446:369–373
+Rosen BR, Belliveau JW (1995) Functional analysis of human Warren DH, Cleaves WT (1971) Visual-proprioceptive interaction
+MT and related visual cortical areas using magnetic resonance under large amounts of conXict. J Exp Psychol 90:206–214
+imaging. J Neurosci 15:3215–3230 Weaver KE, Stevens AA (2007) Attention and sensory interactions
+Van Wanrooij MM, Van Opstal AJ (2004) Contribution of head shad- within the occipital cortex in the early blind: an fMRI study.
+ow and pinna cues to chronic monaural sound localization. J Neu- JCogn Neurosci 19(2):315–330
+rosci 24:4163–4171 Weeks R, Horwitz B, Aziz-Sultan A, Tian B, Wessinger CM, Cohen
+Vanlierde A, De Volder AG, Wanet-Defalque MC, Veraart C (2003) LG, Hallett M, Rauschecker JP (2000) A positron emission tomo-
+Occipito-parietal cortex activation during visuo-spatial imagery graphic study of auditory localization in the congenitally blind.
+in early blind humans. Neuroimage 19:698–709 JNeurosci 20:2664–2672
+Veraart C, De Volder AG, Wanet-Defalque MC, Bol A, Michel C, Wiesel TN, Hubel DH (1965) Extent of recovery from the eVects of
+GoYnet AM (1990) Glucose utilization in human visual cortex is visual deprivation in kittens. J Neurophysiol 28:1060–1072
+abnormally elevated in blindness of early onset but decreased in Wiesel TN, Hubel DH (1974) Ordered arrangement of orientation col-
+blindness of late onset. Brain Res 510:115–121 umns in monkeys lacking visual experience. J Comp Neurol
+Veraart C, Duret F, Brelen M, Oozeer M, Delbeke J (2004) Vision 158:307–318
+rehabilitation in the case of blindness. Expert Rev Med Devices Wittenberg GF, Werhahn KJ, Wassermann EM, Herscovitch P, Cohen
+1:139–153 LG (2004) Functional connectivity between somatosensory and
+von Melchner L, Pallas SL, Sur M (2000) Visual behaviour mediated visual cortex in early blind humans. Eur J Neurosci 20:1923–1927
+by retinal projections directed to the auditory pathway. Nature Yabe T, Kaga K (2005) Sound lateralization test in adolescent blind
+404:871–876 individuals. Neuroreport 16:939–942
+Voss P, Lassonde M, Gougoux F, Fortin M, Guillemot JP, Lepore F Yaka R, Yinon U, Wollberg Z (1999) Auditory activation of cortical
+(2004) Early- and late-onset blind individuals show supra-normal visual areas in cats after early visual deprivation. Eur J Neurosci
+auditory abilities in far-space. Curr Biol 14:1734–1738 11:1301–1312
+Voss P, Gougoux F, Lassonde M, Zatorre RJ, Lepore F (2006) A pos- Zimmer U, Lewald J, Erb M, Grodd W, Karnath HO (2004) Is there a
+itron emission tomography study during auditory localization by role of visual cortex in spatial hearing? Eur J Neurosci 20:3148–
+late-onset blind individuals. Neuroreport 17:383–388 3156
+Voss P, Gougoux F, Zatorre RJ, Lassonde M, Lepore F (2008) Zwiers MP, Van Opstal AJ, Cruysberg JR (2001) A spatial hearing
+DiVerential occipital responses in early- and late-blind individuals deWcit in early-blind humans. J Neurosci 21:RC142–RC145
+123

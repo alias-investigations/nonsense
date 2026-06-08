@@ -1,0 +1,478 @@
+Received: 12 February 2024 | Accepted: 16 April 2024 | Published online: 29 April 2024
+DOI: 10.1111/opo.13323
+ORIGINAL ARTICLE
+Visual impairment and cognitive performance: A nationwide
+study of 1.4 million adolescents
+Itay Nitzan1,2,3 | Estela Derazne4 | Arnon Afek4,5 | Adi Einan- Lifshitz4,6 | Yair Morad6 |
+Claudia Yahalom1,7 | Alon Peled4,6
+1Department of Ophthalmology, Hadassah-
+Hebrew University Medical Center, Abstract
+Jerusalem, Israel Purpose: Previous research highlights the adverse effects of visual impairment
+2Department of Military Medicine, Faculty of (VI) on academic achievement in children, yet its impact on cognitive performance
+Medicine, Hebrew University of Jerusalem,
+among adolescents and young adults remains under- studied. Therefore, this in-
+Jerusalem, Israel
+vestigation aimed to analyse this association in a nationwide sample of Israeli
+3Israel Defense Forces, Medical Corps, Ramat
+Gan, Israel adolescents.
+4Sackler Faculty of Medicine, Tel Aviv Methods: A retrospective population- based cross-s ectional study was conducted
+University, Tel Aviv, Israel among 1,410,616 Israeli- born adolescents aged 16–19 years, who were assessed
+5Central Management, Chaim Sheba Medical before mandatory military service between 1993 and 2017. The definition of VI
+Center at Tel Hashomer, Ramat Gan, Israel
+was based on best- corrected visual acuity (BCVA) measurements using a standard
+6Department of Ophthalmology, Assaf-
+Snellen chart. Adolescents with BCVA worse than 6/9 in either or both eyes were
+Harofeh Medical Center, Zerifin, Israel
+classified as having unilateral or bilateral VI, respectively. Cognitive performance
+7Faculty of Medicine, Hebrew University of
+Jerusalem, Jerusalem, Israel was measured using the General Intelligence Score (GIS), based on a validated
+four- domain test. Relationships were analysed using regression models yielding
+Correspondence
+adjusted odds ratios (ORs) for low (<−1 standard deviation [SD]) and high (≥1 SD)
+Itay Nitzan, Department of Ophthalmology,
+Hadassah- Hebrew University Medical Center, cognitive Z- scores.
+Jerusalem, Israel. Results: Of 1,410,616 adolescents (56.1% men), 13,773 (1.0%) had unilateral and
+Email: itay.nitzan@mail.huji.ac.il
+3980 (0.3%) had bilateral VI. Unilateral VI was associated with adjusted ORs for low
+and high cognitive Z- scores of 1.24 (1.19–1.30) and 0.84 (0.80–0.89), respectively.
+ORs were accentuated for bilateral VI, reaching 1.62 (1.50–1.75) and 0.81 (0.74–0.90)
+for low and high cognitive Z- scores, respectively. Cognitive performance subscores
+mirrored these results, with the visual–spatial functioning subtest demonstrating
+the greatest effect size. These associations persisted in sub- analyses restricted to
+adolescents with amblyopia- related VI, mild VI and unimpaired health status.
+Conclusions: Visual impairment, including mild and unilateral cases, is associated
+with reduced cognitive performance scores assessed in late adolescence. Further
+research is required to gain a comprehensive understanding of the dynamics un-
+derlying this relationship.
+KEYWORDS
+adolescents, cognitive performance, intelligence, visual impairment
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+© 2024 The Authors. Ophthalmic and Physiological Optics published by John Wiley & Sons Ltd on behalf of College of Optometrists.
+|
+Ophthalmic Physiol Opt. 2024;44:819–828. wileyonlinelibrary.com/journal/opo 819
+
+--- PAGE BREAK ---
+
+820 | YOUTH VISUAL IMPAIRMENT AND COGNITION
+INTRODUCTION
+Key points
+Over the years, multiple studies have aimed to elucidate the
+intricate relationship between human vision and cognitive • This population- based nationwide study in-
+abilities.1–8 Research involving children has primarily con- volving over 1.4 million individuals revealed an
+centrated on the detrimental impacts of visual impairment association between visual impairment and de-
+(VI) on academic achievement, especially during crucial creased cognitive performance scores assessed
+phases of visual development.1–6 In contrast, studies within in late adolescence.
+the elderly population have explored the links between • This association was observed in both unilat-
+deteriorating vision and cognitive decline or dementia.7,8 eral and bilateral visual impairment cases, and
+However, there is a limited body of work examining the persisted across scores in both verbal and non-
+relationship between vision and cognition among ado- verbal cognitive domains.
+lescents or young adults. Given that in these age groups • Further research is needed to determine
+many cognitive functions are nearing their developmental whether reading difficulties, cognitive deficits
+peak,9 and that preventable childhood ocular conditions or a synergistic interplay of these elements un-
+such as amblyopia are less remediable,10 such studies are derlie the observed associations.
+important as they may fill a gap in the literature and reveal
+whether the negative vision–cognition association, previ-
+ously identified in early childhood, is also evident during
+adolescence. This is also of value considering that early- life addition, adolescents from non- Jewish minority popula-
+cognitive performance is linked with long-t erm sequelae tions were less represented in this cohort as they were not
+including increased morbidity and mortality rates11,12 and obliged to perform military service and were not systemat-
+socio- economic success.13 ically evaluated. The institutional review board of the Israel
+The unique setting in Israel includes mandatory mili- Defense Forces Medical Corps approved the study and
+tary service preceded by encompassing pre- recruitment participants' confidentiality was strictly maintained dur-
+medical and psychosocial examinations. We hypothesised ing data processing. Participants' informed consent was
+that VI in adolescents is associated with decreased cogni- waived as the data were de- identified. The study adhered
+tive performance scores. Therefore, this population- based to the tenets of the Declaration of Helsinki for research in-
+study, the largest of its kind to date, aimed to test this hy- volving human subjects.
+pothesis and investigate the association between VI and
+cognitive performance scores in a sample of more than 1.4
+million adolescents. Assessment of cognitive performance
+Cognitive performance was assessed by the General
+MATERIALS AND METHODS Intelligence Score (GIS), which demonstrates a correla-
+tion >85% with the Wechsler Adult Intelligence Scale and
+Study population is comparable to the Intelligence Quotient (IQ).11,16,17 This
+score has been used previously in epidemiological stud-
+One year before mandatory military service, Israeli adoles- ies within the same cohort,11 exhibiting robust external
+cents around 17 years of age undergo a pre- draft screen- validity to other populations.12 The Wechsler tests have
+ing aimed at assessing their service eligibility. This process been widely used in individuals with vision reduction,
+includes the collection of sociodemographic data and with relatively high levels of assessors' satisfaction rates.18
+medical background, a thorough medical examination Examinees were instructed to bring their prescribed opti-
+conducted by a physician, as well as cognitive and behav- cal correction devices, if applicable, for the duration of the
+ioural assessments. Best- corrected visual acuity (BCVA) and assessment. The GIS assessment comprises four subtests:
+refractive error are also measured and documented.14 The the Otis- R, which measures the ability to understand and
+study population included Israeli- born adolescents aged perform verbal instructions; Similarities- R, which assesses
+16–19 years, who were examined from 1993 to 2017. Visual verbal abstraction and categorisation; Arithmetic- R, which
+acuity data were not systemically documented before measures mathematical reasoning, concentration and
+1993, and complete annual data are currently accessible up concept manipulation and Raven's Progressive Matrices- R,
+to 2017. Individuals were included in the analysis if BCVA which measures nonverbal abstract reasoning and vis-
+data were available for both eyes and cognitive assessment ual–spatial problem- solving abilities (Figure 1; additional
+results were recorded. Ultra- orthodox Jewish adolescents, sample questions are available in Appendix S1). The com-
+comprising 2.9% of the target age group, were excluded plexity of tasks within each subtest gradually increases,
+due to their infrequent evaluation and distinct educational and examinees are required to complete each subtest
+system, which has been associated with an increased prev- within a pre- specified time limit. Examinees' scores were
+alence of overall myopia and especially high myopia.15 In integrated to create a validated measure of general
+
+--- PAGE BREAK ---
+
+NITZAN et al. | 821
+(a) (b) (c) (d)
+FIGURE 1 Sample question in the Raven's Progressive Matrices- R subtest. Examinees were required to assess the relationship between two given
+shapes, replicate the same pattern on a different shape and select the response in which the relationship between the two shapes was preserved. In this
+particular case, the top base of the given shape (cylinder) was removed, and the remaining shape was inverted. The correct answer was therefore (b).
+intelligence (IQ), presented on a stanine scale. The GIS and defined as BCVA worse than 6/9 in one eye only. Bilateral
+each of its four components were standardised according VI was defined as BCVA worse than 6/9 in both eyes.
+to sex and year of performance based on all examinees Adolescents with BCVA equal to or better than 6/9 in each
+who underwent cognitive assessment in a given calendar eye were considered to have normal visual acuity. A di-
+year [Z = (GIS − GIS )/GIS ] (index of an individual agnosis of amblyopia was assigned to adolescents with
+i i (mean) (SD)
+examinee [i]), yielding annual sex- specific cognitive Z- reduced BCVA, in the absence of other causative ocular
+scores. Cognitive Z- scores were categorised as low (<−1 findings, based on medical records and clinical evalua-
+standard deviation [SD], equivalent to an IQ < 85), medium tions.19 Amblyopia- related VI was classified as unilateral
+(−1 to <1 SD, equivalent to an IQ 85–115) and high (≥1 SD or bilateral using the same BCVA thresholds.
+equivalent to an IQ > 115).
+Covariates
+Visual acuity testing and VI definition
+Sociodemographic variables were collected for each indi-
+During pre- recruitment screening, adolescents under- vidual.20 Years of education were divided into complete
+went visual acuity and refraction assessments. These (≥11 school years, the maximum possible at the time of
+were carried out using a standard Snellen chart at a dis- evaluation) or incomplete (<11 years). Socio- economic sta-
+tance of 6 m, with each eye tested individually by a cer- tus (SES) was based on the classification method of the
+tified optometrist or ophthalmologist. Initially, unaided Central Bureau of Statistics, determined by the site of resi-
+visual acuity was determined for each adolescent using dence and categorised into three groups: low, medium and
+a Snellen chart. Adolescents presenting with unaided vis- high. Country of origin was determined by the birth coun-
+ual acuity worse than 6/6—allowing for up to one letter try of the father, or the grandfather if the father was born
+error on the 6/6 line for either eye—then underwent non- in Israel, and was divided into five categories: former Union
+cycloplegic refraction. This step was performed using an of Soviet Socialist Republics (USSR), Asia (non- USSR), Africa
+automated refractometer (models included Nikon Speedy (excluding South Africa), Western (comprised of non- USSR
+K, Nikon. com; Topcon KR- 8000, KR- 7000S and earlier ver- Europe, America, South Africa, Australia and New Zealand)
+sions, Topcon. com). Following automated refraction, a and Israel. Anthropometric measurements included weight
+subjective refraction was conducted for verification pur- and height, measured barefoot and in light clothing by
+poses, including measurement of the BCVA in each eye. certified medics. Body mass index (BMI) was calculated as
+Adolescents capable of reading all but one letter on the weight (kg) divided by the squared height (m2). BMI was
+6/6 line without optical correction were presumed to classified according to the age- and sex- adjusted growth
+have a refractive error of 0 dioptres.14,15 Unilateral VI was charts of the United States Centers for Disease Control and
+
+--- PAGE BREAK ---
+
+822 | YOUTH VISUAL IMPAIRMENT AND COGNITION
+Prevention, as this categorisation was validated for the 5. The analysis was limited to adolescents who had com-
+Israeli population.21 pleted ≥11 years of education at the time of evaluation,
+aiming to reduce the confounding effect of low edu-
+cational attainment on the association between VI and
+Statistical analysis cognitive performance.
+6. To account for a potential time period bias, only adoles-
+Categorical variables are presented as numbers and per- cents who were examined between 2008 and 2017 (the
+centages, and continuous variables as means and SD. The last 10 years of the study period) were included.
+distribution of baseline characteristics across the three 7. The analysis was limited to adolescents with amblyopia
+cognitive Z- score groups was calculated. Multinomial lo- as a pre- specified cause for vision reduction. Adolescents
+gistic regression models were applied to estimate the odds with reduced BCVA attributed to other ocular conditions
+ratios (ORs) and 95% confidence intervals (CIs) for low and were excluded from this analysis.
+high cognitive Z- scores across the BCVA groups. Medium 8. Since higher cognitive performance has been linked
+cognitive Z- score and normal BCVA were set as reference with increased myopia prevalence in a similar source
+categories. Models were predetermined with covariates population,16 the analysis was limited to adolescents
+added gradually as follows: (1) unadjusted model, (2) par- without myopia. Myopia was defined based on the
+tially adjusted model (including sex and birth year as covar- right eye spherical equivalent (SEQ; calculated as sphere
+iates) and (3) fully adjusted model (further adjustment for +0.5 × cylinder) ≤ −0.75 D.
+BMI, SES, level of education and country of origin). Finally, 9. A stricter threshold for the definition of VI was used, de-
+the fully adjusted model was repeated separately for each fined as BCVA worse than 6/12 in either or both eyes.
+of the four cognitive assessment subscores. No statistical
+power calculation was performed before the study; the
+sample size was determined based on the available data. RESULTS
+A two- sided p < 0.05 was considered statistically significant
+for all tests. The final study sample consisted of 1,410,616 adoles-
+cents, 791,463 (56.1%) of whom were male (Figure 2).
+Table 1 presents the baseline characteristics of the study
+Subgroup and sensitivity analyses participants distributed according to cognitive perfor-
+mance score categories. The mean age of adolescents
+Several pre- specified subgroup and sensitivity analyses was 17.2 ± 0.4 years. Compared with the high cognitive Z-
+were performed, all utilising the fully adjusted models: score group, adolescents with medium or low cognitive
+Z- scores were of lower SES (16.5%, 23.5% and 34.1% were
+1. A sex- stratified analysis to account for an effect mod- low SES, respectively) and had a lower level of education
+ification of the VI- cognitive performance relationship (99.6%, 97.9% and 86.2% with complete education, re-
+by sex. spectively). Those with low cognitive Z- scores were also
+2. To minimise confounding by coexisting illness, which more likely to be underweight, overweight or obese, and
+may be associated with both VI and cognitive perfor- of Asian or African origin. Overall, 13,773 (1.0%) and 3980
+mance, the analysis was limited to adolescents with (0.3%) adolescents had unilateral and bilateral VI, respec-
+unimpaired health status based on the pre- recruitment tively. Amblyopia constituted the majority of VI causes
+medical evaluation. Unimpaired health was defined (84.2%). The proportion of adolescents with unilateral
+as the lack of any comorbidity that required chronic and bilateral VI increased with decreasing cognitive per-
+medical therapy or follow- up, including central nervous formance scores (Table 1).
+system insult or neurodevelopmental disorders affect-
+ing the visual system, or any history of cancer or major
+surgery.20 VI and cognitive performance
+3. To minimise the potential effect of VI on task compre-
+hension during the cognitive test administration, we fo- Figure 3 presents the fully adjusted ORs for low and high
+cused only on adolescents with mild VI, defined as BCVA cognitive Z- scores per BCVA group among visually im-
+worse than 6/9 in either or both eyes, and equal to or paired and amblyopic adolescents. Overall, the unadjusted
+better than 6/18 in both eyes.22 Adolescents with BCVA and partially adjusted models were consistent with the fully
+worse than 6/18 in either or both eyes were excluded adjusted model (Figure 1a). In the fully adjusted model, ad-
+from this analysis. olescents with unilateral VI had increased OR for low cogni-
+4. The analysis was limited to adolescents of medium tive Z- scores (1.24, 95% CI 1.19–1.30) and decreased OR for
+SES to establish a more uniform socio- economic back- high cognitive Z- scores (0.84, 95% CI 0.80–0.88). Notably,
+ground, thereby minimising the confounding effect of ORs for low and high cognitive Z- scores were accentuated
+low or high SES determinants on both VI and cognitive among adolescents with bilateral VI (1.62, 95% CI 1.50–1.75
+performance. and 0.81, 95% CI 0.73–0.90, respectively).
+
+--- PAGE BREAK ---
+
+NITZAN et al. | 823
+FIGURE 2 Study population build- up.
+Applying the fully adjusted model for each cognitive confounders and withstood several sensitivity and sub-
+assessment component separately revealed comparable group analyses.
+results, with the greatest effect size noted considering the The overall reported proportion of VI in this study was
+visual–spatial functioning subtest (Figure 4). 1.3% (1.0% unilateral and 0.3% bilateral); a finding aligned
+with previous population- based investigations world-
+wide.22–24 Growing evidence supports the paradigm that
+Sensitivity and subgroup analyses visual deficits negatively affect academic achievement
+in children1–4,6; however, the results are mixed,5,25,26 and
+The association between VI and cognitive performance numerous methodological issues limit the ability to draw
+persisted in various sensitivity and subgroup analyses definitive conclusions from the existing literature.27 For in-
+(Tables S1 and S2). The association was evident across stance, the definition of VI varies between studies and may
+multiple subgroups: adolescents of both sexes, those with reflect either better or worse ocular function. Likewise,
+unimpaired health (n = 956,723), medium SES (n = 339,431), tools of cognitive performance assessment differ, and non-
+complete years of education (n = 1,329,368) and without standardised, self- reported or surrogate measures of in-
+myopia (n = 1,009,528). We also found similar estimates of telligence are often employed.2,28 Most studies have used
+association in sensitivity analyses focusing on adolescents relatively small sample sizes, ranging from dozens1–3 to
+with amblyopia- related VI (n = 1,398,122, Figure 3), mild VI thousands5,6,25 of participants, and population- based data,
+(n = 1,405,411) and when employing a stricter BCVA thresh- particularly among youth, are lacking. The current findings
+old as a definition of VI (n = 1,410,616). extend current knowledge relying on a vast population-
+based screening process and indicate that lower cognitive
+performance among visually impaired individuals may also
+DISCUSSION become manifest during late adolescence.
+Several investigations have addressed directly the im-
+This population- based nationwide study of over 1.4 mil- pact of naturally occurring or simulated reduced vision
+lion adolescents demonstrated that VI was associated with on cognitive test performance, mostly in the adult pop-
+lower cognitive performance scores, as assessed by the ulation. While some exemplified null effects,29,30 others
+GIS and its components. This relationship was evident, not have demonstrated that specific cognitive domains, par-
+only among adolescents with bilateral VI but also in those ticularly non- verbal skills, are more susceptible to low vi-
+with unilateral and mild VI. ORs remained stable follow- sion.31 Contrary to these mixed findings, the present study
+ing gradual adjustment for multiple sociodemographic showed that VI was associated with reduced cognitive
+
+--- PAGE BREAK ---
+
+824 | YOUTH VISUAL IMPAIRMENT AND COGNITION
+TABLE 1 Baseline characteristics of the study population.
+Low cognitive Medium cognitive High cognitive
+Z- score (<−1 SD) Z- score (−1 to <1 SD) Z- score (≥1 SD)
+Participants, n (%) 251,918 (17.9) 915,021 (64.9) 243,677 (17.3)
+Sex, %
+Men 62.0 56.9 47.1
+Women 38.0 43.1 52.9
+Mean age (SD) (years) 17.4 (0.5) 17.2 (0.4) 17.1 (0.3)
+Mean BMI (SD) (kg/m2) 22.5 (4.4) 22.1 (3.8) 21.8 (3.4)
+BCVA group, %
+Normal 98.4 98.8 99
+Unilateral visual impairment 1.2 1.0 0.8
+Bilateral visual impairment 0.4 0.3 0.2
+Amblyopia, %
+Unilateral 1.1 0.8 0.7
+Bilateral 0.4 0.2 0.2
+Residential socio- economic status, %
+High 12.9 22.9 34.2
+Medium 53.0 53.6 49.3
+Low 34.1 23.5 16.5
+Years of education, %
+Complete (≥11 years) 86.2 97.9 99.6
+BMI category, %
+Underweight 7.8 5.7 4.9
+Normal weight 71.4 77.3 81.7
+Overweight 12.0 10.9 9.4
+Obese 8.8 6.1 4.0
+Country of origin, %
+Israel 19.6 21.6 21.8
+USSR 7.5 8.3 9.4
+Asia 24.8 22.6 16.1
+Africa 37.4 23.5 12.9
+West countries 10.7 24.0 39.8
+Abbreviations: BCVA, best- corrected visual acuity; BMI, body mass index; SD, standard deviation; USSR, former Union of Soviet Socialist Republics.
+performance scores across all four examined cognitive scores and decreased reading proficiency relative to their
+domains, with the visual–spatial subtest displaying the peers.2,28 Amblyopic children also present with slow read-
+strongest correlation with VI. These results are supported ing, which has been attributed to the ‘crowding’ phe-
+by evidence suggesting a shared visual form processing nomenon, poor eye fixation and an increased number of
+mechanism linking reading abilities and arithmetic skills,32 saccades.36 Recent research indicates that the presence of
+as well as a connection between visual information pro- amblyopia itself, rather than the extent of visual deficit, is
+cessing and mathematical competence.1,3,33 Visual–spatial correlated with decreased reading speed, both under bin-
+skills and arithmetic performance also interact with each ocular and fellow- eye reading conditions.10 The current
+other, as suggested by commensurate regions of brain ac- data potentially corroborate this pattern, as a consistent
+tivation in functional magnetic resonance imaging (fMRI)34 relationship was observed between VI and reduced cog-
+and mutual genetic factors.35 nitive performance scores even among adolescents with
+Alternatively, visually impaired adolescents might at- only mild VI (BCVA equal to or better than 6/18), as well as
+tain lower cognitive performance scores because of read- in cases where visual acuity lay within the normal range in
+ing difficulties, thereby possibly failing to demonstrate one eye (unilateral VI).
+their full cognitive potential in a time- limited test. Indeed, It should be acknowledged that all four cognitive sub-
+children with visual deficits demonstrate lower literacy tests employed in this study entailed a certain level of
+
+--- PAGE BREAK ---
+
+NITZAN et al. | 825
+(a)
+(b)
+FIGURE 3 The association of visual impairment and amblyopia with (a) low and (b) high cognitive performance in fully adjusted models
+(Adjusted for sex, birth year, body mass index, residential socio- economic status, level of education and country of origin). BCVA, best- corrected
+visual acuity. CI, confidence interval. OR, odds ratio.
+reading (Appendix S1), which, in turn, limited our capacity Regarding modifications to standardised cognitive assess-
+to attribute the observed decrease in cognitive perfor- ments, various adapted versions utilise haptic modalities
+mance to factors independent of reading difficulties. This intended to address the needs of visually impaired children
+complexity was further echoed in a meta- analysis empha- and adolescents adequately.38 That being said, any testing
+sising the heterogeneity of cognitive profiles in individ- adaptations must first be validated to allow comparability
+uals with reading difficulties, as well as the bidirectional with other standardised instruments.
+pathways linking cognitive abilities and reading develop- This study has several limitations. First, the cross-
+ment.37 Therefore, the observed decrease in cognitive per- sectional study design prohibits inferring a causal rela-
+formance scores could be argued to represent a broader tionship between VI and cognitive performance. Second,
+outcome of intertwined influences of reading skills and we lacked data on the allocation of partial credit for vi-
+cognitive abilities, within the context of VI. This hypothesis, sual acuity measurements. However, this limitation is ex-
+however, requires confirmation through dedicated studies pected to introduce a non- differential misclassification
+within the fields of educational psychology and neuropsy- bias. Third, the use of the Snellen chart might have led
+chological assessment. to inaccurate assessments of low vision levels. Our defi-
+While we could not confirm the exact underlying mech- nition of VI, that is, identifying visual acuity worse than
+anism of the observed link between visual acuity and cog- 6/9, likely mitigates this limitation. Fourth, the assumption
+nitive performance, this study may hold significance for that 6/6 vision precludes uncorrected refractive error may
+public health. The findings suggest the potential benefit overlook the impact of significant hyperopia on sustained
+of incorporating vision- adjusted time extension as a com- near- vision tasks, potentially leading to an underestima-
+pensatory intervention to address the challenge of slow tion of the observed associations in this subgroup. Fifth,
+reading among visually impaired youth. Importantly, the our data set lacked temporal granularity to capture the
+findings also prompt the re- evaluation of formal vision exact timing of VI onset and the progression of vision de-
+thresholds regarding eligibility for academic accommoda- terioration. We also lacked data on potential confounders
+tions,10 especially given the decrease in cognitive perfor- such as parental cognitive assessment and former aca-
+mance scores seen even among adolescents with mild VI. demic achievement. Nevertheless, the results withstood
+
+--- PAGE BREAK ---
+
+826 | YOUTH VISUAL IMPAIRMENT AND COGNITION
+(a)
+(b)
+FIGURE 4 The association of visual impairment with (a) low and (b) high cognitive performance by different subtests in fully adjusted models
+(Adjusted for sex, birth year, body mass index, residential socio- economic status, level of education and country of origin). BCVA, best- corrected
+visual acuity. CI, confidence interval. OR, odds ratio.
+several sensitivity and subgroup analyses, including those and reading abilities,37 these findings call for further lon-
+restricted to adolescents with unimpaired health status, gitudinal studies to better understand these interrelations
+amblyopia- related VI and without myopia, collectively dis- among youth with VI. The strengths of this investigation
+playing parallel results. Sixth, by focusing on visual acuity include the reliance on a large national registry encom-
+measurements, we might have overlooked other vision passing three decades, the systematic and screening-
+assessment aspects like visual fields, contrast sensitivity based collection of sociodemographic and medical data
+and binocularity. While these factors may contribute to including BCVA measurements and the battery of cogni-
+the heterogeneity of visually impaired adolescents, visual tive tests yielding the GIS.
+acuity is commonly used as a preferred measure of vision In conclusion, this study highlights an association be-
+in large epidemiological studies.22–24 Finally, as noted, we tween VI and reduced cognitive performance scores in
+could not ascertain whether decreased cognitive perfor- a nationwide sample of adolescents, as measured by the
+mance scores observed in visually impaired adolescents GIS assessment. Importantly, this association was con-
+indicated genuine cognitive deficits or rather an effect re- sistently evident in cases of both unilateral and mild VI.
+lated to reading difficulties. As research indicates a multi- Further research is essential for determining the exact
+dimensional relationship between cognitive development causal pathways contributing to the observed relationship
+
+--- PAGE BREAK ---
+
+NITZAN et al. | 827
+9. Hartshorne JK, Germine LT. When does cognitive functioning peak?
+and guiding tailored adaptations in cognitive assessment
+The asynchronous rise and fall of different cognitive abilities across
+methodologies for youth with VI.
+the life span. Psychol Sci. 2015;26:433–43.
+10. Birch EE, Kelly KR. Amblyopia and the whole child. Prog Retin Eye Res.
+AUTHOR CONTRIBUTIONS 2023;93:101168. https:// doi. org/ 10. 1016/j. prete yeres. 2023. 101168
+Itay Nitzan: Conceptualization (lead); data curation (equal); 11. Twig G, Gluzman I, Tirosh A, Gerstein HC, Yaniv G, Afek A, et al.
+Cognitive function and the risk for diabetes among young men.
+formal analysis (equal); investigation (equal); methodology
+Diabetes Care. 2014;37:2982–8.
+(lead); visualization (lead); writing – original draft (lead); writ-
+12. Deary IJ, Hill WD, Gale CR. Intelligence, health and death. Nat Hum
+ing – review and editing (equal). Estela Derazne: Data cu- Behav. 2021;5:416–30.
+ration (equal); formal analysis (equal); writing – review and 13. Strenze T. Intelligence and socioeconomic success: a meta- analytic
+editing (supporting). Arnon Afek: Project administration review of longitudinal research. Dermatol Int. 2007;35:401–26.
+14. Peled A, Afek A, Twig G, Pras E, Rotenstreich Y, Sher I, et al.
+(equal); supervision (equal); writing – review and editing
+Myopia and childhood migration: a study of 607 862 adolescents.
+(supporting). Adi Einan- Lifshitz: Supervision (equal). Yair
+Ophthalmology. 2020;127:713–23.
+Morad: Supervision (equal). Claudia Yahalom: Investigation 15. Bez D, Megreli J, Bez M, Avramovich E, Barak A, Levine H. Association
+(supporting); methodology (supporting); writing – review between type of educational system and prevalence and severity
+and editing (supporting). Alon Peled: Investigation (equal); of myopia among male adolescents in Israel. JAMA Ophthalmol.
+2019;137:887–93.
+methodology (equal); project administration (equal); super-
+16. Megreli J, Barak A, Bez M, Bez D, Levine H. Association of myopia
+vision (equal); writing – review and editing (equal).
+with cognitive function among one million adolescents. BMC Public
+Health. 2020;20:647. https:// doi. org/ 10. 1186/ s1288 9- 020- 08765 - 8
+FUNDING INFORMATION 17. Davidson M, Reichenberg A, Rabinowitz J, Weiser M, Kaplan Z, Mark
+None. M. Behavioral and intellectual markers for schizophrenia in appar-
+ently healthy male adolescents. Am J Psychiatry. 1999;156:1328–35.
+18. Miller JC, Skillman GD. Assessors' satisfaction with measures of
+CONFLICT OF INTEREST STATEMENT
+cognitive ability applied to persons with visual impairments. J Vis
+The authors report there are no competing interests to Impair Blind. 2003;97:769–74.
+declare. 19. Nitzan I, Bez M, Megreli J, Bez D, Barak A, Yahalom C, et al. Socio-
+demographic disparities in amblyopia prevalence among 1.5 mil-
+lion adolescents. Eur J Public Health. 2021;31:1211–7.
+DATA AVAILABILITY STATEMENT
+20. Twig G, Yaniv G, Levine H, Leiba A, Goldberger N, Derazne E, et al.
+The current data set is subject to military restrictions, and
+Body- mass index in 2.3 million adolescents and cardiovascular
+therefore its availability is limited. Data requests or queries death in adulthood. N Engl J Med. 2016;374:2430–40.
+may be addressed to the corresponding author. 21. Goldstein A, Haelyon U, Krolik E, Sack J. Comparison of body weight
+and height of Israeli schoolchildren with the Tanner and Centers
+for Disease Control and Prevention growth charts. Pediatrics.
+ORCID
+2001;108:e108. https:// doi. org/ 10. 1542/ peds. 108.6. e108
+Itay Nitzan https://orcid.org/0000-0001-6925-5157
+22. Tedros Adhanom Ghebreyesus. World report on vision. World
+health Organisation. Published 2019 [cited 2024 Apr 27]. Available
+from: https:// www. who. int/ publi catio ns/i/ item/ 97892 41516570
+REFERENCES
+23. Bourne RRA, Flaxman SR, Braithwaite T, Cicinelli MV, das A, Jonas JB,
+1. Hopkins S, Black AA, White SLJ, Wood JM. Visual information pro- et al. Magnitude, temporal trends, and projections of the global preva-
+cessing skills are associated with academic performance in Grade 2 lence of blindness and distance and near vision impairment: a system-
+school children. Acta Ophthalmol. 2019;97:e1141–e1148. atic review and meta- analysis. Lancet Glob Health. 2017;5:e888–e897.
+2. Goldstand S, Koslowe KC, Parush S. Vision, visual- information pro- 24. Flaxman AD, Wittenborn JS, Robalik T, Gulia R, Gerzoff RB, Lundeen
+cessing, and academic performance among seventh- grade school- EA, et al. Prevalence of visual acuity loss or blindness in the US: a
+children: a more significant relationship than we thought? Am J Bayesian meta- analysis. JAMA Ophthalmol. 2021;139:717–23.
+Occup Ther. 2005;59:377–89. 25. Helveston EM, Weber JC, Miller K, Robertson K, Hohberger G,
+3. White SLJ, Wood JM, Black AA, Hopkins S. Vision screening out- Estes R, et al. Visual function and academic performance. Am J
+comes of Grade 3 children in Australia: differences in academic Ophthalmol. 1985;99:346–55.
+achievement. Int J Educ Res. 2017;83:154–9. 26. Gitsels LA, Cortina- Borja M, Rahi JS. Is amblyopia associated
+4. Thurston A. The potential impact of undiagnosed vision impair- with school readiness and cognitive performance during early
+ment on reading development in the early years of school. Int J schooling? Findings from the Millennium Cohort Study. PLoS One.
+Disabil Dev Educ. 2014;61:152–64. 2020;15:e0234414. https:// doi. org/ 10. 1371/ JOURN AL. PONE. 0234414
+5. Dirani M, Zhang X, Goh LK, Young TL, Lee P, Saw SM. The role of 27. Hopkins S, Narayanasamy S, Vincent SJ, Sampson GP, Wood JM. Do
+vision in academic school performance. Ophthalmic Epidemiol. reduced visual acuity and refractive error affect classroom perfor-
+2010;17:18–24. mance? Clin Exp Optom. 2021;103:278–89.
+6. Jan C, Li SM, Kang MT, Liu L, Li H, Jin L, et al. Association of visual 28. Bruce A, Fairley L, Chambers B, Wright J, Sheldon TA. Impact of vi-
+acuity with educational outcomes: a prospective cohort study. Br J sual acuity on developing literacy at age 4–5 years: a cohort- nested
+Ophthalmol. 2019;103:1666–71. cross- sectional study. BMJ Open. 2016;6:e010434. https:// doi. org/ 10.
+7. Shang X, Zhu Z, Wang W, Ha J, He M. The association between 1136/ bmjop en- 2015- 010434
+vision impairment and incidence of dementia and cognitive im- 29. Lindenberger U, Scherer H, Baltes PB. The strong connection be-
+pairment: a systematic review and meta- analysis. Ophthalmology. tween sensory and cognitive performance in old age: not due to
+2021;128:1135–49. sensory acuity reductions operating during cognitive assessment.
+8. Vu TA, Fenwick EK, Gan ATL, Man REK, Tan BKJ, Gupta P, et al. Psychol Aging. 2001;16:196–205.
+The bidirectional relationship between vision and cogni- 30. Vander Kolk CJ. A comparison of intelligence test score pattern
+tion: a systematic review and meta- analysis. Ophthalmology. between visually impaired subgroups and the sighted. Rehabil
+2021;128:981–92. Psychol. 1982;27:115–20.
+
+--- PAGE BREAK ---
+
+828 | YOUTH VISUAL IMPAIRMENT AND COGNITION
+31. Bertone A, Bettinelli L, Faubert J. The impact of blurred vision on or blindness, and hearing impairment or deafness. Arch Clin
+cognitive assessment. J Clin Exp Neuropsychol. 2007;29:467–76. Neuropsychol. 2007;22:389–404.
+32. Cui J, Zhang Y, Wan S, Chen C, Zeng J, Zhou X. Visual form percep-
+tion is fundamental for both reading comprehension and arithme-
+tic computation. Cognition. 2019;189:141–54. SUPPORTING INFORMATION
+33. Wood JM, Black AA, Hopkins S, White SLJ. Vision and academic Additional supporting information can be found online
+performance in primary school children. Ophthalmic Physiol Opt.
+in the Supporting Information section at the end of this
+2018;38:516–24.
+article.
+34. Hawes Z, Ansari D. What explains the relationship between spatial
+and mathematical skills? A review of evidence from brain and be-
+havior. Psychon Bull Rev. 2020;27:465–82.
+35. Tosto MG, Hanscombe KB, Haworth CMA, Davis OSP, Petrill SA,
+Dale PS, et al. Why do spatial abilities predict mathematical perfor- How to cite this article: Nitzan I, Derazne E, Afek A,
+mance? Dev Sci. 2014;17:462–70.
+Einan- Lifshitz A, Morad Y, Yahalom C, et al. Visual
+36. Webber AL. The functional impact of amblyopia. Clin Exp Optom.
+impairment and cognitive performance: A nationwide
+2018;101:443–50.
+37. Peng P, Zhang Z, Wang W, Lee K, Wang T, Wang C, et al. Meta- study of 1.4 million adolescents. Ophthalmic Physiol
+analytic review of cognition and reading difficulties: individual Opt. 2024;44:819–828. https://doi.org/10.1111/
+differences, moderation, and language mediation mechanisms. opo.13323
+Psychol Bull. 2022;148:227–72.
+38. Hill- Briggs F, Dial JG, Morere DA, Joyce A. Neuropsychological as-
+sessment of persons with physical disability, visual impairment

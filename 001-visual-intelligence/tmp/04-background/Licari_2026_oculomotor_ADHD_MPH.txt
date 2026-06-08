@@ -1,0 +1,1238 @@
+Review
+Pattern of Oculomotor Findings in Children with
+Attention Deficit/Hyperactivity Disorder in Relation to
+Methylphenidate Treatment
+ClaudiaBrogna1,2,*,†,ValentinaNapoli1,†,LauraCastellini1,†,FedericaMirra1,SimonaSestito1,
+GiuseppeMarsella1,MariaLuisaPiscopiello1,ValentinaCima3,DanielaRicci4,AnnabellaSalerni3,
+GianluigiDiCesare5,PatriziaBrogna5 andDomenicoM.Romeo1,2
+1 PediatricNeurologyUnit,UniversitàCattolicadelSacroCuore,00168Rome,Italy;
+giuseppe.mars3@gmail.com(G.M.);domenicomarco.romeo@policlinicogemelli.it(D.M.R.)
+2 PediatricNeurologyUnit,FondazionePoliclinicoUniversitarioA.GemelliIRCCS,00168Rome,Italy
+3 OphthalmologyUnit,FondazionePoliclinicoUniversitarioA.GemelliIRCCS,00168Rome,Italy;
+valentina.cima@policlinicogemelli.it(V.C.)
+4 NationalCentreofServicesandResearchforthePreventionofBlindnessandRehabilitationofVisually
+Impaired,IAPBItaliaOnlus,00168Rome,Italy
+5 PreventionandEarlyInterventionComplexOperativeUnit,DepartmentofMentalHealth,ASLRoma1,
+00193Rome,Italy;patrizia.brogna@aslroma1.it(P.B.)
+* Correspondence:claudiabrogna@yahoo.itorclaudia.brogna@policlinicogemelli.it;Tel.:+39-06-30155340;
+Fax:+39-0630154363
+† Theseauthorscontributedequallytothiswork.
+Abstract
+Attention-Deficit/Hyperactivity Disorder (ADHD) may be associated with alterations
+in eye movements, which in turn may reflect dysfunctions in executive functions and
+sensorimotorintegrationprocesses. Thisreviewanalyzedthepatternofoculomotorfind-
+ingsofpediatricpopulationsdiagnosedwithADHDwithorwithoutmethylphenidate
+(MPH)treatment,withtheaimofsystematicallydescribingtheoculomotorabnormalities
+observedinaffectedchildren. Atotalof24studieswereanalyzed. Theresultsshowed
+thatchildrenwithADHDexhibitincreasedlatency,ahighernumberofdirectionalerrors
+in prosaccade and antisaccade tasks, as well as intrusions during fixation and a higher
+frequencyofmicrosaccadesandinvoluntaryblinks. Furthermore,studiesinvolvingthe
+administrationofMPHshowedanimprovementinoculomotorcontrol,withareduction
+inerrorsandamodulationoflatencyandoculomotorinhibition. Thesefindingsconfirmed
+the potential role of oculomotor parameters as objective and non-invasive biomarkers
+for exploring the neurofunctional correlates of ADHD and for evaluating the effects of
+pharmacologicaltreatment.
+AcademicEditors:LuisGarcia- Keywords: oculomotoralterations;ADHD;methylphenidate
+Marcos,LidiaPerencandJustyna
+Podgórska-Bednarz
+Received:7January2026
+Revised:15February2026 1. Introduction
+Accepted:6March2026
+Inthelastfewyears,therehasbeenincreasingattentionontheimplicationsofoculo-
+Published:10March2026
+motoralterationsinlearningandcognitivefunctionsinbothtypicallydevelopingchildren
+Copyright:©2026bytheauthors.
+andinthosewithneurodevelopmentaldisorders[1,2]. Thisintereststemsbothfromthe
+LicenseeMDPI,Basel,Switzerland.
+Thisarticleisanopenaccessarticle risingprevalenceofsuchdisordersduringdevelopmentalageandfromtheopportunity
+distributedunderthetermsand tonon-invasivelyinvestigatethefunctioningoftheneurophysiologicalcircuitsinvolved.
+conditionsofthe CreativeCommons Indeed,oculomotoractivityrepresentsafinemotorfunctionthatcanbeeasilymeasured
+Attribution(CCBY)license.
+J.Clin.Med.2026,15,2108 https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 2of19
+in children using simple, non-invasive tasks and procedures [3,4]. Karatekin et al. hy-
+pothesizedapotentialinvolvementoftheoculomotorpathwaysinneurodevelopmental
+disorders[5,6]astheoculomotorcontrolinvolvestheintegrationofcomplexbrainstruc-
+tures,includingthecerebellum,superiorcolliculus,basalganglia,thalamus,andcerebral
+cortex[7].Inrecentyears,interestinAttention-Deficit/HyperactivityDisorder(ADHD)has
+grownsignificantly,particularlywithregardtoitsclinicalmanifestations,neurobiological
+underpinnings,andfunctionalimplicationsforcognitiveandbehavioraldevelopmentin
+children. ADHDisaneurodevelopmentaldisorderwithonsetbeforetheageof12years
+that impairs adaptive functioning or development in at least two settings (e.g., home,
+school, social environments). The global prevalence of ADHD in school-aged children
+is estimated at approximately 5% [8,9]. ADHD has a multifactorial etiology, involving
+complexinteractionsbetweengeneticandenvironmentalfactors[10,11]. Duringtheschool
+years,thedisordersignificantlyaffectshealth-relatedqualityoflife,impairingacademic
+performanceandpsychosocialwell-being[12]. Asubstantialproportionofchildrenwith
+ADHDalsomeetdiagnosticcriteriaforspecificlearningdisorders(SLDs),suchasdyslexia
+or dyscalculia [9,13]. Individuals with ADHD frequently show executive function im-
+pairments, difficulties in performing complex tasks, attentional instability, and slower
+processingspeed[14,15]. Neurofunctionalalterationsdocumentedthroughneuroimaging
+studiesincludereducedactivationoftheanteriorfrontalcortexandbasalganglia[16],as
+wellasdecreasedvolumeinsensorimotor,frontal,andcerebellarregions[17]. Furthermore,
+atypicaldevelopmentofconnectionsbetweenfronto-striatalandcerebellarregionshas
+beenproposedasapossiblemechanismunderlyingthemotorimpairmentsobservedin
+patientswithADHD[14].
+AmongthevariousmanifestationsassociatedwithADHD,inrecentyears,growingin-
+teresthasemergedregardingalterationsinoculomotorcontrolmechanisms,whichserveas
+importantindicatorsofexecutivefunctioningandsensorimotorintegration[18–23],bothin
+typicallydevelopingchildrenandinthosewithneurodevelopmentaldisorders[1,2]. Oculo-
+motoralterationsmaysignificantlyaffectchildren’sacademicfunctioning,contributingto
+difficultiesinreadingandwriting[24]. InpatientswithADHD,numerousstudiesemploy-
+ingeye-trackingtechnologiesreportedcorrelationsbetweenabnormaleyemovementsand
+executiveorattentionaldysfunctions[14,25]. ChildrenwithADHDhavebeenobservedto
+exhibitahigherfrequencyofblinkingandmicrosaccadesduringtheperi-stimulusperiod,
+a phase during which such movements should typically be inhibited to allow accurate
+visualprocessing.
+Inarecentmeta-analysis, Chamorroetal.[19]reportedaninterestingtopiconthe
+role of the oculomotor inhibition in adults and children with ADHD, suggesting that
+oculomotor disinhibition and, more specifically, saccadic reaction time variability, are
+relevantADHDbiomarkers.
+ChildrenwithADHDaredifferentiatedfromadultonesduetothedifferentcerebral
+maturationnetworkinvolved. Thesedifferencesbetweenchildrenandadultpopulations
+havebeenaddressedintworecentmeta-analysesthatconfirmage-relatedchangesinbrain
+activationsrelatedtoADHD,thoughsomehowdifferinginthelociandnatureofthese
+changes. Whileonefoundhypoactivationdifferencesonly[20],theotherfoundhypo-and
+hyperactivationchangesbetweenchildrenandadultswithADHD[21],confirmedalsoby
+otherstudies[22,23].
+By critically reviewing the existing literature, the present study aims to highlight
+theclinicalrelevanceofoculomotorabnormalitiesinchildrenwithADHD,providinga
+detailedoverviewoftypicalalterationsandchangesobservedfollowingmethylphenidate
+(MPH)administration. Specifically,thisreviewincludesstudiesthathaveinvestigatedtask-
+basedassessmentsofseveraloculomotorfunctions,suchassaccadicmovements,ocular
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 3of19
+fixation (including intrusive movements), microsaccades, the frequency of involuntary
+blinking,and,toalesserextent,smoothpursuiteyemovements. Morespecifically,saccadic
+movementsincluded: (i)prosaccades,whicharerapid,automaticeyemovementstowarda
+visualstimulus;(ii)antisaccades,whichrequiresuppressionofareflexiveglancetowarda
+peripheralstimulusandgenerationofavoluntarysaccadeintheoppositedirection;and
+(iii)memory-guidedsaccades,whichassesstheabilitytomaintainthespatiallocationof
+atargetinworkingmemoryanddirectgazetowarditafteradelaywhenthetargetisno
+longervisible.
+2. MaterialsandMethods
+2.1. SearchCriteria
+ThereviewwascarriedoutaccordingtotheguidelinesPreferredReportingItemsfor
+SystematicReviewsandMeta-Analyses(PRISMA;seeFigure1).
+Figure1.FlowchartforprocessaccordingtoPRISMA.
+Theresearchwasconductedusingthefollowingdatabases: PUBMED,MEDLINE,
+Embase,andScopus.
+Searchtermsusedwere“Attention-DeficitHyperactivityDisorder”,“oculomotor”,
+“eyemovements”and“methylphenidate”.
+2.2. InclusionCriteria
+Studies were selected for inclusion if they were written in English or if a suitable
+Englishtranslationwasavailable,andiftheywerehuman-based. Allthestudieswerefirst
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 4of19
+selected,lookingforthepresenceofaclinicalassociationbetween“ADHD”,“oculomotor”,
+“eyemovements”and“methylphenidate”. Studiespublishedwithintheintervalrange
+2000to2024wereincluded. Weincludedstudieswithanagerangeof0–18years.
+2.3. ExclusionCriteria
+Theexclusioncriteriaforthisreviewwereclearlydefinedbeforethescreeningprocess
+began. Specifically,inthecourseofidentifyingrelevantstudies,articleswereexcludedif
+theywerecasereportsoranalyzedadultsubjects.
+2.4. DataExtractionandAnalysis
+The title and abstracts of the studies were independently examined for suitability
+by four authors (V.N., L.C., F.M., M.L.P.) and critically checked by a third independent
+reviewer(C.B.);conflictingviewpointswerediscusseduntilaconsensuswasreached. A
+totalof101studieswereinitiallyidentified; 15wereexcludedbecausetheyfelloutside
+thepredefinedyearrange,while19wereremovedastheydidnotmeettheestablished
+eligibilitycriteriaforempiricalresearch(i.e.,reviews,systematicreviews,meta-analyses,
+etc.);afterareviewofthefulltext,43wereexcluded,astheyincludedadultsamplesor
+werenotpertinenttotheinclusioncriteria. Theremaining24articleswereincludedinthe
+presentreview(detailsarereportedinTable1)[24–47].
+Table1. Oculomotorfindingsinyoungmedication-naïveADHDsubjectsandinyoungADHD
+subjectstreatedwithmethylphenidateorothernotspecifiedstimulants. NotethatMPHdosage,
+formulation,andwash-outperiodsarenotalwaysreportedintheoriginalmanuscript.
+Sample Age Oculomotor Oculomotor MPHorOther
+Study Design MainFindings Limitations/Bias Comorbidities
+Size (Years) TestUsed Tasks MedicationUsed
+ADHD:
+difficultyin Unbalanced
+Damyanovich 41ADHD Simpleand
+post-saccadic samples;
+etal. Case–control vs. 7–9 EOG+EEG coordinated Notreported Notreported
+fixation;greater indirect
+2013[24] 22controls tasks
+instabilityin measurements
+complextasks.
+No:MPH,
+ciclosporin(no
+ADHD: Comorbidities
+specifieddose
+impaired excluded:
+andformulation) Wideage
+endogenous learning
+Munoz 76ADHD Fixation, werenotused range;
+fixationcontrol, disabilities,
+etal. Case–control vs. 6–16 Eyetracking prosaccades, duringthetest, treatment
+moreintrusive Tourette’s
+2003[25] 75controls antisaccades (minimaltime inconsistently
+saccades, syndrome,
+betweenthe reported
+higherlatency bipolar
+previousdose
+variability. disease
+and
+testing≥20h).
+Yes:8ADHD
+childrenonMPH
+(dose0.14–0.79
+mg/kgperdose,
+taken3hto
+ADHD:more immediately Smallsample,
+directional beforetesting);1 cross-sectional,
+errors childalsoon no
+Prosaccades, (antisaccades), imipramine(0.35 within-subject
+Mostofsky 19ADHD antisaccades, more mg/kg/day). ON/OFF
+Electrooculography
+etal. Preliminary vs. 7–16 memory- anticipatory MPHimproved design;mixed Notreported
+(EOG)
+2001[26] 25controls guided errors consistency subtypes;
+saccades (memory- (reduced stimulant
+guided), variability)and dose/formulation
+greaterlatency latencybutdid not
+variability. notsignificantly standardized.
+improve
+inhibition
+(antisac-
+cade/anticipatory
+errors).
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 5of19
+Table1.Cont.
+Sample Age Oculomotor Oculomotor MPHorOther
+Study Design MainFindings Limitations/Bias Comorbidities
+Size (Years) TestUsed Tasks MedicationUsed
+ADHD:slower Yes:stimulant
+andmore useallowed(type
+variableVGS, andformulation
+impaired notspecified); Fixedtask
+response childrentaking order;absence ODD
+Visually
+inhibition, stimulants ofON/OFF (25–28%)
+guided
+60ADHD reduced withheld medication andspecific
+saccades
+Mahone (24female) Cognitive memoryin medicationonthe comparison; phobias
+Cross- (VGS),
+etal. vs. 8–12 oculomotor inattentive dayofandthe stimulant (17–28%)
+sectional antisaccades,
+2009[27] 60controls paradigms subtype.Girls daybeforetesting. regimennot allowed;
+go/no-go,
+(29female) withADHD Noother standardized; othercomor-
+memory-
+showed psychoactive no bidities
+guided
+significantly drugspermitted. randomization excluded.
+longerVGS Numberof ofparadigms.
+latencythan treatedADHD
+ADHDboys participants
+andcontrols. notreported.
+ADHD:more
+saccades Yes:27ADHD
+Smallsample;
+duringfixation, childrentreated
+possible
+more withMPH(mean
+learningeffect;
+antisaccade dose= Comorbidities
+31ADHD Fixation,gap, absenceof
+Buccietal. errors,shorter 0.62±0.04mg/kg/day; screened
+Case–control vs. ~10 Eyetracking step,overlap, placebogroup;
+2017[28] latency formulationnot andex-
+31controls antisaccades singledose
+(overlap). specified);effects cluded
+range(no
+MPH: evaluatedafter1
+dose–response
+normalized monthof
+analysis)
+parameters treatment.
+after1month.
+Group1to4
+included,
+respectively,
+ADHD:the
+children
+fixationtask
+Saccades, Heterogeneous withADHD,
+onlyhad
+memory- clinicalgroups; children
+poorer
+guided nospecific with
+26ADHD eye-movement
+Buccietal. saccades, focuson dyslexia,
+Case–control vs. ~9 Eyetracking performances Notreported
+2018[29] fixation ADHD-only children
+26controls inthestanding
+accordingto subgroup;lack withhigh
+condition
+postural ofpharmaco- functioning
+comparedto
+condition logicalcontrol. (ASD)and
+thesitting
+typically
+condition.
+developing
+children
+(TD).
+Yes:
+40ADHD
+ADHD:more
+childrenwereoff Seximbalance
+46ADHD anticipatory
+Pro-and MPH(Ritalin)for groups;
+(5female) errors,longer
+Kleinetal. antisaccades 12–18hbefore inconsistent
+Case–control vs. 9–13 Eyetracking reactiontimes, Notreported
+2003[30] (gapand testing;6received drug
+46controls absent
+overlap) Ritalin4–8hprior suspension
+(8female) age-related
+totesting. period.
+latencydecline.
+Dosage
+notreported.
+Yes:children
+ADHD:greater
+12ADHD takingMPH
+inaccuracy,
+Huang& (5females) View (Ritalinor Smallsample; Comorbidities
+VGS, moredirection
+Chan, Case–control vs. ~9 Hi-Speed Concerta) non-uniform explicitly
+antisaccades errors,shorter
+2020[31] 12controls (500Hz) discontinued wash-out excluded
+latencyfor
+(4females) medication24h
+distanttargets.
+priortotesting.
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 6of19
+Table1.Cont.
+Sample Age Oculomotor Oculomotor MPHorOther
+Study Design MainFindings Limitations/Bias Comorbidities
+Size (Years) TestUsed Tasks MedicationUsed
+IntheOFFmeds
+condition,ADHD
+participantswere
+askedtoabstain
+fromtaking
+stimulant
+medicationforat
+ADHD:longer least20hbefore
+reactiontimes, theMRIsession;
+more ADHDgroup
+antisaccade analysisofOFF
+22ADHD directionerrors, andONstimulant
+MRI
+Fernandez- (5females) activationsin medicationdid
+Eyetracking, acquisition, Comorbidities
+Ruizetal. Case–control vs. ~12.6 Antisaccades saccade notshow
+fMRI small excluded
+2020[32] 20controls networkareas, drug-related
+samplesize
+(6females) significanthy- activation
+peractivationin differences.Yes:
+thedorsolateral (MPH,
+prefrontal Atomoxetine):
+cortex. significant
+correlation
+betweenthe
+differencein
+OFF/ON
+preparatory
+activationinthe
+precuneus.
+No:participants
+were
+medication-free
+for≥10days
+beforetesting;23
+53ADHD ADHD:more
+femalesretested
+Gould (29females) latencywith Possiblefloor
+Eye-tracker 3–9weekslater
+etal. Case–control vs. 7–13 21sfixation largesaccades effect;weak Notreported
+2001[33] 44controls (Ober2) (>4◦)during under correlations
+double-blind
+(18females) simplefixation.
+placebo.
+Nomedication
+doseor
+formulation
+reported.
+ADHD:
+significantly
+greaterbrain
+activationin
+Yes,childrenwith
+regionsinright
+11ADHD ADHDwere Smallpediatric
+dorsolateral
+Schwarz (2females) takingMPH; sample;lackof
+Antisaccade prefrontal
+etal. Case–control vs. 8–11 Antisaccades medication detailed Notreported
+tasks,fMRI cortexand
+2015[34] 11controls detailsand medication
+caudate
+(3females) wash-outperiod information.
+nucleuswas
+notreported.
+observed;no
+differencein
+antisaccade
+task.
+ADHD:similar
+Fixedtask
+saccadic Nocomor-
+order;small
+response bidities
+sample;limited
+22ADHD preparation reported;
+Yes:13patients randomization;
+Hanisch (7females) Prosaccades, andsaccadic dyslexiaand
+onMPH, exclusionof
+etal. Case–control vs. ~11–12 Eyetracking antisaccades, accuracy other
+withheld≥12h dyslexiaand
+2006[35] 22controls fixation comparedto psychiatric
+beforetesting. major
+(8females) controls, disorders
+comorbidities
+impaired explicitly
+limitsgeneral-
+antisaccades, excluded.
+izability.
+fixation.
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 7of19
+Table1.Cont.
+Sample Age Oculomotor Oculomotor MPHorOther
+Study Design MainFindings Limitations/Bias Comorbidities
+Size (Years) TestUsed Tasks MedicationUsed
+Saccade
+latencyand
+accuracy,
+memory-
+guided
+saccadetask ADHD: No:Allsubjects
+measured significant werefreeof
+with differencesin medicationfor24
+19ADHD
+Gotoetal. percentageof saccadelatency hbeforethe
+Case–control vs. 6–11 Electrooculography Notreported Notreported
+2010[36] anticipatory andaccuracy, testingsession.
+30controls
+errors(PAE), PAEandPDE Formulationand
+antisaccade ratescompared dosagenot
+task tocontrols. specified.
+measured
+with
+percentage
+ofdirection
+errors(PDE)
+ADHD:no Smallsample
+Visually 4ADHD-C
+differencesin size,younger
+guided and5
+latency, malesandfew
+saccades, No:stimulant ADHD-Ihad
+accuracyof females.ODD
+Cross- 26ADHD antisaccades, medication oppositional
+Loeetal. Oculomotor saccades,but notexcluded;
+sectional vs. 8–13 memory- allowedbut defiant
+2009[37] task impaired somedataonly
+study 33controls guided withheldonday disorder;
+antisaccades fromparentvs.
+saccades oftesting. learning
+andMGSsand teacher
+(MGSs), problems
+fixation discordant
+fixation excluded.
+thancontrols. ratings.
+Smallsample
+ADHDhad
+No: size;onlymale
+VanDer slower
+psychostimulants participants;
+Stigchel Case– 22ADHD, Oculomotor responsesthan
+7–14 Prosaccades discontinued≥ absenceof Notreported
+etal. control 20controls capturetask controls,but
+48hbefore working
+2007[38] werenoless
+testing. memory
+accurate.
+measures
+Groups
+ADHD:less
+differedinIQ;
+accurate
+Oculomotor smallsample
+Saccades, saccades,no
+capturetask No: size;nofemale
+Rommelse memory- differencesfor
+Case– 14ADHD, anda psychostimulants participants;
+etal. 7–14 guided latency, Notreported
+controls 15controls memory- discontinued≥48 reduced
+2008[39] saccades alterationof
+guided hbeforetesting. measuresof
+(MGSs) MGSs
+saccadetask working
+compared
+memory
+tocontrols.
+andinhibition.
+Oppositional
+Defiant
+Disorder(3),
+Conduct
+Disorder(1),
+Learning
+ADHD: Disorder(2),
+10ADHD Yes:9patientson Smallsample
+Antisaccade impaired Anxiety
+(2females) psychostimulants size,few
+Karatekin, accuracyand accuracyand Disorder(3),
+Case–control vs. 14–15 Eyetracking (notspecified), numberof
+2006[40] response saccadicRT Mood
+15controls withheld24h trialsineach
+time(RT) compared Disorder(2),
+(6females) beforetesting. condition
+tocontrols. Sub-
+stance/Alcohol
+Use(2),
+Enuresis(1),
+Possible
+Sleep
+Disorder(1).
+ADHD:white
+noise
+stimulation smallsample;
+52ADHD Saccades, doesnot subtypesof
+(31boys, fixation, appeartobe ADHD,gender
+Jostrup Eyetracking, No:MPH
+21girls)vs. memory- beneficialfor comorbidities,
+etal. Case–control ~11.7 auditory withdrawal≥24 Notreported
+45controls guided childrenwith MPHdiscontin-
+2024[41] whitenoise hbeforetesting.
+(20boys, saccades ADHDintasks uationnot
+25girls) (MGSs) thattarget physically
+oculomotor inspected
+inhibitory
+control.
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 8of19
+Table1.Cont.
+Sample Age Oculomotor Oculomotor MPHorOther
+Study Design MainFindings Limitations/Bias Comorbidities
+Size (Years) TestUsed Tasks MedicationUsed
+Yes:MPH
+administered(0.5
+mg/kgtoa
+maximumof30
+Oppositional
+mg)formulation
+defiant
+notspecified.
+disorder,not
+ADHD:no MPH
+specifiedthe
+impairmenton significantly
+Onlymale numberof
+nvisually improvedmotor
+participants; patients.
+guided planningand
+smallsample; One
+saccades, response
+O’Driscoll 22ADHD limited ADHD-Iboy
+Saccades, elevated inhibition;MPH
+etal. Case–control vs. 11.5–14 Eyetracking informationon andone
+antisaccades antisaccade decreased
+2005[42] 10controls medication ADHD-C
+percenterror, saccadelatency
+regimenand boymetthe
+significant butdidnotaffect
+testing minimum
+maineffectof saccade
+protocol. criteriafor
+Switchon amplitudeor
+generalized
+percenterror. peakvelocity,
+anxiety
+decreased
+disorder
+antisaccade
+(GAD).
+percenterrorand
+latencyanderror
+ratesintask
+switching.
+Smallsample;
+absenceof
+simultaneous
+ADHD No
+head–eye
+21ADHD childrenhad psychiatric
+Twovisual tracking;
+vs. poorfixation comorbidi-
+Caldani tasks,eye potential
+21control capabilityand ties;dyslexia
+etal. Case–control ~8 tracking, Fixation No “ceilingeffect”
+(sex-and poorpostural and
+2019[43] postural indual-task
+age- stabilitywhen neurological
+platform condition;
+matched) comparedto disorders
+cross-sectional
+TDchildren. excluded.
+designlimits
+causal
+inference.
+ADHD:
+children(off
+andonMPH)
+hadpursuits
+andsaccades Yes:14patients
+Fixation,pro
+Eyetracking, (pro-and treatedwithMPH
+Buccietal. 28ADHD, and Small
+Case–control ~9 force antisaccades) (formulationand Notreported
+2014[44] 14controls. antisaccades samplesize
+platform similarto dosagenot
+andpursuits.
+controls,but specified).
+showingmore
+saccades
+duringthe
+fixationtask.
+No
+Intellectual
+quotient<80,
+evidenceof
+ADHD:normal medicalor
+smoothpursuit; neurological
+Smooth moreerrors disorderson
+32ADHD
+Castellanos pursuit, and Femalesonly; examination
+femalesvs.
+etal. Case–control 6–13 Eyetracking delayed commissionsin No potential orbyhistory,
+20controls
+2000[45] response, delayed learningeffects Tourette’s
+(females)
+go/no-go responseand disorder,or
+go/ any
+no-gotasks. psychiatric
+disorder
+requiring
+psychiatric
+treatment.
+MPHreduces Yes:MPH
+pro-and Group1(n=13)
+anti-saccadic wasfirsttested
+reactiontimes, withoutMPH,
+Pro-saccades
+Kleinetal. 27ADHD errorcorrection and1weeklater
+Case–control 10–15 Eyetracking and Malesonly Notreported
+2002[46] males times,andthe with;Group2
+antisaccades
+proportionof (n=14)
+directionerrors performedthe
+duringtheanti- reversetesting
+saccadetask. order.
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 9of19
+Table1.Cont.
+Sample Age Oculomotor Oculomotor MPHorOther
+Study Design MainFindings Limitations/Bias Comorbidities
+Size (Years) TestUsed Tasks MedicationUsed
+Fixation,
+pro-saccades
+Childrenwith
+taskinstep
+ADHDhada
+andgap
+significantly
+37ADHD conditionsto
+longerreaction
+(12female evaluatethe
+Matsuo timethan
+and gapeffect,
+etal. Case–control 5–11 Eyetracking controls No Notreported Notreported
+25male) whichisthe
+2015[47] (p<0.01),and
+and difference
+thegapeffect
+88controls inthe
+wasmarkedly
+reactiontime
+attenuated
+betweenthe
+(p<0.01).
+two
+conditions
+3. Results
+Inthischapter,weanalyzedthefindingsemergingfromtheliterature,organizingthem
+intosubsectionsdedicatedtoseveralaspectsofoculomotorfindings,including(i)saccades,
+(ii)fixation,and(iii)smoothpursuit,highlightingthemainalterationsobservedinchildren
+withADHDcomparedtotypicallydevelopingpeers[24–47].
+Thefirstsectionexaminesstudiesdescribingoculomotorabnormalitiesintheabsence
+of pharmacological treatment (untreated ADHD subjects) [24–30,33,36–39,41,43,45,47],
+while the second one presents findings regarding the effects of stimulants, like MPH,
+on oculomotor function [26–28,30–32,34,35,40,42,44,46]. Visual tracking intervention or
+trainingofeyemovementshasnotbeenreportedinallthestudiesinvestigated. SeeTable1
+fordetails.
+4. OculomotorFindingsinUntreatedYoungSubjectswithADHD
+4.1. Saccades: Prosaccades(ReflexiveSaccades),AntisaccadesandMemory-Guided
+Saccades(MGSs)
+Saccades represent the most extensively studied eye movements in children with
+ADHD,astheysensitivelyprobeinhibitorycontrol,motorpreparation,andmovementpre-
+cision. Our review gathered multiple findings describing significant alterations across
+various experimental paradigms [26–47]. The saccadic movements analyzed include
+prosaccades, antisaccades, and memory-guided saccades. We report the related find-
+ings investigated in in Young subjects with ADHD without medication (medication
+naive)[24–30,33,36–39,41,43,45,47].
+Prosaccadesarerapid,automaticeyemovementstowardavisualstimulus. Several
+studies in children with ADHD report anomalies in latency and response
+variability[25–29,35–38,47]. Forexample,Mostofskyetal.[26]foundanincreasedintra-
+subjectlatencyvariabilitydespitecomparablemeanlatency,suggestinganimpairedmo-
+torpreparationandsustainedattention,implicatingprefrontalmechanismsresponsible
+for executive control of movement. Mahone et al. [27], examining a larger sample of
+60children with ADHD and 60 typically developing peers aged 8 to 12 years, further
+observedprolongedlatencyintheoverlapparadigm—ataskrequiringinhibitionofcentral
+fixation before initiating a peripheral saccade—indicating impaired motor preparation.
+Thisstudy[27]alsonotedagreatervariabilityinprosaccadiclatencyandasignificantsex
+effect,withfemalesexhibitinglongerlatenciesindependentofsymptomseverity. These
+findingssuggestedthatevenautomaticprosaccadesmaybeaffectedbymotorplanning
+deficitsmodulatedbyindividualfactorssuchassex. Inasampleof31medication-naïve
+children with ADHD and 31 matched controls, Bucci et al. [28] reported shorter mean
+prosaccadiclatenciesintheADHDgroup,specificallyintheoverlapparadigm,alongside
+increasedsaccadesduringfixationandmoredirectionerrorsinantisaccadetasks.
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 10of19
+Loeetal.[37]reportednodifferencesinoverallpercentcorrect,latency,oraccuracy
+of saccades in the ADHD group compared to controls, while in other studies, children
+with ADHD were slower than the controls in the latency and total search time of the
+saccade[36,38],buttheywereaccurateintheireyemovementslikethecontrols[38]. This
+resultisincontrastwithotherstudiesshowingchildrenwithADHDtobelessaccurate
+in their saccades [39] with no differences for latency [45]. When comparing with other
+neurodevelopmentaldisorders[29]inchildrenwithADHD,thelatencyofthevisualtarget
+wasnotaffectedbyposture,comparedtothecontrolgroup.
+Theantisaccadetaskrequiressuppressionofareflexiveglancetowardaperipheral
+stimulusandgenerationofavoluntarysaccadeintheoppositedirection. Thisparadigm
+iswidelyusedtoassessinhibitorycontrolandisparticularlysensitivetoexecutivedys-
+function. All included studies [25,26,29] report significantly increased direction errors
+inchildrenwithADHDrelativetotypicallydevelopingpeers. Mostofskyetal.[26]con-
+firmed marked increases in antisaccade errors, interpreting them as manifestations of
+prefrontaldysfunction.
+Similarly,Kleinetal.[30]examined46childrenwithADHDand46controls,observing
+increasedreactiontimesinbothpro-andantisaccades,elevateddirectionerrors,ahigher
+rate of anticipatory responses, and reduced saccade frequency in the gap condition in
+childrenwithADHD.Supportingthesefindings,Buccietal.[28],intheirgroupof31un-
+medicatedchildrenwithADHD,alsoreportedmoredirectionerrors,furtheremphasizing
+the difficulties in suppressing automatic oculomotor responses. Hanisch et al. [35], in
+a group of 22 children with ADHD and 22 healthy controls, identified selective oculo-
+motorinhibitionimpairments,withchildrenwithADHDstrugglingtoinhibitprepotent
+responses,especiallyinnovelorcomplexcontexts,consistentwithfronto-striatalinhibitory
+circuitdysfunction. HuangandChan[31]alsocontributedtothesefindingswithasmaller
+sample of 12 children with ADHD and 12 controls, reporting significantly higher error
+ratesandshortenedlatenciesinantisaccadetasksintheADHDgroup. Similarresultsare
+reportedbyKaraketinetal.,showingimpairedantisaccadeaccuracywithmorepremature
+saccadesandfewercorrectivesaccades[40],andbyLoeetal.[37].Fernandez-Ruizetal.[32]
+reported data of the antisaccade task of 22 ADHD children compared with 20 controls
+whileundergoinganfMRIstudywithconcurrenteyetracking. TheADHDgroupshowed
+longerreactiontimesandmoreantisaccadedirectionerrorsthancontrolsandasignificant
+hyperactivationinthedorsolateralprefrontalcortex.
+MGStasksassesstheabilitytomaintainthespatiallocationofatargetinworking
+memoryanddirectgazetowarditafteradelaywhenthetargetisnolongervisible. This
+requiresintegrationofvisuospatialmemory, motorpreparation, andinhibitorycontrol.
+InthestudybyMostofskyetal.[26],theADHDgroupreportedsignificantlymoreantici-
+patoryerrorsandlongerlatenciesthancontrols,thoughspatialaccuracywaspreserved,
+suggestingdifficultiesinplanningandexecutivecontrolratherthanspatialcoding. Sim-
+ilarresultsarereportedbyotherstudiessuggestingalterationsinthefunctioningofthe
+cerebellum, or alterations in the dopaminergic transmission, which would only affect
+memory-guided saccades [37,44]; Mahone et al. [27] validated these results, highlight-
+ingdeficitsinmotorpreparation(latencyandvariability)butnotageneralizedworking
+memoryimpairment. However,inattentive-ADHDsubtypesshowedreducedaccuracyin
+workingmemorytaskscomparedtocombinedsubtypes,indicatingsubtype-specificdiffer-
+ences. Damyanovichetal.[24]examined41ADHDchildrenand22controls,describing
+difficultiesinpost-saccadicfixation,exacerbatedduringcomplex,multi-steptasks. These
+impairmentsinvolvedchallengesinmaintainingfixationaftersaccades,particularlyduring
+demanding sequences, and may resemble the demands of MGS tasks, although MGSs
+werenotdirectlytested. Whencomparingwithotherneurodevelopmentaldisorders[29]
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 11of19
+inADHDchildren,thepercentageoferrorsinMGSswasaffectedbyposturalcondition,
+anditwasimprovedwhenthechildwasstandingupontheplatformcomparedtositting
+comfortablyonachair.
+4.2. Fixation
+Visual fixation is critical for maintaining stable gaze on a target and underpins vi-
+sualexplorationandattentionalcontrol. ChildrenwithADHDexhibitfixationinstability
+causedbyintrusivesaccades,inappropriatemicrosaccades,anddifficultysustaininggaze.
+Muñozetal.[25] found in ADHD subjects an exogenous fixation control preserved but
+anendogenousfixationcontrolimpaired;theseresultssuggestedareducedsuppression
+ofreflexivesaccades,increasedintrusivesaccadesduringprolongedfixation,andgreater
+variability in saccadic reaction times in ADHD patients. Gould et al. [33], in 53 chil-
+dren with ADHD and 44 controls, confirmed more large saccades (>4◦) during simple
+fixationintheADHDgroup,indicatingabasicoculomotorcontroldeficitevenwithout
+complexcognitivedemands. Notably,performancedidnotsignificantlyimproveduring
+placebo testing, suggesting the persistence of underlying control impairments. In line
+withthesefindings,Buccietal.[28]reportedmoresaccadesduringfixationinmedication-
+naïvechildrenwithADHD,highlightinginhibitorycontroldeficitsinsimplevisualtasks.
+Damyanovichetal.[24],basedonaclinicalgroupof41ADHDchildren,identifiedpost-
+saccadicfixationdifficulties,worseningduringcomplextasks,potentiallylinkedtoimma-
+turefrontalcorticalfunctionthatmayaffectacademicskillssuchasreadingandwriting.
+Buccietal.[29]foundthatintheADHDsample,thevisualfixationwaspoorwhilethe
+childwasstandingupontheplatform,comparedtothecontrolgroup. Caldanietal.[43]
+showedthatADHDchildrenhadpoorfixationcapabilityandpoorposturalstabilitywhen
+comparedtocontrols. Loeetal. foundthatincreasedinterstimulus(IS)fixationperiods
+(definedasthedelaybetweentheinstructionalcueandtheappearanceofthestimulus)on
+theantisaccadetaskwasassociatedwithimprovedperformanceanddecreasedreaction
+timesoncorrecttrialsforcontrolsbutnotforchildrenwithADHD[37],whereasMatsu
+etal. foundalongerreactiontimeandlessstableeye-movementduringthefixationperiod
+inADHDchildrenrespecttothecontrols[47].
+4.3. SmoothPursuit
+Smoothpursuiteyemovementsenablecontinuoustrackingofamovingtarget,crucial
+forfluidvisualprocessing. Comparedtosaccadesandfixation,thisdomainislessinvesti-
+gatedinADHDchildren. Castellanosetal.[45]assessedsmoothpursuitalongsidedelayed
+responseandinhibitorycontroltasksingirlsonlywithADHD.Theyfoundnosignificant
+differencesinpursuitperformancecomparedtocontrols,suggestingrelativepreservation
+ofthisoculomotorfunctioninADHD.However,nospecificdataonparticipantnumber
+wasreportedinthissection.
+5. OculomotorFindingsinYoungADHDSubjectsTreated
+withStimulants
+Despite the increasing use of methylphenidate (MPH) in the treatment of ADHD,
+studiesspecificallyinvestigatingitseffectontheimprovementofoculomotormovements
+remain limited in the literature [26–28,30–32,34,35,40,42,44,46]. MPH dosage, formula-
+tion, and wash-out periods are not always reported in the original manuscript. In our
+review,onearticleanalyzedthechangesinoculomotorparametersbeforeandafterthe
+administration of MPH [46]. Only two studies [30,31] reported the formulation of the
+drugused,indicatingtheuseofRitalinandConcerta. Finally,inthreestudies,thedosage
+usedwasspecified[26,28,42]. Theselectedstudieswereconductedonpediatricsamples,
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 12of19
+usingcomputerizedoculomotortasksadministeredpre-andpost-treatment,orcomparing
+treatedversusuntreatedsubjects. Overall,theresultssuggestafavorableeffectofMPHon
+oculomotorcontrol,withevidentimprovementsparticularlyintasksrequiringvoluntary
+inhibitionandsustainedvisualattention. Specifically,weanalyzedthechangesobserved
+insaccadictasks,fixation,andsmoothpursuit.
+5.1. Saccades: Prosaccades(ReflexiveSaccades),AntisaccadesandMemory-Guided
+Saccades(MGSs)
+Buccietal.[28]examined31childrenwithADHDand31matchedcontrolsbeforeand
+afteronemonthofMPHtreatment. Resultsshowednormalizationofvoluntarysaccade
+latency in the gap, step, and overlap paradigms, and a significant reduction in errors
+duringtheantisaccadetaskaftermedication. OculomotorperformanceintheADHDgroup
+became comparable to that of controls after medication. The performance of saccades
+(pro- as well as antisaccades) is similar in children with ADHD (off and on MPH) and
+controls[44].
+Mostofskyetal.[26]included19childrenandadolescentswithADHD(11unmedi-
+cated,8onMPH)and25typicallydevelopingcontrols. ThegroupreceivingMPHshowed
+lessvariabilityinprosaccadelatencyandfeweranticipatoryerrorsinMGSs,althoughMPH
+didnotfullycorrectresponseinhibitiondeficits. Kleinetal.[30]evaluated46childrenwith
+ADHD(6testedunderMPH,40inwash-out)and46controls. Medicatedchildrenexhibited
+improvedperformanceinpro-andantisaccadetasks,withreducedanticipatoryerrorsand
+shorterreactiontimes. Notably, age-relatedimprovementsinlatencywerelessevident
+intheADHDgroup. Hanischetal.[35]tested22childrenwithADHDand22controls,
+after a ≥12 h medication wash-out, showing that fixation difficulties in ADHD are not
+duetogeneralizedmotorimpairmentbuttoselectiveinhibitorydysfunction. Children
+withADHDstruggletosuppressautomaticresponseseveninroutinecontexts,suggesting
+fronto-striatalinhibitorycircuitabnormalities. Huang&Chan[31]studied12childrenwith
+ADHDand12controls;participantshaddiscontinuedMPHuse24hbeforetesting.Despite
+thewash-out,ADHDchildrenshowedgreaterinaccuracyandmoredirectionerrorsinanti-
+saccadetasks,suggestingpersistentoculomotordysregulation,thoughpossiblyattenuated
+bytreatmenthistory. Fernandez-Ruizetal.[32]didnotreportadrug-relatedactivation
+difference,buttheyshowedasignificantcorrelationbetweenthedifferenceinOFF/ON
+preparatoryactivationintheprecuneusandadecreaseinthenumberofantisaccadeerrors.
+Schwarzetal.[34]studiedthecorrelationbetweenantisaccadeperformanceandneural
+correlatesonfMRIin11childrenwithADHDandchildrentreatedwithMPHmatchedto
+11typicallydevelopingchildren;theauthorsreportedagreaterbrainactivationinregions
+oftherightdorsolateralprefrontalcortexandcaudatenucleusinADHDchildrenwithout
+anydifferenceinantisaccadeperformancebetweenthetwogroups. MPHsignificantly
+improved motor planning and response inhibition, evaluated with antisaccade, as also
+reportedbyKleinetal.[46]; MPHdecreasedsaccadelatencybutdidnotaffectsaccade
+amplitude or peak velocity, decreasing antisaccade percent error and latency and error
+rates[42].
+5.2. Fixation
+Buccietal.[28]alsoassessedfixationtasksbeforeandafterMPHtreatment. Following
+one month of therapy, children with ADHD exhibited a drastic reduction in intrusive
+saccades during fixation, with post-treatment performance reaching levels observed in
+typicallydevelopingpeers. Inapreviouswork,Buccietal. reportedthatchildrenwith
+ADHD(offandonMPH)madesignificantlymoresaccadesduringthefixationtaskthan
+thecontrolgroup[44].
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 13of19
+5.3. SmoothPursuit
+Buccietal.[44]reportednodifferencesinpursuitsinchildrenwithADHD(offandon
+MPH)comparedwithcontrols.
+6. Discussion
+The aim of the present review was to analyze the existing literature on oculomo-
+torfindingsinchildrenwithADHDinresponsetogrowingscientificinterestregarding
+thepotentiallinkbetweenoculomotoralterationsandneurofunctionalADHDcerebral
+dysfunctions[7,24,26–29]. Theobjectivewastoexplorehowdifferentcomponentsofocu-
+lomotorcontrolreflectspecificabnormalitiesinneuralcircuitsimplicatedintheregulation
+ofexecutiveandattentionalfunctionsinthispopulationandhowtheycanchangewith
+theuseofstimulants. Thisisanimportantissuetoinvestigateasoculomotorfunctions
+areinvolvedinseveralaspectsofdailylifeinchildren, includinglearningprocessesaf-
+fectingschooladaptivefunctioning,whichinADHDchildrenarejustcompromisedby
+poorattentionandimpairedimpulsivity. Theseconsiderationssupporttheimportanceof
+adoptingearlyrehabilitativeapproachesthatcouldaddressnotonlyhigher-orderexecutive
+functionsbutalsounderlyingoculomotormechanisms.
+ExecutiveandattentionaldifficultiestypicalofADHDemergemoreclearlyinoculo-
+motortasksrequiringvisuospatialworkingmemory,motorpreparation,andinhibitionof
+automaticresponses,suchasantisaccadesandmemory-guidedsaccades[26,27].Consistent
+withtheliterature,ouranalysisfoundthatsaccadiceyemovementshavebeenthemost
+extensivelyinvestigated,withparticularfocusonprosaccades,antisaccades,andmemory-
+guidedsaccades[26–31]. Prosaccades,whilelessaltered,providedusefulinformationon
+reactiontimesandmotorresponsepreparation[27,29].
+Thesefindingsareconsistentwithprevioussystematicreviewsandmeta-analysesdoc-
+umentingrobustoculomotordeficitsinchildrenandadolescentswithADHD,particularly
+intasksrequiringinhibitorycontrolandexecutiveregulation[48,49].
+Regardingsmoothpursuiteyemovements,availabledataarecurrentlylimited. In
+particular, Castellanos et al. [45] reported that smooth pursuit was largely preserved,
+confirmedalsobyBuccietal.[44]inapopulationoftreatedanduntreatedchildrenwith
+ADHD. However, although altered pursuit performance has been observed in ADHD,
+furtherresearchisneededtodeterminewhetherandhowMPHmodulatesthisoculomotor
+domain. Thishighlightsasignificantgapintheliterature,warrantingfurtherinvestigation
+throughtargetedexperimentalstudies.
+Toevaluateantisaccademovements,subjectsarerequiredtosuppressthevoluntary
+responsetolookataperipheraltargetinordertolookintheoppositedirection. Theanti-
+saccadetaskhasbeenconfirmedasthemostsensitiveoculomotormeasurefordetecting
+inhibitorycontroldeficitsinchildrenwithADHD.Notably,whilereactiontimestoantisac-
+cadesdecreasewithageintypicallydevelopingchildren,thismaturationeffectisabsentin
+ADHD,suggestingdevelopmentalanomaliesinexecutivefunctions. Theseresultsaligned
+withBarkley’sneuropsychologicalmodel,positingprefrontalcortexdysfunctionasthe
+basisforinhibitorydeficits[30];indeed,severalstudiesconfirmedalteredfrontostriatal
+activationduringtheexecutionofthistask,coveringwiththeneuralcorrelatesofADHD,
+supportingtheroleoftheatypicalmaturationoffronto-striatalcircuitsinvolvedinvolun-
+tarycognitivecontrol[24–31]. Sofar,intypicallydevelopingchildren,onlyafewfMRI
+studieshaveexaminedtheneuralcorrelatesofantisaccadeperformance[50,51],showinga
+basicsaccadiccircuitrylesswellintegratedcomparedwithadults. Severalstudiesreported
+inchildrenagreaterbrainactivationinthedorsalanteriorcingulatecortexandareduced
+activationintherightdorsolateralprefrontalcortex(dlPFC)comparedtoadults[50,51].
+TherearefewdataonlyoffMRIstudiesfocusingonanantisaccadeparadigminchildren
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 14of19
+with ADHD showing significantly greater brain activation in regions in right dorsolat-
+eralprefrontalcortexandcaudatenucleusinchildrenwithADHDrelativetothecontrol
+group[19,34]. Antisaccadeperformancedidnotsignificantlydifferbetweenthegroups,
+perhapsasaresultofgreaterbrainactivationormedicationeffectsintheADHDgroup[34].
+Alterationsineyemovementsprovideaclinicallyobjectivemethodtoinvestigatethe
+neurofunctionalmechanismsunderlyingtheexecutiveandattentionaldeficitscharacteristic
+ofthisdisorder. Fromaclinicalperspective, theanalysisofeyemovementsisessential
+forthediagnosisanddefinitionofneurocognitiveprofiles,butalsotoguiderehabilitative
+therapyandmonitortheresponsetopharmacologicaltreatments;mainly,theefficacyof
+methylphenidateontheinhibitorymechanismsoftheoculomotorsystemasmeasured
+withtheantisaccadetaskshouldbeunderlined[28,42].
+Aclinicallyrelevantaspectemergingfromthisreviewistheuseofoculomotorassess-
+mentsnotonlyfordiagnosticpurposesbutalsoasobjective,non-invasive,andrepeatable
+toolstocharacterizepharmacologicaltreatmentresponse. Theeffectofmethylphenidate
+(MPH) is clearly evident in some studies, but not in others; despite the increasing use
+of MPH in the treatment of ADHD, studies specifically investigating its effect on the
+improvementofoculomotormovementsremainlimitedintheliterature. Somestudies
+only[26–28,30,31]analyzedoculomotorperformancebeforeandaftermethylphenidate
+administration,demonstratingsignificantbeneficialeffectsofMPHonoculomotorcon-
+trol,withevidentimprovementsparticularlyintasksrequiringvoluntaryinhibitionand
+sustainedvisualattention[26–33]. Specifically,improvementswereobservedinlatency
+times,reductionsindirectionalerrors,andincreasedlatencyinvoluntaryeyemovements,
+interpretedasanindexofimprovedinhibitorycontrol[26,28]. TheMPHeffectisprob-
+ablyrelatedtothedirectionofthedrugonthesamecerebralareasinvolvedinsaccadic
+movements. Indeed,eveniftherearecontrastingresultsrevealingnosignificantactivation
+changeinthedlPFC[34],FMRIinvestigationsusingplacebo-controlledstimulantmedi-
+cationdesignshaveshownnormalizedorgreaterbrainactivationinchildrenandyouths
+withADHDwhoreceivedMPHcomparedtocontrolgroupsinregionsassociatedwith
+antisaccadeperformance,particularlyrightdlPFC,IFG,andstriatum[34].
+Previousstudiesreportedonanincreasedbrainactivationinthedorsolateralprefrontal
+cortex(dlPFC),inferiorfrontalgyrus(IFG),andstriatuminchildrenandadolescentswith
+ADHD who received stimulant medication such as MPH than control groups [52–54].
+Thiseffectisprobablyduetoamodulatingdopaminetransmission,resultinginincreased
+extracellulardopamineandamplifiedcortico-striatalsignal[55,56],leadingtoenhanced
+motivationandinteresttoengageintasks,increaseattentionanddecreasedistractibility,
+allofwhichimproveCC-relatedfunctions.
+InchildrenwithADHD,adecreaseinfunctionalconnectivitybetweentheprecuneus
+andanteriorcingulateandventromedialprefrontalcortexwasalsoreported[50]. These
+resultsarealsosupportedbypreviousfindingsinperformance,monitoringandvigilant
+attention,suggestingapossibleMPHeffectonasystemincludingtheprecuneus[53,54].On
+theotherhand,thelackofMPHeffectonoculomotorfindingsreportedinotherstudiesis
+probablyrelatedtothepresenceofothercomorbiditiesthathavenotalwaysbeenreported
+ortoseveralformulationsused,alsonotalwaysreported. Inparticular,earlyexperimental
+studiesdemonstratedthatmethylphenidatemodulatessaccadicperformancebyreducing
+error rates and improving response inhibition, especially during antisaccade tasks [46].
+DeVitoetal.reportedthatMPHimprovesresponseinhibitionbutnotreflection-impulsivity
+inchildrenwithADHD,providingadditionalevidenceontheselectiveeffectsofstimulant
+medicationonoculomotorandcognitivecontrolfunctions[57].
+Fromaclinicalandrehabilitativeperspective,thefindingssummarizedinthisreview
+suggest that specific oculomotor tasks—particularly antisaccades and memory-guided
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 15of19
+saccades—mayrepresentsensitivefunctionalmarkersofexecutiveandinhibitorycontrol
+deficitsinchildrenandadolescentswithADHD.Thepartialnormalizationofoculomotor
+performancefollowingmethylphenidateadministrationsupportsthepotentialroleofeye
+movementassessmentasacomplementaryoutcomemeasurefortreatmentmonitoring.
+Repeated,non-invasiveoculomotorevaluationsmaycontributetolongitudinalassessment,
+allowingclinicianstobettercharacterizeindividualneurofunctionalprofilesandtotailor
+pharmacologicalandrehabilitativeinterventions. Moreover,giventheinvolvementofocu-
+lomotorfunctionsinlearning-relatedactivitiessuchasreadingandvisuospatialprocessing,
+thesemeasuresmayalsoberelevantfortheplanningoftargetedrehabilitationprograms
+addressingbothattentionalandacademicdifficulties.
+Itshouldbenotedthatthisreviewdidnotaimtoprovideanexhaustivesynthesisofall
+availablestudies,butrathertodiscussselectedevidencerelevanttotheclinicalimplications
+ofoculomotorfindingsinpediatricADHD.
+7. LimitationsoftheStudy
+Thereareseverallimitationsthatshouldberecognized. Itisimportanttoacknowl-
+edge certain methodological issues characterizing the available literature. First, there
+is a considerable heterogeneity in experimental protocols, with variations in recording
+methodologies(eye-trackingvs. electrooculography[EOG]andelectroencephalography
+[EEG])[24],inwash-outduration(rangingfrom12htomorethan10days)[28,32],and
+in sample sizes, which are often small [26,31–40]. Furthermore, the majority of stud-
+iespredominantlyincludedmalesubjects,withfewanalysesaddressingsexdifferences.
+Girls with ADHD are therefore underrepresented in the current literature, with the ex-
+ceptionofCastellanosetal.[45],whichexclusivelyexaminedfemalesubjects. Thatstudy
+reportedlongervisuallatenciesintheVGStaskcomparedtocontrols,suggestingpossible
+sex-related differences in oculomotor mechanisms [27,33]. Lastly, the wide age ranges
+consideredacrossstudies(e.g.,6–16yearsinMunozetal.[25])mayhaveintroducedaddi-
+tionalvariabilityrelatedtoneurocognitivedevelopment,whichwasnotalwaysadequately
+controlledfor.
+8. Conclusions
+In recent years, several research articles have focused on the role of oculomotor
+abnormalitiesinADHDsubjects[19,57]. Theassessmentofeyemovementinchildrenand
+adolescentswithADHDoffersimportantsupportinoptimizingrehabilitativeinterventions;
+this is important to provide potential benefits for improving comorbidities frequently
+associatedwithADHD,suchasspecificlearningdisorders,especiallydyslexia,alsodueto
+thenon-invasive,objective,andrepeatablenatureofthesemeasurements.
+Inparticular,oculomotortasksinvolvingvoluntaryinhibitionandattentionalcontrol
+appeartobesensitivetotheeffectsofmethylphenidate,highlightingtheirpotentialutility
+inevaluatingpharmacologicalefficacyatanindividuallevel. Accumulatingevidence,in-
+cludingrecentsystematicreviewsandmeta-analyses,supportsthepresenceofoculomotor
+abnormalitiesaspotentialneuro-functionalbiomarkersinpediatricpatientswithADHD.
+Forthesereasons,itiscrucialtopromotefurtherresearchfocusedoneyemovement
+inchildrenwithADHD,aimingtoenhancemethodologicalrigor,increasesamplesizes
+includingfemaleparticipants,anddeepentheunderstandingofclinicalvariablesaswell
+astheeffectofstimulants. Inthisway,eyemovementmayeventuallybeestablishedas
+aneurocognitivebiomarker,improvingclinicalmanagementandfosteringincreasingly
+personalizedandeffectiveinterventions.
+Futureresearchshouldaimtoimprovemethodologicalconsistency,increasesample
+sizes with greater representation of female participants, and further clarify the specific
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 16of19
+effects of stimulant medications, including the type of stimulants and the dosage, on
+differentcomponentsofoculomotorcontrol. Additionally,emergingfactorssuchasatypi-
+calsensoryprocessingandincreaseddigitalmediaexposure,includingsmartphoneuse,
+should be considered, as they may influence oculomotor functioning in children with
+ADHD[48,58,59]. Advancingresearchinthisareamaycontributetoestablishingeyemove-
+mentassessmentasareliableneurocognitivebiomarker,ultimatelyimprovingpersonalized
+clinicalmanagementandrehabilitativeoutcomes.
+Finally,furtherstudiesareneededtoinvestigatetherelationwithMPHonseveral
+aspectsofoculomotorfindingsinchildren,consideringalsoatypicalsensoryprocessing
+thatiscommoninADHDsubjectsandinfluencedbysmartphoneuse.
+AuthorContributions:Conceptualization,C.B.;Methodology,V.N.,L.C.andC.B.;SoftwareM.L.P.,
+S.S.,G.M.andV.C.;Validation,D.R.,A.S.,D.M.R.andC.B.;FormalAnalysis,V.N.,L.C.andC.B.;
+Investigation,C.B.andP.B.;Resources,V.N.,L.C.andC.B.;DataCuration,D.R.,A.S.,D.M.R.andC.B.;
+Writing—OriginalDraft,V.N.,L.C.andC.B.;Writing—ReviewandEditing,D.R.,A.S.,D.M.R.and
+C.B.;Supervision,C.B.,F.M.andG.D.C.Allauthorshavereadandagreedtothepublishedversionof
+themanuscript.
+Funding:Thisresearchreceivednoexternalfunding.
+DataAvailabilityStatement:Dataiscontainedwithinthearticle.
+Acknowledgments:Theauthorshavereviewedandeditedtheoutputandtakefullresponsibilityfor
+thecontentofthispublication.
+ConflictsofInterest:Theauthorsdeclarenoconflictsofinterest.
+Abbreviations
+Thefollowingabbreviationsareusedinthismanuscript:
+ADHD Attention-Deficit/HyperactivityDisorder
+MPH Methylphenidate
+SLDs SpecificLearningDisorders
+MGSs Memory-GuidedSaccades
+VGS VisuallyGuidedSaccade
+EOG Electrooculography
+EEG Electroencephalography
+References
+1. Bilbao,C.;Piñero,D.P.Diagnosisofoculomotoranomaliesinchildrenwithlearningdisorders. Clin. Exp. Optom. 2020,103,
+597–609.[CrossRef][PubMed]
+2. Bucci,M.P.ComputerBasedOculomotorTrainingImprovesReadingAbilitiesinDyslexicChildren:ResultsfromAPilotStudy.
+SportsInj.Med.2018,2,130.[CrossRef]
+3. Luna,B.;Velanova,K.;Geier,C.F.Developmentofeye-movementcontrol.BrainCogn.2008,68,293–308.[CrossRef]
+4. Gooding,D.C.;Basso,M.A.Thetell-taletasks:Areviewofsaccadicresearchinpsychiatricpatientpopulations.BrainCogn.2008,
+68,371–390.[CrossRef][PubMed]
+5. Karatekin,C.Eyetrackingstudiesofnormativeandatypicaldevelopment.Dev.Rev.2007,27,283–348.[CrossRef]
+6. Rommelse,N.N.J.;VanDerStigchel,S.;Sergeant,J.A.Areviewoneyemovementstudiesinchildhoodandadolescentpsychiatry.
+BrainCogn.2008,68,391–414.[CrossRef]
+7. Munoz,D.P.;Everling,S.Lookaway:Theanti-saccadetaskandthevoluntarycontrolofeyemovement.Nat.Rev.Neurosci.2004,
+5,218–228.[CrossRef]
+8. Polanczyk,G.;deLima,M.S.;Horta,B.L.;Biederman,J.;Rohde,L.A.TheworldwideprevalenceofADHD:Asystematicreview
+andmetaregressionanalysis.Am.J.Psychiatry2007,164,942–948.[CrossRef]
+9. American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, 5th ed.; American Psychiatric
+Publishing:Arlington,VA,USA,2013.
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 17of19
+10. DeFelice,A.;Ricceri,L.;Venerosi,A.;Chiarotti,F.;Calamandrei,G.MultifactorialOriginofNeurodevelopmentalDisorders:
+ApproachestoUnderstandingComplexEtiologies.Toxics2015,3,89–129.[CrossRef]
+11. Ribasés,M.;Mitjans,M.;Hartman,C.;SolerArtigas,M.;Demontis,D.;Larsson,H.GeneticarchitectureofADHDandoverlap
+withotherpsychiatricdisordersandcognition-relatedphenotypes.Neurosci.Biobehav.Rev.2023,153,105313.[CrossRef]
+12. WanniArachchigeDona,S.;Badloe,N.;Sciberras,E.;Gold,L.;Coghill,D.;Le,H.N.D.TheImpactofChildhoodAttention-
+Deficit/HyperactivityDisorder(ADHD)onChildren’sHealth-RelatedQualityofLife:ASystematicReviewandMeta-Analysis.
+J.Atten.Disord.2023,27,598–611.[CrossRef][PubMed]
+13. DuPaul,G.J.;Gormley,M.J.;Laracy,S.D.ComorbidityofLDandADHD:ImplicationsofDSM-5forAssessmentandTreatment.
+J.Learn.Disabil.2013,46,43–51.[CrossRef][PubMed]
+14. Mahone,E.M.ADHD:Volumetry,Motor,andOculomotorFunctions.InBehavioralNeuroscienceofAttentionDeficitHyperactivity
+DisorderandItsTreatment;Stanford,C.,Tannock,R.,Eds.;CurrentTopicsinBehavioralNeurosciences;Springer:Berlin/Heidelberg,
+Germany,2011;Volume9,pp.17–47.
+15. Sprafkin,J.;Carlson,G.A.Attention-DeficitHyperactivityDisorder:AHandbookforDiagnosisandTreatment.Am.J.Psychiatry
+1992,149,1266.[CrossRef]
+16. Mills,K.L.;Bathula,D.;CostaDias,T.G.;Iyer,S.P.;Fenesy,M.C.;Musser,E.D.AlteredCortico-Striatal–ThalamicConnectivityin
+RelationtoSpatialWorkingMemoryCapacityinChildrenwithADHD.Front.Psychiatry2012,3,2.[CrossRef][PubMed]
+17. Duerden,E.G.;Tannock,R.;Dockstader,C.Alteredcorticalmorphologyinsensorimotorprocessingregionsinadolescentsand
+adultswithattention-deficit/hyperactivitydisorder.BrainRes.2012,1445,82–91.[CrossRef]
+18. Doettl,S.;McCaslin,D.OculomotorAssessmentinChildren.Semin.Hear.2018,39,275–287.[CrossRef]
+19. Chamorro,Y.;Betz,L.T.;Philipsen,A.;Kambeitz,J.;Ettinger,U.TheEyesHaveIt:AMeta-analysisofOculomotorInhibitionin
+Attention-Deficit/HyperactivityDisorder.Biol.PsychiatryCogn.Neurosci.Neuroimaging2022,7,1090–1102.[CrossRef]
+20. Hart,H.;Radua,J.;Nakao,T.;Mataix-Cols,D.;Rubia,K.Meta-analysisoffunctionalmagneticresonanceimagingstudiesof
+inhibitionandattentioninattention-deficit/hyperactivitydisorder: Exploringtask-specific,stimulantmedication,andage
+effects.JAMAPsychiatry2013,70,185–198.[CrossRef]
+21. Cortese,S.;Kelly,C.;Chabernaud,C.;Proal,E.;DiMartino,A.;Milham,M.P.;Castellanos,F.X.Towardsystemsneuroscienceof
+ADHD:Ameta-analysisof55fMRIstudies.Am.J.Psychiatry2012,169,1038–1055.[CrossRef]
+22. HakvoortSchwerdtfeger,R.M.;Alahyane,N.;Brien,D.C.;Coe,B.C.;Stroman,P.W.;Munoz,D.P.Preparatoryneuralnetworksare
+impairedinadultswithattention-deficit/hyperactivitydisorderduringtheantisaccadetask. NeuroimageClin. 2012,2,63–78.
+[CrossRef]
+23. Luna,B.;Thulborn,K.R.;Munoz,D.P.;Merriam,E.P.;Garver,K.E.;Minshew,N.J.;Keshavan,M.S.;Genovese,C.R.;Eddy,W.F.;
+Sweeney,J.A.Maturationofwidelydistributedbrainfunctionsubservescognitivedevelopment.Neuroimage2001,13,786–793.
+24. Damyanovich,E.V.;Baziyan,B.K.;Sagalov,M.V.;Kumskova,G.A.SaccadicMovementsoftheEyesinChildrenwithAttention
+DeficitandHyperactivitySyndrome.Bull.Exp.Biol.Med.2013,156,25–28.[CrossRef][PubMed]
+25. Munoz,D.P.;Armstrong,I.T.;Hampton,K.A.;Moore,K.D.AlteredControlofVisualFixationandSaccadicEyeMovementsin
+Attention-DeficitHyperactivityDisorder.J.Neurophysiol.2003,90,503–514.[CrossRef][PubMed]
+26. Mostofsky,S.H.;Lasker,A.G.;Cutting,L.E.;Denckla,M.B.;Zee,D.S.Oculomotorabnormalitiesinattentiondeficithyperactivity
+disorder:Apreliminarystudy.Neurology2001,57,423–430.[CrossRef][PubMed]
+27. Mahone,E.M.;Mostofsky,S.H.;Lasker,A.G.;Zee,D.;Denckla,M.B.OculomotorAnomaliesinAttention-Deficit/Hyperactivity
+Disorder:EvidenceforDeficitsinResponsePreparationandInhibition.J.Am.Acad.ChildAdolesc.Psychiatry2009,48,749–756.
+[CrossRef]
+28. Bucci, M.P.; Stordeur, C.; Septier, M.; Acquaviva, E.; Peyre, H.; Delorme, R. Oculomotor Abnormalities in Children with
+Attention-Deficit/HyperactivityDisorderAreImprovedbyMethylphenidate.J.ChildAdolesc.Psychopharmacol.2017,27,274–280.
+29. Bucci,M.P.;Goulème,N.;Dehouck,D.;Stordeur,C.;Acquaviva,E.;Septier,M.;Lefebvre,A.;Gerard,C.;Peyre,H.;Delorme,R.
+Interactionsbetweeneyemovementsandpostureinchildrenwithneurodevelopmentaldisorders.Int.J.Dev.Neurosci.2018,71,
+61–67.[CrossRef]
+30. Klein,C.H.;Raschke,A.;Brandenbusch,A.Developmentofpro–andantisaccadesinchildrenwithattention–deficithyperactivity
+disorder(ADHD)andhealthycontrols.Psychophysiology2003,40,17–28.[CrossRef]
+31. Huang,J.H.;Chan,Y.S.Saccadeeyemovementinchildrenwithattentiondeficithyperactivitydisorder.Nord.J.Psychiatry2020,
+74,16–22.
+32. Fernandez-Ruiz,J.;HakvoortSchwerdtfeger,R.M.;Alahyane,N.;Brien,D.C.;Coe,B.C.;Munoz,D.P.Dorsolateralprefrontal
+cortexhyperactivityduringinhibitorycontrolinchildrenwithADHDintheantisaccadetask. BrainImagingBehav. 2020,14,
+2450–2463.[CrossRef]
+33. Gould,T.D.; Bastain,T.M.; Israel,M.E.; Hommer,D.W.; Castellanos,F.X.Alteredperformanceonanocularfixationtaskin
+attention-deficit/hyperactivitydisorder.Biol.Psychiatry2001,50,633–635.[PubMed]
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 18of19
+34. Schwarz,N.F.;Krafft,C.E.;Chi,L.;Weinberger,A.L.;Schaeffer,D.J.;Pierce,J.E.;Rodrigue,A.L.;Williams,C.F.;DiBattisto,C.H.;
+Maria,B.L.;etal.Antisaccade-relatedbrainactivationinchildrenwithattention-deficit/hyperactivitydisorder—Apilotstudy.
+PsychiatryRes.2015,234,272–279.[PubMed]
+35. Hanisch,C.;Radach,R.;Holtkamp,K.;Herpertz-Dahlmann,B.;Konrad,K.Oculomotorinhibitioninchildrenwithandwithout
+attention-deficithyperactivitydisorder(ADHD).J.NeuralTransm.2006,113,671–684.[PubMed]
+36. Goto,Y.;Hatakeyama,K.;Kitama,T.;Sato,Y.;Kanemura,H.;Aoyagi,K.;Sugita,K.;Aihara,M.Saccadeeyemovementsasa
+quantitativemeasureoffrontostriatalnetworkinchildrenwithADHD.BrainDev.2010,32,347–355.[CrossRef]
+37. Loe,I.M.;Feldman,H.M.;Yasui,E.;Luna,B.OculomotorperformanceidentifiesunderlyingcognitivedeficitsinADHD.J.Am.
+Acad.ChildAdolesc.Psychiatry2009,48,431–440.
+38. Van Der Stigchel, S.; Rommelse, N.N.J.; Deijen, J.B.; Geldof, C.J.A.; Witlox, J.; Oosterlaan, J.; Sergeant, J.A.; Theeuwes, J.
+OculomotorcaptureinADHD.Cogn.Neuropsychol.2007,24,535–549.[CrossRef]
+39. Rommelse,N.N.J.;VanDerStigchel,S.;Witlox,J.;Geldof,C.;Deijen,J.B.;Theeuwes,J.;Oosterlaan,J.;Sergeant,J.A.Deficits
+in visuo-spatial working memory, inhibition and oculomotor control in boys with ADHD and their nonaffected brothers.
+J.NeuralTransm.2008,115,249–260.
+40. Karatekin, C. Improving antisaccade performance in adolescents with attention-deficit/hyperactivity disorder (ADHD).
+Exp.BrainRes.2006,174,324–341.
+41. Jostrup,E.;Claesdotter-Knutsson,E.;Tallberg,P.;Söderlund,G.;Gustafsson,P.;Nyström,M.NoEffectsofAuditoryandVisual
+WhiteNoiseonOculomotorControlinChildrenwithADHD.J.Atten.Disord.2024,28,1668–1683.[CrossRef]
+42. O’Driscoll,G.A.;Dépatie,L.;Holahan,A.L.V.;Savion-Lemieux,T.;Barr,R.G.;Jolicoeur,C.;Douglas,V.I.Executivefunctionsand
+methylphenidateresponseinsubtypesofattention-deficit/hyperactivitydisorder.Biol.Psychiatry2005,57,1452–1460.
+43. Caldani,S.;Razuk,M.;Septier,M.;Barela,J.A.;Delorme,R.;Acquaviva,E.;Bucci,M.P.Theeffectofdualtaskonattentional
+performanceinchildrenwithADHD.Front.Integr.Neurosci.2019,12,67.[CrossRef]
+44. Bucci,M.P.;Seassau,M.;Larger,S.;Bui-Quoc,E.;Gerard,C.L.Effectofvisualattentiononposturalcontrolinchildrenwith
+attention-deficit/hyperactivitydisorder.Res.Dev.Disabil.2014,35,1292–1300.[CrossRef][PubMed]
+45. Castellanos,F.X.;Marvasti,F.F.;Ducharme,J.L.;Walter,J.M.;Israel,M.E.;Krain,A.;Pavlovsky,C.;Hommer,D.W.Executive
+functionoculomotortasksingirlswithADHD.J.Am.Acad.ChildAdolesc.Psychiatry2000,39,644–650.[CrossRef][PubMed]
+46. Klein,C.;Fischer,B.;Fischer,B.,Jr.;Hartnegg,K.EffectsofmethylphenidateonsaccadicresponsesinpatientswithADHD.
+Exp.BrainRes.2002,145,121–125.[CrossRef][PubMed]
+47. Matsuo,Y.;Watanabe,M.;Taniike,M.;Mohri,I.;Kobashi,S.;Tachibana,M.;Kobayashi,Y.;Kitamura,Y.GapEffectAbnormal-
+itiesduringaVisuallyGuidedPro-SaccadeTaskinChildrenwithAttentionDeficitHyperactivityDisorder. PLoSONE2015,
+10,e0125573.[CrossRef]
+48. Maron,D.N.;Bowe,S.J.;Spencer-Smith,M.;Mellahn,O.J.;Perrykkad,K.;Bellgrove,M.A.;Johnson,B.P.Oculomotordeficitsin
+attentiondeficithyperactivitydisorder(ADHD):Asystematicreviewandcomprehensivemeta-analysis.Neurosci.Biobehav.Rev.
+2021,131,1198–1213.[CrossRef]
+49. Sherigar,S.S.;Gamsa,A.H.;Srinivasan,K.Oculomotordeficitsinattentiondeficithyperactivitydisorder:Asystematicreview
+andmeta-analysis.Eye2023,37,1975–1981.[CrossRef]
+50. Velanova,K.;Wheeler,M.E.;Luna,B.Maturationalchangesinanteriorcingulateandfrontoparietalrecruitmentsupportthe
+developmentoferrorprocessingandinhibitorycontrol.Cereb.Cortex2008,18,2505–2522.[CrossRef]
+51. Velanova,K.;Wheeler,M.E.;Luna,B.Thematurationoftaskset-relatedactivationsupportslatedevelopmentalimprovementsin
+inhibitorycontrol.J.Neurosci.2009,29,12558–12567.[CrossRef]
+52. Shafritz,K.M.;Marchione,K.E.;Gore,J.C.;Shaywitz,S.E.;Shaywitz,B.A.Theeffectsofmethylphenidateonneuralsystemsof
+attentioninattentiondeficithyperactivitydisorder.Am.J.Psychiatry2004,161,1990–1997.[CrossRef]
+53. Rubia,K.;Halari,R.;Mohammad,A.M.;Taylor,E.;Brammer,M.Methylphenidatenormalizesfrontocingulateunderactivation
+duringerrorprocessinginattention-deficit/hyperactivitydisorder.Biol.Psychiatry2011,70,255–262.[CrossRef]
+54. Rubia,K.;Halari,R.;Cubillo,A.;Smith,A.B.;Mohammad,A.M.;Brammer,M.;Taylor,E.Methylphenidatenormalizesfronto-
+striatalunderactivationduringinterferenceinhibitioninmedication-naiveboyswithattention-deficithyperactivitydisorder.
+Neuropsychopharmacology2011,36,1575–1586.[CrossRef]
+55. Sonuga-Barke,E.J.Causalmodelsofattention-deficit/hyperactivitydisorder:Fromcommonsimpledeficitstomultipledevelop-
+mentalpathways.Biol.Psychiatry2005,57,1231–1238.[CrossRef]
+56. Volkow,N.D.;Wang,G.J.;Fowler,J.S.;Ding,Y.S.Imagingtheeffectsofmethylphenidateonbraindopamine:Newmodelonits
+therapeuticactionsforattention-deficit/hyperactivitydisorder.Biol.Psychiatry2005,57,1410–1415.[CrossRef]
+57. DeVito,E.E.;Blackwell,A.D.;Clark,L.;Kent,L.;Dezsery,A.M.;Turner,D.C.;Aitken,M.R.F.;Sahakian,B.J.Methylphenidate
+improvesresponseinhibitionbutnotreflection-impulsivityinchildrenwithattentiondeficithyperactivitydisorder(ADHD).
+Psychopharmacology2009,202,531–539.[CrossRef]
+https://doi.org/10.3390/jcm15062108
+
+--- PAGE BREAK ---
+
+J.Clin.Med.2026,15,2108 19of19
+58. Fabio,R.A.;Orsino,C.;Lecciso,F.;Levante,A.;Suriano,R.AtypicalsensoryprocessinginadolescentswithAttentionDeficit
+HyperactivityDisorder:Acomparativestudy.Res.Dev.Disabil.2024,146,104674.[CrossRef]
+59. Fabio,R.A.;Suriano,R.TheRoleofSmartphoneUseinSensoryProcessing:DifferencesBetweenAdolescentswithADHDand
+TypicalDevelopment.Int.J.Environ.Res.PublicHealth2024,21,1705.[CrossRef]
+Disclaimer/Publisher’sNote: Thestatements, opinionsanddatacontainedinallpublicationsaresolelythoseoftheindividual
+author(s)andcontributor(s)andnotofMDPIand/ortheeditor(s).MDPIand/ortheeditor(s)disclaimresponsibilityforanyinjuryto
+peopleorpropertyresultingfromanyideas,methods,instructionsorproductsreferredtointhecontent.
+https://doi.org/10.3390/jcm15062108

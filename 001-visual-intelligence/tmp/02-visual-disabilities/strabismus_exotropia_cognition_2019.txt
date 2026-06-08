@@ -1,0 +1,640 @@
+International Journal of
+Environmental Research
+and Public Health
+Article
+Characterization of Intelligence in Children
+with Exotropia
+TaoSun1,† ,ZhonghaoWang2,† ,TaoShen2,JianhuaYan2,*,ChuanboXie3andXiuhongLi1,*
+1 DepartmentofMaternalandChildHealth,SchoolofPublicHealth,SunYat-senUniversity,
+Guangzhou510080,Guangdong,China
+2 StatekeylaboratoryofOphthalmology,ZhongshanOphthalmicCenter,SunYat-senUniversity,
+Guangzhou510080,Guangdong,China
+3 StateKeyLaboratoryofOncologyinSouthChina,CollaborativeInnovationCenterforCancerMedicine,
+SunYat-senUniversityCancerCenter,651EastDongfengRoad,Guangzhou510080,Guangdong,China
+* Correspondence: lixh@mail.sysu.edu.cn(X.H.L.);yanjh2011@126.com(J.H.Y.)
+† TaoSunandZhonghaoWangcontributedequallytothiswork.
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+Received: 21July2019;Accepted: 19August2019;Published: 21August2019
+Abstract: Theeffectofexotropiaontheintelligenceofchildrenisunknown. Thisstudyaimedtoassess
+theintelligenceinchildrenwithexotropiaandinvestigatetheinfluenceofthemainclinicalindexes
+of strabismus on intelligence. Eighty-four participants aged 8–12 years were enrolled, including
+37patientswithexotropia(exotropiagroup)and47normalindividuals(normalgroup). Intelligence
+wasassessedbytheWechslerIntelligenceScaleforChildren—FourthEdition(WISC-IV),including
+theVerbalComprehensionIndex(VCI),PerceptualReasoningIndex(PRI),WorkingMemoryIndex
+(WMI), Processing Speed Index (PSI), and Full-Scale Intelligence Quotient (FSIQ). The exotropia
+grouphadasignificantlylowerPRIscorebutahigherPSIscorethanthenormalgroup. However,
+there was no significant difference in the WMI, VCI, and FSIQ between groups. Multiple linear
+regressionshowedthatPRI–WMIandPRI–PSIdifferencesweresignificantlylowerintheexotropia
+group. Inter-subscale correlations analysis showed that the pattern of intelligence structure was
+different between groups. The type of exotropia, angle of deviation, duration of symptoms, and
+stereoacuityhadnoeffectontheintelligenceofchildrenwithexotropia. Childrenwithexotropiahad
+arelativelyworseperformanceintheperceptualreasoningskillbutabetterprocessingspeedanda
+differentpatternofintelligencestructure.
+Keywords: exotropia;intelligence;WechslerIntelligenceScaleforChildren;perceptualreasoning;
+processingspeed
+1. Introduction
+Exotropiaisaformofstrabismus,characterizedbyanoutwarddeviationoftheeyes. Intermittent
+exotropia(X(T))andconstantexotropia(XT)arethetwomajortypesofexotropia[1]. Epidemiological
+studiesshowthattheprevalenceofexotropiaisrelativelyhigherinAsianchildrenthaninWestern
+children[2–8]. InChina,theprevalenceofexotropiaisreportedasrangingfrom0.16%to4.57%in
+children[9,10]. Currently,correctivesurgeryisthemaintreatmentforexotropia.
+Int.J.Environ.Res.PublicHealth2019,16,3008;doi:10.3390/ijerph16173008 www.mdpi.com/journal/ijerph
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 2of13
+Visualperceptionaffectsoculo-motor,coordinationability,spatialworkingmemory,andnonverbal
+matrixreasoning,whichiscloselyrelatedtochildren’sreadingabilityandmathematicalability[11].
+Previous reports show that strabismus children cannot maintain long-term attention due to being
+prone to asthenopia, and their attention span is flawed [12,13]. Strabismus patients have a higher
+incidenceofattentiondeficithyperactivitydisorder(ADHD)traitsthannormalindividuals[14–16].
+Due to deficits in depth perception and attention, children with strabismus may have a different
+intellectualperformancethannormalchildren. InastudyoftheIranianpopulation, Bagherietal.
+havereportedthatpatientswithcongenitalstrabismus(meanage=18.4±10.5years,range: 4–63)
+had a lower mean intelligence quotient (IQ) score than the normal population [17]. By contrast,
+Ghaderpanah et al. adopted WPPSI (the preschool and primary scale of intelligence versions of
+Wechsler)testtoevaluate3to7-year-oldstrabismusIranianchildren,andfoundthattherewasno
+differenceintheverbalintelligencequotient,operationalintelligencequotient,andtotalintelligence
+quotientbetweenstrabismuschildrenandnormalchildren,andnonegativeeffectofstrabismuson
+preschoolchildren’sintelligencequotientwasfound[18]. Thus,theeffectofstrabismusonintelligence
+remainscontroversial.
+Inadditiontoappearanceproblems,exotropiacancauseimpairmentofstereoscopicvision[19,20].
+Ithasbeenshownthatchildrenwithoutstereoscopicvisionhaveapoorperformanceintheareasof
+visual-motorintegration,constructivepraxia,andnon-verbalreasoning[21]. Comparedtonormal
+children,exotropiachildrenhavepoornon-verbalperformance,includingconstructivepraxia,visual
+memory,andstrategyformation[21]. Childrenwithexotropiahavecognitivedeficitssuchasspatial
+perception,workingmemory,andstrategyformation,whichmayleadtomentalretardationandan
+abnormalintelligencestructure. Basedontheaboveobservation,wehypothesizedthatexotropiamay
+haveanimpactontheintelligenceofexotropiachildren. However,thereisnostudyfocusingonthe
+intelligenceofexotropiachildrenthusfar. BothBagheriandMahboubehfoundthatexotropiapatients
+havehigherIQscoresthanpatientswithothertypesofstrabismus[17,18]. Nevertheless,theydidnot
+comparethedifferencebetweenpatientswithexotropiaandthenormalpopulation. Althoughthis
+resultimpliesthatexotropiamayaffecttheintelligenceofexotropiachildren,theeffectofexotropiaon
+intelligenceremainstobeinvestigated. Therefore,thisstudyaimedtocharacterizetheintelligenceof
+childrenwithexotropiabytheWechslerIntelligenceScaleforChildren(WISC),oneofthemostwidely
+usedintelligencescalesinclinicalpracticeandresearch[22].
+2. Methods
+2.1. Participants
+Thiswasacross-sectional,case-controlledstudy. Atotalof37childpatientswithexotropiatreated
+attheDepartmentofStrabismusandAmblyopiaattheZhongshanOphthalmicCenter(Guangzhou,
+China)wereenrolledinthisstudy. Theinclusioncriteriafortheexotropiagroupwere: 1)agedbetween
+8and12years;2)diagnosisaccordingtotheChineseexpertconsensusonstrabismusclassification
+(2015) [23]; 3) met surgical indications and had been scheduled for strabismus surgery; 4) with a
+best-correctedvisualacuityof20/20inbotheyes;5)withagoodgeneralhealthcondition;and6)be
+abletoundergotheintelligencetest. Patientswithotherophthalmicdiseases, suchasstrabismus,
+amblyopia,glaucoma,ahistoryofophthalmicsurgery,orotherseriousacuteorchronicdiseases,as
+wellasmentalillness,wereexcluded.
+Meanwhile, 47 normal children were recruited from the internet as the control group. These
+childrenwereexaminedbyanophthalmologisttoexcludeanyvisualdeficitbeforeenrollment. The
+inclusioncriteriaforthecontrolgroupwere: 1)agedbetween8and12years;2)withthebest-corrected
+visualacuityof20/20inbotheyes;and3)beabletoundergotheintelligencetest. Childrenwithother
+ophthalmicdiseases,suchasstrabismus,amblyopia,glaucoma,ahistoryofophthalmicsurgery,or
+otherseriousacuteorchronicdiseases,aswellasmentalillness,wereexcluded.
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 3of13
+ThisstudywasapprovedbytheinstitutionalreviewboardoftheZhongshanOphthalmicCenter
+ofSunYat-senUniversity(No.2018KYPJ062). Writteninformedconsentwasobtainedfromthepatient.
+2.2. Instruments
+Thedemographiccharacteristicswerecollectedfromeachparticipantusingaself-constructed
+questionnaire,includingage,gender,placeofresidence,educationlevelofthemother,educationlevel
+ofthefather,totalmonthlyhouseholdincome,withorwithoutsibling(s),gestationalage,delivery
+method,andadmittedtoNICUatbirth.
+TheWechslerIntelligenceScaleforChildren(WISC)-IVChineseVersion[24]wasusedtoassessthe
+intelligenceofallparticipantsbycertifiedresearchers. Thescalemeasurestheintellectualstructureof
+6–16-year-oldchildrenandadolescents. Itadoptsadeviationintelligencequotient,withameanof100
+andastandarddeviationof15. WISC-IVincludes10coretestsand4supplementarytests. Thescores
+ofthesesubtestscanbeconvertedintofourindexes: VerbalComprehensionIndex(VCI),Perceptual
+ReasoningIndex(PRI),WorkingMemoryIndex(WMI),andProcessingSpeedIndex(PSI).Together,
+the four indexes provide the Full-Scale Intelligence Quotient (FSIQ). A subtest-level discrepancy
+comparisonwascalculatedbythedifferencesbetweeneachindex(VCI−PRI,VCI−WMI,VCI−PSI,
+PRI−WMI,PRI−PSI,andWMI−PSI).ThereliabilityoftheWISC-IVChineseVersioninthesubtests
+andFSIQis0.82–0.94and0.90–0.98,respectively,andthevalidityinthesubtestsandFSIQis0.68–0.86
+and0.78–0.91,respectively[25].
+2.3. Procedures
+Parentsandchildrenwereinformedaboutthepurposeofthestudyandtheprocessofevaluation.
+Researchersemphasizedthatparticipationwasentirelyvoluntaryandwhethertoparticipateornot
+hadnoimpactontheirsurgeryortreatment. Normalindividualswererecruitedinthesamecityby
+internetenrollment. Thehistoryofophthalmopathywascollectedbyamedicalhistoryquestionnaire
+filledinbytheirparentsandtheoptometryreport. Participantscompletedtheintelligencetestina
+standardassessmentroom. Alldatawerecollectedbeforethestrabismussurgery.
+2.4. OptometryExaminations
+The data about duration of symptoms (from symptom onset to the intelligence test) and the
+historyofophthalmicsurgerywascollectedbyaninquiryfromtheparentsofparticipantsbytwo
+strabismusspecialists. Alltheoptometryexaminationswereperformedincurrentrefractivecorrection
+byatleasttwostrabismusspecialists. Theangleofdeviationwasdeterminedbythealternateprism
+covertest(APCT).NearstereoacuitywasassessedusingtheFlyStereoAcuityTest(VisionAssessment
+Co,Elgin,IL,USA)withthethresholdof400,200,100,and60arcsec,requiring2ofthe2presentations
+ateachleveltopassthelevel. Ifthechildcouldnotpassthe400arcseclevel,thenearstereoacuity
+wouldberecordedas“none”. DistancestereoacuitywasassessedusingtheDistanceRandotTest
+(StereoOpticalCo,Chicago,IL,USA)withthethresholdof400,200,100,and60arcsec(requiring2of
+the2presentationsateachleveltopassthelevel)atadistanceof3m. Ifthechildcouldnotpassthe
+400arcseclevel,theirstereoacuitywasrecordedas“none”atthecorrespondingdistance.
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 4of13
+2.5. StatisticalAnalysis
+The data of demographic and clinical variables were presented as the mean (SD) or number
+(percent) and were compared with a Student’s t-test or Chi-square test (Fisher’s exact test for any
+expectedvaluelowerthan5wasobserved),respectively. Onthebasisofevaluatingthedistributionof
+datawiththeKolmogorov–Smirnovtest,simpleandmultiplelinearregressionmodelswereusedto
+testthedifferencesbetweenchildrenwithexotropiaandhealthycontrolswhilesignificantcovariates
+wereadjusted. Thesamelinearregressionproceduresweredonetoassessthedifferencesindifferent
+typesofexotropia,stereovision,strabismusangle,anddurationofsymptoms. Pearsoncorrelation
+coefficientanalyseswereusedtoobservethecorrelatedstructureamongWISC-IVdomains,totalscore
+(FSIQ),anddifferencesinintelligencestructures. Ap-valuelowerthan0.05wouldberecognizedas
+reaching significance in each test. All analyses were performed using IBM SPSS Version 20 (SPSS
+StatisticsV20,IBMCorporation,Somers,NewYork,NY,USA).
+2.6. ThePsychometricPropertiesofWISC-IV
+Inter-subscalecorrelationswereanalyzedandcomparedbetweenthetwogroups. Theoverall
+Cronbach’s alpha of these 84 participants was 0.790, and the domain reliabilities were VCI 0.861,
+PRI 0.720, WMI 0.686, and PSI 0.691. Supplementary Table S1 indicated the correlation patterns
+ofcorrelationcoefficientsamongdomainsandtotalscore. Inbothgroups, thefourdomainswere
+significantlycorrelatedwiththetotalscores(allp<0.05). However,thePSI–FSIQcorrelationcoefficient
+wassignificantlyhigherintheexotropiagroupthaninthenormalgroup(0.759vs. 0.464,p=0.032). In
+thepatternofdomaincorrelations,thereweremoresignificantcorrelationsamongthefourdomainsin
+theexotropiagroupthaninthenormalgroup.
+As for the difference between domains, the significant correlation patterns were inconsistent
+betweentwogroupsinthePRI−WMIandVCI−PRI;PRI−WMIandVCI−WMI;PRI−PSIandPRI−WMI;
+and WMI−PSI and VCI−PSI. These results indicated that the exotropia children had a different
+intelligencestructureandcorrelationamongdomainsascomparedwiththenormalchildren.
+3. Results
+3.1. DemographicandBaselineClinicalCharacteristics
+Atotalof84participantswererecruitedintothisstudy,including37patients(meanage: 10.3±1.4;
+21malesand16females)withexotropiaand47normalindividuals(meanage: 10.13±1;28males
+and19females). Allthe84participantscompletedthequestionnaires. Thedemographicandclinical
+characteristicswerecomparedbetweentheexotropiagroupandthenormalgroups(Table1).
+Intheexotropiagroup,23(62.2%)caseshadintermittentexotropia(X(T))and14(37.8%)cases
+hadconstantexotropia(XT).Therewere26(70.3%)caseswithnearstereoacuityand10(27.0%)cases
+withdistancestereoacuity. Themeanstrabismusanglewas31.8±10.0prismdiopters(PD),andthe
+durationofsymptomswas4.6±2.6years.
+As shown in Table 1, there were significant differences in the place of residence (borderline
+statisticaldifference: p=0.057),educationlevelofmother(p<0.001),educationleveloffather,and
+totalmonthlyhouseholdincomebetweentheexotropiagroupandthenormalgroup(p<0.001). These
+factorswouldbeadjustedascovariatesinmultiplelinearregression. Nosignificantdifferenceswere
+foundinotherdemographicandclinicalcharacteristics.
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 5of13
+Table1. Demographicandbaselineclinicalcharacteristics.
+Variables Total(n=84) Normal(n=47) Exotropia(n=37) pa
+Age(inyears) 10.19±1.26 10.13±1.14 10.26±1.40 0.656
+Gender
+Male 49(58.33) 28(59.57) 21(56.76) 0.795
+Female 35(41.67) 19(40.43) 16(43.24)
+Placeofresidence
+Country 23(27.38) 9(19.15) 14(37.84) 0.057
+City 61(72.62) 38(80.85) 23(62.16)
+Educationlevelofmother
+Belowhighschool 10(11.90) 2(4.26) 8(21.62) <0.001
+Highschoolorequivalent 22(26.19) 7(14.89) 15(40.54)
+Collegeundergraduate 43(51.19) 29(61.70) 14(37.84)
+Bachelordegreeorabove 9(10.71) 9(19.15) 0(0.00)
+Educationleveloffather
+Belowhighschool 7(8.33) 1(2.13) 6(16.22) <0.001
+Highschoolorequivalent 19(22.62) 5(10.64) 14(37.84)
+Collegeundergraduate 42(50.00) 29(61.70) 13(35.14)
+Bachelordegreeorabove 16(19.05) 12(25.53) 4(10.81)
+Totalmonthlyhousehold
+income
+Lessthan10,000RMB 19(22.62) 4(8.51) 15(40.54) <0.001
+10,000–19,999RMB 26(30.95) 13(27.66) 13(35.14)
+20,000–29,999RMB 19(22.62) 17(36.17) 2(5.41)
+Morethan30,000RMB 20(23.81) 13(27.66) 7(18.92)
+Withorwithoutsibling(s)
+Without 41(48.81) 27(57.45) 14(37.84) 0.074
+With 43(51.19) 20(42.55) 23(62.16)
+Gestationalage
+Full-term 76(90.48) 41(87.23) 35(94.59) 0.254
+Pre-term 8(9.52) 6(12.77) 2(5.41)
+Deliverymethod
+Naturalchildbirth 42(50.00) 21(44.68) 21(56.76) 0.272
+Cesareansection 42(50.00) 26(55.32) 16(43.24)
+AdmittedtoNICUatbirth
+None 78(92.86) 45(95.74) 33(89.19) 0.247
+Once 6(7.14) 2(4.26) 4(10.81)
+Bestvision 0.047
+≤0.8 3(3.57) 3(8.11) 0(0.00)
+>0.8 81(96.43) 34(91.89) 47(100.00)
+Diseasecategory -
+Normal - 47(100.00) -
+Intermittentexotropia - - 23(62.16)
+Constantexotropia - - 14(37.84)
+Nearstereoacuity -
+Have - - 26(70.27)
+None - - 11(29.73)
+Distancestereoacuity -
+Have - - 10(27.03)
+None - - 27(72.97)
+Angleofdeviation - - 31.82±10.03 -
+Durationofsymptoms(in - - 4.59±2.65 -
+years)
+aChi-squareTestofequalproportionsforcategoricalvariables;ttestforcontinuousvariables.
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 6of13
+3.2. ComparisonofWISC-IVScorebetweentheExotropiaGroupandtheNormalGroup
+TheWISC-IVscoreofbothgroupsisshowninTable2. ComparisonoftheWISC-IVscoreshowed
+thattheexotropiagrouphadasignificantlylowerPRIscore(p=0.003)buthigherPSIscore(p=0.034)
+than the normal group. However, there was no significant difference in the WMI, VCI, and FSIQ
+betweentwogroups(allp>0.05). Intragroupcomparisonamongthefourdomainsshowedthatthe
+exotropiagrouphadapatternofVCI>PSI>WMI>PRI,whilethenormalgrouphadapatternof
+VCI>PRI>WMI>PSI(Table2).
+Table2. ComparisonofWISC-IVscoresbetweentheexotropiagroupandthenormalgroup.
+WISC-IVScore Total(n=84) Normal(n=47) Exotropia(n=37) pa
+VCI 115.08±17.05 118.66±15.81 110.54±17.68 0.889
+PRI 106.13±13.71 110.32±13.06 100.81±12.80 0.003
+WMI 103.17±14.71 102.96±14.75 103.43±14.86 0.231
+PSI 103.45±13.58 101.26±9.75 106.24±17.00 0.034
+FSIQ 109.70±13.65 111.77±11.76 107.08±15.50 0.990
+WISC-IV,WechslerIntelligenceScaleforChildren,thefourthedition;VCI,VerbalComprehensionIndex;PRI,
+PerceptualReasoningIndex;WMI,WorkingMemoryIndex;PSI,ProcessingSpeedIndex;FSIQ,FullScaleIntelligence
+Quotient. aAdjustedforplaceofresidence,educationlevelofmother,educationleveloffather,totalmonthly
+householdincome.
+3.3. ComparisonofSubtest-LevelDiscrepancybetweentheExotropiaGroupandtheNormalGroup
+Subtest-level discrepancy comparison was calculated by the differences between each index,
+whichcanprovideanadvantagepatternofintelligencestructure. Linearregressionmodelswereused
+toexaminethesubtest-leveldiscrepancybetweentheexotropiagroupandthenormalgroups.
+AsshowninTable3,theexotropiagrouphadhigherVCI−PRIscoreafteradjustingforhousehold
+characteristics(p<0.014). ThePRI−WMIandPRI−PSIweresignificantlydifferentinboththesimple
+andmultiplelinearregression(allp<0.01).
+Table3. Comparisonofsubtest-leveldiscrepancybetweentheexotropiagroupandthenormalgroup.
+Mean±SD SimpleLinearRegressiona MultipleLinearRegressiona
+Variables
+Normal(n=47) Exotropia(n=37) B 95%CI p B 95%CI pb
+VCI−PRI 8.34±18.68 9.73±18.94 1.39 (−6.83,9.61) 0.738 10.68 (2.22,19.13) 0.014
+VCI−WMI 15.70±20.76 7.11±18.19 −8.59 (−17.19,0.01) 0.050 −3.74 (−13.00,5.53) 0.425
+VCI−PSI 17.40±17.90 4.30±19.21 −13.11 (−21.19,−5.02) 0.002 −6.74 (−15.57,2.09) 0.133
+PRI−WMI 7.36±15.26 −2.62±12.52 −9.98 (−16.16,−3.81) 0.002 −14.41 (−21.41,−9.13) <0.001
+PRI−PSI 9.06±14.54 −5.43±15.43 −14.50 (−21.03,−7.97) <0.001 −17.42 (−25.05,−9.79) <0.001
+WMI−PSI 1.70±15.79 −2.81±16.57 −4.51 (−11.57,2.54) 0.207 −3.00 (−11.22,5.21) 0.469
+VCI,VerbalComprehensionIndex;PRI,PerceptualReasoningIndex;WMI,WorkingMemoryIndex;PSI,Processing
+SpeedIndex.aNormalgroupasthereference;badjustedforplaceofresidence,educationlevelofmother,education
+leveloffather,andtotalmonthlyhouseholdincome.
+However,significantdifferencesinVCI−WMIandVCI−PSIbetweenthetwogroupswereonly
+observedinthesimplelinearregression. TheWMI−PSIscorewasnotsignificantlydifferentbetween
+thetwogroups.
+Thedistributionofsubtest-leveldifferenceswascomparedbetweengroups. Theexotropiagroup
+hadsignificantlymorecaseswithaminusdifferenceintheVCI−PSI(p=0.029)andPRI−PSI(p=0.001)
+differencesthanthenormalgroup(TableS2),indicatingthatPSIwashigherintheexotropiagroup.
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 7of13
+3.4. SubgroupAnalysisStratifiedbyTypeofExotropia
+Toinvestigateifthetypeofexotropiahasaneffectonintelligencestructures, WISC-IVscores
+werecomparedbetweentheXTpatients(n=14)andX(T)patients(n=23). AsshowninTable4,XT
+patientshadsignificantlyhigherVCI,WMI,PSI,andFSIQthanX(T)patients(allp<0.05). However,
+subtest-leveldiscrepancycomparisonshowedthattherewasnosignificantdifferenceinallthesix
+subtest-leveldiscrepanciesbetweenthetwogroups(Table5,allp>0.05).
+Table4. SubgroupanalysisoftheWISC-IVindexscoresstratifiedbydifferenttypesofexotropia,near
+stereoacuity,anddistancestereoacuity.
+Variables VCI PRI WMI PSI FSIQ
+Typeof
+exotropia
+X(T)(n=23) Mean±SD 108.13±15.35 98.43±14.26 101.26±14.34 102.39±13.90 103.61±14.50
+XT(n=14) 114.50±20.98 104.71±9.14 107.00±15.52 112.57±20.11 112.79±15.91
+t −1.06 −1.47 −1.14 −1.82 −1.80
+p 0.294 0.150 0.260 0.077 0.081
+pa 0.012 0.060 0.048 0.037 0.003
+Near
+stereoacuity
+Have(n=26) 107.58±15.59 99.50±14.10 101.58±14.40 105.31±16.28 104.85±14.83
+None(n=11)
+Mean±SD
+117.55±21.02 103.91±8.84 107.82±15.68 108.45±19.26 112.36±16.49
+t −1.60 −0.96 −1.17 −0.51 −1.36
+p 0.118 0.345 0.248 0.614 0.181
+Distance
+stereoacuity
+Have(n=10) 111.20±22.18 95.30±10.51 103.10±14.16 99.60±14.32 102.90±17.01
+None(n=27)
+Mean±SD
+110.30±16.20 102.85±13.14 103.56±15.37 108.70±17.50 108.63±14.95
+t 0.14 −1.63 −0.08 −1.47 −1.00
+p 0.892 0.112 0.935 0.151 0.325
+pb 0.979 0.031 0.504 0.080 0.130
+VCI,VerbalComprehensionIndex;PRI,PerceptualReasoningIndex;WMI,WorkingMemoryIndex;PSI,Processing
+SpeedIndex;FSIQ,FullScaleIntelligenceQuotient.aAdjustedforplaceofresidence,educationleveloffather,and
+gestationalage.bAdjustedforageandeducationleveloffather.
+Table5. Comparisonofsubtest-leveldiscrepancybetweentheXTandX(T)patients.
+Mean±SD SimpleLinearRegressiona MultipleLinearRegressiona
+Variables
+X(T)(n=23) XT(n=14) B 95%CI p B 95%CI pb
+VCI−PRI 9.70±19.12 9.79±19.35 0.09 (−13.13,13.31) 0.989 6.41 (−7.78,20.60) 0.365
+VCI−WMI 6.87±14.82 7.50±23.33 0.63 (−12.06,13.32) 0.920 5.46 (−7.84,18.77) 0.409
+VCI−PSI 5.74±18.21 1.93±21.24 −3.81 (−17.15,9.53) 0.566 2.07 (−12.39,16.53) 0.773
+PRI−WMI −2.83±11.77 −2.29±14.12 0.54 (−8.20,9.28) 0.901 −0.94 (−10.27,20.60) 0.838
+PRI−PSI −3.96±11.21 −7.86±20.88 −3.90 (−14.58,6.78) 0.464 −4.34 (−16.53,7.85) 0.474
+WMI−PSI −1.13±14.07 −5.57±20.30 −4.44 (−15.90,7.02) 0.437 −3.40 (−16.46,9.66) 0.600
+XT,constantexotropia;X(T),intermittentexotropia;VCI,VerbalComprehensionIndex;PRI,PerceptualReasoning
+Index;WMI,WorkingMemoryIndex;PSI,ProcessingSpeedIndex.aSelectintermittentexotropiagroupascontrol
+group;badjustedforplaceofresidence,educationleveloffather,andgestationalage.
+3.5. RelationshipbetweenIntelligenceStructuresandAngleofDeviation/DurationofSymptoms
+Next,wedeterminedtheeffectofangleofdeviationanddurationofsymptomsonintelligence
+structures. Theresultsshowedthatallthesixsubtest-leveldiscrepancieshadnosignificantlinear
+associationswiththeangleofdeviation(Table6)anddurationofsymptoms(Table7)inbothsimple
+andmultipleresults(allp>0.05).
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 8of13
+Table 6. The regression analysis between subtest-level discrepancy and angle of deviation in the
+exotropiagroup.
+SimpleLinearRegression MultipleLinearRegressiona
+Variables
+B 95%CI p B 95%CI p
+VCI−PRI −0.09 (−0.73,0.56) 0.790 −0.05 (−0.66,0.56) 0.870
+VCI−WMI −0.22 (−0.84,0.39) 0.466 −0.22 (−0.81,0.38) 0.463
+VCI−PSI −0.38 (−1.02,0.26) 0.239 −0.25 (−0.87,0.37) 0.416
+PRI−WMI −0.14 (−0.56,0.29) 0.513 −0.17 (−0.67,0.33) 0.499
+PRI−PSI −0.29 (−0.81,0.22) 0.256 −0.20 (−0.85,0.45) 0.536
+WMI−PSI −0.16 (−0.72,0.41) 0.578 −0.03 (−0.76,0.70) 0.927
+VCI,VerbalComprehensionIndex;PRI,PerceptualReasoningIndex;WMI,WorkingMemoryIndex;PSI,Processing
+SpeedIndex. aAdjustedforgender,age,placeofresidence,educationlevelofmother,educationleveloffather,
+totalmonthlyhouseholdincome,gestationalage,withorwithoutsibling(s),anddeliverymethod.
+Table7. Theregressionanalysisbetweensubtest-leveldiscrepancyanddurationofsymptomsinthe
+exotropiagroup.
+SimpleLinearRegression MultipleLinearRegressiona
+Variables
+B 95%CI p B 95%CI p
+VCI−PRI −0.89 (−3.33,1.54) 0.461 −0.14 (−2.30,2.03) 0.899
+VCI−WMI −0.87 (−3.21,1.47) 0.455 0.01 (−2.13,2.15) 0.995
+VCI−PSI −1.19 (−3.64,1.27) 0.333 −0.44 (−2.65,1.78) 0.689
+PRI−WMI 0.02 (−1.60,1.64) 0.978 0.14 (−1.65,1.94) 0.871
+PRI−PSI −0.29 (−2.29,1.70) 0.767 −0.30 (−2.64,2.04) 0.793
+WMI−PSI −0.32 (−2.46,1.83) 0.766 −0.44 (−3.03,2.14) 0.727
+VCI,VerbalComprehensionIndex;PRI,PerceptualReasoningIndex;WMI,WorkingMemoryIndex;PSI,Processing
+SpeedIndex.aAdjustedforgender,age,paceofresidence,educationlevelofmother,educationleveloffather,total
+monthlyhouseholdincome,gestationalage,withorwithoutsibling(s),anddeliverymethod.
+3.6. RelationshipbetweenIntelligenceStructuresandNearStereoacuity
+The effect of near/distance stereoacuity on intelligence structures was investigated. The 37
+exotropiapatientsweresub-groupedintothenearstereoacuity(n=26)subgroupandthosewithout
+nearstereoacuity(n=11). AsshowninTable4,therewasnosignificantdifferenceinallWISC-IV
+indexesbetweenthetwogroups. Inaddition,nosignificantdifferencewasfoundinthesixsubtest-level
+discrepanciesbetweenthetwosubgroupsinbothmeancomparisonsandsimplelinearregression
+results(Table8,allp>0.05). Sincetherewasnosignificantdifferenceindemographicvariables,further
+multipleadjustmentofcovariatewasnotperformed.
+Table 8. The regression analysis between subtest-level discrepancy and near stereoacuity in the
+exotropiagroup.
+Mean±SD SimpleLinearRegressiona
+Variables
+Have(n=26) None(n=11) B 95%CI p
+VCI−PRI 8.08±18.84 13.64±19.49 5.56 (−8.33,19.45) 0.422
+VCI−WMI 6.00±17.30 9.73±20.79 3.73 (−9.68,17.14) 0.576
+VCI−PSI 2.27±19.88 9.09±17.46 6.82 (−7.21,20.85) 0.330
+PRI−WMI −2.08±11.80 −3.91±14.63 −1.83 (−11.08,7.42) 0.690
+PRI−PSI −5.81±12.79 −4.55±21.13 1.26 (−10.15,12.68) 0.824
+WMI−PSI −3.73±15.67 −0.64±19.15 3.09 (−9.13,15.32) 0.611
+VCI,VerbalComprehensionIndex;PRI,PerceptualReasoningIndex;WMI,WorkingMemoryIndex;PSI,Processing
+SpeedIndex. aWithnearstereoacuitygroupasthereference;thedistributionofdemographicinformationis
+consistentinthetwogroups,andmultipleregressionanalysisisnotneeded.
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 9of13
+Subgroupanalysisofdistancestereoacuitywasalsoanalyzed. AsshowninTable4,patientswith
+distancestereoacuityhadasignificantlylowerPRI(n=10)thanthosewithoutdistancestereoacuity
+(n=27)(p=0.031). However,allthesixsubtest-leveldiscrepancieshadnosignificantlinearassociations
+withdistancestereoacuityinbothsimpleandmultipleresults(Table9,allp>0.05).
+Table9. Theregressionanalysisbetweensubtest-leveldiscrepancyanddistancestereoacuityinthe
+exotropiagroup.
+Mean±SD SimpleLinearRegressiona MultipleLinearRegressiona
+Variables
+Have(n=10) None(n=27) B 95%CI p B 95%CI pb
+VCI−PRI 15.90±18.63 7.44±18.87 −8.46 (−22.59,5.68) 0.233 −11.10 (−26.07,3.87) 0.141
+VCI−WMI 8.10±17.93 6.74±18.61 −1.36 (−15.22,12.50) 0.843 −3.96 (−19.04,11.12) 0.597
+VCI−PSI 11.60±21.18 1.59±18.10 −10.01 (−24.24,4.22) 0.162 −12.09 (−27.60,3.42) 0.122
+PRI−WMI −7.80±12.81 −0.70±12.09 7.10 (−2.13,16.32) 0.128 7.14 (−2.31,16.59) 0.134
+PRI−PSI −4.30±10.86 −5.85±16.97 −1.55 (−13.30,10.19) 0.790 −0.99 (−13.78,11.80) 0.876
+WMI−PSI 3.50±11.01 −5.15±17.81 −8.65 (−20.92,3.63) 0.162 −8.13 (−21.56,5.30) 0.227
+VCI,VerbalComprehensionIndex;PRI,PerceptualReasoningIndex;WMI,WorkingMemoryIndex;PSI,Processing
+SpeedIndex.aWithdistancestereoacuitygroupasthereference;badjustedforageandeducationleveloffather.
+4. Discussion
+Intelligence is of significant value to children’s adaptation to the environment and future
+development. Therefore,understandingtheintelligencedevelopmentofexotropiachildrenishelpful
+tobetterunderstandtheadverseeffectofexotropia,promptlyconducttheinterventiononcognitive
+deficits,andpreventlearningdisabilitiesandsecondaryproblems. Inaddition,duringinterventionof
+exotropia,theimprovementofintelligencelevelmightbeoneoftheprognosticindicators.
+Inthisstudy,wecharacterizedintelligenceinchildrenwithexotropiabyWISC-IV.Theresults
+showedthattheexotropiagrouphadasignificantlylowerPRIscorebutahigherPSIscorethanthe
+normal group. However, there was no significant difference in the WMI, VCI, and FSIQ between
+the two groups. Multiple linear regression showed that PRI−WMI and PRI−PSI differences were
+significantlylowerintheexotropiagroupthaninthenormalgroup. Inter-subscalecorrelationanalysis
+also confirmed that the exotropia children had different intelligence structures as compared with
+normalchildren. Thetypeofexotropia,angleofdeviation,durationofsymptoms,andstereoacuity
+hadnoeffectontheintelligenceofchildrenwithexotropia. Takentogether,theseresultssuggestthat
+childrenwithexotropiahadarelativelyworseperformanceintheperceptualreasoningskillbutabetter
+processingspeedandadifferentpatternofintelligencestructureascomparedwithnormalchildren.
+Our results demonstrated that the exotropia group had a significantly lower PRI score than
+the normal group. The core subtests of PRI include Block Design, Picture Concept, and Matrix
+Reasoning, which are mainly used to assess the abilities of visual–spatial information processing,
+visual action integration, and perceptual fluid reasoning. Accumulating evidence has suggested
+that strabismus has a significant impact on visual perception and visuomotor behavior [26–28].
+Meanwhile,exotropiacausesseveraladverseeffectsonvisualfunction,includingvisualsuppression,
+abnormalretinalcorrespondence,anddiplopia[29,30]. Bertoneetal. havefoundthathealthyadult
+participants with lower visual acuity have worse performance in perceptual reasoning and visual
+searchtests,suggestingperceptualreasoningskillsareaffectedbyvisualdegradation[31]. Therefore,
+theexotropia-inducedadverseeffectsonvisualfunctionmaycontributetothedeclinedperceptual
+reasoningability. Wefoundthat29.73%and72.97%exotropiachildrenlosttheirnearstereoacuityand
+distancestereoacuity,respectively,suggestingthatexotropiawasmoreharmfultodistancestereoacuity
+thannearstereoacuity. Thisobservationisinlinewithapreviousstudy[32]. Sincestereoscopicvision
+providesanimportantsourceofdepthperception[33],thereducedstereoscopicvisioninexotropia
+childrenmayalsocontributetothedecreaseinperceptualreasoningability. Exotropiaalsoleadsto
+interocularsuppression,whichleadstoperceptualdistortionandaffectstheperceptualintegrationin
+theprimaryvisualcortex(V1),inturnaffectingtheperceptualreasoningability[34].
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 10of13
+PSIistheassessmentofchildren’sabilitytoprocesssimplevisualinformationquickly,including
+the subtests of Coding and Symbol Search. Although Bertone et al. report that processing speed
+ability is affected by visual degradation in healthy adults [31], our results revealed that exotropia
+children had a higher PSI than normal children. An eye movement study shows that strabismus
+patientshavecomparableaccuracyandprecisionofvisuallyguidedreachingmovementsandthe
+totalmovementtimewithnormalindividuals[27]. Becausethetotalfieldofvisionisexpandedby
+oculardeviation,exotropicindividualsexperienceamorepanoramicview[28,35],whichmightbring
+someadvantagestochildrenwithexotropiawhendealingwithsimplevisualinformation. Onthe
+otherhand,exotropia-inducedinterocularsuppressioncanleadtounilateralfixation,andtherebythe
+transmissionofvisualinformationandtheprocessingspeedareimproved[34]. However,interocular
+suppressionalsoaffectstheperceptualintegrationability. Therefore,weobservedanimprovementin
+processingspeedbutadeclineintheperceptualreasoningabilityinexotropiachildren. Nevertheless,
+themechanismunderlyingtheimprovementofprocessingspeedbyexotropiaremainstobefurther
+elucidated. Moreover, due to the small sample size of the current study, this finding should be
+validatedinalargersamplesize. SincetheexotropiachildrenhadweaknessinPRIandstrengthin
+PSI,subtest-leveldiscrepancycomparisonsshowedthattheexotropiagrouphadasignificantlylower
+PRI−WMIandPRI−PSIdifferencesthanthenormalgroup,suggestingthatexotropiachildrenpresented
+adifferentintelligencestructure. Comparisonofthedistributionofsubtest-leveldifferencesshowed
+thattheexotropiagrouphadmorecaseswithminusdifferenceintheVCI−PSIandPRI−PSIthanthe
+normalgroup,indicatingthatPSIwashigherintheexotropiagroup. Moreover,ourinter-subscale
+correlationsanalysisidentifiedadifferentpatternofsignificantcorrelationsbetweentheexotropiaand
+normalgroups,furthersupportingthattheexotropiachildrenhaddifferentintelligencestructuresas
+comparedwithnormalchildren.
+In this study, XT patients had higher IQ scores than X(T) patients, which is consistent with
+previousstudies[17,18]. IthasbeenshownthatmostXTpatientsaredeterioratedfromX(T)[36],and
+XTmaypresentdecompensatedX(T)[37],indicatingthatXTandX(T)havethesameetiologicalbasis.
+Thismayexplainourobservationthattherewasnosignificantdifferenceinthepatternofintelligence
+structurebetweenXTandX(T)inthesubtest−leveldiscrepancycomparison. Ouranalysisshowedthat
+theangleofdeviationhadnoeffectonintelligenceinexotropiachildren. Thisfindingisinlinewith
+thepreviousobservationthatthereisnocorrelationbetweendeviationseverityandpsychological
+parametersinexotropiapatients[38]. Duringthepathogenesisofexotropia,thestereoacuity,control,
+andangleofdeviationareunstable,andexotropiachildrenmayexhibitanycombinationofstereoacuity,
+control, andangleofdeviation[39]. Theinstabilityofthesquintanglemayleadtonocorrelation
+betweenintelligenceandtheangleofdeviation. Asforstereoscopicvision, Gligorovicetal. have
+demonstrated that visually impaired children without stereoscopic vision have poor non-verbal
+reasoning abilities [21]. However, we did not observe this phenomenon. Our subgroup analysis
+showedthattherewasnosignificantdifferenceintheWISC-IVscorebetweentheexotropiapatients
+withorwithoutnearstereoacuity. Althoughchildrenwithoutdistancestereoacuityshowedahigher
+PRIthanthosewithdistancestereoacuity,thesubtest-leveldiscrepancycomparisonsdidnotshowany
+differencebetweengroups. Thisdiscrepancymaybeattributedtooursmallsamplesize.
+Therearestillsomelimitationsofthisstudy. First,thesamplesizeofthisstudywasrelativelysmall.
+Inaddition,alloftheparticipantsintheexotropiagroupwererecruitedfrompatientsscheduledfor
+surgery,andthesepatientshadamoreseverediseasecondition,suchaslongerdurationofsymptoms,
+largersquintangles,andpoorstereopsis. Hence,theselectionbiasmaymakethefindingsofthisstudy
+unabletobeapplicabletoallexotropiachildren. Furthermore,wedidnotevaluatepostoperativeIQ
+todeterminetheeffectofsurgeryonintelligence. Previousstudieshavereportedbeneficialeffects
+of strabismus surgery on quality of life and mental health [40,41]. Treating strabismus timely not
+onlyprotectsstereoscopicvisionbutalsoenhancesthesocialinteractionabilityofpatients[42,43]. In
+thefuture,awell-designedprospectiveclinicaltrialwithalargesamplesizeshouldbeconductedto
+validatethefindingsofthisstudyandaddresstheselimitations.
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 11of13
+5. Conclusions
+Insummary,thecurrentstudysuggestedthatcomparedtonormalchildren,exotropiachildren
+hadarelativelyworseperformanceintheperceptualreasoningskillbutabetterprocessingspeed
+andadifferentpatternofintelligencestructure. Typeofexotropia,theangleofdeviation,durationof
+symptoms,andstereoacuitydidnotaffecttheintelligenceofchildrenwithexotropia.
+SupplementaryMaterials: Thefollowingareavailableonlineathttp://www.mdpi.com/1660-4601/16/17/3008/s1,
+TableS1: Comparisonofthedistributionofsubtest-leveldifferencesbetweengroups,TableS2: Thecorrelation
+analysisresultsamongdomainsandtotalscore(FSIQ)oramongdifferences.
+AuthorContributions: Conceptualization,X.H.L.,J.H.Y.andZ.H.W.;Methodology,X.H.L.,T.S.,Z.H.W.,C.B.X.
+andT.S.;Software,T.S.,Z.H.W.andC.B.X.;Validation,X.H.L.andJ.H.Y.;Formalanalysis,T.S.;Investigation,
+T.S.,Z.H.W.andT.S.; Resources,X.H.L.,J.H.Y.,Z.H.W.,T.S.andJ.H.Y.; Datacuration,X.H.L.,J.H.Y.andT.S.;
+Writing-originaldraftpreparation,T.S.andZ.H.W.;Writing-reviewandediting,X.H.L.andJ.H.Y.;Visualization,
+T.S.andC.B.X.;Supervision,X.H.L.;projectadministration,X.H.L.andJ.H.Y.;Fundingacquisition,X.H.L.
+Funding: This study was supported by the grants from the National Natural Science Foundation of China
+(no. 81673197, title: Brain mechanisms of Cantonese-Mandarin-English phonological processing deficits in
+Cantonesechildrenwithdevelopmentaldyslexia).
+Acknowledgments: Wethankalltheparticipantsofthisstudyandtheirparents. Wewouldliketogiveaspecial
+thankstotheoptometristandallthenursesintheDepartmentofStrabismusandAmblyopiaatZhongshan
+OphthalmicCenter,SunYat-senUniversityfortheirgreatsupport.
+ConflictsofInterest: Theauthorsdeclarethattherearenoconflictsofinterest.
+References
+1. Green-Simms,A.E.;Mohney,B.G.EpidemiologyofPediatricStrabismus,2nded.;Springer: Berlin,Heidelberg,
+2010;pp.1–9.
+2. Bruce, A.; Santorelli, G. Prevalence and Risk Factors of Strabismus in a UK Multi-ethnic Birth Cohort.
+Strabismus2016,24,153–160. [CrossRef]
+3. Hashemi,H.;Pakzad,R.;Heydarian,S.;Yekta,A.;Aghamirsalim,M.;Shokrollahzadeh,F.;Khoshhal,F.;
+Pakbin,M.;Ramin,S.;Khabazkhoob,M.Globalandregionalprevalenceofstrabismus: Acomprehensive
+systematicreviewandmeta−analysis. Strabismus2019,27,54–65. [CrossRef][PubMed]
+4. Hashemi, H.; Yekta, A.; Jafarzadehpur, E.; Ostadimoghaddam, H.; Eshrati, B.; Mohazzab-Torabi, S.;
+Khabazkhoob,M.;Soroush,S.Theprevalenceofstrabismusin7-year-oldschoolchildreninIran. Strabismus
+2015,23,1–7. [CrossRef]
+5. McKean-Cowdin,R.;Cotter,S.A.;Tarczy-Hornoch,K.;Wen,G.;Kim,J.;Borchert,M.;Varma,R.;Multi-Ethnic
+PediatricEyeDiseaseStudyGroup. Prevalenceofamblyopiaorstrabismusinasianandnon-Hispanicwhite
+preschoolchildren: Multi-ethnicpediatriceyediseasestudy. Ophthalmology2013,120,2117–2124. [CrossRef]
+6. Torp-Pedersen,T.;Boyd,H.A.;Skotte,L.;Haargaard,B.;Wohlfahrt,J.;Holmes,J.M.;Melbye,M.Strabismus
+Incidence in a Danish Population-Based Cohort of Children. JAMA Ophthalmol. 2017, 135, 1047–1053.
+[CrossRef][PubMed]
+7. Yu,X.;Ji,Z.;Yu,H.;Xu,M.;Xu,J.ExotropiaIstheMainPatternofChildhoodStrabismusSurgeryinthe
+SouthofChina: ASix-YearClinicalReview. J.Ophthalmol. 2016,8,1489537. [CrossRef]
+8. Zhu,H.;Pan,C.;Sun,Q.;Huang,D.;Fu,Z.;Wang,J.;Chen,X.;Wang,Z.;Liu,H.Prevalenceofamblyopia
+andstrabismusinHanischoolchildreninruralsouthwestChina: Across-sectionalstudy. BMJOpen2019,
+9,e025441. [CrossRef]
+9. Pi,L.H.;Chen,L.;Liu,Q.;Ke,N.;Fang,J.;Zhang,S.;Xiao,J.;Ye,W.J.;Xiong,Y.;Shi,H.;etal. Prevalence
+ofEyeDiseasesandCausesofVisualImpairmentinSchool-AgedChildreninWesternChina. J.Epidemiol.
+2012,22,37–44. [CrossRef][PubMed]
+10. Chen, X.; Fu, Z.; Yu, J.; Ding, H.; Bai, J.; Chen, J.; Gong, Y.; Zhu, H.; Yu, R.; Liu, H. Prevalence of
+amblyopia and strabismus in Eastern China: Results from screening of preschool children aged 36−72
+months. Br. J.Ophthalmol.2016,100,515–519. [CrossRef][PubMed]
+11. Cui,J.;Zhang,Y.;Wan,S.;Chen,C.;Zeng,J.;Zhou,X.Visualformperceptionisfundamentalforbothreading
+comprehensionandarithmeticcomputation. Cognition2019,189,141–154. [CrossRef]
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 12of13
+12. Lipton,E.L.Astudyofthepsychologicaleffectsofstrabismus. Psychoanal. StudyChild1970,25,146–174.
+[CrossRef][PubMed]
+13. Tonge,B.J.;Lipton,G.L.;Crawford,G.Psychologicalandeducationalcorrelatesofstrabismusinschool
+children. Aust. N.Z.J.Psychiatry. 1984,18,71–77. [CrossRef][PubMed]
+14. Granet,D.B.;Gomi,C.F.;Ventura,R.;Miller-Scholte,A.Therelationshipbetweenconvergenceinsufficiency
+andADHD.Strabismus2005,13,163–168. [CrossRef][PubMed]
+15. Chung, S.A.; Chang, Y.H.; Rhiu, S.; Lew, H.; Lee, J.B. Parent-reported symptoms of attention deficit
+hyperactivity disorder in children with intermittent exotropia before and after strabismus surgery.
+Yonsei. Med. J.2012,53,806–811. [CrossRef][PubMed]
+16. Merdler,I.;Giladi,M.;Sorkin,N.;Shapira,S.;Galili,E.;Margulis,A.;Korach,T.;Hassidim,A.Strabismus
+andmentaldisordersamongIsraeliadolescents. J.AAPOS2017,21,185–189. [CrossRef][PubMed]
+17. Bagheri,A.;Fallahi,M.R.;Tamannaifard,S.;Vajebmonfared,S.;Zonozian,S.IntelligenceQuotient(IQ)in
+CongenitalStrabismus. J.Ophthalmic. Vis. Res. 2013,8,139–146. [PubMed]
+18. Ghaderpanah,M.;Farrahi,F.;Khataminia,G.;Jahanbakhshi,A.;Rezaei,L.;Tashakori,A.;Mahboubi,M.
+ComparingIntelligenceQuotient(IQ)among3to7-year-oldstrabismicandnonstrabismicchildreninan
+Iranianpopulation. Glob. J.HealthSci. 2015,8,26–36. [CrossRef][PubMed]
+19. Read,J.C.AStereovisionandstrabismus. Eye2015,29,214–224. [CrossRef][PubMed]
+20. Zhu,P.W.;Huang,X.;Ye,L.;Jiang,N.;Zhong,Y.L.;Yuan,Q.;Zhou,F.Q.;Shao,Y.Alteredintrinsicfunctional
+connectivityoftheprimaryvisualcortexinyouthpatientswithcomitantexotropia: ArestingstatefMRI
+study. Int. J.Ophthalmol. 2018,11,668–673.
+21. Gligorovic´,M.;Vucˇinic´,V.;Eškirovic´,B.;Jablan,B.Theinfluenceofmanifeststrabismusandstereoscopic
+visiononnon-verbalabilitiesofvisuallyimpairedchildren. Res. Dev. Disabil. 2011,32,1852–1859. [CrossRef]
+22. Flanagan,D.P.;Kaufman,A.S.EssentialsofPsychologicalAssessmentSeries;EssentialsofWISC-IVAssessment,
+2nded.;JohnWiley&SonsInc.: Hoboken,NJ,USA,2009;pp.1–52.
+23. ThestrabismusandpediatricophthalmologygroupOBofCMAChineseexpertconsensusonstrabismus
+classification. Chin. J.Ophthalmol. 2015,51,408–410.
+24. Zhang,H.TherevisionofWISC-IVChineseversion. Psychol. Sci. 2009,32,1177–1179.
+25. Wang,J.;Zou,Y.Z.;Cui,J.F.;Fan,H.Z.;Chen,N.;Yao,J.;Duan,J.H.;Chen,R.;Yan,L.J.;He,X.L.Reliability
+and construct validity of the Chinese version of the Wechsler Adult Intelligence Scale−Fourth Edition.
+ChineseMent. Heal. J.2013,27,692–697.
+26. Fazzi, E.; Bova, S.M.; Uggetti, C.; Signorini, S.G.; Bianchi, P.E.; Maraucci, I.; Zoppello, M.; Lanzi, G.
+Visual-perceptualimpairmentinchildrenwithperiventricularleukomalacia. BrainDev. 2004,26,506–512.
+[CrossRef]
+27. Dadeya, S.; Dangda, S.; Piano, M.E.; Tidbury, L.P.; O’Connor, A.R.; Duffy, K.R.; Bukhamseen, D.H.;
+Smithen,M.J.;Mitchell,D.E.;Hu,M.;etal. Effectsofstrabismicamblyopiaonvisuomotorbehavior: PartII.
+Visuallyguidedreaching. VisionRes. 2014,99,3857–3865.
+28. Sayyadi,S.;Lajevardi,L.;Aliabadi,F.;Keihani,M.R.;Abbasi,L.Comparingvisualperceptualskillsamong
+8to10-year-oldstrabismal/nonstrabismalcerebralpalsychildren. Feyz. J.Kashan. Univ. Med. Sci. 2011,
+15,232–239.
+29. Scholl,B.;Tan,A.Y.;Priebe,N.J.StrabismusDisruptsBinocularSynapticIntegrationinPrimaryVisualCortex.
+J.Neurosci. 2013,33,17108–17122. [CrossRef]
+30. Economides,J.R.;Adams,D.L.;Horton,J.C.Perceptionviathedeviatedeyeinstrabismus. J.Neurosci. 2012,
+32,10286–10295. [CrossRef]
+31. Bertone, A.; Bettinelli, L.; Faubert, J. The impact of blurred vision on cognitive assessment. J. Clin.
+Exp.Neuropsychol. 2007,29,467–476. [CrossRef][PubMed]
+32. Li,S.;Zhao,R.;Huang,X.;Wei,C.Clinicalstudyofbinocularvisioninintermittentandconstantexotropia.
+RecentAdv. Ophthalmol. 2010,30,1151–1153.
+33. Hibbard, P.B.; Haines, A.E.; Hornsey, R.L. Magnitude, precision, and realism of depth perception in
+stereoscopicvision. Cogn. Res. Princ. Implic. 2017,2,25. [CrossRef]
+34. Sengpiel,F.;Blakemore,C.Theneuralbasisofsuppressionandamblyopiainstrabismus.Eye1996,10,250–258.
+[CrossRef][PubMed]
+35. Serrano-Pedraza,I.;Manjunath,V.;Osunkunle,O.;Clarke,M.P.;Read,J.C.Visualsuppressioninintermittent
+exotropiaduringbinocularalignment. Investig. Ophthalmol. Vis. Sci. 2011,52,2352–2364. [CrossRef]
+
+--- PAGE BREAK ---
+
+Int.J.Environ.Res.PublicHealth2019,16,3008 13of13
+36. Livir-Rallatos,G.; Gunton,K.B.; Calhoun,J.H.Surgicalresultsinlarge-angleexotropia. J.AAPOS2002,
+6,77–80. [CrossRef]
+37. Abroms,A.D.;Mohney,B.G.;Rush,D.P.;Parks,M.M.;Tong,P.Y.Timelysurgeryinintermittentandconstant
+exotropiaforsuperiorsensoryoutcome. Am. J.Ophthalmol. 2001,131,111–116. [CrossRef]
+38. Lim,S.B.;Wong,W.L.;Ho,R.C.;Wong,I.B.Childhoodintermittentexotropiafromadifferentangle: Does
+severityaffectqualityoflife? Br. J.Ophthalmol. 2015,99,1405–1411. [CrossRef]
+39. Superstein,R.;Dean,T.W.;Holmes,J.M.;Chandler,D.L.;Cotter,S.A.;Wallace,D.K.;Melia,B.M.;Kraker,R.T.;
+Weaver,R.G.;Mohney,B.G.;etal. Relationshipamongclinicalfactorsinchildhoodintermittentexotropia.
+J.AAPOS2017,21,268–273. [CrossRef]
+40. Alpak,G.; Coskun,E.; Erbagci,I.; Bez,Y.; Okumus,S.; Oren,B.; Gurler,B.Effectsofcorrectivesurgery
+onsocialphobia,psychologicaldistress,disease−relateddisabilityandqualityoflifeinadultstrabismus
+patients. Br. J.Ophthalmol. 2014,98,876–879. [CrossRef][PubMed]
+41. Gunton,K.B.Impactofstrabismussurgeryonhealth-relatedqualityoflifeinadults. Curr. Opin. Ophthalmol.
+2014,25,406–410. [CrossRef]
+42. Kattan,J.M.;Velez,F.G.;Demer,J.L.;Pineles,S.L.RelationshipbetweenBinocularSummationandStereoacuity
+afterStrabismusSurgery. Am. J.Ophthalmol. 2016,16,529–532.
+43. Pineles,S.L.;Demer,J.L.;Isenberg,S.J.;Birch,E.E.;Velez,F.G.Improvementinbinocularsummationafter
+strabismussurgery. JAMAOphthalmol. 2015,133,326–332. [CrossRef][PubMed]
+©2019bytheauthors. LicenseeMDPI,Basel,Switzerland. Thisarticleisanopenaccess
+articledistributedunderthetermsandconditionsoftheCreativeCommonsAttribution
+(CCBY)license(http://creativecommons.org/licenses/by/4.0/).

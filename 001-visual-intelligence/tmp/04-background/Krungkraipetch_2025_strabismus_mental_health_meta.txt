@@ -1,0 +1,364 @@
+Clinical Ophthalmology
+Open Access Full Text Article ORIGINAL RESEARCH
+A Meta-Analysis of Association Between
+Strabismus in Children/Adolescents and Risk of
+Mental Health Disorders
+Luksanaporn Krungkraipetch 1, Naruporn Krungkraipetch 2, Thanatporn Threetong 1
+1Department of Ophthalmology, Faculty of Medicine, Burapha University, Chonburi, Thailand; 2Faculty of Medicine Ramathibodi Hospital, Mahidol
+University, Bangkok, Thailand
+Correspondence: Thanatporn Threetong, Department of Ophthalmology, Faculty of Medicine, Burapha University, 169 Long-Had Bangsaen Road,
+Bang Saen Subdistrict, Mueang Chonburi District, Chonburi, 20131, Thailand, Email Thanatporn@go.buu.ac.th
+Background: Strabismus, or eye misalignment, is a common condition in children and adolescents. This meta-analysis examined the
+association between strabismus and mental health disorders including attention deficit hyperactivity disorder (ADHD), anxiety,
+depression. The strength and consistency of the relationships between strabismus and the risk of mental health disorders and how
+the associations vary according to characteristics including study size, temporal trends, and type of strabismus type were assessed.
+Methods: We conducted a meta-analysis with nine observational studies published between 2008 and 2024, involving 683,942
+participants. The effect sizes were calculated as odds ratios (ORs) with 95% confidence intervals (CIs), and heterogeneity was assessed
+using the I² statistic to determine the associations between strabismus and mental health disorders.
+Results: The analyses revealed a significant positive association between strabismus and mental health disorders, with a weighted
+average OR of 1.92 (95% CI: 1.38–2.66; I² = 99.7%). Temporal trends suggested that earlier studies reported larger effect sizes,
+whereas more recent studies showed modest although significant associations. The strongest associations were observed in studies of
+exotropia; the ORs ranged from 1.44 to 2.70. The study sizes and precisions varied; larger studies provided more reliable estimates and
+smaller studies showed wider CIs.
+Conclusion: Strabismus was significantly associated with an increased risk of ADHD, anxiety, and depression. This association was
+consistent across different strabismus types and study designs. These findings underscore the importance of mental health screening in
+children and adolescents with strabismus, particularly those with exotropia. Further research should explore the mechanisms under-
+lying this relationship and the effects of early intervention programs.
+Keywords: exotropia, esotropia, attention deficit hyperactivity disorder, anxiety, depression
+Introduction
+Strabismus, characterized by eye misalignment, is a common ocular condition that affects 2–7% of children globally.
+Beyond its impact on visual function, such as impaired binocular vision and amblyopia, strabismus has also been
+associated with psychosocial challenges, including stigma, low self-esteem, and difficulties in social interactions. These
+psychosocial stressors may associate with mental health conditions—such as anxiety, depression, and attention deficit
+hyperactivity disorder (ADHD)—among children with strabismus.1–4
+The American Academy of Neurology emphasizes the need to address the psychosocial effects of neurological and
+neurodevelopmental conditions in pediatric populations. This underscores the importance of early detection and inter-
+vention to improve long-term outcomes in affected individuals. Children with strabismus face unique psychological
+burdens, further reinforcing the necessity for holistic care strategies.
+Studying the association between strabismus and mental health disorders is essential for several reasons. First,
+understanding these relationships can help identify high-risk populations, enabling early psychological screening and
+intervention. Second, addressing the mental health issues in children with strabismus can significantly improve their
+Clinical Ophthalmology 2025:19 2333–2342 2333
+Received: 18 April 2025 © 2025 Krungkraipetch et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/
+Accepted: 9 July 2025 terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v4.0) License (http://creativecommons.org/licenses/by-nc/4.0/). By accessing
+Published: 16 July 2025 the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed.
+For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+quality of life, academic performance, and social integration. Finally, robust evidence for this association can inform
+healthcare policies and promote integrated care models.5
+However, previous studies exploring the relationship between strabismus and mental health outcomes have reported
+inconsistent findings. These discrepancies may stem from methodological limitations such as small sample sizes, cross-
+sectional designs, lack of standardized diagnostic criteria, and failure to control for potential confounding variables.
+Additionally, most studies have focused on specific mental health outcomes or strabismus subtypes, limiting the general-
+izability of their findings. These limitations highlight the need for a comprehensive synthesis of the available evidence.
+This meta-analysis systematically evaluated the associations between strabismus and mental health disorders in
+children and adolescents. Anxiety, depression, and ADHD were the mental health disorders reviewed. By integrating
+data from observational studies, this review aimed to provide evidence to guide clinical care and inform strategies for
+comprehensive ophthalmological and psychological management.
+Materials and Methods
+Study Protocol and Registration
+We used the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) criteria to comprehen-
+sively evaluate our review and meta-analysis (Supplementary Material 1).6 Our protocol has been registered in the
+International Prospective Register of Systematic Reviews (PROSPERO) (CRD42024591511). This research followed the
+guidelines of the Declaration of Helsinki. No new data or patient information was collected during this study. The studies
+used in this meta-analysis were conducted under the ethical approval of IRB for each study.
+Search Strategy
+A comprehensive literature search was conducted using electronic databases, including PubMed, Scopus, and the
+Cochrane Library, from 2000 to 2024. Search terms comprised combinations of keywords and MeSH terms such as
+“strabismus”, “mental health”, “psychiatric disorders”, “child”, and “adolescents”. In addition, the reference lists of
+included studies were manually identify of additional relevant articles. No language restrictions were applied
+(Supplementary Material 2).
+Study Selection
+Observational studies that evaluated the association between strabismus and mental health disorders in children and
+adolescents were systematically reviewed and analyzed. Studies were included if they met all of the following criteria:
+observational design (case-control, cohort, or cross-sectional), reported an association between strabismus and mental
+health disorders (anxiety, depression, and ADHD), included participants aged 0–18 years, and provided effect sizes (odds
+ratios [ORs], hazard ratios [HRs], or relative risks [RRs]) with 95% confidence intervals (CIs).
+Exclusion Criteria
+Studies were excluded if they lacked sufficient data to calculate effect sizes; focused on adult populations; or were
+reviews, case reports, or editorials.
+Data Extraction
+Two independent reviewers extracted the data using a standardized form. Discrepancies were resolved by consensus or
+consultation with a third reviewer. The extracted data included study characteristics (author, year, design, location),
+participant characteristics (age, sample size, strabismus type), mental health outcomes (anxiety, depression, ADHD), and
+effect sizes and 95% CIs.
+Quality Assessment
+The Newcastle-Ottawa Scale (NOS) was used to assess the quality of the included studies.7 Studies that scored ≥7 points
+were considered high quality (Supplementary Material 3).
+2334 https://doi.org/10.2147/OPTH.S530788 C l i n i c a l O p h t h a l m o l o g y 2 0 2 5 : 1 9
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+Statistical Analyses
+Pooled effect sizes (ORs) with 95% CIs were calculated using a random effects model to account for inter-study
+heterogeneity. Heterogeneity was assessed using the I² statistic, with values >50% indicating substantial heterogeneity.
+Subgroup analyses were performed based on strabismus type (esotropia, exotropia). Sensitivity analyses were conducted
+to examine the robustness of the results by excluding low-quality studies and those with extreme effect sizes. Statistical
+significance was set at p < 0.05. All statistical analyses were performed using R (version 4.4.1) with the metafor and
+meta-packages.8 Publication bias was assessed using funnel plots; however, Egger’s test was not performed because the
+number of studies included was < 10.
+Results
+Study Selection
+The initial search yielded 32,189 articles. After removing duplicates, 9211 unique studies remained. Following title and
+abstract screening, 8521 studies were excluded because they did not meet the inclusion criteria. A full-text review of 207
+studies resulted in the inclusion of 9 observational studies in the final meta-analysis. (Supplementary Material 4).9–17
+A PRISMA flow diagram summarizing the study selection process is displayed in Figure 1.
+Figure 1 PRISMA flow diagram.
+Clinical Ophthalmology 2025:19 https://doi.org/10.2147/OPTH.S530788 2 3 3 5
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+Table 1 Characteristics of Included Studies
+Study Design Region Strabismus Type Mental Health Outcomes Sample Size
+(Cases/Controls)
+Mohney et al (2008)9 Cohort USA Esotropia Depression, Anxiety 168/125
+McKenzie et al (2009)10 Case-Control USA Exotropia Anxiety, ADHD 183/183
+Cumurcu et al (2011)11 Cross-Sectional Turkey Combined Social Phobia, Depression 42/47
+Olson et al (2012)12 Cohort USA Esotropia ADHD, Anxiety 127/127
+Kilgore et al (2014)13 Cohort USA Exotropia Mood Disorders, Anxiety 63/121
+Merdler et al (2017)14 Case-Control Israel Combined ADHD, Anxiety 1598/661,043
+Tsai et al (2021)15 Cohort Taiwan Esotropia ADHD 2049/8196
+Choi et al (2021)16 Cohort South Korea Combined Anxiety, Mood Disorders 327,076/327,076
+Lee et al (2022)17 Cohort USA Exotropia Anxiety, Depression 352,636/11,652,553
+Abbreviations: USA, United State of America; ADHD, attention deficit hyperactivity disorder.
+Study Characteristics
+The included studies comprised 9 observational studies published between 2008 and 2024, with a total of 683,942
+participants. These studies originated from diverse geographical locations including North America, Asia, and Europe.
+The study designs included 5 cohort studies, 3 case-control studies, and 1 cross-sectional study. The key characteristics of
+these included studies are summarized in Table 1.
+Pooled Effect Size
+This meta-analysis revealed a significant association between strabismus and the risk of mental health disorders in
+children and adolescents. The pooled OR was 1.92 (95% CI: 1.38–2.66; I² = 99.7%), indicating that children with
+strabismus are approximately twice as likely to have mental health disorders compared to those without strabismus
+(Figure 2).
+Heterogeneity
+Substantial heterogeneity was observed among the included studies (I² = 99.7%, p = 0.000).
+Figure 2 Effect sizes of mental health outcomes in the included studies. [Heterogeneity I2 = 99.7%, τ2 = 0.1796, p = 0].
+Abbreviations: OR, odds ratio; SE, standard error; CI, confidence interval; HK, Hartung-Knapp; I2, I-square heterogeneity statistic; τ2, tau-square statistic; p, p-value.
+2336 https://doi.org/10.2147/OPTH.S530788 C l i n i c a l O p h t h a l m o l o g y 2 0 2 5 : 1 9
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+Subgroup Analyses
+The overall analyses showed that all strabismus types were associated (increased OR > 1). The overall common effects
+model had an OR = 4.27 [95% CI: 4.20–4.33] and random effects model had an OR = 5.24 [95% CI: 3.45–7.94]. There
+was very high heterogeneity overall (I² = 99.7%, τ² = 0.2667, p < 0.0001), which indicated substantial variation among
+studies.
+For the unspecified type subgroup analysis, the combined data from the studies by Cumurcu et al,11 Merdler,14 and
+Choi16 had a common effects model, OR = 3.01 [95% CI: 2.95–3.07], random effects model OR = 4.18 [95% CI:
+1.94–9.02]), and moderate heterogeneity (I² = 36.8%, τ² = 0.2284, p = 0.2057).
+For the esotropia subgroup analysis, the combined data from the studies by Mohney et al,9 Olson et al,12 and Tsai
+et al,15 common effects model OR = 4.14 [95% CI: 3.27–5.25], random effects model OR = 5.60 [95% CI: 2.84–11.03],
+and substantial heterogeneity (I² = 54.6%, τ² = 0.1979, p = 0.1102).
+For the exotropia subgroup analysis combined data from the studies by McKenzie et al,10 Kilgore et al13 and Lee
+et al17 had a common effects model OR = 7.26 [95% CI: 7.09–7.45], random effects model OR = 5.96 [95% CI:
+2.38–14.90], and substantial heterogeneity (I² = 58.8%, τ² = 0.5673, p < 0.0001).
+The test results for subgroup differences using common effects were χ²= 2070.20, df = 2 (p = 0.000). The test for
+subgroup differences using random effects were χ² = 0.44, df = 2 (p = 0.8040) (Figure 3).
+Publication Bias
+Visual inspection of the funnel plot showed slight asymmetry, which suggested potential publication bias (Figure 4).
+Discussion
+Principal Findings
+This meta-analysis demonstrated a significant association between strabismus and an increased risk of mental health
+disorders in children and adolescents. The pooled OR (1.92, 95% CI: 1.38–2.66) suggests that individuals with
+strabismus were twice as likely to experience mental health conditions compared to their peers without strabismus.
+The subgroup analyses revealed that exotropia exhibited the strongest association, followed by esotropia and unspecified
+strabismus types.
+Comparisons with Previous Research
+This meta-analysis is consistent with earlier research18 demonstrating an association between strabismus and mental
+health conditions. Similarly, studies by Mohney et al9 and McKenzie et al10 reported increased odds of developing mental
+health disorders in individuals with strabismus. These findings align with a broader body of evidence indicating that
+children and adolescents with are at greater risk of psychological challenges, including anxiety, depression, and ADHD.
+Although earlier studies tended to report higher ORs (Cumurcu et al11 reported an OR as high as 9.0), more recent
+and larger-scale studies, such as those by Lee et al17 and Choi et al,16 have shown more moderate effect sizes (ORs
+approximately 1.1–2.0). This discrepancy may reflect the improved methodological rigor of recent studies such as larger
+sample sizes, population-based designs, and improved control of confounding factors.
+This meta-analysis advances the field with 2 unique contributions. First, by including data from 9 studies across
+diverse populations and settings, the results provide a comprehensive estimate of an association between strabismus and
+mental health conditions in children and adolescents. Second unlike earlier reviews, we stratified the results by
+strabismus subtypes. This revealed a stronger association between mental health outcomes and exotropia than with
+esotropia.
+We evaluated the potential for publication bias using a funnel plot, which had not been systematically addressed in
+previous studies.
+The association between strabismus and mental health disorders remained robust across multiple studies and
+populations. However, this study suggests that the magnitude of the effect may be less dramatic than that previously
+Clinical Ophthalmology 2025:19 https://doi.org/10.2147/OPTH.S530788 2 3 3 7
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+Figure 3 Forest plot of mental health outcomes by strabismus types. [Heterogeneity I2 = 99.7%, τ2 = 0.2567, p = 0; Test for subgroup differences (common effect):
+X2 = 2970.20, df = 2, p = 0; Test for subgroup differences (random effect): X2 = 0.44, df = 2, p = 0.8040].
+Abbreviations: OR, odds ratio; CI, confidence interval; I2, I-square heterogeneity statistic; τ2, tau-square statistic; p, p-value; X2, chi-square statistic; df, degree of freedom.
+reported in smaller or less-rigorous studies. This finding underscores the importance of continued research with high
+methodological quality and larger sample sizes.
+Potential Mechanisms
+The observed associations can be attributed to several potential mechanisms. Children with visible ocular misalignment
+may face stigmatization, bullying, or reduced self-esteem, contributing to anxiety and depression.19,20 Shared neural
+pathways between the visual and cognitive systems may predispose individuals with strabismus to neurobehavioral
+2338 https://doi.org/10.2147/OPTH.S530788 C l i n i c a l O p h t h a l m o l o g y 2 0 2 5 : 1 9
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+Figure 4 Funnel plot assessing publication bias in the meta-analysis, with each point representing an individual study’s effect size (log odds ratio) plotted against its standard error.
+disorders, such as ADHD.21,22 Strabismus is often associated with other developmental or neurological conditions, which
+may independently increase the risk of mental health disorders.9,23,24
+Healthcare Disparities and Mental Health Outcomes
+Healthcare disparities may influence both the recognition and management of mental health conditions among children
+with strabismus. Socioeconomic status, access to specialized ophthalmologic and psychiatric care, cultural attitudes
+toward mental illness, and disparities in healthcare infrastructure can all contribute to differential outcomes. Children
+from underserved or marginalized communities may experience delayed diagnoses or reduced access to mental health
+support, amplifying the psychological burden of strabismus. These disparities may also lead to underreporting of mental
+health disorders in certain populations, which could partly explain the observed heterogeneity across studies. Future
+research should account for these contextual variables and explore how health systems and policies can be optimized to
+ensure equitable care for all children with strabismus.
+Clinical Implications
+1. Comprehensive mental health screening: Mental health assessments should be integrated into the routine care of
+children and adolescents diagnosed with strabismus. Special focus should be given to conditions such as ADHD
+and anxiety, which had the strongest associations in the analyses. Screening tools should be age-appropriate and
+consider potential comorbidities commonly observed in children with strabismus.
+2. Tailored interventions by strabismus type: Exotropia: Given its strong association with anxiety and ADHD, patients
+with exotropia may benefit from targeted psychological interventions such as cognitive-behavioral therapy for
+anxiety and behavior management strategies for ADHD. Esotropia: Interventions for children with esotropia may
+Clinical Ophthalmology 2025:19 https://doi.org/10.2147/OPTH.S530788 2 3 3 9
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+focus on bolstering self-esteem and addressing mood-related challenges through counseling or peer support
+programs. Other Strabismus: A more generalized approach combining psychological and social interventions
+may be suitable for this group.
+3. Multidisciplinary care teams: Healthcare systems should develop multidisciplinary care pathways involving
+ophthalmologists, pediatricians, psychologists, and social workers to ensure holistic management of children
+with strabismus. These teams could facilitate early diagnosis and intervention and help prevent the progression
+of mental health challenges.
+4. Parental education and support: Parents should be educated about the increased risk of mental health disorders in
+children with strabismus, including signs to monitor and seek help. Family centered approaches such as counseling
+or parent support groups could alleviate caregiver stress and improve the children’s psychosocial environments.
+5. School and community interventions: Collaborating with schools to reduce the stigma associated with strabismus
+could improve the social experiences of affected children. Peer education programs and anti-bullying campaigns
+could foster a more inclusive environment and reduce the psychosocial burden of strabismus.
+6. Early surgical or non-surgical interventions: Prompt correction of strabismus using surgical or orthoptic methods
+may reduce psychosocial challenges and improve quality of life. Posttreatment follow-up should include assess-
+ments of both visual and mental health outcomes.
+7. Cultural considerations in care: In societies where physical appearances heavily influence social interactions, the
+psychosocial impact of strabismus may be amplified. Therefore, culturally sensitive care plans should address these
+issues.
+8. Digital and telehealth solutions: Telehealth platforms provide accessible mental health support, particularly to
+families in rural or underserved areas. Digital tools, such as mobile applications for anxiety management or
+attention-training programs, could complement traditional interventions.
+9. Policy implications: Health policies should prioritize funding for integrated care programs that combine strabismus
+treatment with mental health services. Advocacy efforts should emphasize the long-term cost savings associated
+with early interventions that address both ophthalmological and psychological needs.
+Strengths
+The comprehensive inclusion of recent and diverse studies increased the generalizability of the findings. The subgroup
+and sensitivity analyses enhanced the robustness of the results. The examination of various mental health outcomes
+provided a nuanced understanding of these associations.
+Limitations
+The high heterogeneity (I² = 99.7%) reflected variability in the included study designs, populations, and outcome
+definitions. The cross-sectional design of several studies limited causal inferences.
+A potential publication bias, as studies that found no association between strabismus and mental health disorders may
+have been underreported or unpublished, leading to their underrepresentation in the analysis, while smaller studies with
+positive findings may have been overrepresented. The unspecified subgroups in some studies may not have revealed the
+true effect sizes of exotropia and esotropia on mental health disorders.
+Future Research Directions
+1. Longitudinal studies: Prospective studies are needed to establish causal pathways between strabismus and mental
+health disorders.
+2. Mechanistic insights: Research exploring the biological and psychosocial mechanisms underlying this association
+could guide targeted interventions.
+3. Effects of interventions: Studies evaluating the impact of early strabismus correction on mental health outcomes
+would provide valuable clinical insights.
+4. Subgroup analyses: Future studies should explore the differences in mental health outcomes according to age, sex,
+chronicity, etiology, and strabismus severity.
+2340 https://doi.org/10.2147/OPTH.S530788 C l i n i c a l O p h t h a l m o l o g y 2 0 2 5 : 1 9
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+Conclusion
+This meta-analysis underscores the significant association between strabismus and mental health disorders in children
+and adolescents. These findings highlight the importance of integrating mental health considerations into strabismus
+management, particularly for high-risk subgroups. Early identification and intervention could improve the overall well-
+being of affected individuals. Holistic and multidisciplinary care approaches are warranted for these children and
+adolescents. However, owing to the potential for publication bias, the results should be interpreted judiciously.
+Funding
+This research did not receive any specific grants from funding agencies in the public or commercial sectors.
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+1. Friedman DS, Repka MX, Katz J, et al. Prevalence of amblyopia and strabismus in white and African American children aged 6 through 71 months:
+the Baltimore pediatric eye disease study. Ophthalmology. 2009;116(11):2128–34.e1. doi:10.1016/j.ophtha.2009.06.010
+2. McKean-Cowdin R, Cotter SA, Tarczy-Hornoch K, et al. Prevalence of amblyopia or strabismus in Asian and non-Hispanic white preschool
+children: multi-ethnic pediatric eye disease study. Ophthalmology. 2013;120(10):2117–2124. doi:10.1016/j.ophtha.2013.03.001
+3. Repka MX, Lum F, Burugapalli B. Strabismus, strabismus surgery, and reoperation rate in the United States: analysis from the IRIS registry.
+Ophthalmology. 2018;125(10):1646–1653. doi:10.1016/j.ophtha.2018.04.024
+4. Multi-ethnic Pediatric Eye Disease Study Group. Prevalence of amblyopia and strabismus in African American and Hispanic children ages 6 to 72
+months: the multi-ethnic pediatric eye disease study. Ophthalmology. 2008;115(7):1229–1236.e1. doi:10.1016/j.ophtha.2007.10.036
+5. Sprunger DT, Lambert SR, Hercinovic A, et al. Esotropia and exotropia preferred practice pattern®. Ophthalmology. 2023;130(3):P179–P221.
+doi:10.1016/j.ophtha.2022.11.002
+6. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372.
+doi:10.1136/bmj.n71
+7. Wells GA, Shea B, O’Connell D, et al. The Newcastle-Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses.
+Ottawa Hospital Research Institute; 2014. Available from: http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp. Accessed July 11, 2025.
+8. Schwarzer G, Chemaitelly H, Rücker G. Meta: general package for meta-analysis. Version 4.4-1. R package; 2023. Available from: https://cran.
+r-project.org/package=meta. Accessed July 11, 2025.
+9. Mohney BG, McKenzie JA, Capo JA, Nusz KJ, Mrazek D, Diehl NN. Mental illness in young adults who had strabismus as children. Pediatrics.
+2008;122(5):1033–1038. doi:10.1542/peds.2007-3484
+10. McKenzie JA, Capo JA, Nusz KJ, et al. Prevalence and sex differences of psychiatric disorders in young adults who had intermittent exotropia as
+children. Arch Ophthalmol. 2009;127(6):743–747. doi:10.1001/archophthalmol.2009.68
+11. Cumurcu T, Cumurcu BE, Ozcan O, et al. Social phobia and other psychiatric problems in children with strabismus. Can J Ophthalmol. 2011;46
+(3):267–270. doi:10.1016/j.jcjo.2011.05.017
+12. Olson JH, Louwagie CR, Diehl NN, Mohney BG. Congenital esotropia and the risk of mental illness by early adulthood. Ophthalmology. 2012;119
+(1):145–149. doi:10.1016/j.ophtha.2011.06.035
+13. Kilgore KP, Barraza RA, Hodge DO, McKenzie JA, Mohney BG. Surgical correction of childhood intermittent exotropia and the risk of developing
+mental illness. Am J Ophthalmol. 2014;158(4):788–792.e1. doi:10.1016/j.ajo.2014.06.008
+14. Merdler I, Giladi M, Sorkin N, et al. Strabismus and mental disorders among Israeli adolescents. J Am Assoc Pediatr Ophthalmol Strabismus.
+2017;21(3):185–189. doi:10.1016/j.jaapos.2017.04.001
+15. Tsai CY, Su CC, Liu YL, Tsai IJ, Tsai TH. High risk for attention-deficit hyperactive disorder in children with strabismus: a nationwide cohort study
+from the national health insurance research database. Life. 2021;11(11):1139. doi:10.3390/life11111139
+16. Choi DD, Park KA, Yang M, Kim S, Roh JH, Oh SY. Association of mental disorders and strabismus among South Korean children and
+adolescents: a nationwide population-based study. Graefes Arch Clin Exp Ophthalmol. 2022;260(4):1353–1365. doi:10.1007/s00417-021-05325-7
+17. Lee YH, Repka MX, Borlik MF, et al. Association of strabismus with mood disorders, schizophrenia, and anxiety disorders among children. JAMA
+Ophthalmol. 2022;140(4):373–381. doi:10.1001/jamaophthalmol.2022.0137
+18. Li D, Chan VF, Virgili G, et al. Impact of vision impairment and ocular morbidity and their treatment on depression and anxiety in children:
+a systematic review. Ophthalmology. 2024;131(2):188–207. doi:10.1016/j.ophtha.2023.09.005
+19. Huang TL, Pineles SL. Strabismus and pediatric psychiatric illness: a literature review. Children. 2023;10(4):607. doi:10.3390/children10040607
+20. Green-Simms AE, Mohney BG. Epidemiology of pediatric strabismus. In: Pediatric Ophthalmology, Neuro-Ophthalmology, Genetics. Berlin/
+Heidelberg, Germany: Springer; 2010. doi:10.1007/978-3-540-85851-5_1
+21. Arnsten AFT. The emerging neurobiology of attention deficit hyperactivity disorder: the key role of the prefrontal association cortex. J Pediatr.
+2009;154(5):I–S43. doi:10.1016/j.jpeds.2009.01.018
+22. Solanto MV. Attention-deficit/hyperactivity disorder: clinical features. In: Solanto MV, Arnsten AFT, Castellanos FX, editors. Stimulant Drugs and
+ADHD: Basic and Clinical Neuroscience. New York: Oxford University Press; 2001:3–30.
+23. Menon V, Saha J, Tandon R, Mehta M, Khokhar S. Study of the psychosocial aspects of strabismus. J Pediatr Ophthalmol Strabismus. 2002;39
+(4):203–208. doi:10.3928/0191-3913-20020701-07
+24. Donahue SP. Clinical practice. Pediatric strabismus. N Engl J Med. 2007;356(10):1040–1047. doi:10.1056/NEJMcp051888
+Clinical Ophthalmology 2025:19 https://doi.org/10.2147/OPTH.S530788 2 3 4 1
+Powered by TCPDF (www.tcpdf.org)
+
+--- PAGE BREAK ---
+
+Krungkraipetch et al
+Clinical Ophthalmology
+Publish your work in this journal
+Clinical Ophthalmology is an international, peer-reviewed journal covering all subspecialties within ophthalmology. Key topics include: Optometry;
+Visual science; Pharmacology and drug therapy in eye diseases; Basic Sciences; Primary and Secondary eye care; Patient Safety and Quality of Care
+Improvements. This journal is indexed on PubMed Central and CAS, and is the official journal of The Society of Clinical Ophthalmology (SCO). The
+manuscript management system is completely online and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.
+dovepress.com/testimonials.php to read real quotes from published authors.
+Submit your manuscript here: https://www.dovepress.com/clinical-ophthalmology-journal
+2342 Clinical Ophthalmology 2025:19
+Powered by TCPDF (www.tcpdf.org)

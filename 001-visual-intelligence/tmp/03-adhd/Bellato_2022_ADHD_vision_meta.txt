@@ -1,0 +1,1021 @@
+Molecular Psychiatry
+www.nature.com/mp
+SYSTEMATIC REVIEW OPEN
+Association between ADHD and vision problems. A systematic
+review and meta-analysis
+Alessio Bellato1,2,17,JohnPerna 3,4,17,PreethiS. Ganapathy 5, MarcoSolmi 6,7,8,9,10,11, AndreaZampieri12,
+✉
+Samuele Cortese10,13,14,15,16,18 and Stephen V.Faraone 3,18
+©TheAuthor(s)2022
+AIM:Toconductthefirstsystematicreviewandmeta-analysisassessingwhetherattention-deficit/hyperactivitydisorder(ADHD)is
+associated withdisorders of theeye,and/oraltered measures of visual function.
+METHOD: Based ona pre-registeredprotocol (PROSPERO: CRD42021256352), wesearchedPubMed, WebofKnowledge/Science,
+OvidMedline,EmbaseandAPAPsycINFOupto16thNovember2021,withnolanguage/typeofdocumentrestrictions.Weincluded
+observational studies reportingat leastone measure ofvision inpeople ofany agemeetingDSM/ICD criteria for ADHD and in
+peoplewithoutADHD;ortheprevalenceofADHDinpeoplewithandwithoutvisiondisorders.Studyqualitywasassessedwiththe
+Appraisal tool forCross-Sectional Studies(AXIS). Random effectsmeta-analyses wereused fordata synthesis.
+RESULTS:Weincluded42studiesinthenarrativesynthesisand35studiesinthemeta-analyses(3,250,905participants).Wefound
+meta-analytic evidence ofincreased risk ofastigmatism (OR=1.79[CI:1.50, 2.14]),hyperopia andhypermetropia (OR=1.79[CI:
+1.66,1.94]),strabismus(OR=1.93[CI:1.75,2.12]),unspecifiedvisionproblems(OR=1.94[CI:1.38,2.73])andreducednearpointof
+convergence(OR=5.02[CI:1.78,14.11]);increasedlag(Hedge’sg=0.63[CI:0.30,0.96])andvariability(Hedge’sg=0.40[CI:0.17,
+0.64])oftheaccommodativeresponse;andincreasedself-reportedvisionproblems(Hedge’sg=0.63[CI:0.44,0.82])inpeoplewith
+ADHD compared to thosewithout ADHD (withno significantheterogeneity). Wealso found meta-analyticevidence ofno
+differencesbetweenpeoplewithandwithoutADHDonretinalnervefiberlayerthickness(Hedge’sg=−0.19[CI:−0.41,0.02])and
+refractive error (Hedge’sg=0.08[CI: −0.26,0.42]) (withno significantheterogeneity).
+DISCUSSION: ADHD isassociated withsome self-reported and objectively ascertained functional visionproblems, butnot with
+structuralalterationsoftheeye.Furtherstudiesshouldclarifythecausalrelationship,ifany,betweenADHDandproblemsofvision.
+TRIAL REGISTRATION: PROSPERO registration: CRD42021256352.
+Molecular Psychiatry(2023) 28:410–422;https://doi.org/10.1038/s41380-022-01699-0
+INTRODUCTION toxoplasmosis) [5, 6], and given the established evidence on the
+Attention-deficithyperactivitydisorder(ADHD)isaneurodevelop- involvementoftheseenvironmentalriskfactorsinADHDetiology
+mental disorder affecting 5% of children and 3% of adults and [7],alteredneurodevelopmentmayconcurrentlyleadtotheonset
+characterized by developmentally inappropriate inattention and/ of vision disorders and symptoms of ADHD. Moreover, structures
+or hyperactivity/impulsiveness [1–3]. ADHD is associated with of the eye develop from the same embryological tissue as the
+negative life outcomes such as low academic and professional brain [7, 8] and ADHD is a neurodevelopmental disorder
+achievements, increased risk of substance use and psychiatric presenting with structural brain abnormalities [9]. Therefore, the
+comorbidities [1]. development of ocular structures (including major structures of
+Consideringthatvisionproblems,includingvisionloss,blurred the eye and neural connections with brain structures involved in
+visionandstrabismus,areinfluencedbyenvironmentalbiological visual information processing and perception) might be affected
+factors(e.g.,pre-termbirth[4]and/orsystemicinfections suchas by the same processes that cause ADHD [7, 8, 10]. Although the
+1SchoolofPsychology,UniversityofNottinghamMalaysia,Semenyih,Malaysia.2InstituteofPsychiatry,PsychologyandNeuroscience,King’sCollegeLondon,London,UK.
+3DepartmentofPsychiatryandBehavioralSciences,SUNYUpstateMedicalUniversity,Syracuse,NY,USA.4DepartmentofPsychiatryandBehavioralSciences,EmoryUniversity
+SchoolofMedicine,Atlanta,GA,USA.5DepartmentofOphthalmology&VisualSciences, SUNYUpstateMedicalUniversity,Syracuse,NY,USA.6DepartmentofPsychiatry,
+University of Ottawa, Ottawa, ON, Canada. 7Department of Mental Health, The Ottawa Hospital, Ottawa, ON, Canada. 8Ottawa Hospital Research Institute (OHRI) Clinical
+EpidemiologyProgram,UniversityofOttawa,Ottawa,ON,Canada.9SchoolofEpidemiologyandPublicHealth,FacultyofMedicine,UniversityofOttawa,Ottawa,ON,Canada.
+10CentreforInnovationinMentalHealth,SchoolofPsychology,FacultyofEnvironmentalandLifeSciences,UniversityofSouthampton,Southampton,UK.11Departmentof
+Child and Adolescent Psychiatry, Charité Universitätsmedizin, Berlin, Germany. 12Vittorio Emanuele III Hospital, Montecchio Maggiore, Vicenza, Italy. 13Solent NHS Trust,
+Southampton,UK.14ClinicalandExperimentalSciences(CNSandPsychiatry),FacultyofMedicine,UniversityofSouthampton,Southampton,UK.15HassenfeldChildren’sHospital
+atNYULangone,NewYorkUniversityChildStudyCenter,NewYork,NY,USA.16DivisionofPsychiatryandAppliedPsychology,SchoolofMedicine,UniversityofNottingham,
+Nottingham,UK.17Theseauthorscontributedequally:AlessioBellato,JohnPerna.18Theseauthorsjointlysupervisedthiswork:SamueleCortese,StephenV.Faraone.
+✉
+email:sfaraone@childpsychresearch.org
+Received:22February2022Revised:23June2022Accepted:1July2022
+Publishedonline:5August2022
+:,;)(0987654321
+A.Bellatoetal.
+411
+exact etiology of ADHD is not well understood [11, 12], the resolvedthroughdiscussion.Thefulltextofeacharticlemarkedas
+mechanismsoffirstlinemedicationstotreatADHD,inconjunction eligible for inclusion was assessed for final inclusion. Data were
+withmolecularandneuroimagingstudies,implicateserotonergic, extracted from eligible studies using standardized forms by two
+noradrenergic and dopaminergic neural pathways in its patho- authors(ABandJP).Extractedinformationincluded:studydesign,
+physiology [13–15]. Of note, dopaminergic neurons in the retina sample characteristics (size, age, sex, socio-demographic back-
+play a key role in color perception, contrast sensitivity, light ground), clinical characteristics (ascertainment of clinical diag-
+adaptation, and spatial and temporal processing [16, 17], and nosis, presence of co-occurring conditions), outcome measures
+altered dopamine transmission characterizes ADHD (but also (type of measure, unit measure, method and tool utilized, mean
+neurological and neurodegenerative conditions [18]). Therefore, andstandarddeviation,SD).Datanotavailablefrompublications
+we hypothesized the presence of an association between ADHD were systematically requested from corresponding, first or senior
+andalterationsinfunctionalorperceptualdomainsofvision(e.g., authors via e-mail. Publications for which data were initially not
+color visionand contrast sensitivity). available and were received by the authors are indicated in
+Thereismeta-analyticevidenceofstructuralabnormalitiesofthe Table1.
+eye itself in ADHD, together with altered oculomotor control. Li
+etal.[19]foundreducedretinalnervefiberlayer(RNFL)inpeople Outcomes andassessment ofstudy quality
+withADHD;however,theirsystematicsearchresultedinonlyfour Forstudies thatreported meanand SD ofany outcomemeasure
+eligible studies to be included in the meta-analyses. Maron et al. withinthescopeofthereview,inpeoplewithandwithoutADHD,
+[20] recently confirmed the presence of oculomotor disturbances the standardized mean difference (Hedge’s g) and its variance
+in people with ADHD compared to neurotypical individuals, were calculated [38]. The natural logarithm of the odds ratio
+especially for saccade inhibition and control, and visuo-spatial (LogOR)anditsvariancewerecalculatedforstudiesthatreported
+memory; considering that their systematic review and meta- thenumberofpeoplewithandwithoutacertainvisiondisorder/
+analysiswaspublishedin2021,wedecidedtonotinclude,inour problem in people with ADHD and without ADHD, or the
+study, any study investigating eye movements in ADHD. There is prevalence of ADHD (e.g., number of patients) in people with
+also evidence of increased prevalence of vision problems [21–23] and without vision problems/disorders [38]. Study quality was
+and disorders of vision such as strabismus [24–26], hyperopia ratedbytwoauthors(ABandJP)withtheAppraisaltoolforCross-
+[24, 27, 28], astigmatism [25, 26, 28], altered contrast sensitivity Sectional Studies (AXIS[39])(see Supplementary 5).
+[29,30]andcolorvision[31–36]inADHD.However,asoftoday,no
+meta-analysishasbeenconductedtosystematicallyinvestigatethe Datasynthesis and analysis
+prevalenceofvisiondisordersinADHD,orwhetherADHDismore Anarrativesynthesiswasperformedforallstudiesincludedinthe
+prevalentinpeoplewithvisionproblems. systematicreview.Meta-analyseswereconductedinR4.1.0[40]to
+To sum up, the current study aimed to: (a) investigate if the estimate the pooled effect size across studies for each outcome,
+prevalence of ADHD differed in people with and without vision whenever at least two studies reporting on the same outcome
+problem and, vice versa, if the prevalence of vision problems/ were available. Random effects meta-analytic models were fitted
+conditions differed in people with and without ADHD; and (b) tothedatainmetafor[41]witheffectsizesnestedwithinstudies
+investigate differences in objective measures of vision (e.g., for those that reported multiple effect sizes for the same
+structural ocular measures, visual acuity, contrast sensitivity and component to account for non-independence of data (multi-
+color vision) betweenpeople withand without ADHD. variate models). The Restricted Maximum-Likelihood (REML)
+estimator was used with Knapp-Hartung confidence interval
+adjustment [42]. The Cochran’s Q test was used to investigate
+METHODS the presence of significant heterogeneity [43]. Publication (small
+This systematic review and meta-analysis followed the 2020 study) bias was assessed visually using funnel plots and
+PRISMA (Preferred Reporting Items for Systematic Reviews and quantitatively with the Egger’s test [44], whenever at least 10
+Meta-Analyses) guidelines [37]. The PRISMA Checklist is reported effect sizes were included in the meta-analysis, as suggested by
+in Supplementary 1 and the protocol was pre-registered on Borestein et al. [45]. For multivariate meta-analytic models, the
+PROSPERO (CRD42021256352). rankcorrelationtestforfunnelplotasymmetrywasused[46].Trim
+and fill analyses were performed to identify any potentially
+Searchstrategy missing studies in funnel plots, due to publication bias [47].
+WesystematicallysearchedPubmed,WebofKnowledge/Science, Supplementary 3 reports the amendments to the original
+Ovid Medline, Embase and APA PsycInfo until 16th November protocol, withreasons for thechanges.
+2021, with no language/type of document limits. The search
+strategy/syntax includedkeywordsassociated with(a)ADHDand
+(b)vision (additionaldetails inSupplementary 2). RESULTS
+Out of 15,456 de-duplicated references initially retrieved, we
+Selection criteria screened 65 potentially eligible full texts, of which 28 were
+Studies were considered eligible for inclusion if they met the excluded (reasons for exclusion are in Supplementary 4). Thirty-
+followingcriteria:(1)original,observationalstudies(casestudiesand seven studies met inclusion criteria and were included in the
+previous systematic or narrative reviews were not included, but systematic review, together with six additional studies identified
+reference lists were searched to identify any additional eligible from references of retrieved articles (4,009,538 participants in
+studies);(2)includingpeopleofanyagemeetingDSMIII,III-R,IV(TR), total) (Fig. 1, Table 1). All these 43 studies were included in the
+5 or ICD 9–10 diagnostic criteria for ADHD; and (3) comparing at narrative synthesis and 35 studies (392,423 participants with
+leastonemeasureofvisioninpeoplewithvs.thosewithoutADHD. ADHD; 2,858,482 without ADHD) were included in the meta-
+Moreover, we also included studies reporting the prevalence of analyses(Figs.1,2,3).Thefollowingsectionsreporttheresultsof
+ADHDinpeoplewithandwithoutanydisordersofvision. the narrative synthesis and of the meta-analyses (summarized in
+Table2), groupedby type ofstudy/outcome.
+Dataselection, extraction, andcoding
+Titles and abstracts of studies retrieved from the searches were ADHD inpeople withandwithout vision problems
+screened independently by two authors (AB and JP) to identify Three studies investigated ADHD in patients with strabismus
+those that potentially met inclusion criteria; disagreements were [23, 48, 49], two in patients with unspecified vision problems
+MolecularPsychiatry(2023)28:410–422
+.DHDAninoisivgnitagitsevniseidutsfoscitsiretcarahC
+.1elbaT
+sgnidnfiniaM
+)s(erusaeM
+egatslatnempoleveD
+eziselpmaS
+.fer,ydutS
+-ondnaDHDAneewtebyhpargomotnisecnereffidoN
+dnaaiporepyh,aipoym;ssenkcihtralucaM
+stnecselodadnanerdlihC
+-on55;DHDA55
+]72[.latehenbabA
+.DHDAhtiwnerdlihcfo%9.14niCPNlamronbA.DHDA
+laenroc;ecnegrevnoctniopraen;aiportemrepyh
+DHDA
+ytiucalausiv;noitcarfercigelpolcyc;yhpargopot
+stneitapfo%61nidnuoferewsmelborpeyecfiicepsnU
+smelborpeyecfiicepsnU
+stnecselodadnanerdlihC
+;DHDA266,852
+]15[.latevotamkA
+.tuohtiwesohtfo%6.8.svDHDAhtiw
+DHDA-on859,723,2
+DHDAneewtebsecnereffidtnacfiingisyllacitsitatsoN
+reyalrebfievrenlaniter;emulovdnassenkcihtralucaM
+stnecselodadnanerdlihC
+-on34;DHDA23
+]16[.latenalsA
+.DHDA-ondna
+ssenkciht
+DHDA
+yltnacfiingiserewhtgnellaixadnassenkcihtlaenroC
+,suidarerutavruclaenroc;)eyeehtfo(htgnellaixA
+stnecselodadnanerdlihC
+-on03;DHDA03
+]45[zidliyyAdnazidliyyA
+sawsuidarerutavruclaenrocelihw,DHDAnirehgih
+laniter;ssenkcihtralucam;ssenkcihtdnaretemaid
+DHDA
+LFNRnoecnereffidtnacfiingisoN.rewolyltnacfiingis
+ssenkcihtreyalrebfievren
+dnaretemaidlaenroc,ssenkcihtralucam,ssenkciht
+.stnemerusaemhtpedrebmahcroiretna .DHDAnisessenkcihtralucamdesaercnI
+rorreevitcarfer;ssenkcihtralucam;erusserpralucoartnI
+stnecselodadnanerdlihC
+-on31;DHDA21
+]95[.lateeaB
+DHDA
+,DHDAninoitanimircsidrolocniseitlucfifiddesaercnI
+noitanimircsidroloC
+stnecselodadnanerdlihC
+-on31;DHDA41
+]13[.lateikswehcsanaB
+.sixawolley–eulbehtgnolayllaicepse
+DHDA
+-DHDAhtiwstneitapniytivitisnestsartnocdecudeR
+ytivitisnestsartnoC
+stnecselodadnanerdlihC
+-on65;DHDA45
+]76[.latesigtraB
+neewtebsecnereffidon(DHDA-on.svdenibmoC
+DHDA
+.)DHDA-ondnaevitnettani-DHDA
+rolochtiwstneitapfo%63.0nidetropersawDHDA
+ycneicfiednoisivrolochtiwelpoepniDHDA
+stludagnuoY
+083,892;DHDA4857
+]12[.lateregreB
+.tuohtiwesohtfo%30.0dnaycneicfiednoisiv
+DHDA-on
+.DHDAnissenkcihtLCGdecudeR
+;ssenkcihtevrencitpo;ssenkcihtreyalllecnoilgnaG
+stnecselodadnanerdlihC
+-on13;DHDA13
+]55[.laterudoB
+ssenkcihtreyalrebfievrenlaniter
+DHDA
+DHDAneewtebsecnereffidtnacfiingisyllacitsitatsoN
+tsartnocwoldnahgihtadlohserhtnoisufrekcilF
+stnecselodadnanerdlihC
+-on21;DHDA21
+]86[.latenworB
+.DHDA-ondna
+DHDA
+DHDAneewtebsecnereffidtnacfiingisyllacitsitatsoN
+niagtsartnoC
+stludA
+-on02;DHDA02
+]56[.latelbuB
+.DHDA-ondna
+DHDA
+htiwstludaniesiondnuorgkcablaniterdesaercnI
+esiondnuorgkcablaniteR
+stludA
+-on02;DHDA02
+]46[.latelbuB
+.DHDA-onotderapmocDHDA
+DHDA
+gnivahfoksirsselhtiwdetaicossadnuofsawDHDA
+ytiucalausiV
+stnecselodadnanerdlihC
+-on981;DHDA65
+]27[.lateolraCeD
+.ytiucalausivesrowgnivahdnasumgatsyn
+DHDA
+noisivhtiwnerdlihcgnomatnelaverperomsawDHDA
+smelborpnoisivhtiwelpoepniDHDA
+stnecselodadnanerdlihC
+370,47;DHDA710,1
+]22[.lateolraCeD
+.noisivlamron.svsmelborp
+DHDA-on
+.DHDAniytivitisnestsartnocdecudeR
+ytivitisnestsartnoC
+stnecselodadnanerdlihC
+-on03;DHDA03
+]92[.latezemnoD
+DHDA
+.DHDAniCPNdecudeR
+;noitadommoccafoedutilpma;ytiucalausiV
+stnecselodadnanerdlihC
+-on66;DHDA65
+]35[.latenaibaF
+:edutilpmalanoisuf;ycneicfifusniecnegrevnoc
+DHDA
+:noitcarfer:ecnegrevnoctniopraen:airohporeteh
+ytiucaoerets
+.DHDAnismotpmyslausivdetroper-flesdesaercnI
+smotpmyslausiV
+stnecselodadnanerdlihC
+-on91;DHDA42
+]47[.laterarraF
+DHDA
+dnaevrencitpoehtfosegnahclacigolohpromeltbuS
+;ecnatsidlaihtnacrenni;)eyeehtfo(htgnellaixA
+stnecselodadnanerdlihC
+-on05;DHDA24
+]42[.latednulnörG
+.DHDAnidnuoferewerutalucsavlaniter
+;msitamgitsa;aiportemosina;rorreevitcarfer
+DHDA
+;aiportemrepyh/aiporepyh;ytiucalausiv;airohporeteh noisiv;ytiucaoerets;ecnegrevnoctniopraen;aipoym xedni;csiddnapuccitpo;mirlaniteroruen;smelborp
+;sudnufcitpoehtfosnievrofytisoutrotfo
+DHDAneewtebsecnereffidtnacfiingisyllacitsitatsoN
+erusserpralucoartnI
+stnecselodadnanerdlihC
+-on63;DHDA04
+]06[.latezemnevuG
+.DHDA-ondna
+DHDA
+.tnardauqlasanni,DHDAnissenkcihtLFNRrewoL
+reyalrebfievrenlaniter;emulovdnassenkcihtralucaM
+stnecselodadnanerdlihC
+-on54;DHDA54
+]26[.laterenügreH
+ssenkciht
+DHDA
+A.Bellatoetal.
+412
+MolecularPsychiatry(2023)28:410–422
+deunitnoc
+.1elbaT
+sgnidnfiniaM
+)s(erusaeM
+egatslatnempoleveD
+eziselpmaS
+.fer,ydutS
+,aiportemrepyh,aipoylbmafoecnelaverprehgiH
+dnaaiporepyh;aiportoreteh;msitamgitsa;aipoylbmA
+stnecselodadnanerdlihC
+;DHDA803,611
+]52[.lateoH
+.DHDAniaiportoretehdnamsitamgitsa
+aiportemrepyh
+DHDA-on803,611
+,ssenkcihtLFNRlabolg,POInisecnereffidtnacfiingisoN
+;erusserpralucoartni;ssenkcihtreyalllecnoilgnaG
+stnecselodadnanerdlihC
+-on44;DHDA85
+]65[zisigyaKdnakişI
+.ssenkcihtLCGdna,ssenkcihtralucamlartnec
+ssenkcihtreyalrebfievrenlaniter;ssenkcihtralucam
+DHDA
+.DHDAniytiucaoeretsrewoL
+;aipoym;aiportemrepyh/aiporepyh;msitamgitsA
+stnecselodadnanerdlihC
+-on84;DHDA32
+]82[.lateacaraK
+ytiucaoerets;elgnaecnegreviddnaecnegrevnoc
+DHDA
+ni,derdnaeulbgnitanimircsidniseitlucfifiddesaercnI
+lausiV;ytivitisnestsartnoc;noitanimircsidroloC
+stludA
+-on03;DHDA03
+]23[.latemiK
+nisecnereffidoN.DHDA-on.svDHDAhtiwselamef
+smotpmys
+DHDA
+.ytivitisnestsartnoc
+ni,derdnaeulbgnitanimircsidniseitlucfifiddesaercnI
+noitanimircsidroloC
+stludA
+-on03;DHDA03
+]33[.latemiK
+nisecnereffidoN.DHDA-on.svDHDAhtiwselamef
+DHDA
+.ytivitisnestsartnoc
+.DHDAnismotpmyslausivdetroper-flesdesaercnI
+smotpmyslausiv;noitanimircsidroloC
+stludA
+-on03;DHDA03
+]53[.latemiK
+DHDA
+lacigolomlahthponisecnereffidtnacfiingisoN
+ytiucalausiv;ssendnilbroloc;noitcerroclacirehpS
+stnecselodadnanerdlihC
+-on51;DHDA61
+]43[.latemiK
+.noitanimircsidrolocroserusaem
+DHDA
+.DHDAnismotpmyslausivdetroper-flesdesaercnI
+)aibohpotohp(smotpmyslausiV
+stludA
+-on362;DHDA941
+]25[agneljiBdnajiooK
+DHDA
+nisrorreevitcarferroytiucalausivnisecnereffidoN
+ytiucalausiv;rorreevitcarfeR
+stnecselodadnanerdlihC
+-on42;DHDA81
+]37[.latenitraM
+.noitacidemhtiwtnemevorpmitub,DHDA
+DHDA
+noisivhtiwelpoepniDHDAfoecnelaverpdesaercnI
+smelborpnoisivhtiwelpoepniDHDA
+stnecselodadnanerdlihC
+-ondnaDHDA(77659
+a]05[najiBdnaedirBcM
+.smelborp
+)DHDA
+htiwelpoepniDHDAfoecnelaverpdesaercnI
+sumsibartshtiwelpoepniDHDA
+stnecselodadnanerdlihC
+340,166;DHDA8951
+]84[.latereldreM
+.sumsibartsdetcerroc
+DHDA-on
+htiwelpoepniDHDAfoecnelaverpdesaercnI
+sumsibartshtiwelpoepniDHDA
+stnecselodadnanerdlihC
+-on704;DHDA704
+]94[.lateyenhoM
+.aiportoxe
+DHDA
+noitadommoccafoytilibairavdnasgaldesaercnI
+;rorreevitcarfer;smotpmyslausiv;noitadommoccA
+stnecselodadnanerdlihC
+-on81;DHDA81
+]96[.lateodnodeR
+.DHDAni
+ytiucalausiv
+DHDA
+.DHDAninoitadommoccafosgaldesaercnI
+rorreevitcarfer;noitadommoccA
+stnecselodadnanerdlihC
+-on13;DHDA32
+]07[.lateodnodeR
+DHDA
+.DHDAninoitadommoccafosgaldesaercnI
+noitadommoccA
+stnecselodadnanerdlihC
+-on22;DHDA22
+]17[.lateodnodeR
+DHDA
+dna,msitamgitsa,aiporepyhfoecnelaverpdesaercnI
+sumsibarts;aipoym;aiporepyh;msitamgitsA
+stnecselodadnanerdlihC
+-on828,21;DHDA066
+]62[.latetlemieR
+.DHDAni)aipoymtontub(sumsibarts
+DHDA
+,DHDAninoitanimircsidrolocniseitlucfifiddesaercnI
+noitanimircsidroloC
+stnecselodadnanerdlihC
+-on41;DHDA41
+]66[.laterensseoR
+.sixawolley–eulbehtgnolayllaicepse
+DHDA
+on,DHDAnissenkcihtralucamlartnecrewoL
+;ssenkcihtreyalrebfievrenlaniter;ssenkcihtralucaM
+stnecselodadnanerdlihC
+-on32;DHDA32
+]75[.latenélliuG-zehcnáS
+.LFNRroCCGnisecnereffid
+ytiucalausiv;rorreevitcarfer
+DHDA
+htiwelpoepniDHDAfoecnelaverpdesaercnI
+aipoylbmahtiwnerdlihcniDHDA
+stnecselodadnanerdlihC
+862,72;DHDA7186
+]32[.lateuS
+.aipoylbma
+DHDA-on
+,ssenkcihtLFNR,ssenkcihtralucamlartnecrewoL
+;ssenkcihtreyalrebfievrenlaniter;ssenkcihtralucaM
+stludA
+-on62;DHDA62
+]85[kekseKdnalenuT
+retuognirralucamrenni,ssenkcihtreyalllecnoilgnag
+ssenkcihtreyalllecnoilgnag
+DHDA
+.DHDAnisessenkcihtgnirralucam
+,DHDAninoitanimircsidrolocniseitlucfifiddesaercnI
+noitanimircsidroloC
+stnecselodadnanerdlihC
+-on51;DHDA41
+nov-lebeU
+.sixawolley–eulbehtgnolayllaicepse
+DHDA
+]63[.latenebelsrednaS
+.DHDAnissenkcihtLFNRdnaytivitisnestsartnocrewoL
+evrenlaniter;ssenkcihtralucam;ytivitisnestsartnoC
+stnecselodadnanerdlihC
+-on73;DHDA73
+]03[.latesatAnaculU
+ssenkcihtxelpmocllecnoilgnag;ssenkcihtreyalrebfi
+DHDA
+.DHDAniesiondnuorgkcablaniterdesaercnI
+esiondnuorgkcablaniteR
+stludA
+-on12;DHDA02
+]36[.laterenreW
+DHDA
+.srohtuaehtmorfliam-eaivderehtag,repaplanigiroehtnielbaliavatonataDa
+A.Bellatoetal.
+413
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+414
+Fig.1 PRISMAflowchart.Graphicalrepresentationofnumberofpapersretrieved,screenedandincludedinthenarrativereviewsandmeta-
+analyses.From:Pageetal.[37].
+Fig. 2 Forest plot of meta-analytic results using logOR as effect estimate. Visual representation of pooled odds ratios (logOR) for each
+meta-analysis on studies that reported number of people with and without a certain vision disorder/problem in people with ADHD and
+withoutADHD,orthenumberofpatientswithADHDinpeoplewithandwithoutvisionproblems/disorders(averagestudyqualityforeach
+meta-analysisisreportedinthecentralpanel).
+[22,50]andoneinpatientswithColorVisionDeficiency[21].Four increasedprevalenceofADHDinpeoplewithvisionproblems[50]
+studies [21–23, 49] were included in the meta-analysis (Supple- andinpeoplewithcorrectedstrabismus[48]comparedwiththose
+mentary 6). Because the pooled odds ratio was not significant, without thesevision disorders.
+thesedatadonotsupporttheideathatADHDismoreprevalentin
+people with vision problems compared to those without vision Vision disorders inpeople withandwithout ADHD
+problems (logOR=1.0692, SE=0.4237, 95% CI=[−0.1071; Seven studies analyzing the prevalence of vision disorders in
+2.2456], t=2.5236, p=0.0651) (Table S2, Fig. S1); similar results people with and without ADHD were included in the meta-
+were found when conducting the meta-analysis only on studies analyses (see Supplementary 7). Among these, four investigated
+on children (Supplementary 6). Cross-study heterogeneity was astigmatism [24–26, 28], five hyperopia and hypermetropia
+significant (Q=109.7743; p<0.0001), no publication bias was [24–28], four myopia [24, 26–28], two reduced near point of
+detected (Kendall’s tau=0.2000, p=0.8167) (Fig. S2a) and trim convergence[24,27],threestrabismus[24–26]andthreegeneral
+and fill analyses estimated that no study was missing due to visionproblems [24,51,52].
+publication bias (Fig. S2b, c). The two studies included in the The meta-analyses showed a significantly increased risk of
+narrative synthesis only [48, 50] (for which we did not have astigmatism (logOR=0.5838, SE=0.0901, 95% CI=[0.4073;
+available data to compute effect sizes) reported a significantly 0.7603], z=6.4819, p<0.001; Table S3, Fig. S3), hyperopia and
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+415
+Fig. 3 Forest plot of meta-analytic results using Hedge’s g as effect estimate. Visual representation of pooled standardized mean
+differences(Hedge’sg)foreachmeta-analysisonstudiesthatcomparedoutcomemeasuresbetweenpeoplewithandwithoutADHD(average
+studyqualityforeachmeta-analysisisreportedinthecentralpanel).
+Table2. Summaryofmeta-analyticresultsforeachoutcome.
+Outcome Nof Effect Heterogeneity Averagequalityof
+studies studiesincludedb
+OR 95%CI p Q p
+ADHDa 4 2.91 0.90;9.45 0.0651 109.7743 <0.0001* 19.0/20
+Astigmatism 4 1.79 1.50;2.14 <0.001* 2.3058 0.5114 17.5/20
+Hyperopiaand 5 1.79 1.66;1.94 <0.001* 9.3200 0.0970 17.2/20
+Hypermetropia
+Myopia 4 0.88 0.35;2.25 0.7272 7.9475 0.0935 16.5/20
+Reducednearpointof 2 5.02 1.78;14.11 0.0022* 0.0029 0.9571 14.5/20
+convergence
+Strabismus 3 1.93 1.75;2.12 0.0002* 2.3025 0.5120 17.7/20
+Unspecifiedvisionproblems 3 1.94 1.38;2.73 0.0056 6.3402 0.1751 17.3/20
+g 95%CI p Q p
+Axiallength 2 0.1305 −1.0807;1.3417 0.8328 13.1137 0.0003* 14.5/20
+Ganglioncelllayerthickness 4 −0.3604 −1.0720;0.3511 0.2323 14.7801 0.0052* 16.3/20
+Intraocularpressure 3 0.0579 −0.6913;0.8071 0.8405 13.2278 0.0102* 15.7/20
+Macularthickness 8 −0.2219 −0.5910;0.1472 0.2181 49.3732 <0.0001* 16.1/20
+Macularvolume 2 0.1164 −0.1909;0.4236 0.4579 0.6813 0.4091 15.0/20
+Retinalnervefiberlayer 8 −0.1917 −0.4079;0.0244 0.0821 11.8039 0.1072 16.0/20
+thickness
+Colordiscrimination 6 0.5136 0.0351;0.9921 0.0366* 70.6120 <0.0001* 16.3/20
+difficulties
+Contrastsensitivity 4 −2.8191 −4.8895;−0.7486 0.0118* 359.8974 <0.0001* 16.3/20
+Accommodation,lag 3 0.6291 0.3003;0.9579 0.0044* 0.6230 0.9869 18.3/20
+Accommodation,variability 3 0.4922 0.2319;0.7524 0.0029* 7.0976 0.4188 18.3/20
+Refractiveerror 6 0.0815 −0.2555;0.4185 0.5853 9.4744 0.2204 16.3/20
+Visualacuity 4 0.1485 −0.7976;1.0947 0.6855 20.7980 0.0003* 15.8/20
+Self-reportedvision 4 0.6326 0.4420;0.8232 <0.0001* 16.3265 0.1767 15.8/20
+problems
+LogORnaturallogarithmofoddsratio,CIconfidenceinterval,gHedge’sg,QCochran’sQ.
+*Statisticallysignificantresult.
+aInpeoplewithandwithoutvisionproblems.
+bBasedonAXISscalescores.
+hypermetropia (logOR=0.5843, SE=0.0308, 95% CI=[0.5050; strabismus (logOR=0.6557, SE=0.0299, 95% CI=[0.5604;
+0.6636], t=18.9427, p<0.001; Table S4, Fig. S5), reduced near 0.7510], t=21.8953, p=0.0002; Table S7, Fig. S11) and unspeci-
+point of convergence (logOR=1.6129, SE=0.5276, 95% fied vision problems (logOR=0.6644, SE=0.1227, 95% CI=
+CI=[0.5788; 2.6469], z=3.0571, p=0.0022; Table S6, Fig. S9), [0.3237; 1.0050], t=5.4148, p=0.0056; Table S8, Fig. S13) in
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+416
+peoplewithADHDcomparedtowithoutADHD.Noincreasedrisk t=0.2147, p=0.8405; Table S11, Fig. S19), macular thickness
+of myopia (logOR=−0.1261, SE=0.3370, 95% CI=[−1.0619; (Hedge’s g=−0.2219, SE=0.1721, 95% CI=[−0.5910; 0.1472],
+0.8096], t=0.3743, p=0.7272; Table S5, Fig. S7) was found in t=−1.2895, p=0.2181; Table S12, Fig. S21), macular volume
+peoplewithADHDcomparedtothosewithout.Importantly,cross- (Hedge’s g=0.1164, SE=0.1568, 95% CI=[−0.1909; 0.4236],
+study heterogeneity was non-significant for each of these meta- z=0.7423, p=0.4579; Table S13, Fig. S23) or RNFL thickness
+analyses and publication bias was not detected (tests for (Hedge’s g=−0.1917, SE=0.1103, 95% CI=[−0.4079; 0.0244],
+heterogeneity and funnel plots are reported in z=−1.7386,p=0.0821;TableS14,Fig.S25).Ofnote,cross-study
+Supplementary 7a–f). When investigating unspecified vision heterogeneity was significant for all meta-analyses (except for
+problems in children and adolescents only (i.e., excluding [52], those on macular volume and RNFL thickness), but publication
+whichwasonadults),themeta-analyticmodelwasnon-significant biaswasnotdetected(testsforheterogeneityandfunnelplotsare
+(logOR=0.8288, SE=0.2440, 95% CI=[−0.2212; 1.8788], reported in Supplementary 8a–f). The meta-analytic results for
+t=3.3964, p=0.0768), with non-significant heterogeneity ganglion cell layer thickness, macular thickness and RNFL
+(Q=3.3973; p=0.1829) and no publication bias detected thickness did not change when we only included studies on
+(Kendall’stau=1.000, p=0.3333). children and adolescents (i.e., excluding studies on adults) (see
+Estimationfromtrimandfillanalysesshowedthatnostudywas Supplementary 8b,e,f).
+missingduetopublicationbiasinthemeta-analysisconductedon Estimationfromtrimandfillanalysesshowedthatnostudywas
+astigmatism(Fig.S4b).However,onestudywasprobablymissing missing due to publication bias in the meta-analyses conducted
+due to publication bias for the meta-analysis on hyperopia and onGCLT(Fig.S18b,c),intraocularpressure(Fig.S20b–e),macular
+hypermetropia(Fig.S6b,c).Specifically,sincetrimandfillanalyses thickness (Fig. S22b). Although for the meta-analysis on RNFL
+cannot be performed on multilevel models, we performed two thickness two studies were estimated as missing due to
+trimandfillsensitivityanalysesforstudiesreportingonhyperopia publication bias (Fig. S26b), the trim and fill sensitivity analysis
+and hypermetropia (each with a single effect size from [27]): in showed no change in the non-significance of the pooled effect
+onecasetheuni-levelmeta-analyticmodelwasnotsignificant(p size(pchangedfrom0.0821to0.5660).Trimandfillanalysescould
+changedfrom<0.0001to0.0763),whileintheothercasetheuni- not be performed for the meta-analyses on axial length and
+levelmeta-analyticmodelremainedsignificant(pdidnotchange macularvolume,becauseonlytwostudieswereincludedinsuch
+from<0.0001).Weperformedtwotrimandfillsensitivityanalyses meta-analyses.
+forstudiesreportingdataonmyopia(eachwithasingleeffectsize Amongthe10studiesthatcouldnotbeincludedinthemeta-
+from [27]; Fig. S8b, c), for which one study was estimated as analysis (for which we did not have available data to compute
+missingduetopublicationbias:inbothcasestheuni-levelmeta- effect sizes), Ababneh et al. [27] found a similar prevalence of
+analytic model remained not significant (p changed from 0.9978 abnormal central foveal thickness (and, therefore, no significant
+to 0.5704, and from 0.9088 to 0.7989, respectively). Although for differences in macular thickness) in people with and without
+the meta-analysis on strabismus two studies were estimated as ADHD. Moreover, while they [27] reported reduced near point of
+missing due to publication bias, the two trim and fill sensitivity convergence in people with ADHD compared to without, Fabian
+analyses we conducted (each with a single effect size from [25]; etal.[53]reportedincreasednearpointofconvergenceinADHD.
+Fig. S8b, c), in both cases the uni-level meta-analytic models Karaca et al. [28] found no significant differences between
+remained significant (p did not change from <0.0001). For children with ADHD and without ADHD on convergence and
+unspecified vision problems (Fig. S14b–e), one study was divergenceamplitudesforeitherdistanceoratnearvision.Ulucan
+estimated as missing due to publication bias in two out of four Atas et al. [30] did not find significant differences between
+trim and fill sensitivity analyses conducted (excluding one effect children with and without ADHD on macular ganglion cell
+size each time from refs. [24, 52]); however, the meta-analysis complexthickness.
+remained significant (all p<0.0023). Trim and fill analyses could Gronlund et al. [24] analyzed ocular fundus photographs in
+notbeperformedforthemeta-analysisonNPC,becauseonlytwo children with and without ADHD and found smaller optic disc
+studieswere included insuch meta-analyses. area, smaller neuroretinal rim area, smaller optic cup area, lower
+Two studies (for which we did not have available data to index of tortuosity for arteries and lower index of tortuosity for
+compute effect sizes) were included in the narrative synthesis. veins associated with ADHD. They also reported significantly
+Gronlundetal.[24]foundasimilarprevalenceofanisometropiain increased inner canthial distance in children with ADHD [24].
+people with and without ADHD, but a significantly increased Similarly. Bodur et al. [55] reported significantly reduced optical
+prevalenceofheterophoriainADHD(inlinewithfindingsfromthe nerve thickness in children with ADHD compared to those
+meta-analysis on strabismus). Fabian et al. [53] did not find any without. Ayyildiz et al. [54] found increased corneal thickness
+significant difference in heterophoria at distance between andreducedcornealcurvatureradiusinchildrenwithADHD,but
+children with and without ADHD, and no difference in the no significant differences in corneal diameter. Conversely,
+prevalence of convergence insufficiency in children with and Ababneh et al. [27] found no significant differences in corneal
+without ADHD. curvaturepowerormaximumcurvaturepowerbetweenchildren
+with and without ADHD. Werner et al. [63] and Bubl et al. [64]
+Anatomic ocular measuresin peoplewithandwithout ADHD found significantly elevated retinal background noise in adults
+Elevenstudiesanalyzinganatomicocularmeasuresinpeoplewith with ADHD. Conversely, Bubl et al. [65] analyzed the pattern
+and without ADHD were included in the meta-analyses. Two for electroretinogram in relation to different type of contrasts and
+axiallength[24,54],fourforganglioncelllayerthickness[55–58], found no significant difference between adults with and
+three for intraocular pressure [56, 59, 60], eight for macular without ADHD.
+thickness[30,54,56–59,61,62],twoformacularvolume[61,62]
+andeight for RNFLthickness [30,54–58,61,62]. Differenceson functional measures ofvision in people with
+The meta-analyses showed no significant differences between andwithout ADHD
+people with and without ADHD on axial length (Hedge’s Tenstudiesanalyzingfunctionalmeasuresofvisioninpeoplewith
+g=0.1305, SE=0.6180, 95% CI=[−1.0807; 1.3417], z=0.2112, and without ADHD were included in the meta-analyses (Supple-
+p=0.8328; Table S9, Fig. S15), ganglion cell layer thickness mentary 9). Among these, six investigated color vision
+(Hedge’s g=−0.3604, SE=0.2563, 95% CI=[−1.0720; 0.3511], [31,32,34–36,66], andfour contrast sensitivity [29,30,32,34].
+t=−1.4065, p=0.2323; Table S10, Fig. S17), intraocular pressure The meta-analysis on color vision showed significantly
+(Hedge’s g=0.0579, SE=0.2698, 95% CI=[−0.6913; 0.8071], increased difficulties and errors in color discrimination in people
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+417
+with ADHD compared to those without (Hedge’s g=0.5136, p=0.2333) (Fig. S38). Estimation from trim and fill analyses
+SE=0.2307, 95% CI=[0.0351; 0.9921], t=2.2259, p=0.0366; showedthatnostudywasmissingduetopublicationbiasinthe
+Table S15, Fig. S27). Another meta-analysis showed reduced meta-analysesconducted on visual acuity(Fig. S38b, c).
+contrast sensitivity in people with ADHD, compared to those Among the studies that could not be included in the meta-
+without (Hedge’s g=−2.8191, SE=0.9503, 95% CI=[−4.8895; analysis (for which we did not have available data to compute
+−0.7486], t=−2.9666, p=0.0118; Table S16, Fig. S29). However, effect sizes), Fabian et al. [53] found no differences between
+cross-studyheterogeneitywassignificantforbothmeta-analyses, people with and without ADHD on amplitude of the accommo-
+and publication bias was detected (tests for heterogeneity and dative response. Lower stereoacuity in ADHD was reported by
+funnel plots are reported in Supplementary 9a, b). Both meta- Gronlundetal.[24]andKaracaetal.[28]butnotbyFabianetal.
+analyticmodelsremainedsignificantwhenonlyincludingstudies [53], Ababneh et al. [27], Fabian et al. [53], Kim et al. [34], and
+onchildren and adolescents(see Supplementary 9a,b). Martin et al. [73] found no differences in refraction between
+We performed two trim and fill sensitivity analyses for studies children with and without ADHD, in line with the meta-analysis.
+reporting on color discrimination (one excluding largest effect ReducedvisualacuityinADHDwasfoundbyGronlundetal.[24]
+sizesforeachstudyreportingmorethanoneeffectsize,andthe and Martin et al. [73] while Ababneh et al. [27] and Sánchez-
+other excluding smallest effect sizes; Fig. S28b, c): in the former Guillén et al. [57] found no significant differences between
+case, two studies were estimated as missing, and the uni-level childrenwithandwithoutADHDonvisualacuity,inlinewiththe
+meta-analyticmodelwasnotsignificantanymore(pchangedfrom findingsfrom themeta-analysis.
+0.0056to0.1104),whileinthelatternostudieswereestimatedas
+missing but the uni-level meta-analytic model became non- Differenceson self-reported vision problems in peoplewith
+significant(p=0.1903).Trimandfillsensitivityanalyseswerealso andwithout ADHD
+performed for studies reporting on contrast sensitivity (one Four studies analyzing self-reported vision problems in people
+excluding largest effect sizes for each study reporting more than with and without ADHD were included in the meta-analyses
+one effect size, andthe other excluding smallest effect sizes; Fig. [32,35,69,74](Supplementary11).Increasedself-reportedvision
+S30b,c):inbothcases,nostudieswereestimatedasmissing,but problems were found in ADHD compared to those without
+the uni-level meta-analytic models became non-significant (both (Hedge’s g=0.6326, SE=0.0875, 95% CI=[0.4420; 0.8232],
+p>0.05). t=7.2322, p<0.0001; Table S21, Fig. S39). Cross-study hetero-
+FindingsfromBartgisetal.[67]andKimetal.[33]forwhichwe geneitywasnotsignificant(Q=16.3265,p=0.1767)butpublica-
+could not compute effect sizes and were therefore included in tion bias was detected (Kendall’s tau=0.9487, p<.0001) (Fig.
+narrative synthesis only, were in line with these meta-analyses, S40). Trim and fill analyses were conducted; one study was
+showing significantly reduced contrast sensitivity in ADHD estimated as missing and the meta-analysis remained significant
+compared to those without. Brown et al. [68] analyzed flicker (allp<0.0479)bothwhenconductingthetrimandfillanalysison
+fusionthresholds,i.e.,thefrequencyatwhichtwosourcesoflight all effect sizes except the largest effect sizes for [35], and when
+withdifferentcontrastwereperceiveddifferentlybutdidnotfind conducting the same analysis excluding the smallest effect sizes
+any differences betweenchildren withand without ADHD. for [35]. When investigating self-reported vision problems in
+children and adolescents (i.e., excluding [32, 35] which however
+Differenceson measures ofvisual acuity in peoplewith and reduced the sample size), the meta-analytic model was non-
+withoutADHD significant (Hedge’s g=0.5827, SE=0.3723, 95% CI=−0.1469;
+Elevenstudiesanalyzingmeasuresofvisualacuityinpeoplewith 1.3124], t=1.5653, p=0.1175) with no significant heterogeneity
+and without ADHD were included in the meta-analyses (Supple- (Q=3.2268; p=0.0724). No additional studies were included for
+mentary 10). Among these, three investigated lag and variability narrativesynthesis only.
+of the accommodative response [69–71], six refractive error
+[24,28,57,59,69,70]and four visual acuity[34,53,69,72].
+The meta-analyses for accommodation reported significantly DISCUSSION
+increased lag (Hedge’s g=0.6291, SE=0.1279, 95% CI=[0.3003; We conducted a systematic review and meta-analysis to
+0.9579],t=4.9179,p=0.0044;TableS17,Fig.S31)andvariability investigate the association between ADHD and disorders or
+(Hedge’s g=0.4039, SE=0.1041, 95% CI=[0.1685; 0.6393], problemsofvision.Wefoundevidenceofanassociationbetween
+t=3.8807, p=0.0037; Table S18, Fig. S33) in people with ADHD ADHD and reduced color discrimination and contrast sensitivity,
+compared to those without. For both meta-analyses, cross-study atypical accommodative response and convergence. No associa-
+heterogeneity was non-significant, and publication bias was not tion between ADHD and visual acuity or refractive error was
+detected (Supplementary 10a, b). Estimation from trim and fill detected,andwedidnotfindevidenceofanassociationbetween
+analyses showed that no study was missing due to publication ADHD and anatomic ocular measures (axial length, ganglion cell
+bias in the meta-analyses conducted on lag (Fig. S32b, c) or layer thickness, intraocular pressure, macular thickness, macular
+variability (Fig. S34b,c). volume, RNFL thickness). However, we found an association
+Refractive Error (measured through Spherical Equivalents) did between ADHD and astigmatism, hyperopia and hypermetropia,
+not significantly differ between people with and without ADHD andstrabismus(butnotmyopia),butwedidnotdetectahigher
+(Hedge’s g=0.0815, SE=0.1425, 95% CI=[−0.2555; 0.4185], prevalence of ADHD in patients diagnosed with problems of
+t=0.5718, p=0.5853; Table S19, Fig. S35). Cross-study hetero- vision.
+geneitywasnon-significant(Q=9.4744,p=0.2204) andpublica- Our findings reaffirm the importance of physical and visual
+tion bias was not detected (Kendall’s tau=−0.3571, p=0.2751) examinations in evaluating patients with ADHD, as suggested by
+(Fig. S36). Trim and fill sensitivity analyses suggested that two multiple practice guidelines [75–77]. Various disorders of vision,
+studies were estimated as missing, with the uni-level meta- includingstrabismus[78]andrefractiveerrors[79–82],canpresent
+analytic model remaining not significant (all p>0.0793; Fig. withfeaturesthatmimicneurocognitivefeaturesofADHD[83–85].
+36b–e). Impaired perception may influence not only cognitive function
+Visual acuity did not differ between people with and without but also long-term psychosocial development by diminishing
+ADHD (Hedge’s g=0.1485, SE=0.3408, 95% CI=[−0.7976; engagement in activities [86]. Therefore, we speculate that the
+1.0947], t=0.4358, p=0.6855; Table S20, Fig. S37). Cross-study presence of vision problems from an early age—especially if not
+heterogeneity was significant (Q=20.7980, p=0.0003) and appropriately and promptly treated—may be partly associated
+publication bias was not detected (Kendall’s tau=0.6000, withincreasedriskforADHDandthatuntreatedvisualimpairment
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+418
+could exacerbate neurocognitive symptoms in children with interpret this finding given the overlap between the neural
+ADHD. Although our findings demonstrate multiple relationships systems that regulate attention and ocular dynamics [108, 109].
+between ADHD, disorders of vision and impaired measures of Therelationshipbetweenattentionandaccommodativefunction
+vision, it does not suggest how this complex relationship should has been proposed to be bidirectional [110, 111], so that
+beinterpreted. accommodative dysfunction reduces attentional resources,
+This is further confounded by the close and intertwined induces asthenopia, visual discomfort and decreases task perfor-
+relationship between perception and higher-level cognitive manceefficiency[111,112],contributingtoinattentivesymptoms.
+functions,andanincompleteunderstandingofthepathophysiol- However,itisalsopossiblethatthedifferencesinaccommodative
+ogy of ADHD. So far, the neurocognitive symptoms that define performancecouldarisefromtheneurocognitivedeficitsofADHD
+ADHD are largely conceived of as arising from structural and [113–115].Becausetheaccommodativeresponseisinfluencedby
+molecularabnormalitiesinthebrain[9].Thebrainandretinashare theautonomicnervoussystem[116],accommodativedysfunction
+embryologicalorigins[7,8,10]andstructuralabnormalitiesofthe canalsobeunderstoodinthecontextofautonomichypo-arousal
+eye have been detected in neuropsychiatric disorders with a seenduringcognitive,rewardandsocio-emotionaltasksinADHD
+geneticoverlapwithADHD[87],includingschizophrenia[88–90], [117].
+bipolardisorder[91]andautism[92].Thus,weexpectedtofindan Despite finding an association between ADHD, disorders of
+associationbetweenADHDandanatomicstructuralabnormalities vision and multiple measures of vision, we did not detect a
+oftheeyeandtheretina,butwedidnot.ContrarytoLietal.[19] relationship for either refractive error or visual acuity, which is
+we found no differences between ADHD and controls on retinal inconsistentwithourotherfindings.IfADHDisindeedariskfactor
+fiberlayerthickness;ourfinding,however,emergedfromalarger for astigmatism, hyperopia, strabismus, and accommodative
+poolofstudies. dysfunction, we would expect these measures to be similarly
+While we did not detect a relationship between ADHD and implicated.Forexample,bothastigmatismandhyperopiarequire
+anatomic measures, ADHD was associated with increased risk of refractive errors beyond certain clinical thresholds in order to be
+disorderscausedbyatypicalcornealcurvatureandeyeshape,and diagnosed.Oneexplanationforthisdiscrepancyisthat,inmanyof
+problemsincontrollingeyemuscles(e.g.,astigmatism,hyperopia the included studies, visual acuity was often reported as best-
+and hypermetropia, reduced near point of convergence, and corrected visual acuity.
+strabismus).Althoughthedevelopmentofspecificcomponentsof If unaddressed, sensory deficits may contribute to functional
+theretinamaynotbeaffectedinADHD,othermajorstructuresof impairmentinADHD[118–121],includingimpairmentsindriving
+the eye may develop atypically in ADHD, increasing the risk of performance [122, 123], emotional recognition and social func-
+problems ofvision. tioning [124]. The close relationship between perceptual deficits
+In contrast to the anatomic measures, we detected an and neurocognitive deficits [125, 126] raises the important
+association between ADHD and diminished contrast sensitivity questionoftowhatextent,ifany,visualproblemsareassociated
+and impaired color discrimination, in which the retina is with ADHD and the neurocognitive symptoms that define the
+potentially implicated. Impairments in these functions have also disorder. Given reports of children with disorders of vision being
+been reported in neuropsychiatric disorders in which catechola- misdiagnosedwithADHD[84,85,127,128]andtheeffectofthese
+minergictransmissionisaffected(e.g.,schizophrenia[88,93],and disorders on attention [83], it is possible that the presence of
+Parkinson’s [94, 95]). The association between ADHD and problems of vision confounds the diagnosis of ADHD, and vice
+diminished contrast sensitivity and color discrimination may versa. Furthermore, another question is if visual deficits could be
+thereforederivefromalteredfunctioningofretinaldopaminergic an underrecognized treatment target in some patients with
+neurons in ADHD [96, 97]. Elevated retinal background noise, ADHD. For pediatric patients having both ADHD and vision
+another possible sign of dopaminergic dysfunction, is associated problems, future work should address their independent con-
+withincreasedseverityofADHDsymptoms[63,64]anditislikely tributions to cognitive and global functioning. Identifying and
+to be associated with inattention and distractibility due to promptly implementing specific treatments for both vision
+involuntary orienting of attention towards irrelevant information problems and ADHD symptoms may lead to more positive
+[98,99].Dopamine,ontheotherhand,hasbeenshowntoreduce interventional outcomes. For example, inattentive symptoms
+neuronal noise [100–103], as does stimulant medication secondary to disorders of vision could be reduced by addressing
+[63,97,99,104]. the underlying visual dysfunction, at least in some patients
+Giventhattheretinareceiveslittleifanytop-downconnections [78,79].
+from higher cortical regions [105], deficits in contrast sensitivity Clinicians should be aware that using neuropsychological
+and color discrimination in ADHD may arise at the level of the instruments that do not account for potential visual deficits may
+retinaitself.Moreover,consideringthatnormalizationofneuronal overstate the presence and magnitude of neuropsychological
+background noise elsewhere in the brain is observed following deficits. Similarly, assessing visual deficits without accounting for
+administration of stimulants in conjunction with reduced symp- neuropsychological deficits may overstate the presence of vision
+tomsofADHD[97,99,104],onemighthypothesizethatstimulant- problems. Additionally, given that normal perception function
+induced normalization of retinal background noise could be changesthroughoutlife,longitudinalstudiesareneededtoclarify
+associated with improved measures of visual function such as thecausallinksbetweenADHDandvisualdeficits.Generalization
+contrastsensitivityorcolorvisionsensitivity.However,researchin of our results is limited by the underrepresentation of females
+thisareaislimited,andonlyafewstudiesincludedinourreview giventhattherearegenderandsexdifferenceswithADHD[129],
+(e.g., [29],) found medication-related improvement in contrast disorders of vision [130] and normal visual function [131]. Future
+sensitivity. research should also consider additional risk factors that are
+Additionally,wefoundasignificantrelationshipbetweenADHD associated with ADHD and multiple disorders of vision, including
+and accommodation lag and variability. This result is consistent lowsocioeconomicstatus,youngmaternalage,lowbirthweight,
+with our finding of an association between ADHD and conver- congenitalinfections[132,133]andprematurity[81,82,134–136].
+gence insufficiency, and with other studies that found altered Considering the scarce and mixed evidence investigating the
+accommodativefunctionsinotherneurodevelopmentaldisorders influence of medication for ADHD on retinal background noise
+[106].Accommodationistheprocessbywhichtheciliarymuscles and measures of visual function in which retinal dopaminergic
+oftheeyeadjustopticalpowertomaintainfocusofanobjectat neuronsareimplicated,thisisanotherimportantareathatshould
+various distances [107]. While the presence of oculomotor be explored by future research. For example, Martin et al. [73]
+abnormalities in ADHD is well established [20], it is difficult to foundsignificantimprovementsinvisualacuityandvisualfieldsin
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+419
+children with ADHD after treatment with stimulants, while 7. FaraoneSV,BanaschewskiT,CoghillD,ZhengY,BiedermanJ,BellgroveMA,
+Gronlund, Mezer and Wygnanski-Jaffe [24, 137] did not report etal.TheWorldFederationofADHDInternationalConsensusStatement:208
+this effect. Similarly, Redondo et al. [71] found that while there Evidence-based conclusions about the disorder. Neurosci Biobehav Rev.
+were significant differences in accommodation between ADHD 2021;128:789–818.
+children and controls, stimulants did not significantly improve 8. LondonA,BenharI,SchwartzM.Theretinaasawindowtothebrain—fromeye
+researchtoCNSdisorders.NatRevNeurol.2013;9:44–53.
+accommodation in the ADHD group. Various case reports
+9. HoogmanM,BraltenJ,HibarDP,MennesM,ZwiersMP,SchwerenLSJ,etal.
+document potential ocular side effects of both stimulants and
+Subcortical brain volume differences in participants with attention deficit
+non-stimulants in patients with ADHD such as accommodation
+hyperactivitydisorderinchildrenandadults:across-sectional mega-analysis.
+dysfunction, cataracts, mydriasis, cataracts and increased intrao- LancetPsychiatry.2017;4:310–9.
+cular pressure [138–142]. Conversely, other authors [60, 143] 10. MacCormickIJ,CzannerG,FaragherB.Developingretinalbiomarkersofneu-
+foundnorelationshipbetweenintraocularpressureandtreatment rologicaldisease:ananalyticalperspective.BiomarkMed.2015;9:691–701.
+with these medications. Stimulants and various non-stimulant 11. Valera EM, Faraone SV, Murray KE, Seidman LJ. Meta-analysis of structural
+medications used to treat ADHD are adrenergic agonizts, and imaging findings in attention-deficit/hyperactivity disorder. Biol Psychiatry.
+therefore may affect autonomic regulation of various ocular
+2007;61:1361–9.
+12. CorteseS,CastellanosFX.Neuroimagingofattention-deficit/hyperactivitydis-
+structures [144]. Given the sparse literature on this topic, the
+order:currentneuroscience-informedperspectivesforclinicians.CurrPsychiatry
+effects of stimulants may confound the relationship between
+Rep.2012;14:568–78.
+ADHD andmeasures ofvision.
+13. CorteseS,AdamoN,DelGiovaneC,Mohr-JensenC,HayesAJ,CarucciS,etal.
+The present study has several limitations. Some meta-analyses Comparative efficacy and tolerability of medications for attention-deficit
+onlyincluded afew studies. Moreover, cross-study heterogeneity hyperactivitydisorderinchildren,adolescents,andadults:asystematicreview
+wassignificantforthemeta-analysesontheprevalenceofADHD andnetworkmeta-analysis.LancetPsychiatry.2018;5:727–38.
+inpeoplewithandwithoutvisionproblems,allmeta-analyseson 14. FaraoneSV,LarssonH.Geneticsofattentiondeficithyperactivitydisorder.Mol
+anatomic measures (except for macular volume and RNFL Psychiatry.2019;24:562–75.
+thickness), color vision and contrast sensitivity, and visual acuity. 15. YuC,Garcia-OlivaresJ,CandlerS,SchwabeS,MaleticV.NewInsightsintothe
+These results, although statistically significant, need to be mechanismofactionofviloxazine:serotoninandnorepinephrinemodulating
+properties.JExpPharm.2020;12:285–300.
+considered cautiously. Heterogeneity is probably due to differ-
+16. DjamgozMB,HankinsMW,HiranoJ,ArcherSN.Neurobiologyofretinaldopa-
+encesinthemethodologyusedforobtaininganatomicmeasures, mineinrelationtodegenerativestatesofthetissue.VisRes.1997;37:3509–29.
+different paradigms used to investigate color vision and contrast 17. WitkovskyP.Dopamineandretinalfunction.DocOphthalmol.2004;108:17–40.
+sensitivity,andheterogeneityintheascertainmentanddiagnosis 18. Rangel-Barajas C, Coronel I, Florán B. Dopamine receptors and neurodegen-
+ofstudyparticipants.Lastly,publicationbiaswasdetectedforthe eration.AgingDis.2015;6:349–68.
+meta-analyses of studies on color vision and contrast sensitivity, 19. LiSL,KamKW,CheeASH,ZhangXJ,ChenLJ,YipWWK,etal.Theassociation
+andfordifferencesinself-reportedvisionproblems.Thetrimand betweenattention-deficit/hyperactivity disorderandretinalnervefiber/gang-
+fillanalysesforcolorvisionandcontrastdiscriminationfoundthat, lion cell layer thickness measured by optical coherence tomography: a sys-
+tematicreviewandmeta-analysis.IntOphthalmol.2021;41:3211–21.
+after correcting for publication biases, their pooled effect sizes
+were not statistically significant. Considering that measures of 20. MaronDN,BoweSJ,Spencer-SmithM,MellahnOJ,PerrykkadK,BellgroveMA,
+etal.Oculomotordeficitsinattentiondeficithyperactivitydisorder(ADHD):a
+vision are less variable than measures of ADHD symptoms, they
+systematic review and comprehensive meta-analysis. Neurosci Biobehav Rev.
+may not be as sensitive in capturing the heterogeneity of ADHD 2021;131:1198–213.
+compared with diagnostic measures. Moreover, future research 21. BergerA,FindlerM,MaymonD,KorachT,YativOF,GronovichY,etal.Color
+should investigate if specific disorders of vision are specifically vision deficiency and functional disorders among Israeli male adolescents
+associated with ADHD or also with other neurodevelopmental between2007and2013.JChildNeurol.2016;31:1245–9.
+conditions,e.g.,autism.Lastly,becausemostofthestudiesinthe 22. DeCarlo DK, Swanson M, McGwin G,VisscherK,OwsleyC.ADHD and vision
+meta-analysis were sampled from clinically referred populations, problems in the National Survey of Children’s Health. Optom Vis Sci.
+2016;93:459–65.
+thegeneralizabilityofourresultsislimitedtosuchsamplesdueto
+Berkson’sbias(i.e.,aselectionbiasthatcanarisewhenthesample 23. SuCC,TsaiCY,TsaiTH,TsaiIJ.Incidenceandriskofattention-deficithyper-
+activitydisorderinchildrenwithamblyopia:anationwidecohortstudy.ClinExp
+is taken not from the general population, but from a subpopula- Ophthalmol.2019;47:259–64.
+tion)and other methodological issues, aspreviously discussed. 24. Grönlund MA, Aring E, Landgren M, Hellström A. Visual function and ocular
+Inconclusion,wefoundmeta-analyticevidenceofasignificant features in children and adolescents with attention deficit hyperactivity dis-
+association of ADHD with self-reported and objectively ascer- order,withandwithouttreatmentwithstimulants.Eye.2007;21:494–502.
+tained functional vision problems, but not with structural or 25. HoJD,SheuJJ,KaoYW,ShiaBC,LinHC.Associationsbetweenattention-deficit/
+anatomic alterations. Further studies are needed to investigate hyperactivitydisorderandocularabnormalitiesinchildren:apopulation-based
+whattypeofcausalrelationshipsexistbetweenADHDandspecific study.OphthalmicEpidemiol.2020;27:194–9.
+26. Reimelt C, Wolff N, Hölling H, Mogwitz S, Ehrlich S, Roessner V. The under-
+problems ofvision, and howmuchone canexplain theothers.
+estimated role of refractive error (hyperopia, myopia, and astigmatism) and
+strabismusinchildrenwithADHD.JAttenDisord.2021;25:235–44.
+27. Ababneh LT, BashtawiM, Ababneh BF, Mahmoud IH, Rashdan M, ZahranM.
+REFERENCES
+Ocularfindingsinchildrenwithattentiondeficithyperactivitydisorder:acase-
+1. Faraone SV, Asherson P, Banaschewski T, Biederman J, Buitelaar JK, Ramos- controlstudy.AnnMedSurg.2020;57:303–6.
+Quiroga JA, et al. Attention-deficit/hyperactivity disorder. Nat Rev Dis Prim. 28. KaracaI,BilerED,OnayMP,OzbaranB,UretmenO.Stereoacuity,fusionalver-
+2015;1:15020. gence amplitudes, and refractive errors prior to treatment in patients with
+2. PolanczykGV,WillcuttEG,SalumGA,KielingC,RohdeLA.ADHDprevalence attention-deficithyperactivitydisorder.TurkishJOphthalmol.2020;50:15–9.
+estimates across three decades: an updated systematic review and meta- 29. DonmezYE,OzcanOO,CankayaC,BerkerM,AtasPBU,GunturkunPN,etal.Is
+regressionanalysis.IntJEpidemiol.2014;43:434–42. contrast sensitivity a physiological marker in attention-deficit hyperactivity
+3. FayyadJ,DeGraafR,KesslerR,AlonsoJ,AngermeyerM,DemyttenaereK,etal. disorder?MedHypotheses.2020;145:6.
+Cross-nationalprevalenceandcorrelatesofadultattention-deficithyperactivity 30. Ulucan Atas PB, Ceylan OM, Dönmez YE, Ozel, Ozcan O. Ocular findings in
+disorder.BrJPsychiatry.2007;190:402–9. patients with attention deficit and hyperactivity. Int Ophthalmol.
+4. LeungMP,ThompsonB,BlackJ,DaiS,AlsweilerJM.Theeffectsofpretermbirth 2020;40:3105–13.
+onvisualdevelopment.ClinExpOptom.2018;101:4–12. 31. Banaschewski T, Ruppert S, Tannock R, Albrecht B, Becker A, Uebel H, et al.
+5. Kalogeropoulos D, Sakkas H, Mohammed B, Vartholomatos G, Malamos K, ColourperceptioninADHD.JChildPsycholPsychiatry.2006;47:568–72.
+SreekantamS,etal.Oculartoxoplasmosis:areviewofthecurrentdiagnostic 32. KimS,Al-HajM,ChenS,FullerS,JainU,CarrascoM,etal.ColourvisioninADHD:
+andtherapeuticapproaches.IntOphthalmol.2022;42:295–321. part 1—testing the retinal dopaminergic hypothesis. Behav Brain Funct.
+6. LynnWA,LightmanS.Theeyeinsystemicinfection.Lancet.2004;364:1439–50. 2014;10:38.
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+420
+33. KimS,Al-HajM,FullerS,ChenS,JainU,CarrascoM,etal.ColorvisioninADHD: 61. Aslan MG, Uzun F, Findik H, Kacar M, Okutucu M, Hocaoglu C. Pupillometry
+part 2—does attention influence color perception? Behav Brain Funct. measurementanditsrelationshiptoretinalstructuralchangesinchildrenwith
+2014;10:39. attention deficit hyperactivity disorder. Graefes Arch Clin Exp Ophthalmol.
+34. KimS,BanaschewskiT,TannockR.Colorvisioninattention-deficit/hyperactivity 2020;258:1309–17.
+disorder:apilotvisualevokedpotentialstudy.JOptom.2015;8:116–30. 62. HergünerA,Alpfidanİ,YarA,ErdoğanE,MetinÖ,SakaryaY,etal.RetinalNerve
+35. Kim S, Chen S, Tannock R. Visual function and color vision in adults with FiberLayerThicknessinChildrenWithADHD.JAttenDisord.2018;22:619–26.
+attention-deficit/hyperactivitydisorder.JOptom.2014;7:22–36. 63. WernerAL,TebartzvanElstL,EbertD,FriedelE,BublA,ClementHW,etal.
+36. Uebel-von Sandersleben H, Albrecht B, Rothenberger A, Fillmer-Heise A, NormalizationofincreasedretinalbackgroundnoiseafterADHDtreatment:a
+Roessner V, Sergeant J, et al. Revisiting the co-existence of attention-deficit/ neuronalcorrelate.SchizophreniaRes.2020;219:77–83.
+hyperactivitydisorderandchronicticdisorderinchildhood-thecaseofcolour 64. BublE,DörrM,RiedelA,EbertD,PhilipsenA,BachM,etal.Elevatedbackground
+discrimination, sustained attention and interference control. PLoS ONE. noisein adultattention deficit hyperactivity disorderisassociatedwithinat-
+2017;12:e0178866. tention.PLOSONE.2015;10:e0118271.
+37. PageMJ,McKenzieJE,BossuytPM,BoutronI,HoffmannTC,MulrowCD,etal. 65. BublE,DörrM,PhilipsenA,EbertD,BachM,vanElstLT.Retinalcontrasttransfer
+The PRISMA 2020 statement: an updated guideline for reporting systematic functionsinadultswithandwithoutADHD.PLoSONE.2013;8:e61728.
+reviews.BMJ.2021;372:n71.https://doi.org/10.1136/bmj.n71. 66. RoessnerV,BanaschewskiT,Fillmer-OtteA,BeckerA,AlbrechtB,UebelH,etal.
+38. Harrer M, Cuijpers P, Furukawa TA, Ebert DD. Doing meta-analysis with R: a Colorperceptiondeficitsinco-existingattention-deficit/hyperactivitydisorder
+hands-onguide.BocaRaton,FLandLondon:Chapman&Hall/CRCPress;2021. andchronicticdisorders.JNeuralTransm.2008;115:235–9.
+39. Downes MJ, Brennan ML, Williams HC, Dean RS. Development of a critical 67. BartgisJ,LeflerEK,HartungCM,ThomasDG.Contrastsensitivityinchildrenwith
+appraisaltooltoassessthequalityofcross-sectionalstudies(AXIS).BMJOpen. and without attention deficit hyperactivity disorder symptoms. Dev Neu-
+2016;6:e011458. ropsychol.2009;34:663–82.
+40. RCoreTeam.R:alanguageandenvironmentforstatisticalcomputing.Vienna, 68. BrownAC,PetersJL,ParsonsC,CrewtherDP,CrewtherSG.Efficiencyinmag-
+Austria: R Foundation for Statistical Computing; 2020. https://www.R- nocellularprocessing:acommondeficitinneurodevelopmentaldisorders.Front
+project.org/. HumNeurosci.2020;14:49.
+41. ViechtbauerW.ConductingMeta-AnalysesinRwiththemetaforPackage.JStat 69. Redondo B, Vera J, Molina R, Garcia JA, Ouadi M, Munoz-Hoyos A, et al.
+Softw.2010;36:1–48. Attention-deficit/hyperactivity disorder children exhibit an impaired accom-
+42. LanganD,HigginsJPT,JacksonD,BowdenJ,VeronikiAA,KontopantelisE,etal. modativeresponse.GraefesArchClinExpOphthalmol.2018;256:1023–30.
+Acomparisonofheterogeneityvarianceestimatorsinsimulatedrandom-effects 70. Redondo B, Vera J, Molina R, Garcia JA, Catena A, Muñoz-Hoyos A, et al.
+meta-analyses.ResSynthMethods.2019;10:83–98. Accommodation and pupil dynamics as potential objective predictors of
+43. Cochran WG. Some methods for strengthening the common χ2 tests. Bio- behavioural performance in children with attention-deficit/hyperactivity dis-
+metrics.1954;10:417. order.VisRes.2020;175:32–40.
+44. EggerM,SmithGD,SchneiderM,MinderC.Biasinmeta-analysisdetectedbya 71. RedondoB,MolinaR,VeraJ,Muñoz-HoyosA,BarrettBT,JiménezR.Accom-
+simple,graphicaltest.BMJ.1997;315:629–34. modative response in children with attention deficit hyperactivity disorder
+45. BorensteinM,HedgesLV,HigginsJPT,RothsteinHR.Publicationbias.In:Bor- (ADHD): the influence of accommodation stimulus and medication. Graefes
+ensteinM,HedgesLV,HigginsJPT,RothsteinHR,editors.Introductiontometa- ArchClinExpOphthalmol.2020;258:1299–307.
+analysis.Chichester,U.K:JohnWiley&Sons;2009.pp277–92. 72. DecarloDK,BowmanE,MonroeC,KlineR,McGwinGJr,OwsleyC.Prevalenceof
+46. BeggCB,MazumdarM.Operatingcharacteristicsofarankcorrelationtestfor attention-deficit/hyperactivitydisorderamongchildrenwithvisionimpairment.
+publicationbias.Biometrics.1994;50:1088–101. JAAPOS.2014;18:10–4.
+47. DuvalS,TweedieR.Trimandfill:asimplefunnel-plot-basedmethodoftesting 73. MartinL,AringE,LandgrenM,HellströmA,AnderssonGrönlundM.Visualfields
+andadjustingforpublicationbiasinmeta-analysis.Biometrics.2000;56:455–63. in children with attention-deficit / hyperactivity disorder before and after
+48. MerdlerI,GiladiM,SorkinN,ShapiraS,GaliliE,MargulisA,etal.Strabismusand treatmentwithstimulants.ActaOphthalmol.2008;86:259–64.
+mentaldisordersamongIsraeliadolescents.JAapos.2017;21:185–9. 74. FarrarR,CallM,MaplesWC.Acomparisonofthevisualsymptomsbetween
+49. MohneyBG,McKenzieJA,CapoJA,NuszKJ,MrazekD,DiehlNN.Mentalillness ADD/ADHDandnormalchildren.Optometry.2001;72:441–51.
+inyoungadultswhohadstrabismusaschildren.Pediatrics.2008;122:1033–8. 75. WolraichML,HaganJF,Jr,AllanC,ChanE,DavisonD,EarlsM,etal.Clinical
+50. McBrideCL,BijanS.Theassociationbetweenvisualhealthandmentalhealth practice guideline for the diagnosis, evaluation, and treatment of attention-
+outcomesinchildren.InvestigOphthalmolVisSciConf.2017;58:2412. deficit/hyperactivity disorder in children and adolescents. Pediatrics.
+51. AkmatovMK,ErmakovaT,BätzingJ.Psychiatricandnonpsychiatriccomorbid- 2019;144:e20192528.
+itiesamongchildrenwithADHD:anexploratoryanalysisofnationwideclaims 76. CanadianADHDResourceAlliance(CADDRA):CanadianADHDPracticeGuide-
+datainGermany.JAttenDisord.2021;25:874–84. lines,4thed.TorontoON:CADDRA;2018.
+52. Kooij JJ, Bijlenga D. High prevalence of self-reported photophobia in adult 77. NICE.Attentiondeficithyperactivitydisorder:diagnosisandmanagement.2018.
+ADHD.FrontNeurol.2014;5:256. Update2019.www.nice.org.uk/guidance/ng87.
+53. FabianID,KinoriM,AncriO,SpiererA,TsinmanA,BenSimonGJ.Thepossible 78. Chung SA, Chang YH, Rhiu S, Lew H, Lee JB. Parent-reported symptoms of
+association of attention deficit hyperactivity disorder with undiagnosed attentiondeficithyperactivitydisorderinchildrenwithintermittentexotropia
+refractiveerrors.JAapos.2013;17:507–11. beforeandafterstrabismussurgery.YonseiMedJ.2012;53:806–11.
+54. AyyildizT,AyyildizD.Retinalnervefiberlayer,macularthicknessandanterior 79. KulpMT,CinerE,MaguireM,MooreB,PentimontiJ,PistilliM,etal.Uncorrected
+segment measurements in attention deficit and hyperactivity disorder. Psy- hyperopia and preschool early literacy: results of the vision in preschoolers-
+chiatryClinPsychopharmacol.2019;29:760–4. hyperopiainpreschoolers(VIP-HIP)study.Ophthalmology.2016;123:681–9.
+55. BodurS,KaraH,AcikelB,YasarE.Evaluationoftheganglioncelllayerthickness 80. SimonsHD,GasslerPA.Visionanomaliesandreadingskill:ameta-analysisofthe
+inchildrenwithattentiondeficithyperactivitydisorderandcomorbidopposi- literature.AmJOptomPhysiolOpt.1988;65:893–904.
+tionaldefiantdisorder.KlinPsikiyatrDergJClinPsychiatry.2018;21:222–30. 81. Williams C, Northstone K, Howard M, Harvey I, Harrad RA, Sparrow JM. Pre-
+56. IşikÜ,KaygisizM.Assessmentofintraocularpressure,macularthickness,retinal valenceandriskfactorsforcommonvisionproblemsinchildren:datafromthe
+nerve fiber layer, and ganglion cell layer thicknesses: ocular parameters and ALSPACstudy.BrJOphthalmol.2008;92:959–64.
+optical coherence tomography findings in attention-deficit/hyperactivity dis- 82. WilliamsWR,LatifAH,HanningtonL,WatkinsDR.Hyperopiaandeducational
+order.BrazJPsychiatry.2020;42:309–13. attainmentinaprimaryschoolcohort.ArchDisChild.2005;90:150–3.
+57. Sánchez-Guillén I, Almorín-Fernández-Vigo I, Fernández-Vigo JI, de-Pablo- 83. Cavézian C, Vilayphonh M, Vasseur V, Caputo G, Laloum L, Chokron S. Oph-
+Gómez-de-LiañoL,KudsiehB,Fernández-VigoJA.Assessmentofchangesinthe thalmicdisordermayaffectvisuo-attentionalperformanceinchildhood.Child
+maculaandopticnerveheadusingopticalcoherencetomographyinpatients Neuropsychol.2013;19:292–312.
+with attention deficit hyperactivity disorder. Arch Soc Esp Oftalmol. 84. DamariD,LiuJ,SmithKB.VisualdisordersmisdiagnosedasADHDcasestudies
+2020;95:271–8. andliteraturereview.JBehavOptom2000;11:87–91.
+58. TünelM,KeşkekNŞ.Retinalscanwithopticalcoherencetomographyinadult 85. Hong C, Press LJ. Visual factors in childhood behavioral disorders. Calfirnia
+attentiondeficithyperactivitydisorder.TurkPsikiyatriDerg.2021;32:176–82. Optom.2009;36:46–54.
+59. BaeS,KimJT,HanJM,HanDH.Pilotstudy:Anocularbiomarkerfordiagnosisof 86. DunnW.Thesensationsofeverydaylife:empirical,theoretical,andpragmatic
+attentiondeficithyperactivitydisorder.PsychiatryInvestig.2019;16:370–8. considerations.AmJOccupTher.2001;55:608–20.
+60. Guvenmez O, Cubuk M, Gunes S. The effects of medication on intraocular 87. Smoller JW, Andreassen OA, Edenberg HJ, Faraone SV, Glatt SJ, Kendler KS.
+pressureinchildrenwithattentiondeficithyperactivitydisorder:aprospective Psychiatric genetics and the structure of psychopathology. Mol Psychiatry.
+study.JPopulTherClinPharmacol.2020;27:e56–61. 2019;24:409–20.
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+421
+88. ShoshinaII,ShelepinYE.ContrastSensitivityinPatientswithSchizophreniaof 116. Thiagarajan P, Ciuffreda KJ. Visual fatigue and accommodative dynamics in
+DifferentDurationsofIllness.NeurosciBehavPhysiol.2015;45:512–6. asymptomaticindividuals.OptomVisSci.2013;90:57–65.
+89. Schönfeldt-LecuonaC,KregelT,SchmidtA,PinkhardtEH,LaudaF,KassubekJ, 117. BellatoA,AroraI,HollisC,GroomMJ.Isautonomicnervoussystemfunction
+et al. From Imaging the Brain to Imaging the Retina: Optical Coherence atypicalinattentiondeficithyperactivitydisorder(ADHD)?Asystematicreview
+Tomography(OCT)inSchizophrenia.SchizophrBull.2016;42:9–14. oftheevidence.NeurosciBiobehavRev.2020;108:182–206.
+90. SariES,KocR,YaziciA,SahinG,ErmisSS.Ganglioncell-innerplexiformlayer 118. FuermaierABM,HüpenP,DeVriesSM,MüllerM,KokFM,KoertsJ,etal.Per-
+thickness in patients with Parkinson disease and association with disease ceptioninattentiondeficithyperactivitydisorder.AttenDeficHyperactDisord.
+severityandduration.JNeuroophthalmol.2015;35:117–21. 2018;10:21–47.
+91. MehrabanA,SamimiSM,EntezariM,SeifiMH,NazariM,YaseriM.Peripapillary 119. Bar-ShalitaT,VatineJJ,ParushS.Sensorymodulationdisorder:ariskfactorfor
+retinal nerve fiber layer thickness in bipolar disorder. Graefes Arch Clin Exp participationindailylifeactivities.DevMedChildNeurol.2008;50:932–7.
+Ophthalmol.2016;254:365–71. 120. AdamouM,ArifM,AshersonP,AwTC,BoleaB,CoghillD,etal.Occupational
+92. EmbertiGialloretiL,PardiniM,BenassiF,MarcianoS,AmoreM,MutoloMG,etal. issuesofadultswithADHD.BMCPsychiatry.2013;13:59.
+Reduction in retinal nerve fiber layer thickness in young adults with autism 121. CaciH,DoepfnerM,AshersonP,DonfrancescoR,FaraoneSV,HervasA,etal.
+spectrumdisorders.JAutismDevDisord.2014;44:873–82. Daily life impairments associated with self-reported childhood/adolescent
+93. ChenY,LevyDL,SheremataS,NakayamaK,MatthysseS,HolzmanPS.Effectsof attention-deficit/hyperactivity disorder and experiences of diagnosis and
+typical, atypical, and no antipsychotic drugs on visual contrast detection in treatment: results from the European Lifetime Impairment Survey. Eur Psy-
+schizophrenia.AmJPsychiatry.2003;160:1795–801. chiatry.2014;29:316–23.
+94. WeilRS,SchragAE,WarrenJD,CrutchSJ,LeesAJ,MorrisHR.Visualdysfunction 122. JeromeL,SegalA,HabinskiL.WhatweknowaboutADHDanddrivingrisk:a
+inParkinson’sdisease.Brain.2016;139:2827–43. literature review, meta-analysis and critique. J Can Acad Child Adolesc Psy-
+95. SartucciF,PorciattiV.Visual-evokedpotentialstoonsetofchromaticred-green chiatry.2006;15:105–25.
+andblue-yellowgratingsinParkinson’sdiseasenevertreatedwithL-dopa.JClin 123. OwsleyC.Contrastsensitivity.OphthalmolClinNorthAm.2003;16:171–7.
+Neurophysiol.2006;23:431–5. 124. Markovska-SimoskaS,Pop-JordanovaN.Faceandemotionrecognitionbyadhd
+96. DelCampoN,ChamberlainSR,SahakianBJ,RobbinsTW.Therolesofdopamine andnormaladults.ActaNeuropsychologica.2010;8:99–122.
+andnoradrenalineinthepathophysiologyandtreatmentofattention-deficit/ 125. Cahen A, Tacca MC. Linking perception and cognition. Front Psychol.
+hyperactivitydisorder.BiolPsychiatry.2011;69:e145–57. 2013;4:144.
+97. VolkowND,WangG-J,KollinsSH,WigalTL,NewcornJH,TelangF,etal.Eval- 126. Tacca MC. Commonalities between perception and cognition. Front Psychol.
+uating Dopamine Reward Pathway in ADHD: Clinical Implications. JAMA. 2011;2:358.
+2009;302:1084–91. 127. GamvrouliM,GamvrouliI,TriantafyllouC.Evaluationtoolsofthecharacteristicsof
+98. BrennanAR,ArnstenAFT.NeuronalMechanismsUnderlyingAttentionDeficit AttentionDeficitandHyperactivityDisorderinchildrenandadolescents(ADHD):A
+HyperactivityDisorder.AnnNYAcadSci.2008;1129:236–45. literaturereview,Psychiatriki(2021),https://doi.org/10.22365/jpsych.2021.034.
+99. DommettEJ,OvertonPG,GreenfieldSA.Drugtherapiesforattentionaldisorders 128. ButtrossS.Attentiondeficit-hyperactivitydisorderanditsdeceivers.CurrProbl
+alter the signal-to-noise ratio in the superior colliculus. Neuroscience. Pediatr.2000;30:37–50.
+2009;164:1369–76. 129. Rucklidge JJ. Gender differences in attention-deficit/hyperactivity disorder.
+100. Arnsten AF.Catecholamine influences on dorsolateral prefrontal cortical net- PsychiatrClinNorthAm.2010;33:357–73.
+works.BiolPsychiatry.2011;69:e89–99. 130. AninyeIO,DigreK,HartnettME,BaldonadoK,ShriverEM,PerimanLM,etal.The
+101. KiyatkinEA,RebecGV.Dopaminergicmodulationofglutamate-inducedexci- rolesofsexandgenderinwomen’seyehealthdisparitiesintheUnitedStates.
+tations of neurons in the neostriatum and nucleus accumbens of awake, BiolSexDiffer.2021;12:57.
+unrestrainedrats.JNeurophysiol.1996;75:142–53. 131. ShaqiriA,RoinishviliM,GrzeczkowskiL,ChkoniaE,PilzK,MohrC,etal.Sex-
+102. KischkaU,KammerTH,MaierS,WeisbrodM,ThimmM,SpitzerM.Dopaminergic relateddifferencesinvisionareheterogeneous.SciRep.2018;8:7521.
+modulation of semantic network activation. Neuropsychologia. 132. NayeriT,SarviS,MoosazadehM,HosseininejadZ,AmoueiA,DaryaniA.Tox-
+1996;34:1107–13. oplasmagondiiinfectionandriskofattention-deficithyperactivitydisorder:a
+103. KroenerS,ChandlerLJ,PhillipsPE,SeamansJK.Dopaminemodulatespersistent systematicreviewandmeta-analysis.PathogGlobHealth.2020;114:117–26.
+synapticactivityandenhancesthesignal-to-noiseratiointheprefrontalcortex. 133. ZhouR,XiaQ,ShenH,YangX,ZhangY,XuJ.Diagnosisofchildren’sattention
+PLoSONE.2009;4:e6507. deficithyperactivitydisorder(ADHD)anditsassociationwithcytomegalovirus
+104. VolkowND,WangGJ,FowlerJS,TelangF,MaynardL,LoganJ,etal.Evidence infectionwithADHD:ahistoricalreview.IntJClinExpMed.2015;8:13969–75.
+that methylphenidate enhances the saliency of a mathematical task by 134. GustafssonP,KällénK.Perinatal,maternal,andfetalcharacteristicsofchildren
+increasingdopamineinthehumanbrain.AmJPsychiatry.2004;161:1173–80. diagnosed with attention-deficit-hyperactivity disorder: results from a
+105. OrtizG,OdomJV,PassagliaCL,TzekovRT.Efferentinfluencesonthebioelec- population-basedstudyutilizingtheSwedishMedicalBirthRegister.DevMed
+tricalactivityoftheretinainprimates.DocOphthalmol.2017;134:57–73. ChildNeurol.2011;53:263–8.
+106. Anketell PM, Saunders KJ, Gallagher SM, Bailey C, Little JA. Accommodative 135. Linnet KM, Wisborg K, Agerbo E, Secher NJ, Thomsen PH, Henriksen TB.
+function in individuals with autism spectrum disorder. Optom Vis Sci. Gestationalage,birthweight,andtheriskofhyperkineticdisorder.ArchDis
+2018;95:193–201. Child.2006;91:655–60.
+107. McDougal DH, Gamlin PD. Autonomic control of the eye. Compr Physiol. 136. van Dyk L, Springer P, Kidd M, Steyn N, Solomons R, van Toorn R. Familial-
+2015;5:439–73. environmentalriskfactorsinSouthAfricanchildrenwithattention-deficithyper-
+108. Steinmetz NA, Moore T. Eye movement preparation modulates neuronal activitydisorder(ADHD):acase-controlstudy.JChildNeurol.2015;30:1327–32.
+responses in area V4 when dissociated from attentional demands. Neuron. 137. MezerE,Wygnanski-JaffeT.Dochildrenandadolescentswithattentiondeficit
+2014;83:496–506. hyperactivity disorder have ocular abnormalities? Eur J Ophthalmol.
+109. SiegenthalerE,CostelaFM,McCamyMB,DiStasiLL,Otero-MillanJ,Sonderegger 2012;22:931–5.
+A, et al. Task difficulty in mental arithmetic affects microsaccadic rates and 138. AlhatemFJ,DeckerDH.Atomoxetine-inducedmydriasis.JChildAdolescPsy-
+magnitudes.EurJNeurosci.2014;39:287–94. chopharmacol.2008;18:539–41.
+110. Braddick O, Atkinson J. Development of human visual function. Vis Res. 139. BahaliK,IpekH,YalcinO,OrumO.Atomoxetine-inducedmydriasisinachild
+2011;51:1588–609. patient.EurChildAdolescPsychiatry.2014;23:1231–2.
+111. Poltavski DV, Biberdorf D, Petros TV. Accommodative response and cortical 140. Izci F, Oguten EG. Methylphendiate induced intraocular pressure increase.
+activityduringsustainedattention.VisRes.2012;63:1–8. DusunenAdam.2016;29:387.
+112. ToshaC,BorstingE,RidderWH3rd,ChaseC.Accommodationresponseand 141. LuCK,KuangTM,ChouJC.Methylphenidate(Ritalin)-associatedcataractand
+visualdiscomfort.OphthalmicPhysiolOpt.2009;29:625–33. glaucoma.JChinMedAssoc.2006;69:589–90.
+113. RobertsTL,Manny RE,BenoitJS,AndersonHA.Impactofcognitivedemand 142. Soyer J, Jean-Louis J, Ospina LH, Bélanger SA, Bussières JF, Kleiber N. Visual
+during sustained near tasks in children and adults. Optom Vis Sci. disorderswithpsychostimulants:apaediatriccasereport.PaediatrChildHealth.
+2018;95:223–33. 2019;24:153–5.
+114. Lawson ML, Crewther SG, Junghans BM, Crewther DP, Kiely PM. Changes in 143. Larrañaga-Fragoso P, Noval S, Rivero JC, Boto-de-los-Bueis A. The effects of
+ocularaccommodationwhenshiftingbetweenglobalandlocalattention.Clin methylphenidate on refraction and anterior segment parameters in children
+ExpOptom.2005;88:28–32. withattentiondeficithyperactivitydisorder.JAapos.2015;19:322–6.
+115. RosenfieldM,CiuffredaKJ.Proximalandcognitively-inducedaccommodation. 144. LachkarY,BouassidaW.Drug-inducedacuteangleclosureglaucoma.CurrOpin
+OphthalmicPhysiolOpt.1990;10:252–6. Ophthalmol.2007;18:129–33.
+MolecularPsychiatry(2023)28:410–422
+A.Bellatoetal.
+422
+ACKNOWLEDGEMENTS ADDITIONAL INFORMATION
+WethankMcBrideandcolleaguesforprovidingadditionaldatawhenthesewerenot Supplementary information The online version contains supplementary material
+presentintheoriginalpapers.WealsothankJ.J.SandraKooijandDeniseBijlenga, availableathttps://doi.org/10.1038/s41380-022-01699-0.
+DawnK.DeCarlo,andSenerathJPerera,forprovidingadditionaldetailsabouttheir
+studies and helping us to determine the eligibility for the systematic review and Correspondence and requests for materials should be addressed to Stephen V.
+meta-analyses. Faraone.
+Reprints and permission information is available at http://www.nature.com/
+AUTHORCONTRIBUTIONS reprints
+AB:Formalanalysis,investigation,datacuration,visualization,writing—originaldraft,
+writing—reviewandediting;JP:Investigation,datacuration,writing—originaldraft; Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+PG: validation, writing—review and editing; MS: Writing—review and editing; AZ: inpublishedmapsandinstitutionalaffiliations.
+validation,writing—reviewandediting;SC:conceptualization,methodology,writing
+—originaldraft,writing—reviewandediting,supervision,projectadministration;SF:
+conceptualization, methodology, writing—original draft, supervision, project
+administration.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+COMPETINGINTERESTS appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+Inthepastyear,SVFreceivedincome,potentialincome,travelexpensescontinuing Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+education support and/or research support from Aardvark, Rhodes, OnDosis, Tris, materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+Otsuka,Arbor,Ironshore,KemPharm/Corium,Akili,Supernus,Takeda,Atentiv,Noven indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+andGenomind.Withhisinstitution,hehasUSpatentUS20130217707A1fortheuse article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+ofsodium-hydrogenexchangeinhibitorsinthetreatmentofADHD.Healsoreceives regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+royalties from books published by Guilford Press: Straight Talk about Your Child’s from the copyright holder. To view a copy of this license, visit http://
+MentalHealth,OxfordUniversityPress:Schizophrenia:TheFactsandElsevier:ADHD: creativecommons.org/licenses/by/4.0/.
+Non-PharmacologicInterventions.HeisProgramDirectorofwww.adhdinadults.com.
+MS received fees from Angelini and Lundbeck. All other authors declare no
+Competinginterests. ©TheAuthor(s)2022
+MolecularPsychiatry(2023)28:410–422

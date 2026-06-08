@@ -1,0 +1,464 @@
+Megrelietal.BMCPublicHealth (2020) 20:647
+https://doi.org/10.1186/s12889-020-08765-8
+RESEARCH ARTICLE Open Access
+Association of Myopia with cognitive
+function among one million adolescents
+Jacob Megreli1,2, Adiel Barak3,4, Maxim Bez1, Dana Bez1,2 and Hagai Levine2*
+Abstract
+Background: Myopia is a leading cause ofvisualimpairment worldwide, and itsincreasing incidence is of public
+health concern. Cognitivefunction was associated with myopia among children, but evidence for adolescents is
+scarce. The purpose ofthis study was to determine whether myopia is associated with cognitive function, and
+which cognitiveability, verbal or non-verbal, is involved.
+Methods: We conducted a population-based cross-sectionalstudy of 1,022,425 Israelicandidates for military service
+aged 16.5–18years. Participantsunderwenta comprehensive battery of tests assessing verbal and non-verbal
+intelligence, which yields a summarized cognitivefunction score (CFS). Inaddition, subjectivevisualacuity
+examination followed byobjective non-cycloplegic refraction was carried out for each participant. Association
+between myopia and cognitivefunction was evaluatedby multivariable logistic regression modelsadjusted for
+gender, age, countryof origin, socioeconomic status, years ofeducation, body mass index, height and year of
+examination.
+Results: Compared to theintermediate CFS oftheentire cohort, participants who had thehighest CFS had 1.85-
+fold (95% CI,1.81 to 1.89; P<.001) higherodds ofhaving myopia and 2.73-fold (95%CI,2.58 to 2.88; P<.001)
+higher odds of high myopia, while participants with the lowest CFS had 0.59-fold (95%CI,0.57 to 0.61, P<.001)
+lower odds of having myopia. The verbal components of thecognitive function assessment had stronger
+associations with myopia than the non-verbal components (P<.001, for all).
+Conclusions: Cognitivefunction, especially verbal intelligence, is strongly and consistently associated with myopia
+among adolescents.
+Keywords: Myopia, Cognition, Cross-sectional study
+Background detrimental ramifications, including glaucoma, macular
+Myopia isafunctionalandmedical problem, andhasbe- degeneration,detachment ofretina,andcataract [6].
+come an emerging public health problem during the last Myopia is a multifactorial disorder that is currently
+several decades [1–4]. Myopia generally occurs as a re- considered to be affected by both environmental and
+sult of axial elongation of the eyeball during childhood. hereditary factors [7–9]. Cognitive function is one of the
+It is currently estimated that nearly 23% of the world’s most arguable and investigated associations with myopia
+population has myopia, a figure which is expected to [10, 11]. Some early works studying this association sug-
+double by 2050 [5]. Myopia, and especially high myopia, gested that a pleiotropic relationship between high cog-
+often results in serious problems that can lead to nitive function and myopia may exist, whereby a single
+or a group of genes might be responsible for both traits
+*Correspondence:hagai.levine@gmail.com [12]. While the mechanism of this association remains
+2HebrewUniversity-HadassahFacultyofMedicine,BraunSchoolofPublic
+controversial, the majority of the studies exploring this
+HealthandCommunityMedicine,P.OBox12272,9112002Jerusalem,Israel
+Fulllistofauthorinformationisavailableattheendofthearticle association focused only on children, leading to a
+©TheAuthor(s).2020OpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,
+whichpermitsuse,sharing,adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreativeCommonslicence,andindicateif
+changesweremade.Theimagesorotherthirdpartymaterialinthisarticleareincludedinthearticle'sCreativeCommons
+licence,unlessindicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthearticle'sCreativeCommons
+licenceandyourintendeduseisnotpermittedbystatutoryregulationorexceedsthepermitteduse,youwillneedtoobtain
+permissiondirectlyfromthecopyrightholder.Toviewacopyofthislicence,visithttp://creativecommons.org/licenses/by/4.0/.
+TheCreativeCommonsPublicDomainDedicationwaiver(http://creativecommons.org/publicdomain/zero/1.0/)appliestothe
+datamadeavailableinthisarticle,unlessotherwisestatedinacreditlinetothedata.
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page2of9
+scarcity of literature among adolescents and young 1,312,176 adolescents between 16.5 to 18years of age
+adults [10]. Only one study reported a significant associ- wereexaminedbythedraftboard(Fig.1).Weexcluded52,
+ation between myopia and cognitive performance in 077 recruits with missing refractive measurements; 2333
+adults 40–79years of age [13], while some studies found whohadpriorrefractivesurgery;733withkeratoconus;18,
+no statistically significant relationship between myopia 274 with missing cognitive assessment, socio-demographic
+andcognitivefunction[14–16]. or anthropometric information; 59,659 from a non-Jewish
+The aim of this study was to examine the association population,sincetheyarelargelyexemptfrommilitaryser-
+between myopia and cognitive function, and the specific vicewithonlyasmallfractionbeingcalledupforamedical
+cognitive abilities involved – verbal and non-verbal, in evaluation, thereby these adolescents were not representa-
+order to direct further research on the development of tive of the overall minority population [18]; 156,675 who
+myopia,itsetiology,epidemiology andpathophysiology. were born abroad, since the tests assessing cognitive func-
+tion are administrated only in Hebrew therefore it might
+Methods create a language barrier, and because the prevalence of
+Studydesignandpopulation myopiavariesacrosspopulationsofdifferentgeographicre-
+Israeli adolescents recruited for mandatory military ser- gions[3].Theseexclusionsresultedinastudysampleof1,
+vice undergo a medical and cognitive assessment at 022,425participants.ThisstudywasapprovedbytheInsti-
+mean age of 17years. We performed a population-based tutional Ethics Committee of the Israel Defense Forces
+cross-sectional study, based on the nationwide Israel Medical Corps (Approval No. 1669–2016) and conformed
+Defense Forces (IDF) conscription registry from 1993 to to the tenets of the Declaration of Helsinki. Participants
+2012. We limited the study till 2012, as since 2013, the anonymity was preserved. Patient consent was waived as
+eligible population for assessment changed to include the raw data was deidentified. Authors had full access to
+the ultra-Orthodox Jewish population, who have ex- the database ofthe IDF Medical Corps, located at the Sur-
+tremely high proportions of myopia (82%) [17]. Total of geonGeneral’sheadquartersinRamat-Gan,Israel.
+Fig.1Flowdiagramofselectedstudypopulation.*Missingvalues:cognitivefunctionscore:4553(0.4%);countryoforigin:7558(0.6%);
+socioeconomicstatus:4927(0.4%);height:384(0.03%);bodymassindex:642(0.1%);yearsofeducation:210(0.02%)
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page3of9
+Visualacuityexamination as low, medium or high. Place of origin was determined
+Visual acuity examination by a standard Snellen chart bythebirthplaceofthefatherorgrandfather(ifthefather
+was carried out for each participant by a qualified tech- wasIsraeli-born), andcategorized accordingtocountryof
+nician. The candidate’s unaided visual acuity was evalu- origin.Bodymassindex(BMI)wascalculatedasweightin
+ated using a standard Snellen chart at 6m. All kilograms divided by height in meters squared. BMI and
+candidates with unaided visual acuity lower than 6/6m heightvalueswerecodedaccordingtotheageandsexad-
+underwent an objective non-cycloplegic refraction with justedgrowthchartsoftheUnitedStatesCentersforDis-
+an Autorefractometer (Speedy K; Nikon Corp., Tokyo, easeControlandPrevention(CDC)[27].
+Japan; KR-8000, KR7000S and earlier models, Topcon,
+Tokyo, Japan) [19], followed by a complementary sub-
+Statisticalanalysis
+jective refraction, for validation, using a standard Snellen
+Univariable logistic regression models were used to
+chart. For each candidate, spherical equivalent (SEQ)
+evaluatetheassociationsbetweenmyopia,asanoutcome
+was calculated separately for each eye according to the
+variable, to each of the dependent variables and covari-
+following formula: (SEQ=sphere power+[cylinder
+ates. The χ2 test was used for categorical variables, and
+power/2]) [20]. Myopia was defined as SEQ of −0.50 di-
+1-way analysis of variance was used for continuous vari-
+opter(D)orless.LowmyopiawasdefinedasanSEQbe-
+ables. The association between CFS and myopia was
+tween −0.50 and−2.99 D,moderatemyopia was defined
+assessed using multivariable logistic regression models,
+asanSEQbetween−3.00and−5.99D,andhighmyopia
+adjusted for all predetermined covariates that were
+wasdefinedasanSEQof−6.00Dorless.Theclassifica-
+found to be statistically significant in the univariable re-
+tion for each individual was made based on the worse
+gression models: age (continuous variable), gender,
+SEQ between both eyes. Worse SEQ was chosen to be
+country of origin, SES, years of education, BMI, height,
+used for myopia definitions after preliminary analysis
+and year of examination (ordinal variable). Same multi-
+that demonstrated a satisfactory correlation between
+variable regression models were used separately to esti-
+both eyes(Pearsoncorrelationcoefficient,0.92) [21,22].
+mate the association of the four cognitive assessment
+subtests to myopia. Two-sided P<.001 was considered
+Cognitiveassessment
+statistically significant. Results of the regression models
+Participants underwent a comprehensive cognitive as-
+are reported as odds ratio (OR) with 95% confidence
+sessment by a battery of tests that yields a cognitive
+interval (95% CI). Analyses were performed using SPSS
+function score (CFS) [23]. The score is normally distrib-
+statistics for Windows version 22 (IBM, Armonk, NY,
+uted in the population, ranging from one to nine, so an
+USA).
+intermediate CFS of five was considered the reference
+group. CFS is considered a valid measure of general
+intelligence, and is highly correlated with the Wechsler Results
+Adult Intelligence Scale [23–25]. The battery of cogni- Characteristics of the study participants are described in
+tive assessment tests was composed of four subtests: two Table 1. The mean age of the 1,022,425 participants at
+subtests assessed verbalintelligence (similarities and ver- the time of evaluation was 17.2±0.3years, 569,551
+bal instructions tests), and two subtests assessed non- (55.7%) of them were males, the majority had completed
+verbal intelligence (arithmetic and visual-spatial tests), as high school, and more than 50% were classified as
+previously described by Rabinowitz et al. [25]. These medium socioeconomic status. The overall prevalence of
+four subtests were classified separately into eight per- myopia among the study participants was 32.2%: 19.9%
+centile groups (< 5th: reference group; 5-10th; 10-25th; had mild myopia, 9.4% had moderate myopia, and 2.9%
+25-50th; 50-75th; 75-90th; 90-95th; > 95th). In order to had high myopia. Myopia was more prevalent among fe-
+enable comparisons between the four subtests,they were males than males: 34.2% vs 30.6%, respectively (P<.001).
+also classified by median, with the lower half being the Prevalenceofmyopiawasloweramongimmigrantsfrom
+referencegroup. Ethiopia (19.0%). Both immigrants from Ethiopia and
+former USSR countries had large-scale immigration
+Covariatesandstudyvariables waves at more recent times compared to the rest of the
+Socio-demographic and anthropometric data were re- population. There was a significant increase in the
+corded as part of the draft board intake process. Educa- prevalenceofmyopiaduringthe20-yearperiodofexam-
+tion was grouped according to number of years of ination: from 26.9% in 1993 to 33% in 2012 (P<.001;
+formal schooling: <9, 10 to 11, and > 12 (which includes eTable 1 in the Supplement). Univariable analysis
+higher and academic studies). Socioeconomic status showed that age, gender, country of origin, SES, years of
+(SES) was determined according to the Israeli Ministry education, BMI, height and year of examination were all
+of Interior classification, based on city of residence [26], associatedwithmyopia (P<.001).
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page4of9
+Table1MyopiaPrevalencebySociodemographicVariables,UnivariableLogisticRegressionAnalysis
+Variable AdolescentswithMyopia,No./TotalNo.(%) PValue
+Gender Female 154857/452874(34.2) <.001
+Male 174016/569551(30.6)
+Countryoforigin Western 98543/296049(33.3) <.001
+North-African 81563/278154(29.3)
+Asia 92034/268265(34.3)
+FormerUSSR 26481/82488(32.1)
+Ethiopia 1697/8927(19.0)
+Israel 28555/88542(32.3)
+Socioeconomicstatusa Low 81185/235072(34.5) <.001
+Medium 169265/546684(31.0)
+High 78423/240669(32.6)
+Yearsofeducation <9 2478/12793(19.4) <.001
+10–11 13632/53825(25.3)
+>12 312763/955807(32.7)
+BMIb Underweight 33874/100070(33.9) <.001
+Normalweight 250232/787254(31.8)
+Overweight 28127/86113(32.7)
+Obese 16640/48988(34.0)
+Heightc Short 19128/54717(35.0) <.001
+Normal 298836/934926(32.0)
+Tall 10909/32782(33.3)
+Total 328873/1022425(32.2)
+Abbreviations:USSRUnionofSovietSocialistRepublics,BMIBodymassindex
+aAccordingtotheIsraeliMinistryofInteriorclassification:low(1st-4thdeciles),medium(5th–7thdeciles)andhigh(8th–10thdeciles)
+bBodymassindex.Sex-andAge-(bymonths)adjustedpercentilesofBMIandheightaccordingtotheUnitedStatesCentersforDiseaseControlandPrevention
+(CDC)2000growthcharts.BMIclassification:underweight(BMI<5thpercentile),normalweight(5thpercentile<BMI<85th),overweight(85thpercentile<BMI<
+95th),andobese(BMI>95thpercentile)
+cHeightclassification:short(Height<5thpercentile),normal(5thpercentile<Height<95th),andtall(Height>95thpercentile)
+The prevalence of myopia increased gradually in ac- regression models. Following multivariable adjustment,
+cordance with CFS: from 21.7% among those with the the association between CFS and myopia remained con-
+lowest score to 43.3% among those with the highest sistent and became accentuated (Fig. 2). Compared to
+score (P<.001; Table 2). CFS was found to have a con- the intermediate CFS, participants with the highest CFS
+sistent positive association with myopia in univariable had1.85-fold(95% CI,1.81 to1.89;P<.001) higher odds
+Table2Cognitivecharacteristicsandassociationwithmyopiainunivariableandmultivariablemodels
+CFS AdolescentswithMyopia,No./TotalNo.(%) UnadjustedOR(95%CI) AdjustedORa(95%CI)
+1 4619/21319(21.7) 0.61(0.59–0.63) 0.59(0.57–0.61)
+2 10845/47825(22.7) 0.65(0.64–0.67) 0.61(0.61–0.64)
+3 25988/101698(25.6) 0.76(0.75–0.77) 0.72(0.72–0.74)
+4 47062/166015(28.3) 0.87(0.86–0.89) 0.85(0.84–0.87)
+5 65860/211885(31.1) 1.00[Reference]
+6 69023/202101(34.2) 1.14(1.14–1.17) 1.18(1.17–1.20)
+7 53842/145595(37.0) 1.30(1.28–1.32) 1.36(1.34–1.38)
+8 32503/81779(39.7) 1.46(1.44–1.49) 1.56(1.54–1.59)
+9 19131/44208(43.3) 1.69(1.66–1.73) 1.85(1.81–1.89)
+OROddsratio,CIConfidenceinterval,CFSCognitivefunctionscore
+aAdjustedoddsratioforage,gender,countryoforigin,socioeconomicstatus,yearsofeducation,BMI,heightandyearofexaminationbymultivariablelogisticregressionmodel
+Pvaluewas<.001forallcomparisons,bothunadjustedandadjusted
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page5of9
+Fig.2Associationofcognitivefunctionscorewithmyopia.ValuesrepresenttheoddsratioforeachCFSgroupincomparisonwiththe
+intermediateCFS.Grayarearepresentsthe95%confidenceinterval.Adjustedoddsratioforgender,age,countryoforigin,socioeconomicstatus,
+yearsofeducation,BMI,heightandyearofexaminationbymultivariablelogisticregressionmodel.*P<.001forallcomparisons(N=1,022,425)
+ofhaving myopia, while participants with the lowest CFS P<.001) higher odds of having moderate myopia, and
+had 0.59-fold (95% CI, 0.57 to 0.61, P<.001) lower odds 2.73-fold (95% CI, 2.58 to 2.88; P<.001) higher odds of
+of having myopia. Association between CFS and myopia havinghigh myopia.
+remained consistent regardless of the severity of the my- Both the verbal and non-verbal components of the
+opia, and was found to be the strongest for moderate CFS had a consistent positive association with myopia in
+and high myopia (Fig. 3). In comparison with the inter- univariable regression models (eTable 2 in the Supple-
+mediate CFS, participants who had the highest CFS had ment). Following multivariable adjustment, the associ-
+1.54-fold (95% CI, 1.50 to 1.58; P<.001) higher odds of ation with myopia in each of the subtests was further
+having mild myopia, 2.45-fold (95% CI, 2.37 to 2.53; accentuated and remained consistent (Fig. 4). Markedly,
+Fig.3Associationofcognitivefunctionscorewithmild,moderateandhighmyopia.Adjustedoddsratioforgender,age,countryoforigin,
+socioeconomicstatus,yearsofeducation,BMI,heightandyearofexaminationbymultivariablelogisticregressionmodelforeachseverityof
+myopiaindependently.*P<.001forallcomparisons(N=1,022,425)
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page6of9
+Fig.4Associationofcognitivefunctionsubtestswithmyopiainmultivariablemodels.Valuesrepresenttheoddsratioformyopiainthe95th
+percentilegroupcomparedtothe<5thpercentilegroupineachsubtest.Adjustedoddsratioforgender,age,countryoforigin,socioeconomic
+status,yearsofeducation,BMI,heightandyearofexaminationbymultivariablelogisticregressionmodelforeachsubtestindependently.
+*P<.001forallcomparisons(N=1,022,425)
+theverbalinstructionssubtesthadthestrongestassociation children [28], Jewish-adolescent males [29], and among
+withmyopia(OR,3.19;95%CI,3.10to3.28;P<.001). adults and the elderly [13, 30], while others found lack
+The consistent positive association found between CFS of statistically significant relationship [14–16]. In this
+andmyopiapersistedinaseriesofsensitivityanalyses,in- study we found a positive, strong and independent asso-
+cluding a sex-specific analysis (eTable 3 in the Supple- ciation between cognitive function and myopia, which
+ment), and an analysis modeling the association with was consistent regardless of the severity of the myopia
+stricter definition of myopia (SEQ <−1.00 diopter) (eFi- orthecognitivesubtest.
+gure 1 in the Supplement). In our population, only 6.5% Themechanismoftheassociationbetweenintelligence
+had lessthan12years ofeducation.Ina stratifiedanalysis and myopia remains to be clarified [31]. One of the
+by years of education, the association between CFS and plausible explanations is a behavioral relationship be-
+myopia persisted across strata. The confidence interval tween the two traits [32]. It was previously reported that
+waswideforthosewithloweryearsofeducationandhigh subjects who read more or engage in educational activ-
+CFS,duetosmallnumberofparticipants(eTable4). ities have superior performance on intelligence tests,
+particularly those assessing verbal intelligence [33]. Add-
+Discussion itional works have shown that greater amount of near-
+In this comprehensive study among 1,022,425 Israeli ad- work activity such as reading increases the odds of hav-
+olescents, we found cogent evidence that cognitive func- ing myopia [20, 34]. Bez et al. [17] has recently reported
+tion is strongly and consistently associated with myopia, a 9.3-fold increased odds of having myopia among ultra-
+independent of age, gender, country of origin, socioeco- Orthodox Jewish students exposed to near-work activ-
+nomic status, years of education, body mass index, ities from a very young age compared with age-matched
+height and year of examination. Both the verbal and secular students. Similarly, another study found signifi-
+non-verbal components of the cognitive evaluation were cantly higher rates of myopia among Orthodox Jewish
+associatedwithmyopia. male students, emphasizing the effect that near-work ac-
+Myopia is considered a multifactorial disorder that is tivities haveonthedevelopmentofmyopia [35].Thisar-
+affected by both hereditary and environmental factors gument gains support from our finding that verbal
+[7–9]. Cognitive function was assumed to be one of the intelligence tests, which require acquisition of linguistic
+most arguable and investigated associations with myopia skills mainly through reading, had stronger association
+[10]. Several studies found a significantly positive associ- with myopia than non-verbal intelligence tests. On the
+ation between cognitive function and myopia among other hand, one can argue that the amount of reading is
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page7of9
+determined by the level of a person’s intelligence, and Nevertheless, using a stricter definition for myopia (SEQ
+thereforethere isapredisposition amongmore intelligent < -1.00 diopter) reaffirms the main association found in
+children to develop myopia. This notion is countered by this study (eFigure 1 in the Supplement). Our SES vari-
+ourfindingofastatisticallysignificantassociationbetween able was crude as the classification was made according
+myopia and spatial intelligence, which was assessed by a to the participants’ settlements. This may explain the
+modified version of Raven’s Progressive Matrices [25]. weak association found between SES and prevalence of
+This test, which examines visual-spatial problem solving myopia. Lastly, we included conscripts examined up to
+abilities, does not rely on linguistic abilities or previously the year 2012 due to change indraft policy that included
+acquired information [36]. This finding also counters the enlistment of the ultra-Orthodox Jewish population,
+the argument by Young et al. that myopes have who have extremely high proportions of myopia (82%)
+higher scores on intelligence tests because they are [17]. Future studies will analyze the association in newer
+more capable of quick and efficient reading than cohorts.
+emmetropes or hypermetropes [14, 37].
+Anotherpossible,yetunlikely explanation fortheasso- Conclusions
+ciation between intelligence and myopia rests on a bio- In conclusion, we found cogent evidence of the associ-
+logical relationship, according to which myopia is an ation of cognitive function with myopia in more than
+overdevelopment of the eye, and as ocular and cerebral one million Israeli adolescents. This finding was most
+development are related [31], this in turn leads to super- pronounced for verbal intelligence subtests, which re-
+ior intelligence among myopes [38]. Some researchers quire acquisition of linguistic skills. Findings of our
+suggested thatthere isapleiotropic relationship between study point to the role of educational activity and inten-
+myopia and cognitive function, i.e. both traits are af- sive reading in the development of myopia. Further re-
+fected by the same gene or set of genes [12, 39, 40]. Sev- search is warranted to replicate these findings in other
+eral reviews covered the genes associated with myopia populationsandstudy itsmechanism.
+[41–43], but none addressed the association of these
+genes with cognitive development. More recent genome-
+Supplementary information
+wide association studies found a modest but significant
+Supplementaryinformationaccompaniesthispaperathttps://doi.org/10.
+contribution of pleiotropic genetic factors contributing 1186/s12889-020-08765-8.
+to the development of myopia and higher intelligence
+[44]. However, based on the current evidence, there are Additionalfile1:eTable1.Myopiaprevalencebyyearofexamination,
+univariablelogisticregressionanalysis.eTable2.Cognitivefunction
+no genes that were proven to play a major role in the
+assessmentsubtestsandassociationwithmyopiainunivariableand
+development ofthesetraits. multivariablemodels.eTable3.Associationofcognitivefunctionscore
+This study has several limitations. First, a causal infer- (CFS)withmyopiaamongmalesandfemalesinmultivariablemodels.
+eTable4.Associationofcognitivefunctionscore(CFS)withmyopiawith
+ence between cognitive function and myopia cannot be
+stratificationforyearsofeducationinmultivariablemodels.eFigure1.
+established from a cross-sectional design. Second, the Sensitivityanalysisoftheassociationofcognitivefunctionscore(CFS)
+database had no data on the refractive error of the sub- withstricterdefinitionofmyopia(<−1.00Diopter).Valuesrepresentthe
+jects’ parents, which might be relevant for the genetic oddsratioforeachCFSgroupincomparisonwiththeintermediateCFS.
+Grayarearepresentsthe95%confidenceinterval.P<.001forall
+componentofmyopia[45].Therapidincreaseinmyopia comparisons.Adjustedoddsratioforage,gender,countryoforigin,
+prevalence during the past several decades that was also socioeconomicstatus,yearsofeducation,BMI,heightandyearof
+examinationbymultivariablelogisticregressionmodel.(CFS,cognitive
+observed in our analysis does, however, give weight to
+functionscore).
+the crucial influence of environmental factors in the de-
+velopment of myopia. Third, our sample is not necessar-
+Abbreviations
+ily representing the Israeli female adolescent population,
+IDF:IsraelDefenseForces;BCVA:Best-correctedvisualacuity;SEQ:Spherical
+as approximately 30% of them are not recruited to the equivalent;CFS:Cognitivefunctionscore;BMI:Bodymassindex;
+IDF mainly because of religious beliefs [46], therefore SES:Socioeconomicstatus;CDC:CenterforDiseaseControl;OR:Oddsratio;
+CI:Confidenceinterval
+the association between cognitive function and myopia
+among the female population should be interpreted with
+Acknowledgements
+more caution. Fourth, the non-cycloplegic refraction WethankDoritTzur,headofInformationBranchoftheIDFMedicalCorps;
+method used in this study, which results ina slight over- RonKedem,statisticalconsultant;RaidKayouf,medicalresearchcoordinator
+oftheIDFMedicalCorps;Dr.HaitamSaabfortheirhelpindataacquisition.
+estimation of myopia, especially among children and
+young adults [47], is less accurate than cycloplegic re- Authors’contributions
+fraction. It was previously shown that non-cycloplegic K.M.,A.B.andH.L.contributedtotheconceptofthestudy.K.M.andD.B.
+refraction can overestimate the prevalence of myopia in acquiredandanalyzedthedata.K.M.,A.B.,M.B.andH.L.helpedwiththe
+interpretationofthedata.K.M.,M.B.andH.L.draftedthemanuscript.A.B.and
+populations up to the age of 50 and that cycloplegic re-
+H.L.supervisedthestudy.Allauthorsreadandapprovedthefinal
+fraction should be used in these age groups [48]. manuscript.
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page8of9
+Funding 15. AkramiA,BakmohammadiN,SeyedabadiM,NabipourI,MirzaeiZ,Farrokhi
+Thisresearchdidnotreceiveanyspecificgrantfromfundingagenciesinthe S,AssadiM.Theassociationbetweenschoolchildrenintelligenceand
+public,commercial,ornot-for-profitsectors. refractiveerror.EurRevMedPharmacolSci.2012;16(7):908–11.
+16. DiraniM,ZhangX,GohLK,YoungTL,LeeP,SawSM.Theroleofvisionin
+Availabilityofdataandmaterials
+academicschoolperformance.OphthalmicEpidemiol.2010;17(1):18–24.
+Thedatasetsusedand/oranalysedduringthecurrentstudyareavailable 17. BezD,MegreliJ,BezM,AvramovichE,BarakA,LevineH.Association
+fromthecorrespondingauthoronreasonablerequest. betweentypeofeducationalsystemandprevalenceandseverityofmyopia
+amongmaleadolescentsinIsrael.JAMAOphthalmol.2019;137(8):887-93.
+18. TwigG,YanivG,LevineH,LeibaA,GoldbergerN,DerazneE,Ben-AmiShor
+Ethicsapprovalandconsenttoparticipate
+D,TzurD,AfekA,ShamissA,etal.Body-massindexin2.3million
+ThisstudywasapprovedbytheInstitutionalEthicsCommitteeoftheIsrael
+adolescentsandcardiovasculardeathinadulthood.NEnglJMed.2016;
+DefenseForcesMedicalCorps(ApprovalNo.1669–2016)andconformedto
+374(25):2430–40.
+thetenetsoftheDeclarationofHelsinki.Participantsanonymitywas
+19. BarDayanY,LevinA,MoradY,GrottoI,Ben-DavidR,GoldbergA,OnnE,
+preserved.Patientconsentwaswaivedastherawdatawasdeidentified.
+AvniI,LeviY,BenyaminiOG.Thechangingprevalenceofmyopiainyoung
+adults:a13-yearseriesofpopulation-basedprevalencesurveys.Invest
+Consentforpublication OphthalmolVisSci.2005;46(8):2760–5.
+Notapplicable. 20. LiSM,LiSY,KangMT,ZhouY,LiuLR,LiH,WangYP,ZhanSY,GopinathB,
+MitchellP,etal.NearworkrelatedparametersandmyopiainChinese
+Competinginterests children:theAnyangchildhoodeyestudy.PLoSOne.2015;10(8):e0134514.
+A.B.reportsreceivingpersonalfeesfromNanoretinaandgrantsfrom 21. KempenJH,MitchellP,LeeKE,TielschJM,BromanAT,TaylorHR,IkramMK,
+Cellcure,Byonics,Novartis,andMicroSertoutsidethesubmittedwork.The CongdonNG,O'ColmainBJ,EyeDiseasesPrevalenceResearchG.The
+restoftheauthorshavenoconflictsofinteresttodisclose. prevalenceofrefractiveerrorsamongadultsintheUnitedStates,Western
+Europe,andAustralia.ArchOphthalmol.2004;122(4):495–505.
+Authordetails 22. VitaleS,EllweinL,CotchMF,FerrisFL3rd,SperdutoR.Prevalenceof
+1MedicalCorps,IsraelDefenseForces,Ramat-Gan,Israel.2Hebrew refractiveerrorintheUnitedStates,1999-2004.ArchOphthalmol.2008;
+University-HadassahFacultyofMedicine,BraunSchoolofPublicHealthand 126(8):1111–9.
+CommunityMedicine,P.OBox12272,9112002Jerusalem,Israel.3Department 23. GalR.Theselection,classificationandplacementprocess.In:APortraitof
+ofOphthalmology,TelAvivSouraskyMedicalCenter,TelAviv,Israel.4Sackler theIsraeliSoldier,pp.77–96.Westport:GreenwoodPress;1986.
+FacultyofMedicine,TelAvivUniversity,TelAviv,Israel. 24. DavidsonM,ReichenbergA,RabinowitzJ,WeiserM,KaplanZ,MarkM.
+Behavioralandintellectualmarkersforschizophreniainapparentlyhealthy
+Received:3January2020Accepted:23April2020 maleadolescents.AmJPsychiatry.1999;156(9):1328–35.
+25. RabinowitzJ,ReichenbergA,WeiserM,MarkM,KaplanZ,DavidsonM.
+Cognitiveandbehaviouralfunctioninginmenwithschizophreniaboth
+beforeandshortlyafterfirstadmissiontohospital.Cross-sectionalanalysis.
+References
+BrJPsychiatry.2000;177:26–32.
+1. WilliamsKM,BertelsenG,CumberlandP,WolframC,VerhoevenVJ,
+26. TzibelN.CharacterizationandClassificationofLocalAuthoritiesbythe
+AnastasopoulosE,BuitendijkGH,Cougnard-GregoireA,Creuzot-GarcherC,
+Socio-economicLevelofthePopulationin2006.Hebrew:CentralBureauof
+ErkeMG,etal.IncreasingprevalenceofmyopiainEuropeandtheimpact
+ofeducation.Ophthalmology.2015;122(7):1489–97. Statistics;2009.
+27. KuczmarskiRJ,OgdenCL,GuoSS,Grummer-StrawnLM,FlegalKM,MeiZ,Wei
+2. PascoliniD,MariottiSP.Globalestimatesofvisualimpairment:2010.BrJ
+Ophthalmol.2012;96(5):614–8. R,CurtinLR,RocheAF,JohnsonCL.2000CDCgrowthchartsfortheUnited
+States:methodsanddevelopment.VitalHealthStat11.2002;(246):1–190.
+3. PanCW,RamamurthyD,SawSM.Worldwideprevalenceandriskfactorsfor
+myopia.OphthalmicPhysiolOpt.2012;32(1):3–16. 28. SawSM,TanSB,FungD,ChiaKS,KohD,TanDT,StoneRA.IQandthe
+4. MorganIG,FrenchAN,AshbyRS,GuoX,DingX,HeM,RoseKA.The associationwithmyopiainchildren.InvestOphthalmolVisSci.2004;45(9):
+epidemicsofmyopia:Aetiologyandprevention.ProgRetinEyeRes.2018;
+2943–8.
+62:134–49. 29. RosnerM,BelkinM.Intelligence,education,andmyopiainmales.Arch
+5. HoldenBA,FrickeTR,WilsonDA,JongM,NaidooKS,SankaridurgP,Wong
+Ophthalmol.1987;105(11):1508–11.
+TY,NaduvilathTJ,ResnikoffS.Globalprevalenceofmyopiaandhigh 30. SpiererO,FischerN,BarakA,BelkinM.Correlationbetweenvisionand
+myopiaandtemporaltrendsfrom2000through2050.Ophthalmology. cognitivefunctionintheelderly:across-sectionalstudy.Medicine
+2016;123(5):1036–42. (Baltimore).2016;95(3):e2423.
+6. SawSM,GazzardG,Shih-YenEC,ChuaWH.Myopiaandassociated 31. HirschMJ.Therelationshipbetweenrefractivestateoftheeyeand
+pathologicalcomplications.OphthalmicPhysiolOpt.2005;25(5):381–91. intelligencetestscores*.OptomVisSci.1959;36(1):12–21.
+7. ChenCJ,CohenBH,DiamondEL.Geneticandenvironmentaleffectsonthe 32. MuttiDO,MitchellGL,MoeschbergerML,JonesLA,ZadnikK.Parental
+developmentofmyopiainChinesetwinchildren.OphthalmicPaediatr myopia,nearwork,schoolachievement,andchildren'srefractiveerror.
+Genet.1985;6(1–2):353–9. InvestOphthalmolVisSci.2002;43(12):3633–40.
+8. SawSM,HongCY,ChiaKS,StoneRA,TanD.Nearworkandmyopiain 33. RamsdenS,RichardsonFM,JosseG,ShakeshaftC,SeghierML,PriceCJ.The
+youngchildren.Lancet.2001;357(9253):390. influenceofreadingabilityonsubsequentchangesinverbalIQinthe
+9. YoungTL,MetlapallyR,ShayAE.Complextraitgeneticsofrefractiveerror.
+teenageyears().DevCognNeurosci.2013;6:30–9.
+ArchOphthalmol.2007;125(1):38–48. 34. IpJM,SawSM,RoseKA,MorganIG,KifleyA,WangJJ,MitchellP.Roleof
+10. VermaA,VermaA.Anovelreviewoftheevidencelinkingmyopiaandhigh nearworkinmyopia:findingsinasampleofAustralianschoolchildren.
+intelligence.JOphthalmol.2015;2015:271746. InvestOphthalmolVisSci.2008;49(7):2903–10.
+11. CzepitaD,LodygowskaE,CzepitaM.Arechildrenwithmyopiamore 35. ZylbermannR,LandauD,BersonD.Theinfluenceofstudyhabitson
+intelligent?Aliteraturereview.AnnAcadMedStetin.2008;54(1):13–6 myopiainJewishteenagers.JPediatrOphthalmolStrabismus.1993;30(5):
+discussion16. 319–22.
+12. CohnSJ,CohnCM,JensenAR.Myopiaandintelligence:apleiotropic 36. BurkeHR.Raven'sprogressivematrices:areviewandcriticalevaluation.J
+relationship?HumGenet.1988;80(1):53–8. GenetPsychol.1958;93(2):199–228.
+13. MirshahiA,PontoKA,Laubert-RehD,RahmB,LacknerKJ,BinderH,Pfeiffer 37. YoungFA.Reading,measuresofintelligenceandrefractiveerrors.AmJ
+N,UnterrainerJM.Myopiaandcognitiveperformance:resultsfromthe OptomArchAmAcadOptom.1963;40:257–64.
+Gutenberghealthstudy.InvestOphthalmolVisSci.2016;57(13):5230–6. 38. MillerEM.Onthecorrelationofmyopiaandintelligence.GenetSocGen
+14. NadellMC,HirschMJ.Therelationshipbetweenintelligenceandthe PsycholMonogr.1992;118(4):361–83.
+refractivestateinaselectedhighschoolsample*.OptomVisSci.1958;35(6): 39. KarlssonJL.Influenceofthemyopiageneonbraindevelopment.Clin
+321–6. Genet.1975;8(5):314–8.
+
+--- PAGE BREAK ---
+
+Megrelietal.BMCPublicHealth (2020) 20:647 Page9of9
+40. MakW,KwanMWM,ChengTS,ChanKH,CheungRTF,HoSL.Myopiaasa
+latentphenotypeofapleiotropicgenepositivelyselectedforfacilitating
+neurocognitivedevelopment,andtheeffectsofenvironmentalfactorsinits
+expression.MedHypotheses.2006;66(6):1209–15.
+41. BairdPN,SchächeM,DiraniM.TheGEnesinmyopia(GEM)studyin
+understandingtheaetiologyofrefractiveerrors.ProgRetinEyeRes.2010;
+29(6):520–42.
+42. VerhoevenVJ,HysiPG,WojciechowskiR,FanQ,GuggenheimJA,HohnR,
+MacGregorS,HewittAW,NagA,ChengCY,etal.Genome-widemeta-
+analysesofmultiancestrycohortsidentifymultiplenewsusceptibilitylocifor
+refractiveerrorandmyopia.NatGenet.2013;45(3):314–8.
+43. WojciechowskiR,HysiPG.Focusinginonthecomplexgeneticsofmyopia.
+PLoSGenet.2013;9(4):e1003442.
+44. WilliamsKM,HysiPG,Yonova-DoingE,MahrooOA,SniederH,Hammond
+CJ.Phenotypicandgenotypiccorrelationbetweenmyopiaandintelligence.
+SciRep.2017;7:45977.
+45. GoldschmidtE,JacobsenN.Geneticandenvironmentaleffectsonmyopia
+developmentandprogression.Eye.2014;28(2):126–33.
+46. LevineH,LeibaM,BarZeevY,Keinan-BokerL,DerazneE,LeibaA,KarkJD.
+RiskofHodgkinlymphomaaccordingtoimmigrationstatusandorigin:a
+migrantcohortstudyof2.3millionJewishIsraelis.LeukLymphoma.2017;
+58(4):959–68.
+47. SanfilippoPG,ChuBS,BigaultO,KearnsLS,BoonMY,YoungTL,Hammond
+CJ,HewittAW,MackeyDA.Whatistheappropriateagecut-offfor
+cycloplegiainrefraction?ActaOphthalmol.2014;92(6):e458–62.
+48. MorganIG,IribarrenR,FotouhiA,GrzybowskiA.Cycloplegicrefractionisthe
+goldstandardforepidemiologicalstudies.ActaOphthalmol.2015;93(6):581–5.
+Publisher’s Note
+SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+publishedmapsandinstitutionalaffiliations.
