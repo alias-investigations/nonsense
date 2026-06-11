@@ -30,20 +30,20 @@ https://www.globalwebindex.com/reports/social-media-china
 王宇扬文章（legalwyy.com，已无法访问）
 原域名 legalwyy.com（archive.org可能有快照）
 
-杨迅/通力律所 2019.01 分析文章
-https://www.zhonglun.com/Content/2019/01-07/1632561441.html
+杨迅/通力律所 2019.01 分析文章《"翻墙"违法吗？企业如何"合法"翻墙》
+https://www.llinkslaw.com/uploadfile/publication/52_1547002062.pdf
 
 周立波 OSI模型论证（2021）
-（中国知网收录，可检索）
+https://www.houqilawyer.com/thickpointofview/info.aspx?itemid=235
 
 程俊峰/高显嵩/朱桐辉 2026.03.19 尚权律所网站
-https://www.sqxb.cn/content/details_36_3785.html
+http://www.sqxb.com/2026/sqtj_0319/6272.html
 
 陈沛文 GFW是"技术措施"分析（2024）
 https://www.sqxb.cn/content/details_36_3589.html
 
-刘洋 律师简介及"省点律师费"原话
-https://www.jtn.com/faculty/liuyang（锦天城官网）
+刘洋/董佳男 2023文章《拆解"翻墙"：50个"翻墙"行政处罚案例之解析》
+https://www.icourt.cc/prac-document/155525.html
 
 ## 第三层：个案
 
@@ -51,17 +51,17 @@ https://www.jtn.com/faculty/liuyang（锦天城官网）
 原文发布于广东省公安厅阳光执法平台
 https://gdgajj.gd.gov.cn/（平台，具体文书号 韶雄公（网）行罚决字〔2019〕1号）
 
-赖亮平案行政判决书（案号 2019闽0803行初36）
-中国裁判文书网
+赖亮平案（案号 2019闽0803行初36）
+来源：中国裁判文书网有案号记录但判决书正文未公开
 https://wenshu.court.gov.cn
 
 马力明（承德案）处罚决定书
 原文发布于河北省阳光警务平台
 当事人自述：https://zhuanlan.zhihu.com/p/658916670
 
-双桥区财政预决算数据
-承德市双桥区人民政府财政预决算公开专栏
-https://www.sqq.gov.cn/（查2021-2023年预算执行情况）
+承德市罚没收入数据
+承德市2022年预算执行情况表
+https://www.chengde.gov.cn/attach/0/73dbb44fd9854b79ac23d1723669395e.pdf
 
 长春案（2024.11，37分钟）
 RFA报道：https://www.rfa.org/mandarin/shehui/2026/04/09/china-internet-vpn-block-greatfirewall/
