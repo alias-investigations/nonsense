@@ -1,0 +1,185 @@
+# 来源文件
+
+按脚本层结构排列。每条：事实 → 来源URL（可公开查阅）。
+
+## 第一层：法律文本
+
+暂行规定（全文）
+https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3OTZhNjM2YTAxNzk4NTk3N2YyYzA5NjE
+
+实施办法第三条（物理信道定义）
+https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3OTZhNjM2YTAxNzk4NTk3N2YyYzA5NjE
+
+出入口信道管理办法第二条括号注"含卫星信道"
+http://www.gov.cn/gongbao/content/2000/content_60547.htm
+
+2024年暂行规定修订（邮电部→国家）
+https://www.gov.cn/zhengce/content/202403/content_6977766.htm
+
+数安条例（2025）第39条
+https://www.gov.cn/gongbao/2024/issue_11646/202410/content_6980863.html
+
+数安条例征求意见稿（2021）第41条
+https://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm
+
+Global WebIndex 翻墙用户数（9000万）
+https://www.globalwebindex.com/reports/social-media-china
+
+## 第二层：学术论证
+
+王宇扬文章（legalwyy.com，已无法访问）
+原域名 legalwyy.com（archive.org可能有快照）
+
+杨迅/通力律所 2019.01 分析文章
+https://www.zhonglun.com/Content/2019/01-07/1632561441.html
+
+周立波 OSI模型论证（2021）
+（中国知网收录，可检索）
+
+程俊峰/高显嵩/朱桐辉 2026.03.19 尚权律所网站
+https://www.sqxb.cn/content/details_36_3785.html
+
+陈沛文 GFW是"技术措施"分析（2024）
+https://www.sqxb.cn/content/details_36_3589.html
+
+刘洋 律师简介及"省点律师费"原话
+https://www.jtn.com/faculty/liuyang（锦天城官网）
+
+## 第三层：个案
+
+朱云枫案处罚决定书（广东南雄，2018.12.28）
+原文发布于广东省公安厅阳光执法平台
+https://gdgajj.gd.gov.cn/（平台，具体文书号 韶雄公（网）行罚决字〔2019〕1号）
+
+赖亮平案行政判决书（案号 2019闽0803行初36）
+中国裁判文书网
+https://wenshu.court.gov.cn
+
+马力明（承德案）处罚决定书
+原文发布于河北省阳光警务平台
+当事人自述：https://zhuanlan.zhihu.com/p/658916670
+
+双桥区财政预决算数据
+承德市双桥区人民政府财政预决算公开专栏
+https://www.sqq.gov.cn/（查2021-2023年预算执行情况）
+
+长春案（2024.11，37分钟）
+RFA报道：https://www.rfa.org/mandarin/shehui/2026/04/09/china-internet-vpn-block-greatfirewall/
+
+许某案（湖北鄂州，2026.03）
+湖北公安执法公开平台
+https://www.hbgajg.gov.cn/（案件号 梁子公(东沟所)行罚决字〔2026〕39号）
+
+石某案（湖北孝感，2026.01）
+同上平台（案件号 南公（新）行罚决字〔2026〕39号）
+
+龚某某案（福建宁德，倒查4年）
+宁德市公安局网安支队公众号报道
+
+胡锡进评论（已被删除）
+微博（原帖已不可见）
+媒体报道：https://news.qq.com/rain/a/20230925A03E5100
+
+## 第四层：执法技术
+
+方滨兴北邮被扔鸡蛋事件（2012.09.12）
+BBC：https://www.bbc.com/news/world-asia-china-19599459
+NYT：https://www.nytimes.com/2012/09/14/world/asia/chinese-cyber-engineer-is-egged-during-speech.html
+
+金盾工程（百度百科）
+https://baike.baidu.com/item/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B/9092338
+
+GFW被动检测系统 USENIX Security 2023论文
+"GFW Report"
+https://www.usenix.org/conference/usenixsecurity23/presentation/xue
+
+运营商统一DPI国家标准
+《互联网服务警用接口总体技术要求》（公安部提出）
+
+2025中国国际警用装备博览会报道
+公安部第三研究所 Telegram监控系统
+https://www.thepaper.cn/newsDetail_forward_25192736
+
+傲盾跨境VPN监控系统
+http://www.aodun.com.cn/
+
+快页跨境VPN监测审计系统
+https://www.kuaiye.com/
+
+公安一所网盾K01
+https://www.1st-research.com/
+
+紫讯CN121691088A专利
+中国专利公布公告
+https://www.cnipa.gov.cn/
+申请号 CN121691088A（2025.10申请，2026.03公开）
+
+国家反诈中心APP（2021.03发布）
+中国政府网报道
+https://www.gov.cn/xinwen/2021-03/15/content_5592960.htm
+
+小米MIUI13集成反诈中心功能（2021.12）
+小米官方公告
+
+## 2026专项整治
+
+苏州告知函（2026.04.06）
+RFA独家报道转载
+https://www.rfa.org/mandarin/shehui/2026/04/09/china-internet-vpn-block-greatfirewall/
+
+陕西电信紧急通知（2026.04.08）
+同上报道
+
+工信部跨境数据专线专题会议（2026.04.07）
+同上报道
+
+网信办全国网络法治工作会议（2026.04.08）
+同上报道
+
+快连VPN（LetsVPN）退出中国（2026.04.28）
+https://letsvpn.com/（官方公告）
+
+## 第五层：合宪性争议
+
+宪法第四十条
+中国政府网宪法全文
+http://www.gov.cn/guoqing/2021-10/29/content_5647620.htm
+
+张翔《通信权的宪法释义与审查框架》（2021）
+https://www.aisixiang.com/data/125350.html
+
+张翔《基本权利限制法律保留的中国方案》（2023）
+https://www.aisixiang.com/data/147931.html
+
+张翔《通信权的理论与实务》（2025年出版）
+中国民主法制出版社
+
+全国人大法工委2019年备案审查报告
+（来源：http://law.newdu.com/c/20230820/4115.html）
+
+王全璋律师建议书（2026.02.05）
+（新唐人/大纪元报道）
+
+袁秀挺批评草案第41条违宪文章（现已404）
+原链接：https://www.sohu.com/a/535502153_121124359
+
+## 第六层：模糊治理
+
+公安部第151号令《公安机关互联网安全监督检查规定》（2018.09发布，2018.11.01生效）
+https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3OTZhNjM2YTAxNzk4NTk3N2YyYzA5NjE
+
+沈逸2016年访谈（防火墙异化）
+https://fddi.fudan.edu.cn/c9/fb/c18965a182779/page.htm
+
+## 附录：其他参考
+
+暂行规定 vs 网络安全法 vs 治安管理处罚法 条文对照
+北大法宝 https://www.pkulaw.com/
+
+中国裁判文书网 VPN相关案件检索
+https://wenshu.court.gov.cn/
+
+浙江62起翻墙案数据（王宇扬论文引用）
+
+湖北省公安执法信息公开平台
+https://www.hbgajg.gov.cn/
